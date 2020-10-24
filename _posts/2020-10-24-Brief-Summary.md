@@ -9,5 +9,5 @@ These are some notes that I've written in 2019-2020 while taking some courses on
 
 Noteworthy references are included in the bibliography.
 
-<iframe src="/assets/pdf/Brief-Summary-ML.pdf" width="100%" height="500px">
+<iframe src="/assets/pdf/Brief-Summary-ML.pdf" width="100%" height="1000px">
     </iframe>
