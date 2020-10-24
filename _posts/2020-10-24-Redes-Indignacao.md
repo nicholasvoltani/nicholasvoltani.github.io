@@ -35,12 +35,13 @@ Percebe-se, também na Espanha, o movimento independentista catalão, com movime
 
 
 Referências Bibliográficas:
+* CASTELLS, Manuel. Redes de Indignação e Esperança: Movimentos sociais na era da Internet. Rio de Janeiro: Zahar, 2013.
+
 * SANTOS, Milton. Por uma nova globalização: Do pensamento único à consciência universal. Rio de Janeiro: Record, 2000.
 
 * BANDEIRA, Luiz Alberto Moniz. A Segunda Guerra Fria: Geopolítica e dimensão estratégica dos Estados Unidos (Das rebeliões na Eurásia à África do Norte e ao Oriente Médio). Porto Alegre: Civilização Brasileira, 2013.
 
-* CASTELLS, Manuel. Redes de Indignação e Esperança: Movimentos sociais na era da Internet. Rio de Janeiro: Zahar, 2013.
-MANIERI, Dagmar. Internet e os novos movimentos sociais. Disponível em: <http://www.revistas.usp.br/plural/article/view/97219/96268>. Acesso em: 26 ago. 2015.
+* MANIERI, Dagmar. Internet e os novos movimentos sociais. Disponível em: <http://www.revistas.usp.br/plural/article/view/97219/96268>. Acesso em: 26 ago. 2015.
 
 * TRIGO, Luciano. Redes de indignação e esperança: um guia para o presente. Disponível em: <http://g1.globo.com/platb/maquinadeescrever/2010/07/>. Acesso em: 26 ago. 2015.
 
