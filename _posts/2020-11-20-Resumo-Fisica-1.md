@@ -7,9 +7,9 @@ comments: true
 
 Anotações que eu escrevi sobre movimento uniforme (MU) e movimento uniformemente variado (MUV).
 
-<iframe src="/assets/pdf/1.Velocidades.pdf" width="100%" height="768px">
+<iframe src="/assets/pdf/1_Velocidades.pdf" width="100%" height="768px">
     </iframe>
 
 Um extra, com uma breve introdução a Cálculo Diferencial:
-<iframe src="/assets/pdf/1.1.Velocidades(Extra).pdf" width="100%" height="768px">
+<iframe src="/assets/pdf/1_1_Velocidades(Extra).pdf" width="100%" height="768px">
     </iframe>
