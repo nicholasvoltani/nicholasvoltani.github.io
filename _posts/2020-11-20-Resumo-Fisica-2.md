@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resumos de Física 2: Balística
+title Resumos de Física 2: Balística
 tags: []
 comments: true
 ---

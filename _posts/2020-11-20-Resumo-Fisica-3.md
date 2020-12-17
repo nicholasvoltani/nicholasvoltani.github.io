@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resumos de Física 3: Leis de Newton
+title Resumos de Física 3: Leis de Newton
 tags: []
 comments: true
 ---

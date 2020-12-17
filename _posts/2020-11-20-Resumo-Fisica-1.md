@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resumos de Física 1: Velocidades
+title Resumos de Física 1: Velocidades
 tags: []
 comments: true
 ---
