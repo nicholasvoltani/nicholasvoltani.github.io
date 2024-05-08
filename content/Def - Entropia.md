@@ -12,4 +12,4 @@ Devido à definição de [[Def - Informação Mútua| informação mútua]], pod
 
 ---
 ### References
-- [[]]
+- 
