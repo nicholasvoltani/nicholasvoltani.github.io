@@ -14,9 +14,9 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "pt-BR",
+    locale: "en-US",
     baseUrl: "nicholasvoltani.github.io",
-    ignorePatterns: ["private", "templates", ".obsidian", "Template"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Templates/"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
@@ -70,7 +70,9 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [
+		Plugin.RemoveDrafts()
+	],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
