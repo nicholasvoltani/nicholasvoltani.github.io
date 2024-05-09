@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Nicholas Funari Voltani",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    locale: "pt-BR",
+    baseUrl: "nicholasvoltani.github.io",
+    ignorePatterns: ["private", "templates", ".obsidian", "Template"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
