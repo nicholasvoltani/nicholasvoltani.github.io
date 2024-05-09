@@ -1,6 +1,9 @@
 ---
 Date: 2022-10-03
-Tags: transient, geography
+tags:
+  - transient
+  - geography
+draft: 'true'
 ---
 # El Niño
 ![[Pasted image 20221003225205.png]]

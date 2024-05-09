@@ -1,6 +1,8 @@
 ---
 Date: 2022-06-04
-Tags: transient
+tags:
+  - transient
+draft: 'true'
 ---
 ## 1. Origens yankees (Começo de 1960's)
 O conceito de *agribusiness* surge dentro do *Moffett Program in Agriculture and Business*[^1] em Harvard, publicamente empregado pela primeira vez em 1955, por John H. Davis. 

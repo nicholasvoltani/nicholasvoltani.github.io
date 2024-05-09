@@ -1,6 +1,8 @@
 ---
 Date: 2021-08-23
-Tags: transient
+tags:
+  - transient
+draft: 'true'
 ---
 # Operador Dialógico
 > "Há contradições que não podem ser resolvidas. Isso significa que existem opostos que são ao mesmo tempo antagônicos e complementares."

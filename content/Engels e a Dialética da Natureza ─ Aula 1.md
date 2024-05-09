@@ -1,6 +1,9 @@
 ---
 Date: 2022-04-26
-Tags: literature/study_group, marxism
+tags:
+  - literature/study_group
+  - marxism
+draft: 'true'
 ---
 # Engels e a Dialética da Natureza ─ Aula 1
 Vemos a obra do "*velho* Engels", em particular.

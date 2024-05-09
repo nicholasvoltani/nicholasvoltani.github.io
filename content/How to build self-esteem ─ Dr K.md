@@ -1,6 +1,8 @@
 ---
 Date: 2022-03-16
-Tags: literature/video
+tags:
+  - literature/video
+draft: 'true'
 ---
 # How to build self-esteem ─ Dr K
 ## First of: How do we *lose* self-esteem?

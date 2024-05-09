@@ -1,7 +1,11 @@
 ---
 Date: 2022-03-27
-Tags: literature/study_group, marxism
+tags:
+  - literature/study_group
+  - marxism
+draft: 'true'
 ---
+
 # 202203271855 ─ Primeiro Encontro Minicurso Florestan Fernandes
 ## Primeira apresentação: O que se entende por revolução? (Pedro Rodrigues)
 Duas partes: linguística/conceitual & análise das dinâmicas de classe/defesa da revolução como conceito **proletário**. Há um processo de disputa de linguagem com outros textos da época, sobre o que é esta revolução (institucional de 1964).

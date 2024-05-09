@@ -1,6 +1,8 @@
 ---
 Date: 2022-11-15
-Tags: transient
+tags:
+  - transient
+draft: 'true'
 ---
 up:: [[Críticas Ecoar]]
 

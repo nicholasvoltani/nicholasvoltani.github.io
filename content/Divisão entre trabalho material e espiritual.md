@@ -1,7 +1,10 @@
 ---
 Date: 2021-06-02
 Source:
-Tags: transient, marxism
+tags:
+  - transient
+  - marxism
+draft: 'true'
 ---
 # Divisão primitiva do trabalho, segundo Marx e Engels
 N'[[A Ideologia Alemã]], considera-se a divisão do trabalho como sendo oriunda naturalmente da cooperação dos indivíduos, inicialmente sexual e, eventualmente, por disposições naturais (e.g. força corporal), se torna divisão no trabalho.

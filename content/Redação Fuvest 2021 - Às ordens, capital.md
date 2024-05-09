@@ -1,8 +1,9 @@
 ---
 Date: 2023-05-07
-Tags: transient 
+tags:
+  - transient 
 ---
-up:: 
+up:: [[index]]
 
 # Às ordens, capital
 

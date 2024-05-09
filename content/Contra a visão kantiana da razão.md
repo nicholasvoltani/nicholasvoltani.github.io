@@ -1,6 +1,8 @@
 ---
 Date: 2022-05-15
-Tags: transient
+tags:
+  - transient
+draft: 'true'
 ---
 # 202205151850 - Causalidade: contra a visão kantiana da razão
 Um conceito que vai contra a noção kantiana de razão ─ na qual esta somente serve para **sintetizar** a experiência, o objeto ─ é o de **causalidade**.

@@ -1,6 +1,9 @@
 ---
 Date: 2022-06-15
-Tags: literature/lecture, marxism
+tags:
+  - literature/lecture
+  - marxism
+draft: 'true'
 ---
 
 # 202206151902 -Aula 1 Introdução Materialismo Dialético (Mauro Iasi)

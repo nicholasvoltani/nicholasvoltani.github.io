@@ -1,6 +1,8 @@
 ---
 Date: 2022-09-17
-Tags: transient
+tags:
+  - transient
+draft: 'true'
 ---
 # 202209172130 Sobre o mundo corporativo
 ## Sobre as normas não-ditas

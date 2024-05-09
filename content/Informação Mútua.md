@@ -1,12 +1,12 @@
 ---
-Date: "{{date:YYYY-MM-DD}}"
-tags: 
-  - evergreen
+Date: " 2024-05-09"
+tags:
+  - mathematics
 aliases: 
 excalidraw-open-md: true
 excalidraw-plugin: parsed
 ---
-![[{{title}}.svg]]
+![[Informação Mútua.svg]]
 
 up:: 
 

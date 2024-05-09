@@ -1,6 +1,8 @@
 ---
 Date: 2022-11-15
-Tags: moc
+tags:
+  - moc
+draft: 'true'
 ---
 - [[Frustrações sobre Ecoar]]
 - [[Ecoar como um grupo pequeno-burguês]]

@@ -1,6 +1,8 @@
 ---
 Date: 2022-07-20
-Tags: moc
+tags:
+  - moc
+draft: 'true'
 ---
 up:: [[000 MOC Home]]
 

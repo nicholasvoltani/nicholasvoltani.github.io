@@ -1,6 +1,9 @@
 ---
 Date: 2021-09-01
-Tags: literature/lecture, marxism
+tags:
+  - literature/lecture
+  - marxism
+draft: 'true'
 ---
 # Aula 2 ─ O que é Dialética Materialista
 # Sobre Hegel

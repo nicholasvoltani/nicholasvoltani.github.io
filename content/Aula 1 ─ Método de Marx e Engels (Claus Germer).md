@@ -1,6 +1,9 @@
 ---
 Date: 2021-08-25
-Tags: literature/lecture, marxism
+tags:
+  - literature/lecture
+  - marxism
+draft: 'true'
 ---
 # Aula 1 ─ Método de Marx e Engels
 # Clarificações iniciais: o método

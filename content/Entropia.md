@@ -1,7 +1,8 @@
 ---
 Date: 2021-06-02
 Source:
-Tags: mathematics 
+tags:
+  - mathematics 
 
 ---
 # Definição: Entropia
@@ -10,7 +11,7 @@ $$
 H(X) \equiv - \sum\limits_{x} p(x) \log p(x)
 $$ 
 
-Devido à definição de [[Def - Informação Mútua| informação mútua]], podemos dizer que a entropia é uma medida de *autoinformação* da variável $X$.
+Devido à definição de [[Informação Mútua| informação mútua]], podemos dizer que a entropia é uma medida de *autoinformação* da variável $X$.
 
 ---
 ### References

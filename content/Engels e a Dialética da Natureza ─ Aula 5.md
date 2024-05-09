@@ -1,6 +1,9 @@
 ---
 Date: 2022-05-11
-Tags: literature/study_group, marxism
+tags:
+  - literature/study_group
+  - marxism
+draft: 'true'
 ---
 # Engels e a Dialética da Natureza ─ Aula 5 (Em torno do materialismo e da dialética)
 ## Relação entre filosofia e ciência natural (DdN, p. 104-5)

@@ -1,6 +1,9 @@
 ---
 Date: 2023-05-01
-Tags: literature/lecture, pkm 
+tags:
+  - literature/lecture
+  - pkm 
+draft: 'true'
 ---
 up:: 
 

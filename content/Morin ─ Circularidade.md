@@ -1,6 +1,8 @@
 ---
 Date: 2021-08-23
-Tags: transient
+tags:
+  - transient
+draft: 'true'
 ---
 # Operador Cognitivo de Circularidade
 > "Os efeitos retroagem sobre as causas, e as retroalimentam"
