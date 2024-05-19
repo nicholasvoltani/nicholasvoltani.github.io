@@ -1,5 +1,5 @@
 ---
-Date: " 2024-05-18"
+date: " 2024-05-18"
 tags:
   - essay
 aliases:
@@ -109,10 +109,10 @@ $$
 $$
 eu posso integrar essa equação para obter a velocidade do corpo[^5]
 $$
-\begin{align}
+\begin{align*}
 v(t) - v(t_0) &= \int_0^t a \, d\tau = at\\
 \therefore v(t) &= v_0 + at
-\end{align}
+\end{align*}
 $$
 
 Posso fazer a mesma coisa de novo: a velocidade é a derivada da posição[^6]
@@ -121,10 +121,10 @@ $$
 $$
 Integrando a equação novamente, e usando o resultado acima, obtemos
 $$
-\begin{align}
+\begin{align*}
 s(t) - s(t_0) &= \int_0^t v(t) \, d\tau = v_0 t + \frac{at^2}{2}\\
 \therefore s(t) &= s_0 + v_0 + v_0 t + \frac{at^2}{2}
-\end{align}
+\end{align*}
 $$
 # O que mais?
 **2ª Lei de Newton**
@@ -136,19 +136,46 @@ $$
 $$
 \frac{d}{dt}\frac{\partial L}{\partial \dot{q}} = \frac{\partial L}{\partial q}
 $$
+**Equação de Onda**
+$$
+\frac{\partial^2 u}{\partial t^2} = c^2 \left(\frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} + \frac{\partial^2 u}{\partial z^2}\right)
+$$
 
 **Equação de Schrödinger (Mecânica Quântica)**
 $$
 -\frac{\hbar^2}{2m} \frac{\partial^2 \psi}{\partial x^2} + V(x) \psi = i \hbar \frac{\partial \psi}{\partial t}
 $$
 
-Cálculo Diferencial e Integral é o bê-a-bá das Ciências Exatas como um todo; perguntar se cientistas utilizam Cálculo é tão esdrúxulo quanto perguntar se poetas usam palavras ou se biólogos usam a teoria de Darwin. É literalmente o capítulo 0 versículo 0, em particular, de todo o sucesso que a Física teve em explicar fenômenos tão drasticamente díspares quanto ondas gravitacionais e partículas elementares. Mas não tome minhas palavras com tanto peso; tome-as de um dos maiores matemáticos do século XX:
+**[Equação de Black-Scholes (Mercados financeiros)](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model#Black%E2%80%93Scholes_equation)**
+$$
+\frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2 S^2 \frac{\partial^2V}{\partial S^2} + r S \frac{\partial V}{\partial S} - rV = 0
+$$
+
+...e por aí vai. Cálculo Diferencial e Integral é o bê-a-bá das Ciências Exatas como um todo; perguntar se cientistas utilizam Cálculo é tão esdrúxulo quanto perguntar se poetas usam palavras ou se biólogos usam a teoria de Darwin. É literalmente o capítulo 0 versículo 0, em particular, de todo o sucesso que a Física teve em explicar fenômenos tão drasticamente díspares quanto ondas gravitacionais e partículas elementares. Mas não tome minhas palavras com tanto peso; tome-as de um dos maiores matemáticos do século XX:
 > "O Cálculo foi a primeira realização da matemática moderna, e é difícil superestimar sua importância. Creio que ele define, mais do que qualquer outra coisa, a concepção de matemática moderna; e o sistema de análise matemática, que é seu desenvolvimento lógico, ainda constitui o maior avanço técnico em pensamento exato."
 > (John von Neumann)
 
+Todo começo é difícil, mas a prática e a perseverança são fundamentais. Não consegui encontrar de qual autor eu li uma vez, num prefácio, que dizia que aprender Matemática requer uma leitura com lápis e papel sempre a postos. Isto é justamente o que torna as Ciências Exatas tão "precisas"[^7]: há conclusões que não são intuitivas, mas que são racionalmente deriváveis através de argumentos lógicos e bem delimitados; são conclusões, portanto, assertivas[^8]. Enfim, tudo para dizer que é importante não depender exclusivamente do que a intuição nos diz; muitas vezes é preciso sentar, pegar caneta e papel, e fazer contas, invés de lançar conjecturas infalseáveis sobre o mundo (como *muitos* fazem por aí...).
+
+Matemática se assemelha muito à arte em vários aspectos, e não são poucos os matemáticos que submetem-se a tanta burocracia acadêmica puramente por este sentimento de beleza e de sublime que ela evoca. Inclusive, talvez como a arte, existe uma satisfação criadora em estudar Matemática (ou qualquer área correlata): quando demonstro algum resultado, por mais que ele tenha sido demonstrado originalmente[^9] há séculos ou milênios ou décadas atrás, estabeleço um vínculo com o problema; ele, de certa forma, torna-se meu, torna-se uma besta recém-domada; aquilo que era algo originalmente "impenetrável" torna-se, de certa forma, "meu", peculiarmente familiar e íntimo. 
+
+Há, neste fazer, algo de ímpeto criador, pois demonstrações matemáticas, por mais que possuam "regras" bem delimitadas (referentes à Lógica Proposicional, em particular), não são algo que apreende-se puramente "de fora para dentro": Matemática é feita por outros seres humanos e, portanto, tanto parte de intuições que são intrinsecamente humanas quanto produz resultados que devem ser aferidos pela intuição humana[^10]; decorre que minha verdadeira compreensão de algum problema matemático [[O leitor lê um texto como quem decifra um enigma|requerem um envolvimento de minha parte]],  requerem que eu esteja ali "de corpo e alma" e que apreenda o problema de forma intuitiva (para mim) e lógica (para mim e pelo rigor do resultado). 
+
+É algo desmoralizante quando nos introduzimos a alguém e ouvimos "nossa, eu odeio/odiava Física/Matemática na escola" ou "Física/Matemática é/era muito chato". É compreensível, pois o que somos ensinados na escola não é, em absoluto, parecido com o que estuda-se na faculdade (ainda mais para Matemática!). Nos últimos anos houve um *boom* de vídeos no YouTube, que buscam elucidar a paixão que é possível sentir pela Matemática. No âmago de quem trabalha com Matemática há uma alma curiosa e vivaz, que busca padrões que a Natureza aponta-nos, mas não concede-nos[^11].  
+
+## Referências
+- [3Blue1Brown: Calculus Playlist](https://www.youtube.com/playlist?list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x) é o santo Graal que muitos de nós (me incluo nisso) queríamos ter tido em nossos primeiros contatos com Cálculo. 3Blue1Brown foi um pioneiro fundamental no nicho de "animações matemáticas" do YouTube, e acredito que o ensino de Matemática como um todo está sob uma revolução há anos devido à sua influência e inspiração.
+- STEWART, James. **Cálculo, Volume I**.
+- GUIDORIZZI, Hamilton L. **Um curso de cálculo**. (Para os mais matematicamente inclinados/corajosos/curiosos; um paraíso para neurodivergentes excessivamente lógicos que odeiam fazer suposições sobre o por quê das coisas serem do jeito que são.)
+
 [^1]: Leia-se: "conforme $x$ tende a $0$".
 [^2]: A quem interesse: a animação foi feita com o pacote Manim, do Python, em particular o Manim *Community*. Para os códigos que utilizei, conferir [GitHub - nicholasvoltani/Manimations](https://github.com/nicholasvoltani/Manimations).
-[^3]: Ao observador atento, pode-se perguntar "mas que ponto dentro do retângulo eu devo usar para medir a altura do respectivo retângulo?". Note que na animação, por exemplo, pega-se as alturas $f(x)$ dos pontos à esquerda dos retângulos. No fim das contas, não importa, pois estaremos tomando o limite em que "haverá somente uma altura" por retângulo. Inclusive, é por isso que é importante que a função a ser integrada **seja contínua**, pois é isso que assegura que *pontos próximos tenham alturas próximas*. 
+[^3]: Ao observador atento, pode-se perguntar "mas que ponto dentro do retângulo eu devo usar para medir a altura do respectivo retângulo?". Note que na animação, por exemplo, pega-se as alturas $f(x)$ dos pontos à esquerda dos retângulos. No fim das contas, não importa, pois estaremos tomando o limite em que "haverá somente uma altura" por retângulo. Inclusive, é por isso que é importante que a função a ser integrada **seja contínua**, pois é isso que assegura que *pontos próximos tenham alturas próximas*. [Porém...](https://www.youtube.com/watch?v=vUJEG3tUVaY)
 [^4]: Em algum sistema de coordenadas, digamos, por exemplo, da esquerda para a direita, em metros.
 [^5]: Assumindo que o movimento começa em $t_0 = 0$, por simplicidade. Supor $t_0 \neq 0$ faria surgir vários termos da forma $(t - t_0)$, e tornaria o exemplo mais opaco ao leitor mais leigo.
 [^6]: \\begin{rant} Uso a variável $s$ para denotar posição somente para remeter às fórmulas que aprendemos na escola, pois acho péssimo utilizar $s$ para medir posição (em metros pelo SI), sendo que medimos tempo pela unidade de segundos $s$. Em nível universitário, geralmente usamos $x, y, z$ para denotar posições. \\end{rant}
+[^7]: Até mesmo a noção de *probabilidade* é precisa neste sentido: é uma teoria que nasce da própria lógica matemática e não lhe é algo contingente. Ironicamente, por mais que probabilidades meçam incertezas, sua teoria é extremamente bem-conhecida e estudada ativamente, e empregada em situações em que existem incertezas em medições ─ ou seja, em quase todo lugar (*mileage may vary*)!
+[^8]: Quando encontra-se um contra-exemplo de alguma conclusão lógica, revisa-se as hipóteses empregadas em sua formulação, e corrige-se de acordo. É como o famoso problema de ["todos os cisnes são brancos"](https://pt.wikipedia.org/wiki/Falseabilidade).
+[^9]: Há muitos resultados que são redescobertos em vários momentos da História por pessoas diferentes, assim como resultados que são descobertos mas não publicamente, mas escute-me...
+[^10]: Similarmente, [[Toda obra de arte é criada para outras pessoas]].
+[^11]: Similarmente, [[A arte busca representar o mundo objetivo através de categorias humanas]].

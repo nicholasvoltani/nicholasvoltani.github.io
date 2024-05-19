@@ -1,5 +1,5 @@
 ---
-Date: " 2024-05-11"
+date: " 2024-05-11"
 tags:
   - mini-essay
 aliases: 
@@ -8,7 +8,7 @@ excalidraw-plugin: parsed
 ---
 up:: [[Jean-Paul Sartre]]
 
-> "... interponho-me entre a finalidade sem fim que aparece nos espetáculos naturais e o olhos dos outros homens; transmito-a a eles; *por esta transmissão, ela se torna humana*" (p. 44; grifo meu)
+> "... interponho-me entre a finalidade sem fim que aparece nos espetáculos naturais e os olhos dos outros homens; transmito-a a eles; *por esta transmissão, ela se torna humana*" (p. 44; grifo meu)
 > 
 > "... através dos poucos objetos que produz ou reproduz, o ato criador visa uma retomada total do mundo. Cada quadro, cada livro é uma recuperação da totalidade do ser, cada um deles apresenta essa totalidade à liberdade do espectador. Pois é bem esta a finalidade última da arte: recuperar este mundo, mostrando-o tal como ele é, mas como se tivesse origem na liberdade humana." (Sartre, p. 47)
 

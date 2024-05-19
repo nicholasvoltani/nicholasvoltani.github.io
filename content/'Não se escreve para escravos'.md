@@ -1,9 +1,9 @@
 ---
-Date: 2024-05-11
+date: 2024-05-11
 tags:
   - essay
-aliases:
-draft: 'true'
+aliases: 
+draft: "true"
 ---
 
 up:: [[Jean-Paul Sartre]]
