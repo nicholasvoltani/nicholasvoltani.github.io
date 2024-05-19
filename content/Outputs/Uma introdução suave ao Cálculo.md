@@ -81,16 +81,65 @@ Uma visualização gráfica explica muito bem o que é o conceito de derivada: e
 
 Uma forma que gosto de pensar é a seguinte: para saber da posição de algum objeto[^4], preciso de ao menos uma "fotografia" sua, que indique sua posição e tempo com relação a algum ponto de referência fixo. Para saber sua velocidade, preciso de ao menos duas fotografias (com respectivos tempos), e a partir delas eu posso "extrapolar" o quão rápido ele deslocou-se entre uma e outra. É óbvio de pensar que, se eu tirar fotos em intervalos de dias, minha extrapolação será menos "fiel" ao movimento de fato do que se eu tirá-las, digamos, num intervalo de segundos. Aqui é importante também notar que, se eu tirar três fotos, eu posso extrapolar como sua velocidade variou: posso estimar uma velocidade média entre as fotos 1 e 2, e outra velocidade entre as fotos 2 e 3, e portanto uma aceleração (variação da velocidade) média entre ambos os pares de fotos; *mutatis mutandis* referente à discussão acima, tais extrapolações serão mais fidedignas conforme suas medições forem "mais granulares". Essa é a intuição da derivada, que é um *limite* de uma variação média: o limite é justamente o mais "granular" que pode-se chegar nestas "medições" (obviamente ideais).
 
+## Derivadas fundamentais
+### Função constante
+A derivada de uma função constante 
+$$
+c(x) = c
+$$
+é $0$, pois
+$$
+\frac{d c}{d t} = \lim\limits_{\Delta t \to 0} \frac{c - c}{\Delta t} = 0
+$$
+Isso corresponde a que a inclinação (ou "coeficiente angular") de uma função constante é $0$, ou seja, horizontal.
+
+### Função linear
+A derivada de uma função linear
+$$
+f(t) = at + b
+$$
+com $a, b \in \R$, é
+$$
+\begin{align*}
+\frac{d f}{d t} &= \lim\limits_{\Delta t \to 0} \frac{a(t + \Delta t) + b - (at + b)}{\Delta t}\\
+&= \lim\limits_{\Delta t \to 0} a \frac{\Delta t}{\Delta t} = a
+\end{align*}
+$$
+Ou seja, a derivada de uma função linear é o próprio coeficiente angular dela.
+
+### Função quadrática e além
+A derivada de uma função quadrática
+$$
+f(t) = t^2
+$$
+é 
+$$
+\begin{align*}
+\frac{d f}{d t} &= \lim\limits_{\Delta t \to 0} \frac{(t + \Delta t)^2 - t^2}{\Delta t}\\
+&= \lim\limits_{\Delta t \to 0} 2t \frac{\Delta t}{\Delta t} = 2t
+\end{align*}
+$$
+
+É simples (um pouco longo, via [binômio de Newton](https://pt.wikipedia.org/wiki/Bin%C3%B3mio_de_Newton#Nota%C3%A7%C3%A3o_e_f%C3%B3rmula), ou por [indução](https://pt.wikipedia.org/wiki/Indu%C3%A7%C3%A3o_matem%C3%A1tica)) demonstrar que, para uma função $f(t) = t^n$, temos que
+$$
+\frac{df}{dt} = n t^{n-1}
+$$
+que é o que costuma-se chamar de "regra do tombo", pois a derivada "tomba" o expoente $n$ e diminui-o por $1$. 
 # Antiderivadas
-Dada uma função $f(x)$, temos que sua **anti-derivada** é uma outra função $F(x)$ que satisfaça
+Dada uma função $f(x)$, temos que sua **antiderivada** é uma outra função $F(x)$ que satisfaça
 $$
 \frac{dF}{dx} = f(x)
 $$
 
 Ou seja, é a "operação" oposta da derivada. 
 
-Um exemplo usual é de que a posição é a anti-derivada da velocidade, a velocidade é a anti-derivada da aceleração, etc.
+Um exemplo usual é de que a posição é a antiderivada da velocidade, a velocidade é a antiderivada da aceleração, etc.
 
+Note-se que tomar a antiderivada de $x^n$ é $\frac{x^{n+1}}{n+1}$, pois
+$$
+\frac{d}{dx}\frac{x^{n+1}}{n+1} = x^n
+$$
+e é o "inverso" da regra do tombo.
 # Teorema Fundamental do Cálculo
 O resultado basilar de Cálculo Diferencial e Integral é o Teorema Fundamental do Cálculo: fazer uma integral é tomar uma anti-derivada!
 $$
@@ -126,6 +175,8 @@ s(t) - s(t_0) &= \int_0^t v(t) \, d\tau = v_0 t + \frac{at^2}{2}\\
 \therefore s(t) &= s_0 + v_0 + v_0 t + \frac{at^2}{2}
 \end{align*}
 $$
+
+Ou seja, as equações básicas de cinemática que aprendemos no Ensino Médio requerem Cálculo para serem obtidas. Não caíram do céu! O $\frac{1}{2}$ não era ao acaso! E, de fato, este é o ponto: qualquer lei física que aprendemos na escola veio de alguma derivação matemática[^12]. 
 # O que mais?
 **2ª Lei de Newton**
 $$
@@ -172,10 +223,11 @@ Há, neste fazer, algo de ímpeto criador, pois demonstrações matemáticas, po
 [^2]: A quem interesse: a animação foi feita com o pacote Manim, do Python, em particular o Manim *Community*. Para os códigos que utilizei, conferir [GitHub - nicholasvoltani/Manimations](https://github.com/nicholasvoltani/Manimations).
 [^3]: Ao observador atento, pode-se perguntar "mas que ponto dentro do retângulo eu devo usar para medir a altura do respectivo retângulo?". Note que na animação, por exemplo, pega-se as alturas $f(x)$ dos pontos à esquerda dos retângulos. No fim das contas, não importa, pois estaremos tomando o limite em que "haverá somente uma altura" por retângulo. Inclusive, é por isso que é importante que a função a ser integrada **seja contínua**, pois é isso que assegura que *pontos próximos tenham alturas próximas*. [Porém...](https://www.youtube.com/watch?v=vUJEG3tUVaY)
 [^4]: Em algum sistema de coordenadas, digamos, por exemplo, da esquerda para a direita, em metros.
-[^5]: Assumindo que o movimento começa em $t_0 = 0$, por simplicidade. Supor $t_0 \neq 0$ faria surgir vários termos da forma $(t - t_0)$, e tornaria o exemplo mais opaco ao leitor mais leigo.
+[^5]: Assumindo que o movimento começa em $t_0 = 0$, por simplicidade, e definindo $v_0 \equiv v(t=0)$ e $s_0 \equiv s(t=0)$; o símbolo $\equiv$ denota a "definição" de alguma variável (no caso, $v_0$ e $s_0$). Supor $t_0 \neq 0$ faria surgir vários termos da forma $(t - t_0)$, e tornaria o exemplo mais opaco ao leitor mais leigo.
 [^6]: \\begin{rant} Uso a variável $s$ para denotar posição somente para remeter às fórmulas que aprendemos na escola, pois acho péssimo utilizar $s$ para medir posição (em metros pelo SI), sendo que medimos tempo pela unidade de segundos $s$. Em nível universitário, geralmente usamos $x, y, z$ para denotar posições. \\end{rant}
 [^7]: Até mesmo a noção de *probabilidade* é precisa neste sentido: é uma teoria que nasce da própria lógica matemática e não lhe é algo contingente. Ironicamente, por mais que probabilidades meçam incertezas, sua teoria é extremamente bem-conhecida e estudada ativamente, e empregada em situações em que existem incertezas em medições ─ ou seja, em quase todo lugar (*mileage may vary*)!
 [^8]: Quando encontra-se um contra-exemplo de alguma conclusão lógica, revisa-se as hipóteses empregadas em sua formulação, e corrige-se de acordo. É como o famoso problema de ["todos os cisnes são brancos"](https://pt.wikipedia.org/wiki/Falseabilidade).
 [^9]: Há muitos resultados que são redescobertos em vários momentos da História por pessoas diferentes, assim como resultados que são descobertos mas não publicamente, mas escute-me...
 [^10]: Similarmente, [[Toda obra de arte é criada para outras pessoas]].
 [^11]: Similarmente, [[A arte busca representar o mundo objetivo através de categorias humanas]].
+[^12]: Dificilmente estudamos na escola alguma equação que foi formulada fenomenologicamente -- se estudamos, geralmente é por fins históricos e a fim de demonstrar a generalidade de alguma outra lei que a substitua (por exemplo, [lei de Wien versus lei de Planck](https://pt.wikipedia.org/wiki/Lei_de_Wien#Dedu%C3%A7%C3%A3o)).
