@@ -2,6 +2,7 @@
 date: 2022-07-30
 tags:
   - transient
+  - mini-essay
 
 draft: 'true'
 ---

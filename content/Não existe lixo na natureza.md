@@ -3,6 +3,7 @@ date: 2022-11-12
 tags:
   - transient
   - ambiental
+  - mini-essay
 ---
 up:: 
 

@@ -11,6 +11,6 @@ tags:
 - [[010 MOC Marxism]]
 - [[020 MOC Mathematics]]
 - [[030 MOC Physics]]
-- [[040 MOC Curso Desastres Ambientais]]
+- [[040 MOC Complex Systems]]
 - [[050 MOC Anarchism]]
 

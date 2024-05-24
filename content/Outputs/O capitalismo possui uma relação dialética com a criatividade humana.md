@@ -2,6 +2,7 @@
 date: " 2023-10-12"
 tags:
   - essay
+draft: "true"
 ---
 up:: 
 
@@ -10,4 +11,4 @@ Sobre a contradição de que o sistema capitalista afoga a criatividade, mas dep
 
 ---
 ### Referências
-- 
+- [no one wants to go to college anymore - Alice Cappelle](https://www.youtube.com/watch?v=QzzRsgg5Ccc)

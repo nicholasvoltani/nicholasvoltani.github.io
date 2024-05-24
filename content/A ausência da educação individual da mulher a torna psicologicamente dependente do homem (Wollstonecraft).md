@@ -2,6 +2,7 @@
 date: 2023-05-20
 tags:
   - transient
+  - mini-essay
 ---
 up:: [[Educação Individual (Wollstonecraft)]]
 

@@ -120,9 +120,9 @@ $$
 \end{align*}
 $$
 
-É simples (um pouco longo, via [binômio de Newton](https://pt.wikipedia.org/wiki/Bin%C3%B3mio_de_Newton#Nota%C3%A7%C3%A3o_e_f%C3%B3rmula), ou por [indução](https://pt.wikipedia.org/wiki/Indu%C3%A7%C3%A3o_matem%C3%A1tica)) demonstrar que, para uma função $f(t) = t^n$, temos que
+É simples (um pouco longo, via [binômio de Newton](https://pt.wikipedia.org/wiki/Bin%C3%B3mio_de_Newton#Nota%C3%A7%C3%A3o_e_f%C3%B3rmula)) demonstrar que, para uma função $f(t) = t^n$, temos que
 $$
-\frac{df}{dt} = n t^{n-1}
+\frac{df}{dt} = \frac{d t^n}{dt} = n t^{n-1}
 $$
 que é o que costuma-se chamar de "regra do tombo", pois a derivada "tomba" o expoente $n$ e diminui-o por $1$. 
 # Antiderivadas
@@ -172,7 +172,7 @@ Integrando a equação novamente, e usando o resultado acima, obtemos
 $$
 \begin{align*}
 s(t) - s(t_0) &= \int_0^t v(t) \, d\tau = v_0 t + \frac{at^2}{2}\\
-\therefore s(t) &= s_0 + v_0 + v_0 t + \frac{at^2}{2}
+\therefore s(t) &= s_0 + v_0 t + \frac{at^2}{2}
 \end{align*}
 $$
 
@@ -230,4 +230,4 @@ Há, neste fazer, algo de ímpeto criador, pois demonstrações matemáticas, po
 [^9]: Há muitos resultados que são redescobertos em vários momentos da História por pessoas diferentes, assim como resultados que são descobertos mas não publicamente, mas escute-me...
 [^10]: Similarmente, [[Toda obra de arte é criada para outras pessoas]].
 [^11]: Similarmente, [[A arte busca representar o mundo objetivo através de categorias humanas]].
-[^12]: Dificilmente estudamos na escola alguma equação que foi formulada fenomenologicamente -- se estudamos, geralmente é por fins históricos e a fim de demonstrar a generalidade de alguma outra lei que a substitua (por exemplo, [lei de Wien versus lei de Planck](https://pt.wikipedia.org/wiki/Lei_de_Wien#Dedu%C3%A7%C3%A3o)).
+[^12]: Dificilmente estudamos na escola alguma equação que foi formulada fenomenologicamente (ou seja, sem ser a partir de primeiros princípios) ─ se estudamos, geralmente é por fins históricos e a fim de demonstrar a generalidade de alguma outra lei que a substitua (por exemplo, [lei de Wien versus lei de Planck](https://pt.wikipedia.org/wiki/Lei_de_Wien#Dedu%C3%A7%C3%A3o)).

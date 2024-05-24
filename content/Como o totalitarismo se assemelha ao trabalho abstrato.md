@@ -3,6 +3,7 @@ date: 2022-04-07
 tags:
   - marxism
   - transient
+  - mini-essay
 ---
 # Como o totalitarismo se assemelha ao trabalho abstrato
 Totalitarismo é a noção de **indistinção das instituições**: todas elas apresentam-se como homogêneas, idênticas a uma só estrutura.
