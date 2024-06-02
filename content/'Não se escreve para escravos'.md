@@ -2,6 +2,7 @@
 date: 2024-05-11
 tags:
   - essay
+  - to-be-elaborated
 aliases: 
 draft: "true"
 ---

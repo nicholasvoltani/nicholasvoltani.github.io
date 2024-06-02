@@ -16,7 +16,7 @@ $$
 Note that, per definition,
 $$
 \begin{align*}
-\sumlim_{i} L_{ij} &= \sumlim_{i}D_{ij} - \sumlim_{i} A_{ij}\\
+\sum\limits_{i} L_{ij} &= \sum\limits_{i}D_{ij} - \sum\limits_{i} A_{ij}\\
 &= deg(i) - deg(i)\\
 &= 0
 \end{align*}

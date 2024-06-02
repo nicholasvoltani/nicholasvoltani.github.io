@@ -2,7 +2,7 @@
 date: 2021-06-21
 tags:
   - marxism
-  - transient
+  - to-be-elaborated
   - mini-essay
 ---
 # Como o capitalismo transforma seus obstáculos em material para sua própria formação

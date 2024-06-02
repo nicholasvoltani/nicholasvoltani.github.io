@@ -1,7 +1,7 @@
 ---
 date: 2021-06-05
 tags:
-  - transient
+  - to-be-elaborated
   - mini-essay
 ---
 N'O Mundo de Sofia, temos que o autor diz que Kant acreditava que não podemos conhecer absolutamente a natureza *em si*, mas que podemos conhecê-la *através de nossa razão* (por meio de "modelos").

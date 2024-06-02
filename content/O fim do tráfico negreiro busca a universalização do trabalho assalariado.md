@@ -1,7 +1,7 @@
 ---
 date: 2023-01-28
 tags:
-  - transient
+  - to-be-elaborated
   - mini-essay
 ---
 up:: [[O tráfico negreiro financiou a Revolução Industrial]]

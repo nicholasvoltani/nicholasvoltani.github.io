@@ -2,7 +2,7 @@
 date: 2022-04-07
 tags:
   - marxism
-  - transient
+  - to-be-elaborated
   - mini-essay
 ---
 # Como o totalitarismo se assemelha ao trabalho abstrato

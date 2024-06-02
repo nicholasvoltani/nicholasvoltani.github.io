@@ -1,6 +1,8 @@
 ---
 title: Digital Garden Entrance
 publish: "true"
+tags: 
+  - moc 
 ---
 ![[Nighthawks_by_Edward_Hopper_1942.jpg]]
 

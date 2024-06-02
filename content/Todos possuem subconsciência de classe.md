@@ -2,6 +2,7 @@
 date: "2024-05-11"
 tags:
   - mini-essay
+  - to-be-elaborated
   - marxism
 aliases: 
 draft: 'false'

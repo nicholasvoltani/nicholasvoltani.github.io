@@ -1,7 +1,7 @@
 ---
 date: 2022-10-05
 tags:
-  - transient
+  - to-be-elaborated
   - mini-essay
 ---
 # Fundação de Asimov e Obsolescência Programada

@@ -1,7 +1,7 @@
 ---
 date: 2022-07-30
 tags:
-  - transient
+  - to-be-elaborated
   - mini-essay
 ---
 # 202207301712 Sobre o papel do "desencanto das subjetividades" no capitalismo

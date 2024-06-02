@@ -4,7 +4,6 @@ tags:
   - moc 
 ---
 up:: [[020 MOC Mathematics]]
-
 ## Tópicos
 - [[Entropy]]
 - [[Mutual Information]]

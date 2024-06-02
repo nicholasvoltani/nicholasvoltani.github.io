@@ -2,6 +2,7 @@
 date: "2023-10-12"
 tags:
   - essay
+  - to-be-elaborated
 draft: "true"
 ---
 up:: 

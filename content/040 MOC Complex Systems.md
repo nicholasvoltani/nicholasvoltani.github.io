@@ -3,7 +3,7 @@ date: 2024-05-21
 tags:
   - moc
 ---
-up:: [[000 MOC Home]]
+up:: [[index]]
 
 Related MOCs:: [[024 MOC Information Theory]]
 
@@ -26,6 +26,7 @@ Related MOCs:: [[024 MOC Information Theory]]
 	- [[Average Shortest Path Distance]]
 	- [[Graph Diameter]]
 - [[Graph Efficiency]]
+- [[Graph Clustering]]
 
 # Famous Graphs
 - [[Erdős–Rényi Graph]]
@@ -35,4 +36,4 @@ Related MOCs:: [[024 MOC Information Theory]]
 # Network Ensembles
 - [[Microcanonical Ensemble]]
 - [[Canonical Ensemble]]
-- 
+- [[Exponential Random Graph]]

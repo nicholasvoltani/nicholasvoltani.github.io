@@ -1,7 +1,7 @@
 ---
 date: 2022-07-30
 tags:
-  - transient
+  - to-be-elaborated
   - mini-essay
 ---
 # 202207301725 Sobre a diferença entre ações fragmentadas e intenções centralizadas

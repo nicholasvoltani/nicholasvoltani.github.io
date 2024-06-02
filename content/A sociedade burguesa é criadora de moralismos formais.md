@@ -2,6 +2,7 @@
 date: 2022-12-29
 tags:
   - mini-essay
+  - to-be-elaborated
 ---
 No meio de sua hegemonia cultural, as grandes mídias burguesas passaram a exercer um novo papel dentro de sua antiga atribuição de ditar a moral de uma sociedade: tensionar debates morais de maneira polarizante. 
 

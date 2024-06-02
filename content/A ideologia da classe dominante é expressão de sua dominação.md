@@ -1,9 +1,9 @@
 ---
 date: 2021-06-20
 tags:
-  - transient
   - marxism
   - mini-essay
+  - to-be-elaborated
 aliases:
   - A dominação precede a ideia, e a ideia ilustra a dominação
 ---
