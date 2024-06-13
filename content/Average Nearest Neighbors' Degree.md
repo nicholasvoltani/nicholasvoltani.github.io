@@ -17,7 +17,7 @@ k_{i}^{nn} &= \frac{1}{k_{i}}\sum_{j=1}^{N} A_{ij}k_{j} \\
 &= \frac{\sum_{j,k} A_{ij}A_{jk}}{\sum_{j}A_{ij}}
 \end{align*}
 $$
-That is, it is the weighted average degree from $i$'s neighbors (weighted by $i$'s row of the adjacency matrix). Do not forget that these degrees also take $i$ into account! In fact, $k_i^{nn} = 1$ if and only if $i$ is the center of a [[Star Graph|star subgraph]]!
+That is, it is the weighted average degree from $i$'s neighbors (weighted by $i$'s row of the adjacency matrix). Do not forget that these degrees also take $i$ into account! In fact, [[A simple graph's node is a (local) star graph center iff its average nearest neighbors degree equals 1]]!
 
 # $k_{nn}$ in terms of powers of the adjacency matrix
 One can also see this measure as referring to the second power of the adjacency matrix, i.e. to $2$-paths coming out of $i$:
