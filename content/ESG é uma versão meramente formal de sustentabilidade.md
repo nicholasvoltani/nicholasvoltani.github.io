@@ -18,4 +18,4 @@ Quando visto na ótica do meio corporativo ─ isso quando os princípios ESG s�
 - Uma falastrona do ESG, que não faz ideia do que fala.
 
 [^1]: Até que ponto pode até mesmo ser *weaponized* por empresas menores como uma maneira de restringir os negócios de seus maiores competidores? 
-240520: Lembra a discussão que Marx faz [[Sobre legalidade de horas extras]], em que pode ser do interesse dos próprios capitalistas de impor pagamentos de horas extras, como maneira de criar obstáculos à competição.
+240520: Lembra a discussão que Marx faz [[A legalidade de horas extras não necessariamente é uma reivindicação proletária]], em que pode ser do interesse dos próprios capitalistas de impor pagamentos de horas extras, como maneira de criar obstáculos à competição.

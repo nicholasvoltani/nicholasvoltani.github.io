@@ -29,6 +29,13 @@ $$
 \end{align*}
 $$
 
+# Relação com troca
+> "Portanto, [as mercadorias] precisam universalmente mudar de mãos. Mas essa mudança de mãos constitui uma troca, e essa troca as relaciona umas com as outras como valores e as *realiza* como valores. Por isso, as *mercadorias* têm de se realizar como valores antes que possam se realizar como valores de uso." (MARX, p. 160; grifo meu)
+
+Porém, ocorre uma certa "inversão" quando tratamos das relações de troca: justamente porque, no [[Processo de Produção Capitalista]], busca-se a produção de [[Mercadoria]]s a fim de que *sejam vendidas*, ocorre que elas só podem ser usufruídas como valores de uso **após terem sido realizadas como valores, numa relação de troca**!
+
+Ou seja, não obstante o fato de que o valor de uso é necessariamente o recipiente corpóreo do valor, sem o qual este não pode existir, uma mercadoria não pode ser usufruída *por outrem* sem que realize-se enquanto valor, sem que entre no espaço da troca e seja [[Só pode haver troca com relação a mercadorias diferentes|trocada por alguma outra mercadoria]] no processo (usualmente [[Dinheiro]]). 
+
 ---
 ### Referências
 - MARX, Karl. **O Capital-Livro 1: Crítica da economia política. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.

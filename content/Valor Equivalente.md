@@ -11,7 +11,7 @@ up:: [[Valor]]
 
 Quando duas [[Mercadoria]]s confrontam-se numa relação de troca, ambas desempenham um papel "ativo" (de ser mensurada *através de outra mercadoria*) e um papel "passivo" (de ser a medida[^1] *de outra mercadoria*). Ao valor que é mensurado chamamos de [[Valor Relativo]], e ao valor que serve de medida (ou de "permutável") chamamos de valor equivalente.
 
-É esta forma que o [[Dinheiro]] assume: em Marx, "dinheiro" é a forma equivalente geral, aquela cuja função serve de ser um "permutável" a todas as outras mercadorias, seu [[Valor de Uso]] sendo submetido a esta função[^2].
+É esta forma que o [[Dinheiro]] assume: em Marx, "dinheiro" é a forma equivalente geral, aquela mercadoria cuja função serve de ser um "permutável" a todas as outras mercadorias, seu [[Valor de Uso]] sendo submetido a esta função[^2].
 
 ---
 ### Referências

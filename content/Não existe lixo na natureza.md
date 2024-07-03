@@ -7,7 +7,7 @@ tags:
 ---
 up:: 
 
-> "*All waste is food, and everybody winds up reincarnated inside somebody else*." (Janine Benyus, Biomimicry, p. 255)
+> "*All waste is food, and everybody winds up reincarnated inside somebody else*." (BENYUS, p. 255)
 
 Ao contrário dos restos mortais das [[Mercadoria|mercadorias]] em uma sociedade capitalista, os quais jazem no chão (ou mar) sem uso, não existem "resíduos" na natureza.
 

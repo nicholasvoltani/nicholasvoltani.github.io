@@ -21,6 +21,8 @@ Enquanto a economia capitalista não se preocupa em criar ciclos fechados para s
 
 Dessa forma, não se deve produzir algo que não possa "encaixar-se" em algum ciclo. E é justamente importante pensar no não-**produzir** de algo, pois conforme ele "já tenha sido produzido", então *the damage is already done*, por assim dizer.
 
+240626: [[A tecnociência induz recuo teleológico]], pois [[O sujeito baconiano busca ser eficiente em nome da própria eficiência|A ciência moderna busca eficiência por eficiência]]: não o faz pelo bem comum (necessariamente), mas pelo seu fetiche de eficiência.
+
 ---
 ### Referências
 - *Introdução ao estudo do método de Marx*, José Paulo Netto. Expressão Popular.

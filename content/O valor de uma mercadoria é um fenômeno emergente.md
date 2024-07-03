@@ -13,7 +13,10 @@ up:: [[Valor]]
 > Alguma referência do Bellamy Foster sobre a influência do Processo de Haber com relação à decadência da economia andina referente aos fertilizantes que produziam
 > Ou mesmo a citação de que revoltas na China afetam o preço de pão na Europa em Marx, n'O Capital (?)
 
-
+- [[Imperialismo Ecológico]]
+- [[Valor]]
+- [[Fenômeno Emergente]]
+- [[A mercadoria-dinheiro é um fenômeno emergente]]
 
 ---
 ### Referências
