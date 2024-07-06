@@ -12,13 +12,14 @@ up:: [[index]]
 
 # 2024
 ## July 2024
-
+I'm currently talking with my most-likely-soon-to-be Master's advisor on Complex Systems, and so I'm reading his thesis on [[Kuramoto Model]]s on Complex Systems. I have plenty of ideas for papers/research... although not that many seem to have something to do with his thesis, yet. I'm also updating the MOC [[040 MOC Complex Systems]].
 
 **Interesting content of the month:**
 - [PMG Responds to the Games Industry Layoffs - YouTube](https://www.youtube.com/watch?v=ld2xvbPpqcw): starting off with a great radicalized speech in the Games industry. A terrific quote from Quintin Smith, the journalist from People Make Games who speaks in this video:
-  > "... if you're only ever one bad acquisition away from being laid off, one bad CEO away from having your life changed dramatically in a moment, then you're in a class struggle." [timestamp](https://youtu.be/ld2xvbPpqcw?t=762)
+  > "... if you're only ever one bad acquisition away from being laid off, one bad CEO away from having your life changed dramatically in a moment, then you're in a class struggle." [(timestamp)](https://youtu.be/ld2xvbPpqcw?t=762)
 
 	This is true even for people outside the Games industry: you can work as hard as you want in your job and have all the praise from your higher-ups; if all it takes is one arbitrary decision to throw you into economic jeopardy, unable to pay for your basic needs, then you ARE working class (or a very stupid bourgeois, but even they can overcome these things quickly). 
+- [Nomos of the Earth - Original Instructions (Woodbine)](https://static1.squarespace.com/static/5e1e50b0df4035726d4b02f7/t/5e2fa46cd4520c015ca4c7aa/1580180591111/nomos-original-instructions.pdf): simply beautiful writing on "practical behavior" to deal with creating a better future, in a revolutionary fashion. Maybe I'll translate it to Portuguese soon, it deserves to be read by more people.
 
 ## June 2024
 My plan for this month was to refactor a lot of my notes in my Obsidian (and, ergo, Digital Garden), starting from my [[011 MOC Marx|Marxism notes]]. I'm (re)reading through "Das Kapital I" (in Portuguese, of course) and refining/changing old notes and creating new ones where necessary. In the end, more things took the forefront, and this was postponed (again). 

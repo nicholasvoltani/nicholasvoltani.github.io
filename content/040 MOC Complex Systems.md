@@ -21,7 +21,9 @@ Related MOCs:: [[024 MOC Information Theory]]
 - [[Node Degree]]
 	- [[In Degree]]
 	- [[Out Degree]]
+	- [[Average Network Degree]]
 	- [[Average Nearest Neighbors' Degree]]
+- [[Network Density]]
 - [[Node Betweenness]]
 - [[Shortest Path Distance]]
 	- [[Average Shortest Path Distance]]
@@ -29,8 +31,14 @@ Related MOCs:: [[024 MOC Information Theory]]
 - [[Graph Efficiency]]
 - [[Graph Clustering]]
 
+# Similarity Measures
+- [[Salton's Cosine|Cosine Similarity]]
+- [[Jaccard Similarity]]
+	- [[Jaccard Similarity is a lower-bound for Cosine Similarity]]
+- [[Pearson Coefficient]]
+
 # Famous Graphs
-- [[Erdős–Rényi Graph]]
+- [[Erdős-Rényi Model]]
 - [[Barabási-Albert Graph]]
 - [[Watts-Strogatz Graph]]
 
@@ -38,3 +46,6 @@ Related MOCs:: [[024 MOC Information Theory]]
 - [[Microcanonical Ensemble]]
 - [[Canonical Ensemble]]
 - [[Exponential Random Graph]]
+
+# Famous Models
+- [[Kuramoto Model]]

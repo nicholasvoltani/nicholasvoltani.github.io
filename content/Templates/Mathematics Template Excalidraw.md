@@ -2,7 +2,8 @@
 date: "{{date: YYYY-MM-DD}}"
 tags:
   - mathematics
-aliases: 
+aliases:
+  - 
 excalidraw-open-md: true
 excalidraw-plugin: parsed
 ---
