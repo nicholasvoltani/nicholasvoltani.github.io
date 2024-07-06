@@ -3,6 +3,7 @@ date: " 2024-07-04"
 tags:
   - mathematics
   - pkm
+  - mini-essay
 aliases:
 ---
 
