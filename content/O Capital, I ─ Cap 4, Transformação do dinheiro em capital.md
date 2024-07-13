@@ -6,8 +6,7 @@ tags:
 ---
 # O Capital, I ─ Cap 4: Transformação do dinheiro em capital
 ## Circulação de mercadorias: [[Ciclo M─D─M]]
-> "Na forma M─D─M, a mesma peça monetária muda **duas vezes** de lugar. O processo inteiro, que começa com o **recebimento de dinheiro em troca de mercadoria** [($I$)], conclui-se com o **dispêndio de dinheiro por mercadoria** [($II$)].
-> (...) O ciclo M─D─M parte do extremo de uma mercadoria e conclui-se com o extremo de outra mercadoria, que **abandona a circulação** e ingressa no **consumo**, [o qual] (...) é seu fim último." (p. 225-6)
+
 
 <!-- https://q.uiver.app/?q=WzAsNixbMiwyLCJQIl0sWzAsMCwiQyJdLFs0LDAsIlAnIl0sWzEsMSwiKEkpIl0sWzMsMSwiKElJKSJdLFs1LDFdLFswLDIsIkQiLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzEyMCw2MCw2MF19LFsxMjAsNjAsNjAsMV1dLFsyLDAsIk0iLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzAsNjAsNjBdfSxbMCw2MCw2MCwxXV0sWzEsMCwiRCIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMTIwLDYwLDYwXX0sWzEyMCw2MCw2MCwxXV0sWzAsMSwiTSciLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzAsNjAsNjBdfSxbMCw2MCw2MCwxXV1d --> <iframe class="quiver-embed" src="https://q.uiver.app/?q=WzAsNixbMiwyLCJQIl0sWzAsMCwiQyJdLFs0LDAsIlAnIl0sWzEsMSwiKEkpIl0sWzMsMSwiKElJKSJdLFs1LDFdLFswLDIsIkQiLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzEyMCw2MCw2MF19LFsxMjAsNjAsNjAsMV1dLFsyLDAsIk0iLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzAsNjAsNjBdfSxbMCw2MCw2MCwxXV0sWzEsMCwiRCIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMTIwLDYwLDYwXX0sWzEyMCw2MCw2MCwxXV0sWzAsMSwiTSciLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzAsNjAsNjBdfSxbMCw2MCw2MCwxXV1d&embed" width="816" height="432" style="border-radius: 8px; border: none;"></iframe>
 ## Circulação de mercadorias: [[Ciclo D─M─D]]

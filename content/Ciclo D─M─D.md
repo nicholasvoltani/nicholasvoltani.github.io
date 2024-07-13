@@ -4,12 +4,20 @@ tags:
   - evergreen
   - marxism
 ---
-# Ciclo D─M─D da circulação de mercadorias
 <!-- https://q.uiver.app/?q=WzAsNSxbMiwwLCJDIl0sWzAsMiwiUCJdLFs0LDIsIkMnIl0sWzEsMSwiKEkpIl0sWzMsMSwiKElJKSJdLFswLDIsIk0iLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzAsNjAsNjBdfSxbMCw2MCw2MCwxXV0sWzIsMCwiRCIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMTIwLDYwLDYwXX0sWzEyMCw2MCw2MCwxXV0sWzAsMSwiRCIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMTIwLDYwLDYwXX0sWzEyMCw2MCw2MCwxXV0sWzEsMCwiTSIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMCw2MCw2MF19LFswLDYwLDYwLDFdXV0= --> <iframe class="quiver-embed" src="https://q.uiver.app/?q=WzAsNSxbMiwwLCJDIl0sWzAsMiwiUCJdLFs0LDIsIkMnIl0sWzEsMSwiKEkpIl0sWzMsMSwiKElJKSJdLFswLDIsIk0iLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzAsNjAsNjBdfSxbMCw2MCw2MCwxXV0sWzIsMCwiRCIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMTIwLDYwLDYwXX0sWzEyMCw2MCw2MCwxXV0sWzAsMSwiRCIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMTIwLDYwLDYwXX0sWzEyMCw2MCw2MCwxXV0sWzEsMCwiTSIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMCw2MCw2MF19LFswLDYwLDYwLDFdXV0=&embed" width="688" height="432" style="border-radius: 8px; border: none;"></iframe>
-Trata-se da compra (D─M) e posteriormente da venda (M─D) de **uma mesma mercadoria $M$**. 
 
-Note-se que o ciclo está "centralizado" pelo comprador $C$, o qual serve de intermediário à circulação da mercadoria $M$; ao mesmo tempo, note-se que há um **refluxo de dinheiro $D$** em suas mãos: ele primeiro compra, e depois vende, gastando e depois reavendo o dinheiro dispendido.
+> "Aqui [no ciclo D─M─D] não é a mesma peça monetária que muda duas vezes de lugar, mas a **mesma mercadoria**, e o comprador a recebe das mãos do **vendedor** [D─M] e as passa às mãos de **outro comprador** [M─D]. 
+> (...) a dupla mudança de lugar da mesma mercadoria implica o **refluxo do dinheiro** a seu primeiro ponto de partida, (...) [o qual] não depende de a mercadoria ser vendida mais cara do que foi comprada.
+> (...) O ciclo D─M─D, ao contrário, parte do extremo do **dinheiro** e retorna, por fim, **ao mesmo extremo**. Sua força motriz e fim último é, desse modo, **o próprio valor de troca**." (MARX, p. 225-6; grifo meu)
+
+Trata-se da compra (D─M) e posteriormente da venda (M─D) de **uma mesma [[Mercadoria]] $M$,** por algum comprador $C$, que serve de intermediário à circulação da mercadoria $M$. 
+
+É contrário[^1] ao [[Ciclo M─D─M]], onde vende-se para comprar; no ciclo D–M–D, **compra-se para vender**. Note-se que há um **refluxo de [[Dinheiro]] $D$** em suas mãos: ele primeiro compra, e depois reavê o dinheiro dispendido. 
+
+Esta é a base do [[Ciclo D─M─D']] que é a base do [[Processo de Produção Capitalista]]: a compra de uma mercadoria específica – a [[Força de Trabalho]] – que permite a extração de [[Mais-valor]] (e, portanto, a venda por um preço maior que o inicialmente gasto na compra).
 
 ---
 ### Referências
-- [[O Capital, I ─ Cap 4, Transformação do dinheiro em capital]]
+- MARX, Karl. **O capital-Livro 1: Crítica da economia política. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
+
+[^1]: Ou talvez... *[[Opposite Category|dual]]*?

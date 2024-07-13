@@ -2,7 +2,7 @@
 Date: "2024-04-04"
 tags:
 ---
-up:: 
+up:: [Mas você nem parece autista! | Nicholas Funari Voltani | Medium](https://medium.com/@nicholasvoltani/mas-voc%C3%AA-nem-parece-autista-1f943cd234c2)
 
 > "cansei da frase polida
 > por anjos da cara pálida
