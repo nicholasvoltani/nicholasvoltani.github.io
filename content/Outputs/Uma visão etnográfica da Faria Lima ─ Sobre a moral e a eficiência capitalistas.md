@@ -1,8 +1,8 @@
 ---
-date: " 2023-10-12"
+date: " 2024-07-13"
 tags:
   - essay
-draft: "false"
+draft:
 ---
 up:: [[Uma visão etnográfica da Faria Lima]]
 

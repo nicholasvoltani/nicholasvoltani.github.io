@@ -1,7 +1,7 @@
 ---
 date: " 2024-05-22"
 tags:
-  - essay
+  - mini-essay
 aliases:
 ---
 
