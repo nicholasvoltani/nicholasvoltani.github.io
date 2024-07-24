@@ -14,6 +14,8 @@ up:: [[index]]
 ## July 2024
 I'm currently talking with my most-likely-soon-to-be Master's advisor on Complex Systems, and so I'm reading his thesis on [[Kuramoto Model]]s on Complex Systems. I have plenty of ideas for papers/research... although not that many seem to have something to do with his thesis, yet. I'm also updating the MOC [[040 MOC Complex Systems]].
 
+I also presented [Black Sheep (from the Scott Pilgrim movie)](https://www.youtube.com/watch?v=1xcSDYy3Dl4), on the drums, at my music school's recital, on July 15th ([Exchangeagram post](https://www.instagram.com/p/C9hxNY1OBgt/?img_index=1)). Modesty aside, but I've made an **insane** amount of progress in these last 2 months, that are basically all the time that I've played drums at all (disregarding the 2 months that I've had classes in January/February, since I didn't practice at home at all). I was super nervous of getting something wrong and getting stuck in front of everyone... but, at the end, my performance was the most lively – aside from the school's founder, who sang I Will Always Love You, from Whitney Houston... yeah, can't compete with that! On to the next one soon.
+
 **Interesting content of the month:**
 - [PMG Responds to the Games Industry Layoffs - YouTube](https://www.youtube.com/watch?v=ld2xvbPpqcw): starting off with a great radicalized speech in the Games industry. A terrific quote from Quintin Smith, the journalist from People Make Games who speaks in this video:
   > "... if you're only ever one bad acquisition away from being laid off, one bad CEO away from having your life changed dramatically in a moment, then you're in a class struggle." [(timestamp)](https://youtu.be/ld2xvbPpqcw?t=762)

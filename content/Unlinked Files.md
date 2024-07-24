@@ -9,21 +9,32 @@ up:: [[Unlinked Files]]
 # Transient Notes to be *connected*
 ```dataview
 list
-Date
+date
 FROM ""
 WHERE !contains(file.name, "emplate") AND (length(file.outlinks) = 0 OR length(file.inlinks) = 0)
-SORT Date DESC
+SORT date DESC
+LIMIT 10
+```
+
+# Draft notes
+```dataview
+TABLE WITHOUT ID 
+key AS "ToBeCreatedZettel", rows.file.link AS "ReferencingFile", rows.date AS "CreationDate"
+FLATTEN file.outlinks as outlinks
+WHERE !(outlinks.file) AND !(contains(meta(outlinks).path, "/")) AND draft 
+GROUP BY outlinks
+SORT rows.date DESC
 LIMIT 10
 ```
 
 # Notes to be *created*
 ```dataview
 TABLE WITHOUT ID 
-key AS "ToBeCreatedZettel", rows.file.link AS "ReferencingFile", rows.Date AS "CreationDate"
+key AS "ToBeCreatedZettel", rows.file.link AS "ReferencingFile", rows.date AS "CreationDate"
 FLATTEN file.outlinks as outlinks
-WHERE !(outlinks.file) AND !(contains(meta(outlinks).path, "/"))
+WHERE !(outlinks.file) AND !(contains(meta(outlinks).path, "/")) AND !endswith(rows.name, "svg")
 GROUP BY outlinks
-SORT rows.Date DESC
+SORT rows.date DESC
 LIMIT 10
 ```
 

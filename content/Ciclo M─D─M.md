@@ -4,7 +4,7 @@ tags:
   - evergreen
   - marxism
 ---
-<!-- https://q.uiver.app/#q=WzAsNSxbMiwyLCJYIl0sWzAsMCwiUCJdLFs0LDAsIlAnIl0sWzEsMSwiKEkpIl0sWzMsMSwiKElJKSJdLFswLDIsIkQiLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzEyMCw2MCw2MF19LFsxMjAsNjAsNjAsMV1dLFsyLDAsIk0nIiwwLHsiY3VydmUiOi0zLCJjb2xvdXIiOlswLDYwLDYwXX0sWzAsNjAsNjAsMV1dLFsxLDAsIkQiLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzEyMCw2MCw2MF19LFsxMjAsNjAsNjAsMV1dLFswLDEsIk0iLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzAsNjAsNjBdfSxbMCw2MCw2MCwxXV1d --> <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNSxbMiwyLCJYIl0sWzAsMCwiUCJdLFs0LDAsIlAnIl0sWzEsMSwiKEkpIl0sWzMsMSwiKElJKSJdLFswLDIsIkQiLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzEyMCw2MCw2MF19LFsxMjAsNjAsNjAsMV1dLFsyLDAsIk0nIiwwLHsiY3VydmUiOi0zLCJjb2xvdXIiOlswLDYwLDYwXX0sWzAsNjAsNjAsMV1dLFsxLDAsIkQiLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzEyMCw2MCw2MF19LFsxMjAsNjAsNjAsMV1dLFswLDEsIk0iLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzAsNjAsNjBdfSxbMCw2MCw2MCwxXV1d&embed" width="688" height="432" style="border-radius: 8px; border: none;"></iframe>
+<!-- https://q.uiver.app/#q=WzAsNSxbMiwwLCJYIl0sWzAsMiwiUCJdLFs0LDIsIlAnIl0sWzEsMSwiKEkpIl0sWzMsMSwiKElJKSJdLFswLDIsIk0iLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzAsNjAsNjBdfSxbMCw2MCw2MCwxXV0sWzIsMCwiRCIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMTIwLDYwLDYwXX0sWzEyMCw2MCw2MCwxXV0sWzAsMSwiRCIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMTIwLDYwLDYwXX0sWzEyMCw2MCw2MCwxXV0sWzEsMCwiTSIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMCw2MCw2MF19LFswLDYwLDYwLDFdXV0= --> <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNSxbMiwwLCJYIl0sWzAsMiwiUCJdLFs0LDIsIlAnIl0sWzEsMSwiKEkpIl0sWzMsMSwiKElJKSJdLFswLDIsIk0iLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzAsNjAsNjBdfSxbMCw2MCw2MCwxXV0sWzIsMCwiRCIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMTIwLDYwLDYwXX0sWzEyMCw2MCw2MCwxXV0sWzAsMSwiRCIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMTIwLDYwLDYwXX0sWzEyMCw2MCw2MCwxXV0sWzEsMCwiTSIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMCw2MCw2MF19LFswLDYwLDYwLDFdXV0=&embed" width="688" height="432" style="border-radius: 8px; border: none;"></iframe>
 
 > "Na forma M─D─M, a mesma peça monetária muda **duas vezes** de lugar. O processo inteiro, que começa com o **recebimento de dinheiro em troca de mercadoria** [M─D], conclui-se com o **dispêndio de dinheiro por mercadoria** [D─M].
 > (...) O ciclo M─D─M parte do extremo de uma mercadoria e conclui-se com o extremo de outra mercadoria, que **abandona a circulação** e ingressa no **consumo**, (...) [o qual] é seu fim último." (MARX, 2013, p. 225-6; grifo meu)
@@ -13,7 +13,7 @@ Trata-se da venda (M─D) de uma [[Mercadoria]], e da compra posterior (D─M') 
 
 Ou seja, o ciclo M–D–M efetivamente trata-se (para o indivíduo que o reproduz) da troca de uma mercadoria sem uso por uma mercadoria que lhe seja [[Valor de Uso|útil]], e da troca de mãos do [[Dinheiro]] $D$.
 
-Note-se que tal ciclo está "centralizado" pelo produtor $P$, o qual serve de intermediário para a circulação de dinheiro $D$. Dessa forma, "[o dinheiro] sempre precipita em algum lugar da circulação deixado desocupado pelas mercadorias" (MARX, p. 186).
+Note-se que tal ciclo está "centralizado" por algum produtor $X$, o qual serve de intermediário para a circulação de dinheiro $D$. Dessa forma, "[o dinheiro] sempre precipita em algum lugar da circulação deixado desocupado pelas mercadorias" (MARX, p. 186).
 
 # A dialética do ciclo M–D–M
 > "A externalização [Entäusserung] da forma original da mercadoria se consuma mediante a alienação [Veräusserung] da mercadoria, isto é, no momento em que seu valor de uso atrai efetivamente o ouro que, em seu preço, era apenas representado. Desse modo, a realização do preço ou da *forma de valor apenas ideal* da mercadoria é, simultânea e inversamente, a realização do *valor de uso apenas ideal* do dinheiro, a conversão de mercadoria em dinheiro e, simultaneamente, de dinheiro em mercadoria." (MARX, 2013, p. 182; grifo meu)
@@ -24,7 +24,7 @@ Tal como o valor é a forma abstrata do valor de uso da mercadoria, a forma-dinh
 
 Justamente através da "alienação" da mercadoria $M$, de cujo [[Valor de Uso]] seu portador não se beneficiava, é que efetiva-se o valor de uso do dinheiro $D$; o que antes o dinheiro podia somente *in potentia*, ele agora cumpre *in esse*[^3]. 
 
-> "E tudo aquilo que tudo não podes, teu dinheiro pode: ele pode comer, beber, ir ao baile, ao teatro, ele conhece a arte, a erudição, as raridades históricas, o poder político, ele pode viajar, ele *pode* apropriar-se de tudo para ti; ele pode comprar tudo; ele é a verdadeira *capacidade*." (MARX, 2017, p. 294)
+> "E tudo aquilo que tu não podes, teu dinheiro pode: ele pode comer, beber, ir ao baile, ao teatro, ele conhece a arte, a erudição, as raridades históricas, o poder político, ele pode viajar, ele *pode* apropriar-se de tudo para ti; ele pode comprar tudo; ele é a verdadeira *capacidade*." (MARX, 2017, p. 294)
 
 ---
 ### Referências

@@ -48,4 +48,5 @@ Related MOCs:: [[024 MOC Information Theory]]
 - [[Exponential Random Graph]]
 
 # Famous Models
+- [[Winfree's Model of Synchronization]]
 - [[Kuramoto Model]]

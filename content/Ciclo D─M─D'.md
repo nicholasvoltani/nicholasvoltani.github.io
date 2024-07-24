@@ -22,4 +22,4 @@ Diante de tal processo, se faz claro que o capitalista vai buscar contratar for�
 
 ---
 ### Referências
-- [[O Capital, I ─ Cap 4, Transformação do dinheiro em capital]]
+- MARX, Karl. **O capital-Livro 1: Crítica da economia política. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
