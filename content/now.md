@@ -12,7 +12,9 @@ up:: [[index]]
 
 # 2024
 ## July 2024
-I'm currently talking with my most-likely-soon-to-be Master's advisor on Complex Systems, and so I'm reading his thesis on [[Kuramoto Model]]s on Complex Systems. I have plenty of ideas for papers/research... although not that many seem to have something to do with his thesis, yet. I'm also updating the MOC [[040 MOC Complex Systems]].
+I'm currently talking with my most-likely-soon-to-be Master's advisor on Complex Systems, and so I'm reading his thesis on [[Kuramoto Model]]s on Complex Systems. I have plenty of ideas for papers/research... although not that many seem to have something to do with his thesis, yet. I'm also updating the MOC [[040 MOC Complex Systems]]. 
+
+...Yeah, that didn't last long. In a dramatic, but not too unexpected, turn of events, I've finally decided to chase a Political Economy Master's Degree! If I'm to study Marx and Hegel for real, then it's best for me to just get going. I also finally conceded to getting to learn Economics for real, and it's being fun! I just have to learn Macroeconomics, Microeconomics and Brazilian Economics (and review Statistics, and brush up on Calculus problems) to attempt the [ANPEC exam](https://exame.anpec.org.br/index.php?r=site/index), in one and a half month. Here we go...
 
 I also presented [Black Sheep (from the Scott Pilgrim movie)](https://www.youtube.com/watch?v=1xcSDYy3Dl4), on the drums, at my music school's recital, on July 15th ([Exchangeagram post](https://www.instagram.com/p/C9hxNY1OBgt/?img_index=1)). Modesty aside, but I've made an **insane** amount of progress in these last 2 months, that are basically all the time that I've played drums at all (disregarding the 2 months that I've had classes in January/February, since I didn't practice at home at all). I was super nervous of getting something wrong and getting stuck in front of everyone... but, at the end, my performance was the most lively – aside from the school's founder, who sang I Will Always Love You, from Whitney Houston... yeah, can't compete with that! On to the next one soon.
 

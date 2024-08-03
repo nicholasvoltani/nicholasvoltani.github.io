@@ -1,7 +1,7 @@
 ---
 date: "{{date: YYYY-MM-DD}}"
 tags:
-  - complexity
+  - economics
 aliases:
   - 
 ---

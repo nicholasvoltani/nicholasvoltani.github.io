@@ -43,12 +43,11 @@ up:: [[020 MOC Mathematics]]
 	- [[Vector Space Isomorphism]]
 	- [[Endomorphism]]
 	- [[An endomorphism is injective iff it's surjective]]
-- [[Eigenvalue]]
-- [[Eigenvector]]
 - [[Diagonalization]]
 - [[Trace]]
 - [[Determinant]]
-
+- [[Positive Definiteness]]
+  
 ## Dual Space Properties
 - [[Vector Space Dual]]
 - [[Linear Operator]]

@@ -11,6 +11,7 @@ A exploração do Brasil colônia se fez sempre de maneira predatória: exploran
 
 Vemos resquícios disso até hoje nas principais atividades econômicas do Brasil, em particular do [[Agronegócio]]: a expansão da fronteira agrícola é um reflexo do exaurimento dos solos (e das águas) do Sul de outrora.
 
+
 ---
 ### Referências
 - *Formação do Brasil Contemporâneo*, Caio Prado Júnior.

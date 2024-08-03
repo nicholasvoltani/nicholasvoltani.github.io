@@ -34,7 +34,7 @@ The Kuramoto model assumes the following:
 3) The order parameter $R$ tends to a constant $R_{\infty}(K)$ as $t \to \infty$ and $N \to \infty$
 
 # Phase transition
-[[The Kuramoto model has a second-order phase transition]]
+[[The Kuramoto model has a second-order phase transition]].
 
 ---
 ### References

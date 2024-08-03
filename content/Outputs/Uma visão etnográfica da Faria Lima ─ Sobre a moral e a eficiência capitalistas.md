@@ -8,6 +8,9 @@ up:: [[Uma visão etnográfica da Faria Lima]]
 
 *Disclaimer*: Estes textos são sobre *minha* breve passagem, em uma só empresa, no meio corporativo. Porém, percebo padrões que sinto que sejam presentes a este meio como um todo. Estes textos não são justificações ou enaltecimentos deste ambiente e de seu *habitus*; são, antes de tudo, uma espécie de vista etnográfica desse meio, podendo ser de interesse particular para quem esteja totalmente alheio a este ambiente ─ e em particular de quem fala tanto sobre a Faria Lima como recursos retóricos, mas que não faz ideia da realidade de seus próprios argumentos.
 
+Anteriormente: 
+- [[Uma visão etnográfica da Faria Lima ─ Introdução]]
+
 ---
 
 Algo que adotei logo que comecei a trabalhar no meio corporativo ─ em particular quando voltamos ao regime presencial ─ é de deixar minha política no cabide metafórico da entrada do escritório. É engraçado porque, mesmo para os indivíduos mais conservadores, essa é a estratégia mais eficiente aos negócios: o exemplo mais claro para mim é a questão do aquecimento global, pois, em particular no tocante a seguros rurais (agrícola/animais/propriedade rural), aqueles que insistirem em misturar sua ideologia pessoal de negacionismos com os seus negócios serão aqueles que serão tragados pela competição após o banho de água fria da realidade material abatendo-se sobre a saúde de sua carteira.
