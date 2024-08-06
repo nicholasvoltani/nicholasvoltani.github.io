@@ -11,9 +11,10 @@ up::
 
 - [[Uma visão etnográfica da Faria Lima ─ Introdução]]
 - [[Uma visão etnográfica da Faria Lima ─ Sobre a moral e a eficiência capitalistas]]
-- [[Uma visão etnográfica da Faria Lima – Sobre stakeholders do meio corporativo]]
 - [[Uma visão etnográfica da Faria Lima ─ Sobre o hype de mercado e o mercado do hype]]
-- [[Sobre o trabalho de escritório]]
+- [[Uma visão etnográfica da Faria Lima – Sobre stakeholders do meio corporativo]]
+- [[Uma visão etnográfica da Faria Lima ─ A relação contraditória entre capitalismo e criatividade]]
+- [[Uma visão etnográfica da Faria Lima ─ Sobre o trabalho de escritório]]
 - [[Sobre ESG no meio corporativo]]
 	- [[ESG é uma versão meramente formal de sustentabilidade]]
 

@@ -18,8 +18,8 @@ $$
 onde 
 - $C$ é o [[Consumo Agregado]][^1], 
 - $I$ são os [[Investimentos (Macroeconomia)]][^2],
-- $G$ são os [[Gastos Públicos (Macroeconomia)]][^3], e 
-- $(X - IM)$ se trata das exportações líquidas[^4] ([[Exportações (Macroeconomia)]] menos [[Importações (Macroeconomia)]]).
+- $G$ são os [[Gastos Públicos (Macroeconomia)]][^3], 
+- e $(X - IM)$ são as [[Exportações Líquidas (Macroeconomia)]][^4].
 
 ---
 ### References
