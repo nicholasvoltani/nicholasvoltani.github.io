@@ -1,0 +1,26 @@
+---
+date: " 2024-08-07"
+tags:
+  - economics
+aliases:
+  - Bem Inferior
+---
+
+up:: [[062 MOC Microeconomia]]
+
+![[Pasted image 20240807144200.png]]
+
+Um bem inferior é aquele cuja quantidade em uma [[Cesta de Bens]] diminui conforme a [[Restrição Orçamentária]]/renda aumenta.
+
+Ou seja, conforme a renda aumenta, as cestas de bens que tangenciam as [[Curva de Indiferença|Curvas de Indiferença]] possuem menos bens inferiores.
+
+Dada a [[Demanda Marshalliana]] $x_{1}(p_{1},p_{2},m)$, temos que um bem é inferior se
+$$
+\frac{dx_{1}}{dm} < 0
+$$
+
+O oposto de um bem inferior é um [[Bens Normais]].
+
+---
+### References
+- VARIAN, Hal. **Microeconomia**: uma abordagem moderna. 9 ed. Elsevier, 2015.

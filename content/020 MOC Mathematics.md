@@ -19,7 +19,7 @@ up:: [[index]]
 ## Relations
 - [[Equivalence Relation]]
 	- [[Equivalence Class]]
-		- [[All equivalence classes are disjoint]]
+		- [[All different equivalence classes are disjoint]]
 	- [[Quotient Space]]
 - [[Partially Ordered Set]]
 - [[Totally Ordered Set]]

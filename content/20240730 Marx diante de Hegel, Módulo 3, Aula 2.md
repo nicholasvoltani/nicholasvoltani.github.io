@@ -62,7 +62,7 @@ Ou seja, não questionava-se (na EcPol) *por que* as coisas assumiam valor, simp
 # Considerações sobre teoria do fetichismo
 ![[Pasted image 20240730201359.png]]
 
-E então a adição da seção de fetichismo também é uma manifestação clara da quebra metodológica com Hegel. Caramba!
+E então a adição da seção de fetichismo (quarta seção, quebrando com "trindade") também é uma manifestação clara da quebra metodológica com Hegel. Caramba!
 
 ![[Pasted image 20240730201722.png]]
 
@@ -74,7 +74,7 @@ Aparência **socialmente necessária**: não é contingente, não é totalmente 
 # A ilusão transcendental das categorias
 ![[Pasted image 20240730202341.png]]
 
-"Uma essência que não aparece, não é uma essência" (ou não é pertinente à experiência como essência).
+"Uma essência que não *aparece*, não é uma essência" (ou não é pertinente à experiência como essência).
 
 # Crítica da economia política e da economia vulgar
 ![[Pasted image 20240730203708.png]]

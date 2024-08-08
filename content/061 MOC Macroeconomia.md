@@ -1,32 +1,32 @@
 ---
 date: 2024-07-27
 tags:
-  - moc
   - economics
+  - moc
 ---
 up:: [[060 MOC Economia]]
 
-# Topics
-## Variáveis Fundamentais
-- [[Demanda Agregada]]
-- [[Oferta Agregada]]
-- [[Renda Agregada]]
+# Conceitos Fundamentais
 - [[Consumo Agregado]]
 - [[Investimentos (Macroeconomia)]]
 - [[Gastos Públicos (Macroeconomia)]]
-- [[Impostos (Macroeconomia)]]
 - [[Exportações Líquidas (Macroeconomia)]]
 	- [[Exportações (Macroeconomia)]]
 	- [[Importações (Macroeconomia)]]
+- [[Impostos (Macroeconomia)]]
 - [[Poupança (Macroeconomia)]]
-- [[Economia Fechada]]
 
-# Medidas Nacionais
+# Quantidades Principais
+- [[Despesa Agregada]]
+- [[Renda Agregada]]
+- [[Economia Fechada]]
 - [[Produto Interno Bruto]]
 	- [[O PIB é uma medida do valor agregado total produzido em certo período]]
 	- [[Produto Interno Bruto Nominal]]
 	- [[Deflator Implícito]]
-	- [[Multiplicador keynesiano]]
+
+# Medidas Nacionais
+- [[Multiplicador keynesiano]]
 - [[Inflação]]
 	- [[Desinflação]]
 - [[Força de Trabalho (Macroeconomia)]]

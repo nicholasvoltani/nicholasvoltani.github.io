@@ -14,7 +14,7 @@ All points equivalent to each other belong to the same [[Equivalence Class]]
 $$
 [x] = \{y \in X \mid y \sim x\}
 $$
-Note that [[All equivalence classes are disjoint]], since having a single point in common makes them the same class.
+Note that [[All different equivalence classes are disjoint]], since having a single point in common makes them the same class.
 
 # Examples
 One can prove that [[All pseudometric spaces induce metric spaces]] via the equivalence relation $x \sim y \iff d(x,y) = 0$. 

@@ -10,7 +10,7 @@ up:: [[061 MOC Macroeconomia]]
 
 A política fiscal de um governo trata sobre o ajuste dos [[Gastos Públicos (Macroeconomia)]] e de [[Impostos (Macroeconomia)]], a fim de influenciar a economia nacional.
 
-A ideia é de auxiliar a equilibração do [[Produto Interno Bruto]] (ou seja, a [[Demanda Agregada]]) do país: 
+A ideia é de auxiliar a equilibração do [[Produto Interno Bruto]] (ou seja, a [[Despesa Agregada]]) do país: 
 - [[Política Fiscal Expansionista]]: Se a demanda agregada está em baixa, o governo pode promover políticas públicas para empregar mais pessoas[^1] e/ou redução de impostos, a fim de incentivar a atividade econômica
 - [[Política Fiscal Contracionista]]: Se a demanda agregada está em alta, o governo reduz os gastos públicos e/ou aumenta os impostos, a fim de coibir a atividade econômica
 

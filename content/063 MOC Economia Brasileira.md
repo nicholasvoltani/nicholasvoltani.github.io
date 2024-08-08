@@ -1,8 +1,8 @@
 ---
 date: " 2024-08-04"
 tags:
-  - moc
   - economics
+  - moc
 aliases:
 ---
 

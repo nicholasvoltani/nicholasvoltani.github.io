@@ -23,10 +23,10 @@ Ele pode ser medido de duas formas equivalentes: pela ótica das despesas, e pel
 Exemplo simples dado em [Lecture 2: Basic Macroeconomic Concepts - YouTube](https://youtu.be/kmUPK9AIE64?list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQxkb&t=890).
 
 Vendo pela ótica da [[Despesa Agregada]] – isto é, da **destinação final** dos produtos –, vemos que o PIB é composto pela soma
-- Consumo (das famílias/indivíduos)
-- Gastos Públicos (Macroeconomia) (do governo[^2])
-- Investimentos (Macroeconomia) (das empresas[^3])
-- Saldo **"líquido" saindo** da economia – $\text{Exportações} - \text{Importações}$
+- [[Consumo Agregado|Consumo]] (das famílias/indivíduos)
+- [[Gastos Públicos (Macroeconomia)]] (do governo[^2])
+- [[Investimentos (Macroeconomia)]] (das empresas[^3])
+- Saldo de [[Exportações Líquidas (Macroeconomia)]] 
 
 Ou seja, o PIB é a soma dos valores dos bens e serviços destinados ao consumo (individual, governamental ou de composição bruta de [[Capital Fixo]]), estoques gerados por empresas (e.g. produção excedente) e exportações, menos o valor total incorrido por importações (visto como ônus do país, numericamente).
 

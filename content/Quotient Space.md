@@ -11,7 +11,7 @@ X/\sim = \{[x] \mid x \in X\}
 $$
 is called its quotient space.
 
-Note that each equivalence class can be seen as different elements from each other, since [[All equivalence classes are disjoint]].
+Note that each equivalence class can be seen as different elements from each other, since [[All different equivalence classes are disjoint]].
 
 # Examples of quotient spaces
 $\mathbb{Z}_2 = \{0, 1\}$ can be seen as $\mathbb{Z} / \sim$ with 
