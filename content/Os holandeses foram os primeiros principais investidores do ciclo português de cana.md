@@ -11,7 +11,7 @@ up:: [[063 MOC Economia Brasileira]]
 > 
 > E não somente com sua experiência comercial contribuíram os holandeses. Parte substancial dos capitais requeridos pela empresa [empreitada] açucareira [portuguesa] viera dos Países-Baixos. Existem indícios abundantes de que os capitalistas holandeses não se limitaram a financiar a **refinação e comercialização** do produto. Tudo indica que capitais flamengos participaram no **financiamento das instalações produtivas** no Brasil bem como no da **importação da mão-de-obra escrava**." (FURTADO, p. 10-11; grifo e destaques meus)
 
-Posto que os holandeses no século XV e XVI eram os principais comerciantes de açúcar na Europa, eles buscaram apoderar-se de toda a cadeira de produção desta mercadoria quanto eram capazes. Naturalmente interessaram-se pela empreitada portuguesa, especialmente devido à seu alto rendimento e lucratividade. 
+Posto que os holandeses no século XV e XVI eram os principais comerciantes de açúcar na Europa, eles buscaram apoderar-se de toda a cadeira de produção desta mercadoria quanto eram capazes. Naturalmente interessaram-se pela empreitada portuguesa em seu [[Ciclo colonial da cana-de-açúcar]] (em particular no Brasil), especialmente devido à seu alto rendimento e lucratividade. 
 
 Inclusive, era quase como se a *supply chain* inteira do açúcar estivesse sob sua hegemonia; restava a Portugal as terras, os braços e os produtos brutos pré-refinação vindos da empreitada canavieira.
 

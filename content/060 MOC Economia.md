@@ -12,3 +12,5 @@ up:: [[index]]
 
 # [[063 MOC Economia Brasileira]]
 
+# [[064 MOC Estatística em Economia]]
+

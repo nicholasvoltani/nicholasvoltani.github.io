@@ -23,7 +23,9 @@ $$
 x_{2} = \frac{m}{p_{2}} - \frac{p_{1}}{p_{2}}x_{1}
 $$
 
-O termo $-\frac{p_{1}}{p_{2}}$ trata-se da [[Taxa Marginal de Substituição]]: para cada $\Delta x_{1}$ a mais do bem $1$, prefere-se um decréscimo $-\frac{p_{1}}{p_{2}}\Delta x_{2}$ do bem $2$.
+O termo $-\frac{p_{1}}{p_{2}}$ trata-se da [[Custo de Oportunidade]] de $x_{2}$ com relação a $x_{1}$: abdicar de $1$ unidade do bem $1$ me permite obter $\frac{p_{1}}{p_{2}}$ unidades do bem $2$.
+
+Usualmente fala-se de custos de oportunidade com relação à [[Taxa Marginal de Substituição]] de alguma [[Curva de Indiferença]]: de nada me vale saber do quanto abdicar de uma unidade me permite ganhar outra se eu não tenho alguma **"valoração"** dessa escolha (que vem via [[Função Utilidade]])! 
 
 # Alterações de restrição orçamentária
 ## Aumentos de renda expandem o conjunto orçamentário (preços constantes de bens)
@@ -34,7 +36,7 @@ O aumento da renda reflete-se numa maior restrição orçamentária $m' > m$. De
 ## Aumento dos preços de bens diminuem o conjunto orçamentário (renda constante)
 ![[Pasted image 20240806145610.png]]
 
-Intuitivamente, quando os preços ($p_{1}$) aumentam e a renda ($m$) permanece constante, temos que o conjunto orçamentário restringe-se.
+Intuitivamente, quando os preços ($p_{1}$) aumentam e a renda ($m$) permanece constante, temos que o conjunto orçamentário restringe-se. Para $p_{2}$ idem, porém com uma redução do coeficiente linear (intercepto com eixo $y$).
 
 ---
 ### References

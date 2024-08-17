@@ -7,9 +7,9 @@ aliases:
 
 up:: [[061 MOC Macroeconomia]]
 
-A renda líquida enviada ao exterior de um país consiste no saldo entre (a renda que flui para fora do país) menos (a renda que flui para dentro do país).
+A renda líquida enviada ao exterior de um país consiste no saldo entre (a renda que flui para fora do país) menos (a renda que flui para dentro do país). 
 
-Países essencialmente exportadores, como as antigas colônias[^1], possuem $RLEE > 0$.
+O Brasil é um bom exemplo em que $RLEE > 0$, pelo lucro de **multinacionais** que acaba afluindo para o exterior.
 
 O RLEE é uma parte componente do [[Produto Interno Bruto]], de acordo com a fórmula
 $$
@@ -21,5 +21,4 @@ Enquanto o [[Produto Nacional Bruto]] consiste na renda gerada dentro do país *
 ---
 ### References
 - **LOPES**, Luiz Martins et al. Manual de macroeconomia: nível básico e nível intermediário. 1997.
-
-[^1]: Tanto no passado como no presente, usualmente...
+- [Introdução à Economia e à Macroeconomia (Aula 1, parte 4) - Profª Denise Cavallini Cyrillo, FEA-USP](https://www.youtube.com/watch?v=-jGMUuRX-JI&list=PLAudUnJeNg4ucge70eV3L8Tmy19u6GIC6&index=4)

@@ -14,7 +14,7 @@ A ideia é de auxiliar a equilibração do [[Produto Interno Bruto]] (ou seja, a
 - [[Política Fiscal Expansionista]]: Se a demanda agregada está em baixa, o governo pode promover políticas públicas para empregar mais pessoas[^1] e/ou redução de impostos, a fim de incentivar a atividade econômica
 - [[Política Fiscal Contracionista]]: Se a demanda agregada está em alta, o governo reduz os gastos públicos e/ou aumenta os impostos, a fim de coibir a atividade econômica
 
-A mera redução de impostos não necessariamente é uma política expansionária útil, pois pode levar os indivíduos a pouparem o dinheiro "excedente" ([[Armadilha da Liquidez]]); a nível nacional, essa tendência generalizada a poupar o dinheiro restante pode, em casos extremos, causar recessões econômicas ([[Paradoxo da Poupança]]).
+A mera redução de impostos não necessariamente é uma política expansionária útil, pois pode levar os indivíduos a pouparem o dinheiro "excedente" ([[Armadilha da Liquidez]]); a nível nacional, essa tendência generalizada a poupar o dinheiro restante pode, em casos extremos, causar recessões econômicas ([[Paradoxo da Parcimônia]]).
 
 ---
 ### References

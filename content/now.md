@@ -12,15 +12,16 @@ up:: [[index]]
 
 # 2024
 ## August 2024
-
+I'm basically hyperfocusing on studying Economics. I loved learning more about [[061 MOC Macroeconomia|Macroeconomics]], it was super fun and elucidating. [[062 MOC Microeconomia|Microeconomics]] was, ironically, not so fun; it seemed like too much of a stretch. 
 
 **Interesting content of the month**:
 - [I no longer aspire to have a career. - Katherout](https://www.youtube.com/watch?v=nKFypHcnGu4). Great video summarizing reasons of discontentment over a lifetime's worth of toiling away at alienating jobs. 
+- [Letting Go Of God - Julia Sweeney](https://www.youtube.com/watch?v=C74-f4ZV-ss). Simply **amazing** monologue of Julia Sweeney on her history of reconciling herself with religion and God – or rather, of her, ahem, *letting go of God*. Incredibly funny, and incredibly profound. While I was watching it, I literally thought "God, *this* is why the Internet is such a blessing: so that I can experience *this* incredible piece of art!". I still have to write about some of my very own bouts with God and religiousness/spirituality. Someday.
 
 ## July 2024
 I'm currently talking with my most-likely-soon-to-be Master's advisor on Complex Systems, and so I'm reading his thesis on [[Kuramoto Model]]s on Complex Systems. I have plenty of ideas for papers/research... although not that many seem to have something to do with his thesis, yet. I'm also updating the MOC [[040 MOC Complex Systems]]. 
 
-...Yeah, that didn't last long. In a dramatic, but not too unexpected, turn of events, I've finally decided to chase a Political Economy Master's Degree! If I'm to study Marx and Hegel for real, then it's best for me to just get going. I also finally conceded to getting to learn Economics for real, and it's being fun! I just have to learn Macroeconomics, Microeconomics and Brazilian Economics (and review Statistics, and brush up on Calculus problems) to attempt the [ANPEC exam](https://exame.anpec.org.br/index.php?r=site/index), in one and a half month. Here we go... (Se quiser checar como estou indo, [[060 MOC Economia]].)
+...Yeah, that didn't last long. In a dramatic, but not too unexpected, turn of events, I've finally decided to chase a Political Economy Master's Degree! If I'm to study Marx and Hegel for real, instead of taking a mathematical detour then getting back to it afterwards, it's best for me to just get going towards it. I also finally conceded to getting to learn Economics for real, and it's being fun! I just have to learn Macroeconomics, Microeconomics and Brazilian Economics (and review Statistics, and brush up on Calculus problems) to attempt the [ANPEC exam](https://exame.anpec.org.br/index.php?r=site/index), in one and a half month. Here we go... (Se quiser checar como estou indo, [[060 MOC Economia]].)
 
 I also presented [Black Sheep (from the Scott Pilgrim movie)](https://www.youtube.com/watch?v=1xcSDYy3Dl4), on the drums, at my music school's recital, on July 15th ([Exchangeagram post](https://www.instagram.com/p/C9hxNY1OBgt/?img_index=1)). Modesty aside, but I've made an **insane** amount of progress in these last 2 months, that are basically all the time that I've played drums at all (disregarding the 2 months that I've had classes in January/February, since I didn't practice at home at all). I was super nervous of getting something wrong and getting stuck in front of everyone... but, at the end, my performance was the most lively – aside from the school's founder, who sang I Will Always Love You, from Whitney Houston... yeah, can't compete with that! On to the next one soon.
 

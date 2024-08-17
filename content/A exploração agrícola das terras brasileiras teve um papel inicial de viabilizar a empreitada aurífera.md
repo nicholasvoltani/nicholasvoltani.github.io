@@ -15,7 +15,7 @@ Originalmente, a exploração não-mineradora das terras americanas tinha o prop
 
 No tocante a Portugal, foi uma aposta contra o avanço do domínio espanhol sobre a América, cujo "sistema de defesa estendia-se da Flórida à embocadura do Rio da Prata" (id, p. 7), ao qual a ocupação das Antilhas servia principalmente de entreposto militar.
 
-O sucesso dessa empreitada tão arriscada se deveu a vários fatores, não só da técnica portuguesa de plantio de cana nas ilhas do Atlântico (Madeira, Açores), como de sua enorme lucratividade – e este foi o ponto central de seu desenvolvimento, posto que o capital envolvido e o translado de mão-de-obra escrava para seu funcionamento eram vultosos.
+O sucesso dessa empreitada tão arriscada se deveu a vários fatores, não só da técnica portuguesa de plantio de cana nas ilhas do Atlântico (Madeira, Açores), como de sua enorme lucratividade – e este foi o ponto central do desenvolvimento do [[Ciclo colonial da cana-de-açúcar]], posto que o capital envolvido e o translado de mão-de-obra escrava para seu funcionamento eram vultosos.
 
 ---
 ### References

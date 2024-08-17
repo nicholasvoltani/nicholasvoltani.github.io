@@ -30,7 +30,7 @@ Vendo pela ótica da [[Despesa Agregada]] – isto é, da **destinação final**
 
 Ou seja, o PIB é a soma dos valores dos bens e serviços destinados ao consumo (individual, governamental ou de composição bruta de [[Capital Fixo]]), estoques gerados por empresas (e.g. produção excedente) e exportações, menos o valor total incorrido por importações (visto como ônus do país, numericamente).
 
-# Cálculo do PIB pela ótica da oferta
+# Cálculo do PIB pela ótica do produto
 Por motivo de coerência, faz-se a soma do [[Valor Acrescentado Bruto]] total da economia[^4], menos os custos governamentais líquidos (impostos menos subsídios). Portanto,
 $$
 \text{PIB} = \text{VAB}_{total} + (\text{Impostos} - \text{Subsídios})

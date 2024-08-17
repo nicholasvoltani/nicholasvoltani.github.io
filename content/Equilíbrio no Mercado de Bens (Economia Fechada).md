@@ -11,26 +11,26 @@ up:: [[061 MOC Macroeconomia]]
 
 Supondo um [[Modelo Keynesiano Simples]]
 $$
-C(Y) = c_{0} + c_{1} Y
+C(Y) = c_{0} + c_{1} (Y-T)
 $$
-em que o [[Consumo Agregado]] é função linear da [[Renda Agregada]], temos que a condição de equilíbrio
+em que o [[Consumo Agregado]] é função linear da renda disponível ([[Renda Agregada]] menos [[Impostos (Macroeconomia)]]), temos que a condição de equilíbrio é
 $$
 Y = C + I + G + (X-IM)
 $$
 
 Supondo uma [[Economia Fechada]], temos que
 $$
-Y = c_{0} + c_{1}Y + I + G
+Y = c_{0} + c_{1}(Y-T) + I + G
 $$
 o que se reduz a
 $$
-Y = \frac{1}{1-c_{1}}(c_{0} + I + G)
+Y = \frac{1}{1-c_{1}}(c_{0} -c_{1}T + I + G)
 $$
 
 O fator $\frac{1}{1-c_{1}}$ é o chamado [[Multiplicador keynesiano]].
 
 # Cálculo através do modelo IS (investimento = poupança)
-Através da chamada [[Relação IS]], podemos também chegar no resultado acima.
+Através da chamada [[Curva IS]], podemos também chegar no resultado acima.
 
 Definimos as poupanças privadas e públicas, respectivamente, como
 $$
