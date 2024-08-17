@@ -65,11 +65,16 @@ up:: [[060 MOC Economia]]
 	- [[Isocusto]]
 	- [[O custo médio é mínimo se, e somente se, o custo marginal é igual ao custo médio]]
 - [[Imposto Específico]]
+	- [[Quanto mais inelástico, mais sensível ao imposto específico]]
 - [[Imposto Ad Valorem]]
 
 ## 2) Maximização do Lucro
 - [[Função Receita]]
 	- [[Receita Marginal]]
+	- [[Demandas inelásticas permitem maior receita com maiores preços]]
+		- $\iff$ [[Demandas inelásticas têm receita marginal negativa]]
+	- [[Demandas elásticas prejudicam a receita com maiores preços]]
+		- $\iff$ [[Demandas elásticas têm receita marginal positiva]]
 	- [[Poder de Mercado]]
 	- [[Markup]]
 - [[Função Lucro]]
@@ -82,9 +87,13 @@ up:: [[060 MOC Economia]]
 - [[Excedente do Consumidor]]
 - [[Excedente do Produtor]]
 - [[Excedente Total]]
-- [[Peso Morto]]
+- [[Perda de Peso Morto]]
 - [[O mercado é eficiente quando ele maximiza o excedente total]]
-	- $\iff$ [[O mercado é eficiente quando ele minimiza o peso morto]]
+	- $\iff$ [[O mercado é eficiente quando ele minimiza a perda de peso morto]]
+
+# Mercado de Fatores
+- [[Receita do Produto Marginal]]
+- [[Efeito Laffer]]
 
 # Tipos de Concorrência de Mercado
 - [[Competição Perfeita]]
@@ -92,6 +101,16 @@ up:: [[060 MOC Economia]]
 - [[Oligopólio]]
 	- [[Cartel]]
 	- [[Truste]]
+
+# Teoria dos Jogos
+- [[Melhor Resposta]]
+- [[Forma Estendida do Jogo]]
+- [[Jogo Estritamente Competitivo]]
+- [[Jogo Solucionável por Dominância]]
+- [[Jogo com Informação Perfeita]]
+- [[Modelo de Cournot]]
+	- [[Equilíbrio de Cournot]]
+- [[Competição de Bertrand]]
 
 
 ## Referências
