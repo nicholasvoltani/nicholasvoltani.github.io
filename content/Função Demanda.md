@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062 MOC Microeconomia]]
+up:: [[062a MOC Teoria do Consumidor]]
 
 As funções de demanda de uma [[Cesta de Bens]] são as funções
 $$

@@ -6,7 +6,7 @@ aliases:
   - Utilidade
 ---
 
-up:: [[062 MOC Microeconomia]]
+up:: [[062a MOC Teoria do Consumidor]]
 
 Uma função $U: D \subseteq \mathbb{R}^{n}_{+} \to \mathbb{R}$ é dita ser uma função utilidade se, e somente se, ela induz [[Preferências bem-comportadas]] sobre seu domínio.
 

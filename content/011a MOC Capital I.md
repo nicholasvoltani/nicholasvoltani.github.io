@@ -68,6 +68,7 @@ up:: [[011 MOC Marx]]
 	- [[Subsunção Real do Trabalho pelo Capital]] (relacionada ao Mais-Valor Relativo)
 - [[O Capital, I ─ Cap 17, 18, 19; Sobre o salário]]
 	- [[Preço da força de trabalho]]
+	- [[Trabalho Assalariado]] (mencionado em [[Economia Agroexportadora]])
 	- [[Salário]]
 		- [[O salário como forma mistificada do valor da força de trabalho]]
 	- [[Salário por tempo]]

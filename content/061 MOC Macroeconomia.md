@@ -62,6 +62,10 @@ up:: [[060 MOC Economia]]
 - [[Taxa de Câmbio]]
 	- [[Taxa Nominal de Câmbio]]
 	- [[Taxa Real de Câmbio]]
+	- [[Apreciação Cambial]]
+	- [[Desvalorização Cambial]]
+- [[Regime de Câmbio Fixo]]
+- [[Regime de Câmbio Flutuante]]
 
 ## Políticas
 - [[Política Fiscal]]

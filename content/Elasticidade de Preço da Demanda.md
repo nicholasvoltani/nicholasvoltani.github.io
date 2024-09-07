@@ -6,7 +6,7 @@ aliases:
   - Elasticidade-Preço da Demanda
 ---
 
-up:: [[062 MOC Microeconomia]]
+up:: [[062a MOC Teoria do Consumidor]]
 
 A elasticidade-preço da demanda de um bem em uma [[Cesta de Bens]] é dada por
 $$

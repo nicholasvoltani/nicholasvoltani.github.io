@@ -22,35 +22,9 @@ up:: [[060 MOC Economia]]
 - [[Bens de Giffen]]
 	- [[Todo bem de Giffen é um bem inferior]]
 
-# Problema de Otimização do Consumidor
-## 1) Maximização da Utilidade
-- [[Preferências do Consumidor]]
-	- [[Preferências bem-comportadas]]
-- [[Curva de Indiferença]]
-	- [[Conjunto fracamente preferido]]
-- [[Função Utilidade]]
-	- [[Utilidade Marginal]]
-	- [[Utilidade quase-linear]]
-	- [[Função de Cobb-Douglas]]
-	- [[Funções monotônicas preservam curvas de indiferença]]
-- [[Taxa Marginal de Substituição]]
-	- [[Dada uma restrição orçamentária, a taxa marginal de substituição é a razão das utilidades marginais]]
-- [[Função Demanda]]
-	- [[Curva de Engel]]
-	- [[Curva de Demanda]]
-- [[Elasticidade de Preço da Demanda]]
-- [[Elasticidade de Renda da Demanda]]
-- [[Curva de Renda-Consumo]]
-- [[Curva de Preço-Consumo]]
-- [[Demanda Marshalliana]]
+# [[062a MOC Teoria do Consumidor]]
 
-## 2) Minimização do Dispêndio
-- [[Função Dispêndio]]
-- [[Demanda Hicksiana]]
-	- [[Lema de Shepard]]
-- [[Equação de Slutsky]]
-	- [[Compensação de Slutsky]]
-
+# [[062b MOC Teoria da Firma]]
 # Problema de Otimização da Firma
 ## 1) Minimização do Custo
 - [[Função Produção]]
@@ -90,6 +64,9 @@ up:: [[060 MOC Economia]]
 - [[Perda de Peso Morto]]
 - [[O mercado é eficiente quando ele maximiza o excedente total]]
 	- $\iff$ [[O mercado é eficiente quando ele minimiza a perda de peso morto]]
+- [[Externalidade]]
+- [[Função de Bem-Estar Social de Bentham]]
+- [[Função de Bem-Estar Social de Rawls]]
 
 # Mercado de Fatores
 - [[Receita do Produto Marginal]]
@@ -112,7 +89,12 @@ up:: [[060 MOC Economia]]
 	- [[Equilíbrio de Cournot]]
 - [[Competição de Bertrand]]
 
+# Problemas Atuariais
+- [[Assimetria de Informação]]
+- [[Seleção Adversa]]
+- [[Risco Moral]] (*Moral Hazard*)
 
 ## Referências
 - VARIAN, Hal. **Microeconomia**: uma abordagem moderna. 9 ed. Elsevier, 2015.
 - [MIT 14.01 Principles of Microeconomics, Fall 2018 - MIT OpenCourseWare (Jonathan Gruber)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-)
+- [MIT 14.04 Intermediate Microeconomic Theory, Fall 2020 - MIT OpenCourseWare (Robert Townsend)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63wnrKge9vllow3Y2OOOKqF)

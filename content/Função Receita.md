@@ -3,6 +3,7 @@ date: " 2024-08-17"
 tags:
   - economics
 aliases:
+  - Receita
 ---
 
 up:: [[062 MOC Microeconomia]]

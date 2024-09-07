@@ -4,6 +4,7 @@ tags:
   - economics
 aliases:
   - Demandas Marshallianas
+  - Demanda Não-Compensada
 ---
 
 up:: [[Função Utilidade]]
@@ -34,6 +35,10 @@ x_{2}^{*}(p_{1},p_{2},m) = (1-\alpha)\frac{m}{p_{2}}
 \end{cases}
 $$
 
+# Relação com demanda hicksiana
+Demandas marshallianas são também chamadas demandas *não-compensadas* – i.e. são afetadas por [[Efeito de Substituição]] quanto por [[Efeito Renda]] –, em contraste com [[Demanda Hicksiana]] que são demandas *compensadas* – i.e. são afetadas somente pelo efeito substituição.
+
 ---
 ### References
 - [What is Marshallian Demand? - YouTube](https://www.youtube.com/watch?v=UweFIdfxunU)
+- [Lecture 3: Income and Substitution Effects - MIT OpenCourseWare (Robert Townsend)](https://www.youtube.com/watch?v=DGoILxx9KsE&list=PLUl4u3cNGP63wnrKge9vllow3Y2OOOKqF&index=3)

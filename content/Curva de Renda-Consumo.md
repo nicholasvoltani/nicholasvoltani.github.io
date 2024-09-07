@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062 MOC Microeconomia]]
+up:: [[062a MOC Teoria do Consumidor]]
 
 ![[Pasted image 20240807151203.png]]
 
