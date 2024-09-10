@@ -7,7 +7,7 @@ tags:
 up:: [[240903 Notas Economia Brasileira]]
 
 # Primeira Guerra Mundial (1914-1918)
-Brasil saem dos anos de ouro (~1906-1910/1912), com a [[Caixa de Conversão (1906)]] e [[1º Plano de Valorização do Café]]. Capital vem para financiar o café (e borracha momentaneamente), estocagens para estabilizar os preços, uns dos quais conseguem já serem vendidos, preços do café subindo etc. Condições bem favoráveis.
+Brasil saem dos anos de ouro (~1906-1910/1912), com a [[Caixa de Conversão (1906)]] e [[Convênio de Taubaté (1906)|1º Plano de Valorização do Café]]. Capital vem para financiar o café (e borracha momentaneamente), estocagens para estabilizar os preços, uns dos quais conseguem já serem vendidos, preços do café subindo etc. Condições bem favoráveis.
 
 Porém, [[Política Monetária|Políticas Monetárias]] são apertadas desde Murtinho: políticas de [[Padrão-Ouro]] restringem emissões grandemente. [[Taxa de Juros|Taxas de Juros]] caem. 
 

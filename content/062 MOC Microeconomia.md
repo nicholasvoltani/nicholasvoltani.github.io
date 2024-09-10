@@ -34,6 +34,7 @@ up:: [[060 MOC Economia]]
 		- [[Dada uma função custo, a taxa marginal de substituição técnica é a razão dos produtos marginais]]
 	- [[Função de Cobb-Douglas]] (de novo)
 	- [[Função de Leontief]]
+- [[Economia de Escala]]
 - [[Função Custo]]
 	- [[Custo Marginal]]
 	- [[Isocusto]]

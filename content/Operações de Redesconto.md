@@ -3,6 +3,7 @@ date: " 2024-08-05"
 tags:
   - economics
 aliases:
+  - Taxa de Redesconto
 ---
 
 up:: [[Política Monetária]]

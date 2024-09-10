@@ -35,6 +35,8 @@ Portanto, demandar a "diminuição da produção" em momentos de excesso de ofer
 
 Como eram uma parte totalmente não-desprezível da economia brasileira, a melhor decisão seria proteger os produtores de café, a fim de evitar piores consequências à economia como um todo. 
 
+Naturalmente, porém, os impactos que eram herdados pelo resto da população eram maiores do que para os produtores de café: sucederam-se vários momentos de instabilidade social, minando parte da hegemonia que a oligarquia cafeeira possuía logo do começo da República.
+
 ---
 ### References
 - FURTADO, Celso. **Formação econômica do Brasil**. 13 ed. Editora Nacional, São Paulo, 1975.

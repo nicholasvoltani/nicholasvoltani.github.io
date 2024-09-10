@@ -147,7 +147,7 @@ Objetivo é conversibilidade (valorização da taxa de câmbio): é atingida, ma
 
 ![[Pasted image 20240903181249.png]]
 
-## [[Encilhamento (1891)]]
+## [[Encilhamento]]
 Foi um processo de especulação na Bolsa de Valores do Rio de Janeiro, aumentos bem altos das ações. (Tenha-se em vista que houve uma facilitação da criação de Sociedades Autônomas com Rui Barbosa.)
 
 ## Desvalorização cambial 1891

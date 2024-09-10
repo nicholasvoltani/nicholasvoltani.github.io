@@ -15,6 +15,9 @@ related:: [[0x2 MOC História]]
 [[240904 Notas Economia Brasileira]]
 [[240905 Notas Economia Brasileira]]
 [[240906 Notas Economia Brasileira]]
+[[240909 Notas Economia Brasileira]]
+[[240910 Notas Economia Brasileira]]
+
 
 # Período Colonial (1500 - 1822)
 - [[A exploração agrícola das terras brasileiras teve um papel inicial de viabilizar a empreitada aurífera]]
@@ -31,6 +34,8 @@ related:: [[0x2 MOC História]]
 - [[Desvalorização Cambial]]
 	- Furtado: [[Socialização das Perdas]]
 	- [[A desvalorização cambial protetiva ocultava informações de mercado sobre excedente de oferta de café na República Velha]]
+- [[Moeda Fiduciária|Emissão Inconversível]]
+- [[Colonato]]
 ## Marechal Deodoro da Fonseca (1889-1891)
 Ministro da Economia: **Rui Barbosa** (essencialmente)
 - [[Padrão-Ouro]]
@@ -38,7 +43,10 @@ Ministro da Economia: **Rui Barbosa** (essencialmente)
 	- [[Papelismo]]
 - [[Lei Bancária (1890)]]
 	- Lastro **completo** de emissões bancárias em título da dívida pública (0% de lastro em ouro!!! Completo oposto do metalismo!)
-- [[Encilhamento (1891)]]
+- [[Encilhamento]]
+	- Argentina: [[Crise Baring (1890)]]
+		- A ler: [A crise Baring e a crise do Encilhamento nos quadros da economia-mundo capitalista - Felipe Amin Filomeno](https://www.scielo.br/j/ecos/a/Bp4t7wsbQfqPV4gZSwv4m4v/)
+- [[A Constituição de 1891 concede maior autonomia econômico-política aos Estados]]
 
 ## Floriano Peixoto (1891-1894)
 
@@ -49,9 +57,9 @@ Ministro da Economia: **Joaquim Murtinho** ☠️
 
 ## Campos Salles (1898-1902)
 
+
 ## Rodrigues Alves (1902-1906)
-- [[Convênio de Taubaté (1906)]]
-	- [[1º Plano de Valorização do Café]]
+- [[Convênio de Taubaté (1906)]] (1º Plano de Valorização do Café)
 
 ## Afonso Pena (1906-1909)
 [[Caixa de Conversão (1906)]]
@@ -81,27 +89,63 @@ Ministro da Economia: **Joaquim Murtinho** ☠️
 
 # Era Vargas (1930 - 1945)
 ## Segunda República (1930-1937)
-- [[Crise de 1929]]
-- [[Revolução de 1930]]
-- [[Substituição das Importações]]
+[[Crise de 1929]]
+[[Revolução de 1930]]
 
+[[Substituição das Importações]]
+
+### Governo Revolucionário (1930-1934)
+[[Desenvolvimentismo]]
+
+Relação com Estados Unidos (e atritos):
+[[Missão Niemeyer (1931)]]
+[[3º Funding Loan (1931)]]
+[[Comércio Compensado]]
+
+
+[[Lei da Usura (1933)]]
+### Governo Constitucional (1934-1937)
+- [[IBGE (1936)]]
 ## Terceira República – Estado Novo (1937-1945)
-[[Acordo de Bretton-Woods (1944)]]
+[[Acordos de Washington (1942)]]
 
-[[Fundo Monetário Internacional]]
+[[Missão Cooke (1943)]]
+
+- [[Acordo de Bretton-Woods (1944)]]
+	- [[Fundo Monetário Internacional]]
+	- [[Banco Mundial]]
+
+Medidas nacionais:
+- [[SUMOC]]
+- Mercado de Trabalho:
+	- [[CLT (1943)]]
+	- Salário Mínimo estava previsto desde lei de 1936 e 1938, porém possui valores fixados somente em 1940, efetivamente implementando-o em 1940
+- Setores intermediários da indústria:
+	- [[Companhia Siderúrgica Nacional (1942)]]
+	- [[Vale do Rio Doce (1942)]]
+	- [[Fábrica Nacional de Motores (1943)]]
+	- [[Companhia Hidroelétrica do São Francisco (1945)]]
+
 # Quarta República – Pós-Guerra (1946-1964)
 
 [[Subdesenvolvimento]]
 
 ## Eurico Gaspar Dutra (1946-1951)
+[[Missão Abbink (1947)]]
 
-## Getúlio Vargas (de novo) (1951-1954)
+[[Plano SALTE]]
 
-## Café Filho/Carlos Luz/Nereu Ramos (1954-1956)
+
+## Getúlio Vargas II (1951-1954)
+[[Comissão Mista Brasil-Estados Unidos (1951)]]
+
+[[Instrução 70 - SUMOC (1953)]]
+
+## Café Filho (1954-1956)
+[[Instrução 113 - SUMOC (1955)]]
+
 
 ## Juscelino Kubitschek (1956-1961)
-[[SUMOC]]
-[[Nacional-desenvolvimentismo]]
 [[Plano de Metas (JK)]]
 
 ## Jânio Quadros 👓 (1961)

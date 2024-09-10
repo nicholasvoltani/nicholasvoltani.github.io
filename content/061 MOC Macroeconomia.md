@@ -18,6 +18,7 @@ up:: [[060 MOC Economia]]
 - [[Exportações Líquidas (Macroeconomia)]]
 	- [[Exportações (Macroeconomia)]]
 	- [[Importações (Macroeconomia)]]
+	- [[Termos de Troca]]
 - [[Impostos (Macroeconomia)]]
 - [[Poupança (Macroeconomia)]]
 	- [[Poupança Privada]]
@@ -40,11 +41,13 @@ up:: [[060 MOC Economia]]
 	- [[Papel Moeda em Poder do Público]]
 	- [[Depósito à Vista]]
 	- [[Multiplicador Bancário]]
+- [[Moeda Fiduciária]] (Emissão Inconversível)
 - [[Taxa de Juros]]
 	- [[Taxa Nominal de Juros]]
 	- [[Taxa Real de Juros]]
 - [[Recessão]]
 	- [[Depressão (Macroeconomia)]] (sempre bom desambiguar)
+- [[Crise de Liquidez]]
 
 ## Mercado de Trabalho
 - [[Inflação]]
@@ -62,8 +65,6 @@ up:: [[060 MOC Economia]]
 - [[Taxa de Câmbio]]
 	- [[Taxa Nominal de Câmbio]]
 	- [[Taxa Real de Câmbio]]
-	- [[Apreciação Cambial]]
-	- [[Desvalorização Cambial]]
 - [[Regime de Câmbio Fixo]]
 - [[Regime de Câmbio Flutuante]]
 
@@ -75,6 +76,9 @@ up:: [[060 MOC Economia]]
 	- [[Política Monetária Expansionista]]
 	- [[Política Monetária Contracionista]]
 	- [[Armadilha da Liquidez]]
+- [[Política Cambial]]
+	- [[Apreciação Cambial]]
+	- [[Desvalorização Cambial]]
 
 # Curto-prazo: Demanda Agregada
 ## [[Economia Fechada]]
@@ -115,6 +119,7 @@ up:: [[060 MOC Economia]]
 
 ### Referências
 - [MIT 14.02 Principles of Macroeconomics, Spring 2023 - Ricardo Caballero](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQxkb)
+- MANKIW, N. Gregory et al. **Principles of macroeconomics**. 2007. Disponível em: [https://shorturl.at/pfCLA](https://shorturl.at/pfCLA)
 - **LOPES**, Luiz Martins et al. Manual de macroeconomia: nível básico e nível intermediário. 1997.
 - BLANCHARD, Olivier; JOHNSON, David. R.. **Macroeconomics**. Pearson, 6 ed., 2013.
 - [Economics - CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO). Excelente e extremamente útil para ver o *big picture* que eu preciso ter para a ANPEC, apesar de ter me mostrado o quão burguesa a disciplina de Economia é, no estado atual das coisas.
