@@ -10,6 +10,7 @@ up:: [[061 MOC Macroeconomia]]
 
 
 
+
 ---
 ### References
 - [Lecture 20: The Mundell-Fleming Model - MIT OpenCourseWare (Ricardo Caballero, 2023)](https://www.youtube.com/watch?v=ucPrWHF_5Lc&list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQxkb&index=20)

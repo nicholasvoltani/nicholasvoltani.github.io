@@ -4,6 +4,7 @@ tags:
   - economics
 aliases:
   - Depósitos Compulsórios
+  - Compulsório
 ---
 
 up:: [[Política Monetária]]

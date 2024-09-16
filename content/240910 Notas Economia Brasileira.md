@@ -133,7 +133,7 @@ Tripé de capitais: capital **estatal**, capital privado **nacional**, capital p
 
 Relação com [[Substituição das Importações]]: reagir a estrangulamentos externos, estágios mais complexos de substituição de setores industriais (máquinas e equipamentos), criar melhores relações intersetoriais[^2]/*integração vertical*.
 
-**Lei 3244/1957**: política comercial
+**Lei 3244/1957** (Reforma Cambial): política comercial
 - Câmbio múltiplo:
 	- Manutenção de leilões
 	- Menor número de faixas de câmbio múltiplo: *geral* (essencial) e *específica* (resto). 

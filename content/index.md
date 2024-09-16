@@ -35,6 +35,10 @@ Maps of Content are aggregations of notes with the same "theme". Here's the main
 	- [[026 MOC Topology]]
 	- [[028 MOC Category Theory]]
 	- [[040 MOC Complex Systems]]
+- [[060 MOC Economia]]
+	- [[061 MOC Macroeconomia]]
+	- [[062 MOC Microeconomia]]
+	- [[063 MOC Economia Brasileira]]
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 
 up:: [[061 MOC Macroeconomia]]
 
-> "Investimento é a aquisição de bens de produção ou bens de capital que visam aumentar a capacidade produtiva da economia e, portanto, a oferta de produtos no período seguinte. É também chamado taxa de acumulação de capital. Os componentes do investimento são as aquisições de máquinas, equipamentos e edifícios (a chamada formação bruta de capital fixo), e a acumulação de estoques." (LOPES, p. 22-3)
+> "Investimento é a aquisição de bens de produção ou bens de capital **que visam aumentar a capacidade produtiva da economia** e, portanto, a oferta de produtos no período seguinte. É também chamado taxa de acumulação de capital. Os componentes do investimento são as aquisições de máquinas, equipamentos e edifícios (a chamada formação bruta de capital fixo), e a acumulação de estoques." (LOPES, p. 22-3; grifo meu)
 
 Investimentos compõem os gastos necessários de uma empresa no tocante à produção. 
 

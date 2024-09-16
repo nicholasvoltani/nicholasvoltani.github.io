@@ -17,6 +17,11 @@ related:: [[0x2 MOC História]]
 [[240906 Notas Economia Brasileira]]
 [[240909 Notas Economia Brasileira]]
 [[240910 Notas Economia Brasileira]]
+[[240911 Notas Economia Brasileira]]
+[[240912 Notas Economia Brasileira]]
+[[240913 Notas Economia Brasileira]]
+[[240914 Notas Economia Brasileira]]
+[[240915 Notas Economia Brasileira]]
 
 
 # Período Colonial (1500 - 1822)
@@ -92,6 +97,8 @@ Ministro da Economia: **Joaquim Murtinho** ☠️
 [[Crise de 1929]]
 [[Revolução de 1930]]
 
+[[Populismo]]
+
 [[Substituição das Importações]]
 
 ### Governo Revolucionário (1930-1934)
@@ -106,6 +113,7 @@ Relação com Estados Unidos (e atritos):
 [[Lei da Usura (1933)]]
 ### Governo Constitucional (1934-1937)
 - [[IBGE (1936)]]
+
 ## Terceira República – Estado Novo (1937-1945)
 [[Acordos de Washington (1942)]]
 
@@ -128,7 +136,6 @@ Medidas nacionais:
 
 # Quarta República – Pós-Guerra (1946-1964)
 
-[[Subdesenvolvimento]]
 
 ## Eurico Gaspar Dutra (1946-1951)
 [[Missão Abbink (1947)]]
@@ -139,57 +146,127 @@ Medidas nacionais:
 ## Getúlio Vargas II (1951-1954)
 [[Comissão Mista Brasil-Estados Unidos (1951)]]
 
+[[Banco Nacional de Desenvolvimento Econômico (1952)]]
+
 [[Instrução 70 - SUMOC (1953)]]
 
 ## Café Filho (1954-1956)
 [[Instrução 113 - SUMOC (1955)]]
 
-
 ## Juscelino Kubitschek (1956-1961)
 [[Plano de Metas (JK)]]
 
-## Jânio Quadros 👓 (1961)
+[[Reforma Cambial (Lei 3244/1957)]]
+
+[[Gradualismo]]
+
+## Jânio Quadros 🧹 (1961)
+[[Instrução 204 - SUMOC (1961)]]: fim da conta de ágios e bonificações.
 
 ## João Goulart (1961-1964)
+[[Plano Trienal (1963)]]
+
 [[Reformas de Base (João Goulart)]]
 
 # Quinta República – Ditadura Militar (1964 - 1985)
-[[Milagre Econômico]]
+[[Milagre Econômico (1967-1973)]]
 
 ## Humberto Castello Branco (1964-1967) 
+- [[Lei Anti-Greves (4330/1964)]]: [Memorial da Democracia - Nova lei antigreve golpeia sindicatos](https://memorialdademocracia.com.br/card/nova-lei-antigreve-golpeia-sindicatos)
+
+[[PAEG]]: [Texto original do PAEG - Disponível no BNDES](https://web.bndes.gov.br/bib/jspui/bitstream/1408/12837/1/Programa%20de%20A%c3%a7%c3%a3o%20Econ%c3%b4mica%20do%20Governo_P.pdf)
+- [[Banco Central do Brasil (1964)]]
+- [[Conselho Monetário Nacional (1964)]]
+
+[[Sistema Nacional de Crédito Rural (1965)]]
+[[Políticas de Garantia de Preços Mínimos (1966)]]
 
 ## Artur da Costa e Silva (1967-1969)
+**PED**: [[Plano Estratégico de Desenvolvimento (1968-1970)]] 
+
+[[Minidesvalorizações]] (Delfim Netto)
+- Ler depois: [Os efeitos das minidesvalorizações da taxa de câmbio sobre as exportações brasileiras (Eduardo Matarazzo Suplicy, 1974)](https://www.scielo.br/j/rae/a/Sv3Wrjw6MMMVkJnjmJdkDbN/)
 
 ## Emílio Garrastazu Médici (1969-1974)
-[[Primeira Crise Mundial do Petróleo (1973)]]
+[[Primeira Crise Mundial do Petróleo (1973)]]: fim do Milagre Econômico
+
+[[I PND (1971-1974)]]
 
 ## Ernesto Geisel (1974-1979)
-[[II PND]]
-[[Segunda Crise Mundial do Petróleo (1978)]]
+[[II PND (1974)]]: mudança do foco industrial para bens de capital e insumos
+
+[[Pacote de Abril (1977)]]: reformação política (dissolução do Congresso). 
+
+[[Segunda Crise Mundial do Petróleo (1979)]]
 
 ## João Figueiredo 🐎 (1979-1985)
+[[Guerra Irã-Iraque (1980-1988)]]
 
 
-# Sexta República – Redemocratização (1985 - ???)
+[[Crise da Dívida Externa Latinoamericana (1982)]]
+- [[Maxidesvalorização]]; [Memorial da Democracia - Economia incorpora 'palavrão' à crise](https://www.memorialdademocracia.com.br/card/economia-incorpora-palavrao-a-crise)
+- [[Transformação (dos Juros) da Dívida Externa em Dívida Interna]]
+	- [[O governo brasileiro precisou comprar os superávits primários do setor privado para pagar as dívidas externas na década de 1980]]
+
+[[Hiperinflação]] & [[Efeito Oliveira-Tanzi]]
+
 [[Inflação Inercial]]
 
-[[Plano Cruzado]]
+# Sexta República – Redemocratização (1985 - ???)
+[[Redemocratização Brasileira (1985)]]
 
-[[Plano Bresser]]
+[[Efeito Guardia-Bacha]] (efeito Oliveira-Tanzi "invertido")
+
+Proeminência dos [[Tigres Asiáticos]]
 
 ## José Sarney (1985-1990)
+[[Plano Cruzado (1986)]] (Funaro)
+- [[Moratória Brasileira (1987)]] ([Brasil declara a moratória | Acervo](https://acervo.oglobo.globo.com/fatos-historicos/brasil-declara-moratoria-9948414) em fevereiro, e anuncia pagamento no Ano Novo)
+
+[[Plano Bresser (1987)]]
+
+(Plano Feijão com Arroz em 1988)
+[[Tratado de Integração, Cooperação e Desenvolvimento (1988)]] com Argentina
+
+[[Plano Verão (1989)]] (Maílson da Nóbrega)
 
 ## Fernando Collor de Mello (1990-1992)
-[[Plano Collor]]
+[[Plano Collor I (1990)]]
 
-## Itamar Franco (1992-1995)
-[[Plano Brady]]
+[[Plano Collor II (1991)]]
+
+[[Mercosul (1991)]]: Tratado de Assunção
+
+(1992-1993: "Plano Nada")
+
+## Itamar Franco (1992-1994)
+[[Plano Real (1994)]]
+- [[Unidade Real de Valor (1994)]]
+
+[[Plano Brady (1994)]] 
+
+[[Crise do México (1994)]]
+
+Mercosul: [[Protocolo de Ouro Preto (1994)]]: adoção de Tarifa Externa Comum (TEC), formação de *união aduaneira*
 
 ## Fernando Henrique Cardoso (1995-2003)
-[[Plano Real]]
-- [[Unidade Real de Valor]]
+[[Crise Financeira Asiática (1997)]]
+
+[[Moratória Russa (1998)]]
+
+[[Crise Cambial do Brasil (1999)]]
+- [[Regime de Metas de Inflação (1999)]]
+
+[[Lei de Responsabilidade Fiscal (2000)]]
+
+[[Crise do Apagão (2001)]]
+
+[[11 de Setembro (2001)]]
 
 ## Luís Inácio "Lula" da Silva (2003 - 2011)
+[[Crise do Subprime (2007)]]
+
+[[PIIGS]]
 
 ## Dilma Rousseff (2011 - 2016)
 [[Nova Matriz Econômica]]
@@ -205,7 +282,7 @@ Medidas nacionais:
 - ABREU, Marcelo de Paiva et al. **A ordem do progresso**. Rio de Janeiro: Ed. Campus, 1990.
 - **Cinquenta anos de pensamento na CEPAL**, volume I. 2000. Disponível em: [https://repositorio.cepal.org/server/api/core/bitstreams/640d9892-3caf-4e09-80aa-cdf950649689/content](https://repositorio.cepal.org/server/api/core/bitstreams/640d9892-3caf-4e09-80aa-cdf950649689/content)
 	- TAVARES, Maria da Conceição. **Auge e declínio do processo de substituição de importações no Brasil**, 2000. In: CEPAL (Org.). *Cinquenta anos de pensamento na CEPAL*. 2000. Disponível em: [https://repositorio.cepal.org/server/api/core/bitstreams/640d9892-3caf-4e09-80aa-cdf950649689/content](https://repositorio.cepal.org/server/api/core/bitstreams/640d9892-3caf-4e09-80aa-cdf950649689/content), p. 219-237.
-	- FURTADO, Celso. **Desenvolvimento e subdesenvolvimento**. In: CEPAL (Org.). *Cinquenta anos de pensamento na CEPAL*. 2000. Disponível em: [https://repositorio.cepal.org/server/api/core/bitstreams/640d9892-3caf-4e09-80aa-cdf950649689/content](https://repositorio.cepal.org/server/api/core/bitstreams/640d9892-3caf-4e09-80aa-cdf950649689/content)
+	- FURTADO, Celso. **Desenvolvimento e subdesenvolvimento**. In: CEPAL (Org.). *Cinquenta anos de pensamento na CEPAL*. 2000. Disponível em: [https://repositorio.cepal.org/server/api/core/bitstreams/640d9892-3caf-4e09-80aa-cdf950649689/content](https://repositorio.cepal.org/server/api/core/bitstreams/640d9892-3caf-4e09-80aa-cdf950649689/content), p. 239-262.
 - **Cinquenta anos de pensamento na CEPAL**, volume II. 2000. Disponível em: [repositorio.cepal.org/server/api/core/bitstreams/c35025e8-2cf0-47a3-9f86-6b495bbffe63/content](https://repositorio.cepal.org/server/api/core/bitstreams/c35025e8-2cf0-47a3-9f86-6b495bbffe63/content)
 - [Memorial da Democracia](https://memorialdademocracia.com.br/)
-- [economia brasileira preparatorio da anpec - Amaury Gremaud](https://www.youtube.com/playlist?list=PLjS6FkCID3JVWybnF3Bo4Nq7ssZi54G8u)
+- [economia brasileira preparatorio da anpec - Amaury Gremaud (2020)](https://www.youtube.com/playlist?list=PLjS6FkCID3JVWybnF3Bo4Nq7ssZi54G8u)

@@ -10,7 +10,11 @@ up:: [[Balanço de Pagamentos]]
 
 A conta de transações correntes é a parte do balanço de pagamentos que trata sobre os pagamentos e rendas referentes ao **mercado de bens e serviços**. 
 
-> "Nesses registros [de balanço de pagamento], *toda transação que cria um direito constitui um crédito*. As exportações, por exemplo, são lançadas como crédito. Por outro lado, as importações são lançadas como débito, assim como os juros pagos ao exterior. De modo geral, podemos considerar que **toda entrada de divisas [moeda] corresponde a um crédito e toda saída a um débito**..." (LOPES, p. 35; grifo e destaques meus)
+> "Nesses registros [de balanço de pagamentos], *toda transação que cria um direito constitui um crédito*. As exportações, por exemplo, são lançadas como crédito. Por outro lado, as importações são lançadas como débito, assim como os juros pagos ao exterior. De modo geral, podemos considerar que **toda entrada de divisas [moeda] corresponde a um crédito e toda saída a um débito**..." (LOPES, p. 35; grifo e destaques meus)
+
+$$
+TC = NX - RLEE
+$$
 
 Divide-se em três partes principais: a balança comercial, a conta de serviços e rendas, e transferências unilaterais.
 
@@ -36,8 +40,6 @@ Destaques:
 
 # 3) Transferências Unilaterais (Donativos)
 São essencialmente doações feitas de um país a outro, sem contrapartida esperada. 
-
-Note-se que 
 
 
 ---

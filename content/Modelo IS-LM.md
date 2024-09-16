@@ -28,7 +28,7 @@ Fonte: BLANCHARD, JOHNSON, p. 95. Note que retrata uma política fiscal **contra
 
 A aplicação de [[Política Fiscal|Políticas Fiscais]] (*ceteris paribus*) afetam o **mercado de bens**, ou seja, há uma translação **ao longo da curva LM**.
 
-Sob o modelo IS-LM, [[Política Fiscal Expansionista]] induz um aumento do PIB, e [[Política Fiscal Contracionista]] induz uma redução, com respectivos aumento e diminuição da taxa de juros, a fim de inibir (incentivar) a produção.
+Sob o modelo IS-LM, [[Política Fiscal Expansionista]] induz um aumento do PIB, e [[Política Fiscal Contracionista]] induz uma redução, com respectivos aumento e diminuição da taxa de juros, a fim de inibir (incentivar) a produção no equilíbrio.
 
 ## Relação com Políticas Monetárias
 ![[Pasted image 20240811185001.png]]
@@ -44,6 +44,6 @@ Sob o modelo IS-LM, [[Política Monetária Expansionista]] diminui a taxa de jur
 - [Lecture 6: IS-LM, continued - MIT OpenCourseWare (Ricardo Caballero, 2023)](https://youtu.be/gYgARXwnZTk?si=33frng1nUPc6tOBg)
 - [Lecture 7: An Extended IS-LM Model - MIT OpenCourseWare (Ricardo Caballero, 2023)](https://www.youtube.com/watch?v=fkiWQZPOHXk)
 - BLANCHARD, Olivier; JOHNSON, David. R.. **Macroeconomics**. Pearson, 6 ed., 2013.
-- **LOPES**, Luiz Martins et al. Manual de macroeconomia: nível básico e nível intermediário. 1997.
+- LOPES, Luiz Martins et al. **Manual de macroeconomia: nível básico e nível intermediário**. 1997.
 
 [^1]: [[Taxa Real de Juros]].
