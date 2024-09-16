@@ -11,17 +11,17 @@ up:: [[060 MOC Economia]]
 related:: [[0x2 MOC História]]
 
 # Notas
-[[240903 Notas Economia Brasileira]]
-[[240904 Notas Economia Brasileira]]
-[[240905 Notas Economia Brasileira]]
-[[240906 Notas Economia Brasileira]]
-[[240909 Notas Economia Brasileira]]
-[[240910 Notas Economia Brasileira]]
-[[240911 Notas Economia Brasileira]]
-[[240912 Notas Economia Brasileira]]
-[[240913 Notas Economia Brasileira]]
-[[240914 Notas Economia Brasileira]]
-[[240915 Notas Economia Brasileira]]
+[[240903 Notas Economia Brasileira]]: até Caixa Conversão (1906)
+[[240904 Notas Economia Brasileira]]: até 1930
+[[240905 Notas Economia Brasileira]]: metalismo x papelismo
+[[240906 Notas Economia Brasileira]]: começo de Vargas
+[[240909 Notas Economia Brasileira]]: Vargas e Dutra
+[[240910 Notas Economia Brasileira]]: Vargas II e JK
+[[240911 Notas Economia Brasileira]]: Jan/Jan
+[[240912 Notas Economia Brasileira]]: Crise dos anos 60, Castello Branco & PAEG, Costa e Silva, Médici?
+[[240913 Notas Economia Brasileira]]: Geisel (II PND) e Figueiredo
+[[240914 Notas Economia Brasileira]]: Debate da inflação nos anos 80, Sarney & planos, Plano Real
+[[240915 Notas Economia Brasileira]]: Plano Real, FHC, um pouco de Lula
 
 
 # Período Colonial (1500 - 1822)
@@ -58,7 +58,7 @@ Ministro da Economia: **Rui Barbosa** (essencialmente)
 ## Prudente de Morais (1894-1898)
 Ministro da Economia: **Joaquim Murtinho** ☠️
 
-- [[Funding Loan (1898)]]
+- [[Funding Loan (1898)]] (com Inglaterra)
 
 ## Campos Salles (1898-1902)
 
@@ -74,7 +74,7 @@ Ministro da Economia: **Joaquim Murtinho** ☠️
 ## Hermes da Fonseca (1910-1914)
 
 ## Venceslau Brás (1914-1918)
-[[2º Funding Loan (1914)]]
+[[2º Funding Loan (1914)]] (com Inglaterra)
 
 [[2º Plano de Valorização do Café (1917)]]
 
@@ -95,7 +95,7 @@ Ministro da Economia: **Joaquim Murtinho** ☠️
 # Era Vargas (1930 - 1945)
 ## Segunda República (1930-1937)
 [[Crise de 1929]]
-[[Revolução de 1930]]
+[[Revolução de 1930]]: derrubada de Washington Luís e prevenção da posse de Júlio Prestes (sucessão de candidatos de SP); posse de Getúlio Vargas como "mediador político"
 
 [[Populismo]]
 
@@ -106,9 +106,8 @@ Ministro da Economia: **Joaquim Murtinho** ☠️
 
 Relação com Estados Unidos (e atritos):
 [[Missão Niemeyer (1931)]]
-[[3º Funding Loan (1931)]]
+[[3º Funding Loan (1931)]]: agora com EUA, não com Inglaterra
 [[Comércio Compensado]]
-
 
 [[Lei da Usura (1933)]]
 ### Governo Constitucional (1934-1937)
@@ -140,18 +139,18 @@ Medidas nacionais:
 ## Eurico Gaspar Dutra (1946-1951)
 [[Missão Abbink (1947)]]
 
-[[Plano SALTE]]
+[[Plano SALTE]]: Saúde, ALimentação, Transporte e Energia
 
 
 ## Getúlio Vargas II (1951-1954)
 [[Comissão Mista Brasil-Estados Unidos (1951)]]
 
-[[Banco Nacional de Desenvolvimento Econômico (1952)]]
+[[Banco Nacional de Desenvolvimento Econômico (1952)]] (BNDE[S])
 
-[[Instrução 70 - SUMOC (1953)]]
+[[Instrução 70 - SUMOC (1953)]]: sistema de [[Câmbio Múltiplo]]
 
 ## Café Filho (1954-1956)
-[[Instrução 113 - SUMOC (1955)]]
+[[Instrução 113 - SUMOC (1955)]]: maior abertura à entrada de capitais
 
 ## Juscelino Kubitschek (1956-1961)
 [[Plano de Metas (JK)]]
@@ -161,7 +160,7 @@ Medidas nacionais:
 [[Gradualismo]]
 
 ## Jânio Quadros 🧹 (1961)
-[[Instrução 204 - SUMOC (1961)]]: fim da conta de ágios e bonificações.
+[[Instrução 204 - SUMOC (1961)]]: unificação de faixas de câmbio
 
 ## João Goulart (1961-1964)
 [[Plano Trienal (1963)]]
@@ -172,15 +171,15 @@ Medidas nacionais:
 [[Milagre Econômico (1967-1973)]]
 
 ## Humberto Castello Branco (1964-1967) 
-- [[Lei Anti-Greves (4330/1964)]]: [Memorial da Democracia - Nova lei antigreve golpeia sindicatos](https://memorialdademocracia.com.br/card/nova-lei-antigreve-golpeia-sindicatos)
-
-[[PAEG]]: [Texto original do PAEG - Disponível no BNDES](https://web.bndes.gov.br/bib/jspui/bitstream/1408/12837/1/Programa%20de%20A%c3%a7%c3%a3o%20Econ%c3%b4mica%20do%20Governo_P.pdf)
+[[PAEG]]: Estabilização da inflação e reformas
+	[Texto original do PAEG - Disponível no BNDES](https://web.bndes.gov.br/bib/jspui/bitstream/1408/12837/1/Programa%20de%20A%c3%a7%c3%a3o%20Econ%c3%b4mica%20do%20Governo_P.pdf)
 - [[Banco Central do Brasil (1964)]]
 - [[Conselho Monetário Nacional (1964)]]
 
 [[Sistema Nacional de Crédito Rural (1965)]]
 [[Políticas de Garantia de Preços Mínimos (1966)]]
 
+- [[Lei Anti-Greves (4330/1964)]]: [Memorial da Democracia - Nova lei antigreve golpeia sindicatos](https://memorialdademocracia.com.br/card/nova-lei-antigreve-golpeia-sindicatos)
 ## Artur da Costa e Silva (1967-1969)
 **PED**: [[Plano Estratégico de Desenvolvimento (1968-1970)]] 
 
@@ -193,7 +192,7 @@ Medidas nacionais:
 [[I PND (1971-1974)]]
 
 ## Ernesto Geisel (1974-1979)
-[[II PND (1974)]]: mudança do foco industrial para bens de capital e insumos
+[[II PND (1974)]]: mudança do foco industrial para bens de capital e insumos; "descentralização geográfica" dos investimentos
 
 [[Pacote de Abril (1977)]]: reformação política (dissolução do Congresso). 
 
@@ -201,7 +200,6 @@ Medidas nacionais:
 
 ## João Figueiredo 🐎 (1979-1985)
 [[Guerra Irã-Iraque (1980-1988)]]
-
 
 [[Crise da Dívida Externa Latinoamericana (1982)]]
 - [[Maxidesvalorização]]; [Memorial da Democracia - Economia incorpora 'palavrão' à crise](https://www.memorialdademocracia.com.br/card/economia-incorpora-palavrao-a-crise)
@@ -264,16 +262,17 @@ Mercosul: [[Protocolo de Ouro Preto (1994)]]: adoção de Tarifa Externa Comum (
 [[11 de Setembro (2001)]]
 
 ## Luís Inácio "Lula" da Silva (2003 - 2011)
-[[Crise do Subprime (2007)]]
+[[Programa Bolsa Família (2004)]]
 
-[[PIIGS]]
+[[Crise do Subprime (2007)]]
+- [[PIIGS]]
+
+[[Programa de Aceleração do Crescimento (2007)]]
+
+[[PAC 2 (2010)]]
+
 
 ## Dilma Rousseff (2011 - 2016)
-[[Nova Matriz Econômica]]
-
-[[Pedaladas Fiscais]]
-
-[[Teto de Gastos]]
 
 
 ---

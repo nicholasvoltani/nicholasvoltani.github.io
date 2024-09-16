@@ -18,8 +18,9 @@ up:: [[060 MOC Economia]]
 - [[Teoria do Limite Central]]
 
 # Números-Índice
-- [[Índice de Laspeyres]]
-- [[Índice de Paasche]]
+- [[Índice de Laspeyres]]: ignorar efeito substituição mediante alteração de preços (**quantidades constantes**) (superestima inflação, cf [REVISÃO MACROECONOMIA ANPEC - YouTube](https://youtu.be/VQI_N-1PZds?t=973))
+- [[Índice de Paasche]]: toma em conta meramente efeito substituição (subestima inflação)
+	- [[Deflator Implícito]] (PIB)
 - [[Índice de Fischer]]
 - INPC: [[Índice Nacional de Preços ao Consumidor]]
 - IPCA: [[Índice Nacional de Preços ao Consumidor Amplo]]
