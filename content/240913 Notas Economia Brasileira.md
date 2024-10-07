@@ -13,9 +13,9 @@ A expansão do Milagre Econômico foi não só no tocante à produção industri
 ![[Pasted image 20240912161538.png]]
 Fonte: [[240912 Notas Economia Brasileira]]
 
-Nos primeiros três anos do Milagre (1968-1970), houve [[Balanço de Pagamentos]] positiva: [[Exportações (Macroeconomia)]] cresceram mais rápido que importações.
+Nos primeiros três anos do Milagre (1968-1970), houve [[Balanço de Pagamentos]] positiva: [[Exportações]] cresceram mais rápido que importações.
 
-Há uma subsequente deterioração em 1971 e 1972, devido ao aumento das [[Importações (Macroeconomia)]] em função da [[Despesa Agregada|Demanda Agregada]] (em particular de **bens de capital** e **petróleo**), e um respiro em 1973 devido à supersafra.
+Há uma subsequente deterioração em 1971 e 1972, devido ao aumento das [[Importações]] em função da [[Despesa Agregada|Demanda Agregada]] (em particular de **bens de capital** e **petróleo**), e um respiro em 1973 devido à supersafra.
 
 Milagre toma problemas no tocante ao **descompasso dos crescimentos das indústrias**, além da própria [[Inflação]] (também impulsionada pela [[Primeira Crise Mundial do Petróleo (1973)]]) e questão de concentração de renda sendo um freio ao crescimento sustentado. Era inevitável a desaceleração do crescimento: deliberado ou forçado.
 
@@ -31,7 +31,7 @@ Pressões por melhor distribuição de renda e abertura política na transição
 
 [[Estagflação]]: Inflação + estagnação econômica. 
 
-Conclusão: choque de custos (repassado, deprime [[Produto Interno Bruto|PIB]]) + desajuste no [[Balanço de Pagamentos]] (ainda mais com aumento do preço do petróle); [[Efeito Renda]] sobre as exportações; forte liquidez no mercado[^2], embora taxas de juros flutuante (baixas).
+Conclusão: choque de custos (repassado, deprime [[Produto Agregado|PIB]]) + desajuste no [[Balanço de Pagamentos]] (ainda mais com aumento do preço do petróle); [[Efeito Renda]] sobre as exportações; forte liquidez no mercado[^2], embora taxas de juros flutuante (baixas).
 
 # Enfrentando choque do petróleo (1973): Dicotomia Ajustar vs Financiar
 **Ajustamento**: desvalorizar [[Taxa de Câmbio]], conter [[Despesa Agregada|Demanda Agregada]] para evitar que choque se convertesse em inflação permanente (além de corrigir desequilíbrio externo). 
@@ -66,7 +66,7 @@ Racionalidade econômica (Antônio Barros de Castro?): é um financiamento visan
 Mediante [[Segunda Crise Mundial do Petróleo (1979)]], problema que veio com a primeira crise fica pior ainda, pior ainda devido ao déficit fiscal e maior endividamento externo.
 
 ## Descentralização espacial dos projetos de investimentos: implicações políticas
-Deslocamento dos focos dos [[Investimentos (Macroeconomia)]] para fora do eixo Centro-Sul/SP-RJ.
+Deslocamento dos focos dos [[Investimentos]] para fora do eixo Centro-Sul/SP-RJ.
 
 - Maior siderúrgica em Itaqui (MA)
 - [[Serra dos Carajás (PA)]]
@@ -128,7 +128,7 @@ Aceleração da inflação após 1974: desrepressão de preços. Indícios de [[
 
 Controle de liquidez e crise do Banco Halles (um dos top 5 bancos Brasil à época).
 
-1975: diminuição de crescimento do [[Produto Interno Bruto|PIB]].
+1975: diminuição de crescimento do [[Produto Agregado|PIB]].
 
 1976: aceleração do PIB e da inflação.
 
@@ -200,7 +200,7 @@ Fica bem claro a noção de "década perdida": o Brasil ficou fora do mercado in
 Simonsen substitui Delfim Netto no Planejamento (Delfim Netto no Ministério da Agricultura).
 
 **Austeridade fiscal** – mas só propostas...
-- Diminuir [[Gastos Públicos (Macroeconomia)]] não prioritários
+- Diminuir [[Gastos Públicos]] não prioritários
 - Conter gastos / subsídios
 - Controle monetário: enfrentar inflação
 - Nova política cambial: **desvalorização real do câmbio**
@@ -208,7 +208,7 @@ Simonsen substitui Delfim Netto no Planejamento (Delfim Netto no Ministério da 
 1979: Delfim Netto assume Planejamento no lugar de Simonsen. 
 
 **Heterodoxia Delfiniana**: Problema não é excesso de [[Despesa Agregada|Demanda Agregada]], e sim **distorção setorial da demanda**:
-- Ajuste de preços relativos: crescer [[Exportações (Macroeconomia)]], diminuir [[Importações (Macroeconomia)]] e [[Gastos Públicos (Macroeconomia)]]
+- Ajuste de preços relativos: crescer [[Exportações]], diminuir [[Importações]] e [[Gastos Públicos]]
 - Mantém aperto monetário (questão inflação)
 - Controle de déficit público com tarifas maiores 
 - Maxi-desvalorização do câmbio: -30% e manteve câmbio parado
@@ -224,7 +224,7 @@ Adoção de políticas ortodoxas:
 	- Objetivo de diminuir importações a todo custo, tornar exportações mais atraentes
 - Controle monetário (liquidez) e subida das [[Taxa de Juros|Taxas de Juros]]. Início do **enfoque monetário do balanço de pagamentos**. 
 	- Controles quantitativos de crédito (exceção agricultura, que era exportação)
-- Ajustes de contas públicas: diminuição de [[Gastos Públicos (Macroeconomia)]] e aumento de arrecadação de [[Impostos (Macroeconomia)]] 
+- Ajustes de contas públicas: diminuição de [[Gastos Públicos]] e aumento de arrecadação de [[Impostos]] 
 - Contenção de salários: segura reajustes das faixas maiores
 - Sem mecanismos cambiais, somente queda do PIB:
 	- Tinha acelerado inflação

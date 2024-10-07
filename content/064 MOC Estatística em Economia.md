@@ -5,6 +5,8 @@ tags:
 ---
 up:: [[060 MOC Economia]]
 
+child:: [[064a MOC ANPEC Estatística]]
+
 # Quantidades Básicas
 - [[Covariância]]
 - [[Correlação]]
@@ -13,6 +15,14 @@ up:: [[060 MOC Economia]]
 # Resultados Básicos
 - [[Desigualdade de Markov]]
 - [[Desigualdade de Chebyshev]]
+
+# Distribuições Básicas
+- [[Distribuição de Bernoulli]]
+- [[Distribuição Binomial]]
+- [[Distribuição de Poisson]]
+- [[Distribuição Normal]]
+	- [[Distribuição Lognormal]]
+- [[Distribuição Hipergeométrica]]
 
 # Lei dos Grandes Números
 - [[Teoria do Limite Central]]
@@ -50,4 +60,7 @@ up:: [[060 MOC Economia]]
 ### Referências
 - [Referências – Estatística – Anpec Expresso](https://anpecexpresso.com/2018/12/12/referencias-estatistica/)
 	- [Apostila de Números-Índice da UFF - Ana Maria Lima de Farias & Luiz da Costa Laurencel (2005)](https://anpecexpresso.com/wp-content/uploads/2018/12/nc3bameros-c3adndice.pdf) 
+- [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OpenCourseWare (John Tsitsiklis, 2010)](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+- [MIT 18.650 Statistics for Applications, MIT OpenCourseWare (Philippe Rigollet, Fall 2016)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+- [MIT 18.S096 Topics in Mathematics with Applications in Finance, MIT OpenCourseWare (Peter Kempthorne, Choongbum Lee, Vasily Strela, Jake Xia; Fall 2013)](https://www.youtube.com/playlist?list=PLCRPN3Z81LCIZ7543AvRjWfzSC15K7l-X)
 - [RPubs - Modelos Autorregressivos (AR)](https://rpubs.com/hudsonchavs/modeloar)

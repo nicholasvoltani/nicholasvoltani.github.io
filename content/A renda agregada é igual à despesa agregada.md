@@ -22,7 +22,7 @@ $$
 \underbrace{ (S-I) }_{ \text{Excedente Privado} } + \underbrace{ (T-G) }_{ \text{Superávit/Déficit Primário}} = \underbrace{ NX }_{ \text{Excedente Exterior} }
 $$
 
-Ou seja, o excedente obtido pelas [[Exportações Líquidas (Macroeconomia)]] será revertido em excedente privado $(S-I)$ e/ou em [[Superávit Primário]]. Esse é o caso de países exportadores, e foi o caso do Brasil por boa parte de sua história ([[Os ciclos do Brasil colônia foram ditados pelo mercado europeu]]).
+Ou seja, o excedente obtido pelas [[Exportações Líquidas]] será revertido em excedente privado $(S-I)$ e/ou em [[Superávit Primário]]. Esse é o caso de países exportadores, e foi o caso do Brasil por boa parte de sua história ([[Os ciclos do Brasil colônia foram ditados pelo mercado europeu]]).
 
 
 ---

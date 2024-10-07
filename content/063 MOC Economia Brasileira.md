@@ -10,6 +10,8 @@ up:: [[060 MOC Economia]]
 
 related:: [[0x2 MOC História]]
 
+child:: [[063a MOC ANPEC Economia Brasileira]]
+
 # Notas
 [[240903 Notas Economia Brasileira]]: até Caixa Conversão (1906)
 [[240904 Notas Economia Brasileira]]: até 1930

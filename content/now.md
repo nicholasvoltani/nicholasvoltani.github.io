@@ -11,8 +11,18 @@ up:: [[index]]
 > So a website with a link that says '**now**' goes to a page that tells you **what this person is focused on at this point in their life.** For short, we call it a 'now page'." (Derek Sivers, in [nownownow.com](https://nownownow.com/about))
 
 # 2024
+## September 2024
+This entire month was dedicated towards the Master's Degree entrance exam. The only chance that I do get in is if Economics students in Brazil are big time stupid. Nevertheless, it was worth the effort anyways: it gave me clarity enough that I was on the right track, both on my career choice and on my studying methodology. There was *plenty* of things that I didn't know in the test, which I left blank (since wrong answers "cancel out" correct answers, so there's naturally a bit of Game Theory in this), but there were many things that I *did* answer, and some questions that I *know* I got right – things that, a month and a half ago, I had absolutely no clue about! 
+
+So throughout the rest of 2024 and the whole of 2025, I'll be studying for 2026's entrance exam for a Master's in Economics ~~unless I change my mind, as always~~, and I'll double down on this Zettelkasten/Maps of Content style that I've adopted in this digital garden. It's just fun, and it *forces me* to understand stuff more deeply, to connect things with each other, to create insights serendipitously.
+
+**Interesting content of the month**:
+- [Facts About Beavers (its two minutes long whatve you got to lose) - Sage the Bad Naturalist](https://www.youtube.com/watch?v=KkWSgpUTcFM). **God I love this woman!!!** She can talk all about [wet rocks](https://www.youtube.com/watch?v=TKr3uIjmgCY) and I'm ALL IN for it!!
+- [Flux Review, Ep. 161](https://read.fluxcollective.org/p/161)... well it wasn't the best one, **but** they mention *en passant* the very-interesting-idea of [thermoclines of truth](https://roblog.co.uk/2021/04/thermocline-of-truth/), which *goddamnit* if it isn't completely pertinent! Really has to do with all my writing on São Paulo's ~~phony~~ version of Wall Street (i.e. Faria Lima) – do check it out [[Uma visão etnográfica da Faria Lima|here]], but it's in Portuguese. Fazer o quê, né, gringo :/ –, in particular with the whole superficiality thing so prevalent in these spaces, and the sensation that "truth" is *way* too relative for a "Materialist"'s taste... ok, I just mean for people who prefer to stress hypotheses over the cold counter of truth (ok, I really mean Historical Materialism, but not only), over dabbling over non-falsifiable claims much too prevalent in a supposedly "rational" place such as the corporate/business workspace.
+- [A World Not Desperate to Explain Itself - Quest Marker](https://www.youtube.com/watch?v=DrqxZ0X9vqs): Holy shit, the ending of this video is *beautiful*.
+
 ## August 2024
-I'm basically hyperfocusing on studying Economics. I loved learning more about [[061 MOC Macroeconomia|Macroeconomics]], it was super fun and elucidating. [[062 MOC Microeconomia|Microeconomics]] was, ironically, not so fun; it seemed like too much of a stretch. 
+I'm basically hyperfocusing on studying Economics. I loved learning more about [[061 MOC Macroeconomia|Macroeconomics]], it was super fun and elucidating. [[062 MOC Microeconomia|Microeconomics]] was, ironically, not so fun; it seemed like too much of a stretch. (It got better though!)
 
 **Interesting content of the month**:
 - [I no longer aspire to have a career. - Katherout](https://www.youtube.com/watch?v=nKFypHcnGu4). Great video summarizing reasons of discontentment over a lifetime's worth of toiling away at alienating jobs. 

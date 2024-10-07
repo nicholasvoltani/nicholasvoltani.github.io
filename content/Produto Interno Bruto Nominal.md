@@ -5,13 +5,13 @@ tags:
 aliases:
 ---
 
-up:: [[Produto Interno Bruto]]
+up:: [[Produto Agregado]]
 
 $$
 Y^{*} = \sum Q_{i}^{t} P_{i}^{*}
 $$
 
-Está relacionado com [[Produto Interno Bruto|PIB]] através do [[Deflator Implícito]], em que
+Está relacionado com [[Produto Agregado|PIB]] através do [[Deflator Implícito]], em que
 $$
 \text{Deflator} = \frac{\text{PIB Nominal}}{\text{PIB Real}}
 $$

@@ -10,7 +10,7 @@ up:: [[Desinflação]]
 ![[Pasted image 20240813194735.png]]
 Fonte: [Lecture 12: IS-LM-PC Model continued - MIT OpenCourseWare (Ricardo Caballero, 2023)](https://youtu.be/yoq0ENMiR4w?list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQxkb&t=838).
 
-Uma economia que esteja num cenário de [[Desinflação]] não desprezível pode ocasionar a chamada *espiral deflacionária*, na qual há um efeito em cadeia: preços em queda fazem com que a [[Produto Interno Bruto|produção]] diminua, o que induz com que a produção diminua, e por aí vai. 
+Uma economia que esteja num cenário de [[Desinflação]] não desprezível pode ocasionar a chamada *espiral deflacionária*, na qual há um efeito em cadeia: preços em queda fazem com que a [[Produto Agregado|produção]] diminua, o que induz com que a produção diminua, e por aí vai. 
 
  Em particular no tocante à [[Taxa de Desemprego]], torna-se uma profecia autorrealizante, caso não se aja com rapidez: conforme a taxa de desemprego está acima da [[Taxa Natural de Desemprego]], a produção diminui, o que induz o aumento do desemprego, etc. 
 

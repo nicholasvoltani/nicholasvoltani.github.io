@@ -38,4 +38,4 @@ Note-se que é somente pela visão dialética que pode-se quebrar com a aparente
 
 ---
 ### Referências
-- Lukács, G. **O que é marxismo ortodoxo?**. In: **História e Consciência de Classe**. Martins Fontes, 2003. 
+- Lukács, G. **O que é marxismo ortodoxo?**. In: *História e Consciência de Classe*. Martins Fontes, 2003. 

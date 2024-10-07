@@ -8,12 +8,22 @@ draft: "true"
 up:: [[Uma visão etnográfica da Faria Lima]]
 
 Obviamente estes textos são sobre minha breve passagem, em uma só empresa, no meio corporativo. Porém, percebo padrões que sinto que sejam presentes a este meio como um todo. Estes textos não são justificações ou enaltecimentos deste ambiente e de seu *habitus*; são, antes de tudo, uma espécie de vista etnográfica desse meio, podendo ser de interesse particular para quem esteja totalmente alheio a este ambiente ─ e em particular de quem fala tanto sobre a Faria Lima como recursos retóricos, mas que não faz ideia da realidade de seus próprios argumentos.
+
+---
+O que o tempo não cessa de me demonstrar é o quão complicado é a afirmação do Manifesto Comunista de que o mundo divide-se entre exploradores e explorados. Ao mesmo tempo que 
+
+Parece-me que existe um momento, como um estalar de dedos, em que quem trabalha no meio corporativo *entende* o que é preciso fazer para "jogar o jogo corporativo". É um complexo de integrar-se quase de espírito ao habitat, de incorporar seu vocabulário e trejeitos, de entender o ritmo e tentar aderir a ele o mais rente possível. 
+
+Num nível individual, trata-se de fazer o próprio nome se destacar, tal qual um *brand*; parece até valer a máxima "fale bem ou fale mal, mas fale de mim", pois, caso faça alguma merda em uma empresa, basta ir para uma outra – o tempo cura todas as feridas, e consegue enterrar (quase) qualquer *bad rep* sob suas areias. Num meio tão afeito às aparências sanitizadas, é difícil que alguma propaganda de si não seja boa propaganda; cada menção e reação no LinkedIn são um passo a mais em direção aos cargos mais altos.
+
+
+
 # Sobre o trabalho de escritório
 > Citações de Lukács quanto a
 > - racionalização do trabalho, atomização
 > - tornar-se reduzido a objeto, "mero espectador"
 > - "O comportamento do homem esgota-se, portanto, no cálculo correto das oportunidades desse curso (cujas 'leis' ele já encontra 'prontas'), na habilidade de evitar os 'acasos' [*Zufälligkeiten*] perturbadores por meio da aplicação de dispositivos de proteção e medidas defensivas (que se baseiam igualmente na consciência e na aplicação de 'leis' semelhantes)" etc (Reificação, p. 218) (o lucro "vem" de quem se "apropria adequadamente" do funcionamento do mercado)
-> - Da racionalização do trabalho surge uma contradição: de que há uma necessidade de que os trabalhos de setores diferentes fossem melhor bem-coordenados, o que, na prática, é um desejo idealizado e impossível, devido não só ao caráter atomizado dos ofícios, como também pelos conflitos de interesses das diferentes áreas de um mesmo setor: um comercial venderia seguros a Deus e aos mortos se possível fosse, enquanto um subscritor (idealmente) aceitaria somente riscos dentro da disposição de riscos/"apetite" da empresa, tendo em vista não só resultados de seu setor "local", como cobranças "de cima" para consonância com resultados "globais".
+> - Da racionalização do trabalho surge uma contradição: de que há uma necessidade de que os trabalhos de setores diferentes fossem melhor bem-coordenados, o que, na prática, é um desejo idealizado e impossível, devido não só ao caráter atomizado dos ofícios, como também pelos conflitos de interesses das diferentes áreas de um mesmo setor: a equipe comercial de uma seguradora venderia seguros a Deus e aos mortos se possível fosse, enquanto um subscritor (idealmente) aceitaria somente riscos dentro da disposição de riscos/"apetite" da empresa, tendo em vista não só resultados de seu setor "local", como cobranças "de cima" para consonância com resultados "globais".
 
 > “O homem não aparece, nem objetivamente, nem em seu comportamento em relação ao processo de trabalho, como o verdadeiro portador desse processo; em vez disso, ele é incorporado como parte mecanizada num sistema mecânico que já encontra pronto e funcionando de modo totalmente independente dele, e a cujas funções ele deve se submeter” (LUKÁCS, p. 203-4)
 

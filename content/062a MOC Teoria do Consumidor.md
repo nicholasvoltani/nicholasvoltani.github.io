@@ -5,7 +5,14 @@ tags:
 ---
 up:: [[062 MOC Microeconomia]]
 
-## 1) Maximização da Utilidade
+# 0) Axiomas & Resultados Essenciais
+- [[Teorema de Euler da Função Homogênea]]
+- [[Lei de Walras]]
+- [[Axioma Fraco das Preferências Reveladas]]
+- [[Lei da Demanda Compensada]]
+	- [[Matriz de Slutsky]]
+
+# 1) Maximização da Utilidade
 - [[Preferências do Consumidor]]
 	- [[Preferências bem-comportadas]]
 - [[Curva de Indiferença]]
@@ -18,19 +25,30 @@ up:: [[062 MOC Microeconomia]]
 - [[Taxa Marginal de Substituição]]
 	- [[Dada uma restrição orçamentária, a taxa marginal de substituição é a razão das utilidades marginais]]
 - [[Função Demanda]]
+	- [[Demanda Marshalliana]]
 	- [[Curva de Engel]]
 	- [[Curva de Demanda]]
 - [[Elasticidade de Preço da Demanda]]
+	- [[Efeito Preço]]
 	- [[Demanda Perfeitamente Elástica]]
 	- [[Demanda Perfeitamente Inelástica]]
 - [[Elasticidade de Renda da Demanda]]
+	- [[Efeito Renda]]
+	- [[Bens Normais]]
+		- [[Bens Necessários]]
+		- [[Bens de Luxo]]
+	- [[Todo bem normal é um bem comum]]
+	- [[Bens Inferiores]]
 - [[Curva de Renda-Consumo]]
 - [[Curva de Preço-Consumo]]
 
-## 2) Problema Dual: Minimização do Dispêndio
+# 2) Problema Dual: Minimização do Dispêndio
 - [[Função Dispêndio]]
-- [[Demanda Marshalliana]]
 - [[Demanda Hicksiana]]
 	- [[Lema de Shepard]]
 - [[Equação de Slutsky]]
 	- [[Compensação de Slutsky]]
+
+
+### Referências
+- [Iniciação Científica: Introdução à Economia Matemática (2022) - YouTube](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTjttEZI1t-7aVeFuMYkZuI)

@@ -26,7 +26,7 @@ O exemplo que Furtado dá é bem ilustrativo (p. 165):
 
 Ou seja, mediante um choque adverso internacional, que cause queda de preços do café, naturalmente afetaria a [[Função Receita|Receita]] dos produtores de café. Para evitar a quebra em massa dos produtores brasileiros, o governo perpetrava depreciação cambial – em geral contraindo empréstimos externos, causando entrada de divisas no país –, de tal forma que o lucro que os produtores "*viam*" estava "inflado". 
 
-Naturalmente alguém estava pagando o preço, e era o resto da população: como a [[Taxa de Câmbio]] diminuiu, isso induz um aumento de [[Exportações (Macroeconomia)]] e contração de [[Importações (Macroeconomia)]]. Como havia uma dependência muito grande (na República Velha) das importações para suprimento do [[Consumo Agregado|Consumo]] doméstico, a depreciação cambial naturalmente trazia [[Inflação]][^1].
+Naturalmente alguém estava pagando o preço, e era o resto da população: como a [[Taxa de Câmbio]] diminuiu, isso induz um aumento de [[Exportações]] e contração de [[Importações]]. Como havia uma dependência muito grande (na República Velha) das importações para suprimento do [[Consumo Agregado|Consumo]] doméstico, a depreciação cambial naturalmente trazia [[Inflação]][^1].
 
 # Por que socializar as perdas?
 A cultura de café requer muito capital, de maneira *perene*: mobilizados os recursos para o plantio, demoram-se cerca de $4$ anos para a colheita, a qual continuará dando frutos por mais de uma década.

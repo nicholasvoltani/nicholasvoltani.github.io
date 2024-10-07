@@ -5,6 +5,9 @@ tags:
 aliases:
   - Modelo Primário-Exportador
   - Modelo Agroexportador
+  - Economia Primário-Exportadora
+  - Economias Agroexportadoras
+  - Economias Primário-Exportadoras
 ---
 
 up:: [[063 MOC Economia Brasileira]]
@@ -13,9 +16,9 @@ related:: [[A 'grande unidade produtora' do Brasil colônia]]
 
 > "...na América Latina não só as exportações eram praticamente a única componente autônoma do crescimento da renda, como também o setor exportador representava o centro dinâmico de toda a economia." (TAVARES, p. 222)
 
-Em economias agroexportadoras, as atividades têm seu "centro dinâmico" direcionado às [[Exportações (Macroeconomia)]]. Dessa forma, acabam dependendo de [[Importações (Macroeconomia)]] para suprir o [[Consumo Agregado|Consumo]], dado o foco produtivo totalmente destinado ao exterior[^1]. Isso naturalmente traz vulnerabilidades à economia, ainda mais com a expansão do [[Trabalho Assalariado]], donde há [[Tendência ao Desequilíbrio Externo]] de demanda por consumo induzir déficit no [[Balanço de Pagamentos]].
+Em economias agroexportadoras, as atividades têm seu "centro dinâmico" direcionado às [[Exportações]]. Dessa forma, acabam dependendo de [[Importações]] para suprir o [[Consumo Agregado|Consumo]], dado o foco produtivo totalmente destinado ao exterior[^1]. Isso naturalmente traz vulnerabilidades à economia, ainda mais com a expansão do [[Trabalho Assalariado]], donde há [[Tendência ao Desequilíbrio Externo]] de demanda por consumo induzir déficit no [[Balanço de Pagamentos]].
 
-Não só o foco da produção é (em maior parte) destinado para fora, como também as crises internacionais são grandemente impactantes: as altas e quedas de preços dos produtos primários exportados refletem-se grandemente no [[Produto Interno Bruto]] doméstico, em seus períodos de prosperidade e recessão.
+Não só o foco da produção é (em maior parte) destinado para fora, como também as crises internacionais são grandemente impactantes: as altas e quedas de preços dos produtos primários exportados refletem-se grandemente no [[Produto Agregado]] doméstico, em seus períodos de prosperidade e recessão.
 
 ---
 ### References

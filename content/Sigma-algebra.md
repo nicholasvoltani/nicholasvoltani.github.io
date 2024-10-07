@@ -6,7 +6,7 @@ aliases:
 ---
 up:: [[023 MOC Measure Theory]]
 
-Given a set $X$, a $\sigma$-algebra over $X$ $\mathcal{F} \subseteq \mathcal{P}(X)$ such that
+Given a set $X$, a $\sigma$-algebra over $X$, $\mathcal{F} \subseteq \mathcal{P}(X)$ such that
 - $X \in \mathcal{F}$
 - **Closed under intersection**: $\forall A, B \in \mathcal{F}: A \cap B \in \mathcal{F}$
 - **Closed under countable unions**: $\forall \{A_n\}_{n \in \mathbb{N}} \subseteq \mathcal{F}: \bigcup\limits_{n \in \mathbb{N}} A_n \in \mathcal{F}$ 

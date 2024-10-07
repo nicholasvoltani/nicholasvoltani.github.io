@@ -16,7 +16,7 @@ Com a introdução do [[Trabalho Assalariado]] (e.g. imigrantes a princípio), h
 
 Ou seja, surge uma [[Vantagem Comparada]] de pequenos empresários e donos de terras: surgia um mercado muito mais propício para eles do que o mercado altamente competitivo dos grandes latifundiários[^3]. 
 
-Em termos econômicos, aumenta o [[Multiplicador keynesiano|Multiplicador]], pois uma parcela crescente do [[Produto Interno Bruto]] começa a ser destinado ao [[Consumo Agregado|Consumo]] doméstico[^4]. Frente a isso, Furtado argumenta que surge uma [[Tendência ao Desequilíbrio Externo]], pois os períodos de baixa internacional (que induzem baixa na produção[^5]) deixam de ser correlacionados com uma baixa nas [[Importações (Macroeconomia)]] de consumo.
+Em termos econômicos, aumenta o [[Multiplicador keynesiano|Multiplicador]], pois uma parcela crescente do [[Produto Agregado]] começa a ser destinado ao [[Consumo Agregado|Consumo]] doméstico[^4]. Frente a isso, Furtado argumenta que surge uma [[Tendência ao Desequilíbrio Externo]], pois os períodos de baixa internacional (que induzem baixa na produção[^5]) deixam de ser correlacionados com uma baixa nas [[Importações]] de consumo.
 
 ---
 ### References

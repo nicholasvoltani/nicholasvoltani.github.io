@@ -19,7 +19,7 @@ $$
 Divide-se em três partes principais: a balança comercial, a conta de serviços e rendas, e transferências unilaterais.
 
 # 1) Balança Comercial
-Trata sobre o saldo de [[Importações (Macroeconomia)]] e [[Exportações (Macroeconomia)]] de um país[^1]. 
+Trata sobre o saldo de [[Importações]] e [[Exportações]] de um país[^1]. 
 
 Exportações induzem entrada de divisas (moeda) no país (**recebemos** pelas [[Mercadoria]]s exportadas), e importações induzem saída de divisas (**pagamos** pelas mercadorias importadas).
 

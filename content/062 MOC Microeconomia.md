@@ -6,6 +6,8 @@ tags:
 ---
 up:: [[060 MOC Economia]]
 
+child:: [[062a MOC ANPEC Microeconomia]]
+
 # Conceitos Fundamentais
 - [[Cesta de Bens]]
 	- [[Preço Numerário]]
@@ -13,11 +15,6 @@ up:: [[060 MOC Economia]]
 	- [[Custo de Oportunidade]]
 - [[Bens Substitutos]]
 - [[Bens Complementares]]
-- [[Bens Normais]]
-	- [[Todo bem normal é um bem comum]]
-- [[Bens Inferiores]]
-- [[Bens Necessários]]
-- [[Bens de Luxo]]
 - [[Bens Comuns]]
 - [[Bens de Giffen]]
 	- [[Todo bem de Giffen é um bem inferior]]

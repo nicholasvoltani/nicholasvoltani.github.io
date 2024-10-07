@@ -11,7 +11,7 @@ A renda líquida enviada ao exterior de um país consiste no saldo entre (a rend
 
 O Brasil é um bom exemplo em que $RLEE > 0$, pelo lucro de **multinacionais** que acaba afluindo para o exterior.
 
-O RLEE é uma parte componente do [[Produto Interno Bruto]], de acordo com a fórmula
+O RLEE é uma parte componente do [[Produto Agregado]], de acordo com a fórmula
 $$
 \underbrace{ \text{Produto Nacional} }_{ \text{Propriedade de Residentes} } + \underbrace{ \text{RLEE} }_{ \text{Propriedade de Estrangeiros} } = \underbrace{ \text{Produto Interno} }_{ \text{Produzido dentro do País} }
 $$

@@ -162,7 +162,7 @@ Deslocamento do índice de preços: antes era calculado entre metade do mês ant
 
 Acaba agindo como [[Política Monetária Expansionista]], devido ao aumento da [[Despesa Agregada|Demanda Agregada]] (em particular o [[Consumo Agregado]]), explicações variam:
 - Aumento da [[Renda Agregada]] real (poder de compra)
-- [[Taxa de Juros|Taxas de Juros]] estavam baixas, induziram aumento de [[Investimentos (Macroeconomia)]], além de [[Consumo Agregado]] também (crédito)
+- [[Taxa de Juros|Taxas de Juros]] estavam baixas, induziram aumento de [[Investimentos]], além de [[Consumo Agregado]] também (crédito)
 - Vetor de preço de congelamento não são vetor de preço de equilíbrio: alguns são congelados abaixo do equilíbrio (e aumentados no dia seguinte), portanto havendo recusa de venda dos vendedores ([[Perda de Peso Morto]])
 
 De qualquer forma, há uma escassez generalizada de produtos, também acelerada pela precaução dos consumidores. P. ex. carne compensava mais exportar do que vender domesticamente.
@@ -285,7 +285,7 @@ Começo de abertura comercial:
 Nova moeda: Cruzeiro.
 
 MP 168: **bloqueio** de depósitos:
-- **Bloqueio** de [[Depósito à Vista|Depósitos à Vista]] e [[Poupança (Macroeconomia)]] do que for acima de US$ 1200 (nCz 50)
+- **Bloqueio** de [[Depósito à Vista|Depósitos à Vista]] e [[Poupança]] do que for acima de US$ 1200 (nCz 50)
 - **Bloqueio** de [[Depósito a Prazo]], [[Letra de Câmbio]], [[Debênture]]s, [[Fundo de Renda Fixa]] e aplicações de curto prazo (20%)
 - Bloqueios por 18 meses, transferidos ao [[Banco Central do Brasil (1964)]] em conta especial (**Valores à Ordem do Banco Central – VOB**)
 	- Valores indexados à BTNF, 6% juros anual; resgate em 12 parcelas mensais (meu Deus)
@@ -294,7 +294,7 @@ MP 168: **bloqueio** de depósitos:
 	- Transferência de titularidade para pagamento de dívidas anteriores
 
 ## Problemas (MUITOS)
-Redução de 80% do [[M4]] => [[Crise de Liquidez]]. Desestruturação do sistema produtivo, retração enorme do [[Produto Interno Bruto|PIB]], queda brevíssima da inflação[^2].
+Redução de 80% do [[M4]] => [[Crise de Liquidez]]. Desestruturação do sistema produtivo, retração enorme do [[Produto Agregado|PIB]], queda brevíssima da inflação[^2].
 
 Expansão de liquidez posteriormente, após enorme inadimplência e bancarrotas. *Pastore*: Nada muito tanto, pois o estoque (monetário) foi atingido, mas o fluxo (monetário) voltou ao anterior.
 
@@ -341,7 +341,7 @@ Abertura comercial e financeira. Privatização, cenário menos oligopolizado e 
 Razões/argumentos:
 - Ineficiência de empresas públicas (qualidade e déficits)
 - Incapacidade do governo de ampliar capacidades de empresas públicas (em investimentos e capital)
-- Redução de [[Gastos Públicos (Macroeconomia)]]: vender ativos para pagar passivos (dívida)
+- Redução de [[Gastos Públicos]]: vender ativos para pagar passivos (dívida)
 - Liberação de setores já difundidos para a iniciativa privada mais aberta, "não são mais bens públicos" que somente o Estado era esperado de se incumbir de fornecer
 
 **Fases de privatização**:
@@ -376,7 +376,7 @@ Fonte: [aula 14 ec brasileira pro anpec 2020 v1 de 2 - YouTube](https://youtu.be
 Total de US$ 105 bilhões em privatizações:
 - Importância fiscal 
 - *Investimento Estrangeiro Direto* em [[Balanço de Pagamentos]] (remessa futura de lucros) 
-	- Nem toda privatização é [[Investimentos (Macroeconomia)]]! Só conta como a variável econômica "investimento" caso haja *ampliação da capacidade produtiva* (compra de capital, coisas materiais, concretas)
+	- Nem toda privatização é [[Investimentos]]! Só conta como a variável econômica "investimento" caso haja *ampliação da capacidade produtiva* (compra de capital, coisas materiais, concretas)
 - Participação estrangeira em parte das privatizações
 
 ## Abertura comercial

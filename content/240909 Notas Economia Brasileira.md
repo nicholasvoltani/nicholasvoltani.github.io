@@ -24,7 +24,7 @@ O PSI não tende a redistribuir a renda gerada, devido a
 - **Industrialização integral** é via de superação da pobreza e subdesenvolvimento
 - **Não é espontâneo pelas forças de mercado**: requer Estado envolvido p/ planejamento
 - **Planejamento** para promoção e organização das políticas econômicas
-- **Execução dos planos pelo Estado**: Orientar recursos e investimentos diretos, p. ex. orientando [[Poupança (Macroeconomia)]] aos [[Investimentos (Macroeconomia)]]
+- **Execução dos planos pelo Estado**: Orientar recursos e investimentos diretos, p. ex. orientando [[Poupança]] aos [[Investimentos]]
 
 Debate-se que [[Nacional-desenvolvimentismo]] **está contido** no Desenvolvimentismo, sendo mais oposto/reticente com relação ao capital estrangeiro.
 
@@ -34,7 +34,7 @@ Debate-se que [[Nacional-desenvolvimentismo]] **está contido** no Desenvolvimen
 	- **Mercado de Trabalho**: Ministério do Trabalho, Justiça do Trabalho, sindicatos (pelegos), CLT, Previdência
 	- **Conflitos inter-capitalistas**: Leis, códigos, departamentos, conselhos
 - Estado **produtor**: provisão e produção de *infraestrutura* e *bens intermediários* (*Vale do Rio Doce* - aço e minérios)
-- Estado **financiador**: controle de absorção de [[Poupança (Macroeconomia)]] e de seu emprego (à industrialização)
+- Estado **financiador**: controle de absorção de [[Poupança]] e de seu emprego (à industrialização)
 
 ## Razões para estatização
 - *Ideológicas*: Keynesianismo (planejamento + privatização), Estruturalismo
@@ -165,7 +165,7 @@ Melhora dos instrumentos monetários:
 Há **capacidade ociosa**, crescimento ocorre a partir de 1932 bem baseado em mercado interno (crescimento alto de indústrias) – exportações ainda são relevantes, claro, em particular um crescimento de exportações de algodão.
 
 ## Governo Constitucional (1934-1937)
-Certo alívio no tocante a [[Balanço de Pagamentos]], pela retomada do mercado mundial pós-1929, por exportações de algodão em particular (café principalmente), e pela queda de [[Importações (Macroeconomia)]] (restrição de divisas e licenciação de importações).
+Certo alívio no tocante a [[Balanço de Pagamentos]], pela retomada do mercado mundial pós-1929, por exportações de algodão em particular (café principalmente), e pela queda de [[Importações]] (restrição de divisas e licenciação de importações).
 
 Fortes pressões internacionais, em particular EUA, devido a tarifas, remessas de lucro[^2], dívidas. Ameaças de retaliação, Missão Williams (do FED!!). 
 
@@ -263,7 +263,7 @@ Estado precisa assumir função de liderança, interferindo com incentivos e pro
 ### Gudin e inflação
 Ênfase nos efeitos adversos de **aceleração inflacionária**.
 
-Pressupõe que **economia brasileira sempre está em pleno emprego**: restrição a importações vai se refletir necessariamente em aumento de inflação, assim como maiores [[Gastos Públicos (Macroeconomia)]] (que podem requerir também expansão monetária), e políticas de crédito ao setor privado induzindo especulação.
+Pressupõe que **economia brasileira sempre está em pleno emprego**: restrição a importações vai se refletir necessariamente em aumento de inflação, assim como maiores [[Gastos Públicos]] (que podem requerir também expansão monetária), e políticas de crédito ao setor privado induzindo especulação.
 
 Solução: Liberalização das importações e eliminar tarifas, e restringir políticas de crédito; cortes de gasto público. 
 
@@ -342,7 +342,7 @@ Ou seja, o câmbio está **fixo**, mas as restrições se fazem a nível de **re
 ### Primeira fase
 Inflação e controle de [[Despesa Agregada|Demanda Agregada]]. Diminuição do déficit público; diminuição de crédito doméstico. 
 
-Ante pressões domésticas sobre políticas monetárias e fiscais austeras, 1949: maiores [[Gastos Públicos (Macroeconomia)]] e ampliação de crédito do BB aos industriais.
+Ante pressões domésticas sobre políticas monetárias e fiscais austeras, 1949: maiores [[Gastos Públicos]] e ampliação de crédito do BB aos industriais.
 
 Retomada de processo inflacionário: afrouxamento de políticas monetárias e fiscais (aproximação de eleições...), assim como (*argumentos estruturalistas da inflação*[^8]) falta de alimentos (agricultura fica para trás, falta de crédito etc), outros estrangulamentos (excesso de demanda), preços dos exportados. 
 

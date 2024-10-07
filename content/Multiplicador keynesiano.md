@@ -17,7 +17,7 @@ $$
 Y = \frac{1}{1-c_{1}} (c_{0} + I + G)
 $$
 
-O fator $\frac{1}{1-c_{1}}$ é o chamado **multiplicador** (ou multiplicador keynesiano), pois variações que ocorrem no consumo afetam o [[Produto Interno Bruto]] multiplicados pelo multiplicador.
+O fator $\frac{1}{1-c_{1}}$ é o chamado **multiplicador** (ou multiplicador keynesiano), pois variações que ocorrem no consumo afetam o [[Produto Agregado]] multiplicados pelo multiplicador.
 
 ---
 ### References

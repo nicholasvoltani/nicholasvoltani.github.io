@@ -5,19 +5,13 @@ tags:
 aliases:
 ---
 
-up:: [[061 MOC Macroeconomia]]
+up:: [[062b MOC Contabilidade Nacional]]
 
-A renda agregada produzida por um país, que gera-se em decorrência do emprego de [[Força de Trabalho (Macroeconomia)]], juros, capital e terra, é despendida no [[Consumo Agregado|Consumo]] de bens ($C$) e no pagamento de [[Impostos (Macroeconomia)]] ($T$), e o que resta torna-se [[Poupança (Macroeconomia)]] ($S$). 
-
-Denotando a renda por $Y$, temos, então, que
-$$
-Y = C + S + T
-$$
-Pode ser visto como a renda que o governo ganha ($T$), mais a renda que o mercado ganha ($C$), mais um excedente $S$.
+A renda agregada de um país é a remuneração dos [[Fatores de Produção]] empregados em seu [[Produto Agregado]], i.e. [[Força de Trabalho (Macroeconomia)]] (isto é, [[Salário]]), [[Capital Fixo|Capital (Fixo)]] (isto é, juros e lucros) e terra (isto é, alugueis).
 
 Temos também que [[A renda agregada é igual à despesa agregada]], da qual podemos inferir condições macroeconômicas de superávit.
 
 
 ---
 ### References
-- **LOPES**, Luiz Martins et al. Manual de macroeconomia: nível básico e nível intermediário. 1997.
+- GREMAUD, Amaury Patrick et al. **Macroeconomia básica: agregados macroeconômicos**. In: LOPES, Luiz Martins et al. *Manual de macroeconomia: nível básico e nível intermediário*. 1997.

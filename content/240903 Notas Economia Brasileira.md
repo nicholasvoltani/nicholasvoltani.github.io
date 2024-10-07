@@ -35,7 +35,7 @@ Pode ser explicada, por exemplo, por:
 - Mercado do tipo [[Oligopólio]] para produtos manufaturados, mas mercado concorrencial para produtos primários: aumentos de produtividade são refletidos totalmente no preço para primários (provavelmente para aumentar competitividade frente à alta concorrência), e refletidos parcialmente em lucro para manufaturas (não só para aumentar competitividade, pois a concorrência não é tão grande – é possível acumular margens)
 
 ## Vulnerabilidade da economia brasileira – importações
-O bulk do [[Consumo Agregado|Consumo]] brasileiro vinha das [[Importações (Macroeconomia)]]. Ou seja, há uma enorme diferença qualitativa entre a base produtiva e o consumo do modelo agroexportador. Isso naturalmente traz uma vulnerabilidade enorme à economia (jura?).
+O bulk do [[Consumo Agregado|Consumo]] brasileiro vinha das [[Importações]]. Ou seja, há uma enorme diferença qualitativa entre a base produtiva e o consumo do modelo agroexportador. Isso naturalmente traz uma vulnerabilidade enorme à economia (jura?).
 
 ## "Brasil dual"
 Há "dois Brasis":
@@ -67,7 +67,7 @@ Não há [[Multiplicador Bancário]] *at all*, pela ausência de [[Banco Central
 Na época predominava a política do padrão-ouro: emitir moeda somente no tocante às reservas existentes.
 
 ## Tendência ao desequilíbrio externo (Furtado)
-Problemas de *delay* entre [[Exportações (Macroeconomia)]] e [[Importações (Macroeconomia)]]: as decisões de exportações passam a se separar das decisões de importações, pois há uma nova demanda de [[Consumo Agregado|Consumo]], não mais desprezível, que é totalmente distinta dos produtores de outrora: pessoas comuns! 
+Problemas de *delay* entre [[Exportações]] e [[Importações]]: as decisões de exportações passam a se separar das decisões de importações, pois há uma nova demanda de [[Consumo Agregado|Consumo]], não mais desprezível, que é totalmente distinta dos produtores de outrora: pessoas comuns! 
 
 Ou seja, começam a aparecer casos em que a [[Taxa de Câmbio]] está em baixa (exportações diminuem), mas as importações levam mais tempo para cair, causando um desequilíbrio externo.
 
@@ -75,7 +75,7 @@ Com isso, surge uma discussão sobre como combater esse desequilíbrio: ver as r
 - Se for desvalorizar o câmbio, vai induzir [[Inflação]] (socialização das perdas, espalhadas sobre a economia toda – Furtado)
 - Se não for desvalorizar o câmbio, vai induzir [[Desemprego]] 
 
-Há casos em que não cabe desvalorizar o câmbio, pois estouraria as dívidas em dólar dos [[Investimentos (Macroeconomia)]] domésticos: depende da **estrutura patrimonial** do país.
+Há casos em que não cabe desvalorizar o câmbio, pois estouraria as dívidas em dólar dos [[Investimentos]] domésticos: depende da **estrutura patrimonial** do país.
 
 # Lógica Econômica na Primeira República (1889-1929)
 Especialização induz um efeito multiplicador sobre a economia interna, assim como induz um aumento pela demanda por moeda (para transações). Muitas discussões surgem sobre como conduzir a [[Política Monetária]].
@@ -86,14 +86,14 @@ Especialização induz um efeito multiplicador sobre a economia interna, assim c
 Tais regras podem causar uma recessão profunda conforme hajam déficits no [[Balanço de Pagamentos]]:
 ![[Pasted image 20240903165253.png]]
 
-[[Modelo Mundell-Fleming]]: Déficit no balanço de pagamentos induz uma queda nas reservas e, portanto, na oferta de moeda. Isso naturalmente induz um aumento das [[Taxa de Juros|Taxas de Juros]], e induz uma [[Recessão]], induzindo uma queda nas [[Importações (Macroeconomia)]] etc, tentando induzir um equilíbrio do balanço de pagamentos.
+[[Modelo Mundell-Fleming]]: Déficit no balanço de pagamentos induz uma queda nas reservas e, portanto, na oferta de moeda. Isso naturalmente induz um aumento das [[Taxa de Juros|Taxas de Juros]], e induz uma [[Recessão]], induzindo uma queda nas [[Importações]] etc, tentando induzir um equilíbrio do balanço de pagamentos.
 
 Segundo padrão-ouro, um aumento da taxa de juros pode induzir entrada de capitais no país – mas quem vai querer investir no Brasil, um país agroexportador, em recessão!? Os riscos são maiores do que os retornos devido aos juros altos. Logo, Furtado argumenta que fluxos de capitais são **pró-cíclicos**: entram mais justamente quando a economia está de vento em popa.[^1] 
 
 A alternativa é (segundo Furtado) de trabalhar com **câmbio flexível**:
 ![[Pasted image 20240903165951.png]]
 
-Com um déficit do balanço de pagamentos, promulga-se uma desvalorização cambial, com que os preços de produtos importados aumentam com relação aos produtos nacionais: isso induz aumento de [[Exportações (Macroeconomia)]] (menores preços para o exterior) e diminuição de [[Importações (Macroeconomia)]] (maiores preços para o interior). Dessa forma, há o que Furtado chama de [[Socialização das Perdas]]: as perdas ocorrem na forma de aumentos de preços ([[Inflação]]), não de perdas de empregos. 
+Com um déficit do balanço de pagamentos, promulga-se uma desvalorização cambial, com que os preços de produtos importados aumentam com relação aos produtos nacionais: isso induz aumento de [[Exportações]] (menores preços para o exterior) e diminuição de [[Importações]] (maiores preços para o interior). Dessa forma, há o que Furtado chama de [[Socialização das Perdas]]: as perdas ocorrem na forma de aumentos de preços ([[Inflação]]), não de perdas de empregos. 
 
 
 [[A desvalorização cambial protetiva ocultava informações de mercado sobre excedente de oferta de café na República Velha]]: Delfim Netto: com a diminuição do preço externo do café, há alguma alteração na demanda internacional; ao haver desvalorização cambial, tal "sinal de mercado" não é transmitido ao produtor doméstico! Com isso, pode acabar surgindo superproduções de café (como, de fato, ocorreu).
@@ -124,7 +124,7 @@ Criticado pelos historiadores monetários (crise fiscal/cambial), mas defendido 
 
 ## Papelistas vs Metalistas
 [[Metalismo]] = **estabilidade cambial**, defesa do padrão-ouro: a moeda tem seu valor intrínseco dado por seu conteúdo metálico. 
-Desvalorização cambial = fruto de um excesso de emissões, geralmente associado a aumentos de [[Gastos Públicos (Macroeconomia)]].
+Desvalorização cambial = fruto de um excesso de emissões, geralmente associado a aumentos de [[Gastos Públicos]].
 
 [[Papelismo]] = **necessidades de circulação**. A moeda (*papel-moeda*) precisa dar **fluidez aos negócios**, uma necessidade do mercado.
 [[Taxa de Juros]] alta = falta papel-moeda no mercado (vide faltas de [[Preço Numerário|Numerário]] no Rio de Janeiro logo ao final do Império)

@@ -15,14 +15,14 @@ Porém, [[Política Monetária|Políticas Monetárias]] são apertadas desde Mur
 
 Durante a Guerra, fluxos de capitais ficam piores, com uma aceleração das saídas devido à Caixa de Conversões aberta por tempo demais (?).
 
-[[Exportações (Macroeconomia)]] têm problemas devido à guerra em si (questões de logística), mas ao final da guerra por questões de preços (1917). [[Importações (Macroeconomia)]] naturalmente caem drasticamente. 
+[[Exportações]] têm problemas devido à guerra em si (questões de logística), mas ao final da guerra por questões de preços (1917). [[Importações]] naturalmente caem drasticamente. 
 
 Fim de Caixa de Conversão, e [[Regime de Câmbio Flutuante]]. Ampliação das emissões, mesmo que inconversíveis, para aumentar oferta de moeda – em parte para financiar dívida pública também. 
 
 Renegociação da dívida: [[2º Funding Loan (1914)]]: 13 anos para pagar principal, 3 anos para pagar juros. 
 
 ## Déficits fiscais
-Aumento de [[Gastos Públicos (Macroeconomia)]], despesas com secas (Nordeste) e infraestrutura.
+Aumento de [[Gastos Públicos]], despesas com secas (Nordeste) e infraestrutura.
 
 Queda das receitas, devido à queda de importações: há muita reconversão produtiva de produtos metálicos na Europa.
 
@@ -70,14 +70,14 @@ Pioramento do [[Balanço de Pagamentos]]: saída de capitais pela manutenção p
 No tocante ao Brasil, dois motivos: a saída de capitais (recessão global) e queda das exportações (também pela recessão).
 
 ## Interpretação de Celso Furtado: Crise e superação
-Crise de 1929 é momento de transição de [[Economia Agroexportadora|Modelo Primário-Exportador]] para industrial. Anos 30 são momento de "deslocamento do centro dinâmico da economia brasileira": a renda passa a ser determinada não mais puramente pelas [[Exportações (Macroeconomia)]], mas pela demanda **interna** ([[Consumo Agregado|Consumo]]) e [[Investimentos (Macroeconomia)]] associados. 
+Crise de 1929 é momento de transição de [[Economia Agroexportadora|Modelo Primário-Exportador]] para industrial. Anos 30 são momento de "deslocamento do centro dinâmico da economia brasileira": a renda passa a ser determinada não mais puramente pelas [[Exportações]], mas pela demanda **interna** ([[Consumo Agregado|Consumo]]) e [[Investimentos]] associados. 
 
 **Peláez** indica duas vertentes que Furtado usa para analisar a superação dessa crise pelo Brasil:
 1) Vertente da Manutenção (da renda e da demanda): 
-	- Em 1931, Vargas acaba criando uma defesa do café, pelo seu peso na economia doméstica: estocagem de parte da produção, e **quotas de sacrifício**/queima de café. Ideia de queimar cerca de 1/3 de todo o café produzido anualmente, em média. Em 1937, queima-se **70% de todo café produzido** ([[Produto Interno Bruto|PIB]] do Brasil volta a crescer em 1933/1934, provavelmente plantios dão frutos em 1937...). 
+	- Em 1931, Vargas acaba criando uma defesa do café, pelo seu peso na economia doméstica: estocagem de parte da produção, e **quotas de sacrifício**/queima de café. Ideia de queimar cerca de 1/3 de todo o café produzido anualmente, em média. Em 1937, queima-se **70% de todo café produzido** ([[Produto Agregado|PIB]] do Brasil volta a crescer em 1933/1934, provavelmente plantios dão frutos em 1937...). 
 	- Financiamento por crédito doméstico (heterodoxo): Política Keynesiana Anticíclica[^4], com objetivo de manter [[Renda Agregada]] (Nominal), [[Despesa Agregada|Demanda Agregada]] e nível de trabalho (diminuir efeitos [[Multiplicador keynesiano|Multiplicador]]es negativos sobre a economia)
 1) Vertente do Deslocamento (da demanda):
-	- Para ajustar [[Balanço de Pagamentos]], e ao fim da [[Caixa de Estabilização (1927)]], volta o [[Regime de Câmbio Flutuante]], e opera-se [[Desvalorização Cambial]] **real**[^5]: o poder de compra de produtos estrangeiros diminui de fato, e isso reduziu [[Importações (Macroeconomia)]]
+	- Para ajustar [[Balanço de Pagamentos]], e ao fim da [[Caixa de Estabilização (1927)]], volta o [[Regime de Câmbio Flutuante]], e opera-se [[Desvalorização Cambial]] **real**[^5]: o poder de compra de produtos estrangeiros diminui de fato, e isso reduziu [[Importações]]
 	- Com a manutenção da demanda e encarecimento dos produtos externos, há um deslocamento para consumo (e produção) de produtos domésticos: [[Substituição das Importações]]
 
 A pergunta é: de onde vem a capacidade produtiva  para substituição de importações?

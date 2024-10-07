@@ -12,7 +12,7 @@ up::
 - [[Uma visão etnográfica da Faria Lima ─ Introdução]]
 - [[Uma visão etnográfica da Faria Lima ─ Sobre a moral e a eficiência capitalistas]]
 - [[Uma visão etnográfica da Faria Lima ─ Sobre o hype de mercado e o mercado do hype]]
-- [[Uma visão etnográfica da Faria Lima – Sobre stakeholders do meio corporativo]]
+- [[Termoclinas da Verdade – Uma visão etnográfica da Faria Lima]]
 - [[Uma visão etnográfica da Faria Lima ─ A relação contraditória entre capitalismo e criatividade]]
 - [[Uma visão etnográfica da Faria Lima ─ Sobre o trabalho de escritório]]
 - [[Sobre ESG no meio corporativo]]

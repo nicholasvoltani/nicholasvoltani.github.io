@@ -6,11 +6,11 @@ aliases:
   - Demanda Agregada
 ---
 
-up:: [[061 MOC Macroeconomia]]
+up:: [[062b MOC Contabilidade Nacional]]
 
-![[Resumo de Macroeconomia numa figura2.svg]]
+A despesa agregada de um país trata-se das possíveis destinações do [[Produto Agregado]]. Consiste essencialmente nos fatores que "pressionam" à produção do produto agregado.
 
-A despesa agregada de um país é o valor total de consumo demandado por suas partes constituintes (pessoas, empresas, governo), mais a demanda líquida do [[Resto do Mundo]]. Consiste essencialmente nos fatores que "pressionam" a [[Produção Interna]].
+É o valor total de consumo demandado pelas partes constituintes de uma economia (pessoas, empresas, governo), mais a demanda líquida do [[Resto do Mundo]]. 
 
 Formulaicamente, pode ser visto como
 $$
@@ -18,9 +18,9 @@ DA = C + I + G + (X - IM)
 $$
 onde 
 - $C$ é o [[Consumo Agregado]][^1], 
-- $I$ são os [[Investimentos (Macroeconomia)]][^2],
-- $G$ são os [[Gastos Públicos (Macroeconomia)]][^3], 
-- e $(X - IM)$ são as [[Exportações Líquidas (Macroeconomia)]][^4].
+- $I$ são os [[Investimentos]][^2],
+- $G$ são os [[Gastos Públicos]][^3], 
+- e $(X - IM)$ são as [[Exportações Líquidas]][^4].
 
 Macroscopicamente, temos também que [[A renda agregada é igual à despesa agregada]].
 
@@ -35,4 +35,4 @@ Macroscopicamente, temos também que [[A renda agregada é igual à despesa agre
 [^1]: Demanda/consumo dos indivíduos (p. ex. alimentos, transporte).
 [^2]: Demanda/consumo das empresas/[[Capital]] (p. ex. maquinário).
 [^3]: Demanda/consumo do governo (p. ex. ônibus/contratações de motoristas).
-[^4]: Demanda/consumo efetivo do exterior ([[Exportações (Macroeconomia)]] menos [[Importações (Macroeconomia)]]).
+[^4]: Demanda/consumo efetivo do exterior ([[Exportações]]ções (Macroeconomia)]]).

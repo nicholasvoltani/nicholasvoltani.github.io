@@ -25,7 +25,7 @@ Destacam-se [[Plano Trienal (1963)]] e [[PAEG]].
 
 Problemas de escala no tocante à [[Despesa Agregada|Demanda Agregada]] dos setores substituídos. **Bens de demanda derivada**: produção não é para o consumidor direto, e sim como [[Matéria-Prima]] para setores industriais.
 
-O PSI tende a ser concentrador de [[Renda Agregada]], então acaba fazendo com que o crescimento dos setores a substituir não cresce em taxas suficientes para viabilizar [[Investimentos (Macroeconomia)]]. Solução de Furtado no [[Plano Trienal (1963)]] é de *redistribuir renda*, aumentar demanda de bens de consumo duráveis. Tavares comenta sobre questão de [[Gastos Públicos (Macroeconomia)]].
+O PSI tende a ser concentrador de [[Renda Agregada]], então acaba fazendo com que o crescimento dos setores a substituir não cresce em taxas suficientes para viabilizar [[Investimentos]]. Solução de Furtado no [[Plano Trienal (1963)]] é de *redistribuir renda*, aumentar demanda de bens de consumo duráveis. Tavares comenta sobre questão de [[Gastos Públicos]].
 
 ## Crise cíclica endógena de economias industriais
 Descompassos entre investimentos demais (excesso de capacidade produtiva) e desaceleração de investimentos (aproveitamento da capacidade disponível).
@@ -50,7 +50,7 @@ Plano de Ação Econômica do Governo, ministros Roberto Campos e Octavio de Bul
 ### PAEG – Estabilização
 Diagnóstico da [[Inflação]] como sendo **excesso de [[Despesa Agregada|Demanda Agregada]]**:
 - $C$: [[Propensão Marginal a Consumir]] elevada devido a políticas salariais "frouxas" em um ambiente de pleno emprego
-- $I$: descontrole sobre expansão de crédito (e sobre [[Investimentos (Macroeconomia)]])
+- $I$: descontrole sobre expansão de crédito (e sobre [[Investimentos]])
 - $G$: tendência de [[Déficit Fiscal]]
 
 Metas de inflação (**conviver com inflação**, [[Gradualismo]]):
@@ -60,7 +60,7 @@ Metas de inflação (**conviver com inflação**, [[Gradualismo]]):
 
 Surgem noções de **correção monetária** e **indexação**.
 
-Há uma noção de "inconsistência distributiva" por trás da inflação: [[Gastos Públicos (Macroeconomia)]], salários e [[Investimentos (Macroeconomia)]].
+Há uma noção de "inconsistência distributiva" por trás da inflação: [[Gastos Públicos]], salários e [[Investimentos]].
 
 **Medidas estabilizadoras principais**:
 - Redução de déficit fiscal
@@ -159,7 +159,7 @@ Maior intervenção do Estado, monetária e fiscal (incentivos).
 
 Maior financiamento do Estado, por tributação, dívida pública (títulos), captação externa.
 
-[[Desenvolvimentismo]]: crédito para expansão de consumo (dentre os quais pelo BNH), e promoção de [[Exportações (Macroeconomia)]]. Reaproximação com capital externo (acordos com EUA).
+[[Desenvolvimentismo]]: crédito para expansão de consumo (dentre os quais pelo BNH), e promoção de [[Exportações]]. Reaproximação com capital externo (acordos com EUA).
 
 # Milagre Econômico (1967-1973)
 Ref: Antônio Barros de Castro ([ie.ufrj.br/images/IE/livros/a\_economia\_brasileira\_em\_marcha\_forcada.pdf](https://www.ie.ufrj.br/images/IE/livros/a_economia_brasileira_em_marcha_forcada.pdf)?).
@@ -174,7 +174,7 @@ Fonte: [aula 10 ec brasileira PROANPEC 2020 milagre v1/2 - YouTube](https://yout
 ![[Pasted image 20240912160802.png]]
 (Note queda mediante [[Primeira Crise Mundial do Petróleo (1973)]])
 
-[[Investimentos (Macroeconomia)]] são crescentes ano a ano, com [[Formação Bruta do Capital Fixo]] de 16.2% em 1967, alcançando 21.3% do PIB em 1973: aproveitamento de capacidade ociosa pós-PAEG, requer ampliação da capacidade produtiva. 
+[[Investimentos]] são crescentes ano a ano, com [[Formação Bruta do Capital Fixo]] de 16.2% em 1967, alcançando 21.3% do PIB em 1973: aproveitamento de capacidade ociosa pós-PAEG, requer ampliação da capacidade produtiva. 
 
 ![[Pasted image 20240912161538.png]]
 [[Balanço de Pagamentos]] começa positivo, tem queda em 1971-1972, e acaba positiva em 1973 (supersafra em 1973). 
@@ -196,7 +196,7 @@ Dois principais setores da indústria que puxam o Milagre Econômico são os mes
 
 Investimento do **setor privado** cresce mais do que investimentos públicos. 
 
-Crescimento de importações (também ligadas ao setor de capital), então aumento compensado de [[Exportações (Macroeconomia)]] foi fundamental para manter balança de pagamentos em cheque.
+Crescimento de importações (também ligadas ao setor de capital), então aumento compensado de [[Exportações]] foi fundamental para manter balança de pagamentos em cheque.
 
 Melhora de [[Termos de Troca]], cenário internacional boa, liquidez financeira internacional (empréstimos externos). **Diversificação das exportações** (soja entra, produtos manufaturados), também em função de multinacionais.
 
@@ -244,7 +244,7 @@ Para isso, o governo cria alguns programas para possibilitar tal projeto:
 **"Modernização dolorosa"**: aumento de concentração fundiária e utilização de mão-de-obra temporária (boias frias). 
 
 ## Concentração de renda
-**Aumento da concentração da renda**. Tenha-se em vista que havia uma "não-cobrança" de impostos sobre [[Poupança (Macroeconomia)]] – ou seja, incidia muito mais sobre os pobres (que não tinham o que poupar) do que sobre os ricos (que podiam "se dar ao luxo" de poupar). 
+**Aumento da concentração da renda**. Tenha-se em vista que havia uma "não-cobrança" de impostos sobre [[Poupança]] – ou seja, incidia muito mais sobre os pobres (que não tinham o que poupar) do que sobre os ricos (que podiam "se dar ao luxo" de poupar). 
 
 Langoni: coeficiente Gini piorou entre 1960 e 1970 => maior concentração de renda. Chama de "males do crescimento", advindo de "desequilíbrios típicos" (oferta-demanda, mercado de trabalho, educação e qualificação). 
 

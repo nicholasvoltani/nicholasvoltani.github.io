@@ -16,16 +16,16 @@ P\left(\bigcup\limits_{n \in \mathbb{N}}A_n\right) = \sum\limits_{n \in \mathbb{
 $$
 # Properties
 - $\forall A \in \mathcal{F}: P(A^c) = 1 - P(A)$[^1]
-- $P(\emptyset) = 0$
+	- $\implies P(\emptyset) = 0$
 - $\forall A \subseteq B \in \mathcal{F}: P(A) \leq P(B)$[^2]
-	- $\forall A \in \mathcal{F}: 0 \leq P(A) \leq P(1)$
+	- $\implies \forall A \in \mathcal{F}: 0 \leq P(A) \leq P(X) = 1$
 - $\forall A, B \in \mathcal{F}: P(A \cup B) = P(A) + P(B) - P(A \cap B)$[^3]
 - [[Continuity Theorem of Probabilities over (non-)decreasing sets of events]]
 
 ---
 ### References
-- 
+- [Hogg, Robert V., Joseph W. McKean, and Allen T. Craig. Introduction to mathematical statistics. Pearson Education India, 2013.](https://minerva.it.manchester.ac.uk/~saralees/statbook2.pdf)
 
 [^1]: Since $C = A \cup A^c$, and since $P(A) + P(A^c) = 1$.
 [^2]: Note that $B = A \cup (A^c \cap B)$ of disjoint sets; thus, $P(B) = P(A) + P(\dots) \geq P(A)$.
-[^3]: Note that ${\color{red} A} \cup B = {\color{red} A} \cup (B \setminus A) = {\color{red} A} \cup (B \cap A^c)$ and $B = (B \setminus A) \cup A = (B \cap A^c) \cup (B \cap A)$.
+[^3]: Note that ${\color{red} A} \cup B = {\color{red} A} \cup (B \setminus A) = {\color{red} A} \cup (B \cap A^c)$ and $B = (B \setminus A) \cup A = (B \cap A^c) \cup (B \cap A)$ is a union of disjoint parts, from which $P(B \cap A^c) = P(B) - P(A \cap B)$.

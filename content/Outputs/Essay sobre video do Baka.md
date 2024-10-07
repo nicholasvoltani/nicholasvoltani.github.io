@@ -27,6 +27,9 @@ Trecho em que se fala sobre ser impossível falar do que existia antes de nós e
 
 Se fosse mesmo o caso, voltemos ao mito de Adão e Eva! Como vou eu saber sobre a extinção dos dinossauros se nós não existíamos? É como dizer que tais previsões sobre o passado são *child's play*: "é assim que os dinossauros foram extintos... se eles tivessem existido". Impõe-se uma descontinuidade enorme baseada em uma forma de existência específica dentre possíveis trilhões de formas de vida em um Universo tão inconcebivelmente enorme!
 
+$$
+\textrm{R\$} = \frac{\color{blue}\cancel{\color{black}\textrm{sc}}}{\color{red}\cancel{\color{black}\textrm{ha}}} \cdot {\color{red}\cancel{\color{black}\textrm{ha}}} \cdot \frac{\textrm{R\$}}{\color{blue}\cancel{\color{black}\textrm{sc}}}
+$$
 
 ---
 ### Referências

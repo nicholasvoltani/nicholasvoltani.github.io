@@ -20,7 +20,12 @@ $$
 $$
 Ou seja, sua [[Elasticidade de Renda da Demanda]] é positiva.
 
-O oposto de um bem normal é chamado de [[Bens Inferiores]], que são bens menos desejados após uma melhora no "nível de vida" (p. ex. miojo!).
+O oposto de um bem normal é chamado de [[Bens Inferiores|Bem Inferior]], que são bens menos desejados após uma melhora no "nível de vida" (p. ex. miojo!).
+
+# Tipos de bens normais
+Bens cuja demanda aumenta em proporção *menor do que a renda* são chamados [[Bens Necessários]].
+
+Bens cuja demanda aumenta numa proporção *maior que a renda* é um [[Bens de Luxo]]. São também conhecidos como "bens *superiores*".
 
 ---
 ### References

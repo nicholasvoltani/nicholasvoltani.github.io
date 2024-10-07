@@ -49,7 +49,7 @@ Acordo com capital estrangeiro, com sucesso:
 **Combate à inflação**, tratamento de choque[^1]:
 - [[Política Monetária Contracionista]]/**arrocho monetário**
 - Combate ao déficit público/**arrocho fiscal**
-	- Diminuição de subsídios: trigo e petróleo – **Inflação Corretiva**: causa choque de preços dos derivados, mas corta [[Gastos Públicos (Macroeconomia)]] lá na frente
+	- Diminuição de subsídios: trigo e petróleo – **Inflação Corretiva**: causa choque de preços dos derivados, mas corta [[Gastos Públicos]] lá na frente
 
 [[Instrução 204 - SUMOC (1961)]]: 
 - Unificação do mercado cambial
@@ -74,13 +74,13 @@ Programa extremamente genérico, mera declaração de princípios: reduzir custo
 
 Mantém unificação cambial anterior.
 
-Reforma fiscal e controle de custeio de estatais, aumenta taxa de [[Poupança (Macroeconomia)]].
+Reforma fiscal e controle de custeio de estatais, aumenta taxa de [[Poupança]].
 
 Proposta de criação do [[Banco Central]], e controles quantitativos de moeda – derrubado.
 
 **Deterioração de relações Brasil-EUA**. Nova lei de remessa de lucro.
 
-Inflação crescendo, [[Produto Interno Bruto|PIB]] também. Queda de [[Formação Bruta do Capital Fixo]] comparado ao PIB. [[Importações (Macroeconomia)]] sob controle.
+Inflação crescendo, [[Produto Agregado|PIB]] também. Queda de [[Formação Bruta do Capital Fixo]] comparado ao PIB. [[Importações]] sob controle.
 
 Aumenta déficit público, em particular por transportes.
 

@@ -10,7 +10,7 @@ up:: [[061 MOC Macroeconomia]]
 O balanço de pagamentos de um país é uma descrição detalhada do fluxo de entrada e saída de dinheiro, bens e serviços.
 
 É composto de duas partes:
-- [[Conta Corrente]]: saldo advindo de [[Importações (Macroeconomia)]], [[Exportações (Macroeconomia)]], doações, [[Renda Líquida Enviada ao Exterior]]
+- [[Conta Corrente]]: saldo advindo de [[Importações]], [[Exportações]], doações, [[Renda Líquida Enviada ao Exterior]]
 - [[Conta Capital e Financeira]]: saldo advindo de empréstimos, juros, financiamentos
 
 ---

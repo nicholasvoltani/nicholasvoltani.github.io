@@ -9,7 +9,7 @@ up:: [[061 MOC Macroeconomia]]
 
 A lei de Say diz que "**a oferta cria sua própria demanda**". Ou seja, a produção toma por pressuposto a venda. 
 
-É uma pressuposição tácita em macroeconomia, pois assume que a [[Despesa Agregada|Demanda Agregada]] é igual ao [[Produto Interno Bruto]].
+É uma pressuposição tácita em macroeconomia, pois assume que a [[Despesa Agregada|Demanda Agregada]] é igual ao [[Produto Agregado]].
 
 ---
 ### References

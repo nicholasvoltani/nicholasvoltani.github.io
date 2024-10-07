@@ -7,7 +7,7 @@ aliases:
 
 up:: [[Taxa de Câmbio]]
 
-A desvalorização cambial ocorre quando a [[Taxa de Câmbio]] diminui. Isso favorece [[Exportações (Macroeconomia)]] (preços menores, mais competitivo internacionalmente) e desfavorece [[Importações (Macroeconomia)]] (preços internacionais mais caros comparados com nossos).
+A desvalorização cambial ocorre quando a [[Taxa de Câmbio]] diminui. Isso favorece [[Exportações]] (preços menores, mais competitivo internacionalmente) e desfavorece [[Importações]] (preços internacionais mais caros comparados com nossos).
 
 Lembrando a [[Paridade Coberta das Taxas de Juros]], temos que
 $$

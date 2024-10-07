@@ -10,7 +10,7 @@ up:: [[061 MOC Macroeconomia]]
 ![[Pasted image 20240811182250.png]]
 Fonte: LOPES, p. 196.
 
-A interseção da [[Curva IS]] com a [[Curva LM]] significa uma situação em que há equilíbrio no mercado de bens e no mercado de ativos, simultaneamente. Nessa situação, há um certo [[Produto Interno Bruto|PIB]] $Y$ e uma certa [[Taxa de Juros]] $r$[^1].
+A interseção da [[Curva IS]] com a [[Curva LM]] significa uma situação em que há equilíbrio no mercado de bens e no mercado de ativos, simultaneamente. Nessa situação, há um certo [[Produto Agregado|PIB]] $Y$ e uma certa [[Taxa de Juros]] $r$[^1].
 
 # Análise com modelo keynesiano simples
 Num [[Equilíbrio no Mercado de Bens (Economia Fechada)]], temos que

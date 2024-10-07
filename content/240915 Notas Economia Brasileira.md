@@ -35,9 +35,9 @@ Crescimento da [[Despesa Agregada|Demanda Agregada]]:
 - Aumento do poder aquisitivo (inflação em queda)
 - Crédito
 - Demanda reprimida
-- Aumento de horizonte de previsão (portanto, maiores perspectivas de [[Investimentos (Macroeconomia)]])
+- Aumento de horizonte de previsão (portanto, maiores perspectivas de [[Investimentos]])
 
-Encaixe parcial de demanda com [[Importações (Macroeconomia)]] (que entravam a preços baixos, tarifas tinham sido em grande parte removidas).
+Encaixe parcial de demanda com [[Importações]] (que entravam a preços baixos, tarifas tinham sido em grande parte removidas).
 
 # Questão externa na primeira fase do Plano Real
 [[Apreciação Cambial]], abertura de capitais, demanda aquecida = déficits comerciais. Há queima de reservas e/ou endividamento externo.

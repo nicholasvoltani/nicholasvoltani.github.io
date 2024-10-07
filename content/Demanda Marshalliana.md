@@ -5,11 +5,12 @@ tags:
 aliases:
   - Demandas Marshallianas
   - Demanda Não-Compensada
+  - Demanda Walrasiana
 ---
 
 up:: [[Função Utilidade]]
 
-A demanda marshalliana de um bem em uma [[Cesta de Bens]] é a quantidade ótima que um indivíduo se sente compelido a comprá-la.
+A demanda marshalliana de um bem em uma [[Cesta de Bens]] é a quantidade ótima em que um indivíduo se sente compelido a comprá-la, referente à sua capacidade de compra.
 
 Matematicamente, dada uma [[Função Utilidade]] $U(x_{1},x_{2})$, deseja-se maximizar a utilidade sob alguma [[Restrição Orçamentária]] (e com preços fixos $p_{i}$)
 $$
@@ -34,6 +35,8 @@ x_{1}^{*}(p_{1},p_{2},m) = \alpha \frac{m}{p_{1}} \\
 x_{2}^{*}(p_{1},p_{2},m) = (1-\alpha)\frac{m}{p_{2}}
 \end{cases}
 $$
+
+Ou seja, os coeficientes $\alpha, (1-\alpha)$ tratam da proporção de distribuição da renda $m$ entre os bens, donde essas proporções multiplicam com as máximas quantidades compráveis de cada bem, i.e. $\frac{m}{p_{i}}$.
 
 # Relação com demanda hicksiana
 Demandas marshallianas são também chamadas demandas *não-compensadas* – i.e. são afetadas por [[Efeito de Substituição]] quanto por [[Efeito Renda]] –, em contraste com [[Demanda Hicksiana]] que são demandas *compensadas* – i.e. são afetadas somente pelo efeito substituição.

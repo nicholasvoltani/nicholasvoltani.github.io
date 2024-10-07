@@ -189,7 +189,7 @@ $$
 $$
 \begin{align*}
 \sum\limits_1^N n &= [n\cdot n]_1^{N+1} - \sum\limits_1^N 1 \cdot (n+1)\\
-&= (N+1)^2 - 1 - \sum\limits_1^N 1 \cdot (n+1) \pm 1\\
+&= (N+1)^2 - 1 - \sum\limits_1^N (n+1)\\
 &= N^2 + N - \sum\limits_1^N n\\
 \therefore \sum\limits_1^N n &= \frac{N (N+1)}{2}
 \end{align*}

@@ -21,11 +21,11 @@ up:: [[063 MOC Economia Brasileira]]
 **Industrialização intencionalmente promovida por políticas do governo pré-1930** – não tão em pé de igualdade com as outras, embora seja cabível ponderar sobre o papel do governo (Vargas) na industrialização. 
 
 ## Teoria dos Choques Adversos
-É uma resposta às dificuldades do [[Economia Agroexportadora|Modelo Agroexportador]]: industrialização sendo uma resposta à dificuldade de [[Importações (Macroeconomia)]]. "Choques adversos" são crises internacionais (que muito afetam países primário-exportadores), guerras, etc. 
+É uma resposta às dificuldades do [[Economia Agroexportadora|Modelo Agroexportador]]: industrialização sendo uma resposta à dificuldade de [[Importações]]. "Choques adversos" são crises internacionais (que muito afetam países primário-exportadores), guerras, etc. 
 
 Há uma relação inversa entre café e indústria:
-- Quando café vai mal, há dificuldade com [[Exportações (Macroeconomia)]], problema de [[Balanço de Pagamentos]], até mesmo [[Desvalorização Cambial]]. Acaba sendo mais favorável ao desenvolvimento industrial.
-- Quando café vai bem, há facilidade de [[Importações (Macroeconomia)]], até de **bens concorrentes**, além de lucratividade do café atrair capital externo. Acaba sendo, portanto, detrimental à indústria.
+- Quando café vai mal, há dificuldade com [[Exportações]], problema de [[Balanço de Pagamentos]], até mesmo [[Desvalorização Cambial]]. Acaba sendo mais favorável ao desenvolvimento industrial.
+- Quando café vai bem, há facilidade de [[Importações]], até de **bens concorrentes**, além de lucratividade do café atrair capital externo. Acaba sendo, portanto, detrimental à indústria.
 
 Dificilmente é explicitamente assumido por pesquisadores. Furtado e Tavares aceitam somente em parte **para crise de 1930**, não para antes (em geral) – se trata, em particular, no tocante à indústria *de bens de consumo*, e ainda não com um vigor comparável ao modelo primário-exportador.
 
@@ -41,7 +41,7 @@ Há essa dependência do café, pois ele é o fio condutor entre a indústria do
 **Olha-se mais para volume de investimentos físicos** da indústria. Promove-se, por exemplo, a criação de ferrovias. 
 
 ## Capitalismo Tardio
-Versianni & Versianni: há momentos de **desvalorização** do café, nos quais há uma proteção dos recursos já existentes (induzindo produção), e momentos de **valorização**, nos quais há um aumento de [[Investimentos (Macroeconomia)]].
+Versianni & Versianni: há momentos de **desvalorização** do café, nos quais há uma proteção dos recursos já existentes (induzindo produção), e momentos de **valorização**, nos quais há um aumento de [[Investimentos]].
 
 Logo, há momentos de ampliação da **capacidade produtiva**, e momentos de ampliação da **produção em si**, correlacionados com os ciclos econômicos do café. 
 
@@ -76,7 +76,7 @@ As origens do capital industrial vêm do cafeicultor e dos imigrantes/importador
 
 O governo não adotou uma medida *anti*-industrializante, mas também não eram deliberados no processo. Há desenvolvimentos a favor da indústria, claro, como criação de Ferrovias de Ferro e siderurgias.
 
-**Oscilações cambiais** têm efeito ambíguo na industrialização doméstica: ao passo que uma [[Desvalorização Cambial]] encarece [[Importações (Macroeconomia)]] e, portanto, desfavorece concorrência externa (portanto, induzindo a utilização da capacidade produtiva doméstica), ela também encarece **bens de capital**, portanto podendo ser detrimental à produção. No grosso, desvalorizações cambiais tendiam mais a ser desfavoráveis à industrialização, tendo em vista o custo do capital importado necessário. Vice-versa para [[Apreciação Cambial]].
+**Oscilações cambiais** têm efeito ambíguo na industrialização doméstica: ao passo que uma [[Desvalorização Cambial]] encarece [[Importações]] e, portanto, desfavorece concorrência externa (portanto, induzindo a utilização da capacidade produtiva doméstica), ela também encarece **bens de capital**, portanto podendo ser detrimental à produção. No grosso, desvalorizações cambiais tendiam mais a ser desfavoráveis à industrialização, tendo em vista o custo do capital importado necessário. Vice-versa para [[Apreciação Cambial]].
 
 As oscilações apreciação-desvalorização do câmbio no início da República não foram propositais ao desenvolvimento da indústria (claro), mas contribuíram ele: momento de apreciação é momento de investimento em bens de capital, e momento de depreciação é momento de aproveitamento das capacidade produtivas com os bens previamente adquiridos, e por aí vai, subrepticiamente à produção cafeeira.
 
@@ -89,7 +89,7 @@ As oscilações apreciação-desvalorização do câmbio no início da Repúblic
 Desenvolvimento de **indústrias de bens de consumo**: têxtil, sapato, alimentos. Eram limitadas até 1920, passaram a ganhar um ímpeto estatal: papel/celulose, óleos, fios, siderurgia. 
 
 # Populismo no Brasil (1930-1964)
-[[Deslocamento do Centro Dinâmico]] (Furtado): *endogenização* das fontes de dinamismo da economia brasileira. [[Exportações (Macroeconomia)]] continuam importantes, mas agora há uma transformação estrutural da sociedade, com urbanização e [[Industrialização por Substituição das Importações]] & **Estado desenvolvimentista**.
+[[Deslocamento do Centro Dinâmico]] (Furtado): *endogenização* das fontes de dinamismo da economia brasileira. [[Exportações]] continuam importantes, mas agora há uma transformação estrutural da sociedade, com urbanização e [[Industrialização por Substituição das Importações]] & **Estado desenvolvimentista**.
 
 O governador do Estado possui o poder, e delega-o provincialmente aos coroneis regionais; em troca, os coroneis induzem os votos de cabresto a favor do governador do Estado, na República Velha. **Isso muda com Vargas**: Politicamente há uma *urbanização da hegemonia*, uma prioridade das massas urbanas. 
 
@@ -132,7 +132,7 @@ Getúlio Vargas obtém apoios políticos e compromissos entre vários grupos. As
 	- [[Desvalorização Cambial]]
 	- [[Taxa de Câmbio]] múltiplas
 	- Tarifas aduaneiras (diferenciadas em particular no tocante à concorrência)
-- **responde a choques adversos externos**: mediante um choque adverso (escassez de divisas), governo tenta controlar a crise para diminuir [[Importações (Macroeconomia)]] e manter [[Balanço de Pagamentos]], para proteger indústria nacional; dessa forma, gera-se uma onda de [[Investimentos (Macroeconomia)]], aumentando [[Renda Agregada]] e também [[Despesa Agregada|Demanda Agregada]]; com isso, cria um novo estrangulamento externo, por conta do aumento da demanda (e o ciclo recomeça)
+- **responde a choques adversos externos**: mediante um choque adverso (escassez de divisas), governo tenta controlar a crise para diminuir [[Importações]] e manter [[Balanço de Pagamentos]], para proteger indústria nacional; dessa forma, gera-se uma onda de [[Investimentos]], aumentando [[Renda Agregada]] e também [[Despesa Agregada|Demanda Agregada]]; com isso, cria um novo estrangulamento externo, por conta do aumento da demanda (e o ciclo recomeça)
 	- Ou seja, vai caminhando de desequilíbrio externo a desequilíbrio externo, desequilíbrios **parciais** (substituindo **algumas** importações, não todas), até certo limite geográfico/capital/tecnológico
 	- Acaba induzindo um "confisco cambial" da renda do setor primário-exportador para o setor industrial, desestimulava exportações agrícolas
 que procurou repetir a experiência de industrialização de países desenvolvidos.

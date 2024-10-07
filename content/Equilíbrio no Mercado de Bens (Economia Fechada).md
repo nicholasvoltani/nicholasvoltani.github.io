@@ -13,7 +13,7 @@ Supondo um [[Modelo Keynesiano Simples]]
 $$
 C(Y) = c_{0} + c_{1} (Y-T)
 $$
-em que o [[Consumo Agregado]] é função linear da renda disponível ([[Renda Agregada]] menos [[Impostos (Macroeconomia)]]), temos que a condição de equilíbrio é
+em que o [[Consumo Agregado]] é função linear da renda disponível ([[Renda Agregada]] menos [[Impostos]]), temos que a condição de equilíbrio é
 $$
 Y = C + I + G + (X-IM)
 $$
@@ -39,7 +39,7 @@ S = Y - T - C\\
 S_{G} = T - G
 \end{cases}
 $$
-Assumindo que os [[Investimentos (Macroeconomia)]] são iguais à [[Poupança (Macroeconomia)]], temos
+Assumindo que os [[Investimentos]] são iguais à [[Poupança]], temos
 $$
 \begin{align}
 I &= S + S_{G} \\

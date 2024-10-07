@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"4505f5ed3320199c","type":"text","text":"Famílias","x":-460,"y":-61,"width":168,"height":60,"color":"3"},
+		{"id":"25021ea278ba5a6c","type":"text","text":"Firmas","x":320,"y":-61,"width":140,"height":60,"color":"4"},
+		{"id":"e26e5db6b65f5caf","type":"text","text":"Mercado de Fatores","x":-140,"y":-91,"width":250,"height":120,"color":"5"},
+		{"id":"2bd2e75c0fa030c7","x":-140,"y":-540,"width":250,"height":100,"color":"6","type":"text","text":"Mercado de \nBens e Serviços"}
+	],
+	"edges":[
+		{"id":"0c3ca04c1e78e073","fromNode":"4505f5ed3320199c","fromSide":"bottom","toNode":"e26e5db6b65f5caf","toSide":"bottom","color":"4","label":"Força de Trabalho"},
+		{"id":"b73559ebed55919b","fromNode":"e26e5db6b65f5caf","fromSide":"bottom","toNode":"25021ea278ba5a6c","toSide":"bottom","color":"4","label":"Fatores de Produção"},
+		{"id":"2f9956df7ef7154c","fromNode":"25021ea278ba5a6c","fromSide":"top","toNode":"e26e5db6b65f5caf","toSide":"top","color":"1","label":"Custos de Produção"},
+		{"id":"ff4bb0383261814b","fromNode":"e26e5db6b65f5caf","fromSide":"top","toNode":"4505f5ed3320199c","toSide":"top","color":"1","label":"Remuneração\ndos Fatores\nde Produção"},
+		{"id":"73f08449f206deb6","fromNode":"4505f5ed3320199c","fromSide":"top","toNode":"2bd2e75c0fa030c7","toSide":"left","color":"4","label":"Consumo\nBens/Serviços"},
+		{"id":"c3eebe61aec9af13","fromNode":"25021ea278ba5a6c","fromSide":"top","toNode":"2bd2e75c0fa030c7","toSide":"right","color":"4","label":"Fornecimento\nBens/Serviços"}
+	]
+}

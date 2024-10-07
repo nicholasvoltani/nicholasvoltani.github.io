@@ -6,28 +6,16 @@ tags:
 ---
 up:: [[060 MOC Economia]]
 
-# Conceitos Macroeconômicos Fundamentais
+child:: [[061a MOC ANPEC Macroeconomia]]
+
+# [[062b MOC Contabilidade Nacional]]
 ## Variáveis Agregadas
 - [[Lei de Say]]
 - [[Balanço de Pagamentos]]
 	- [[Conta Corrente]]
 	- [[Conta Capital e Financeira]]
-		- [[Renda Líquida Enviada ao Exterior]]
-- [[Consumo Agregado]]
-- [[Investimentos (Macroeconomia)]]
-- [[Gastos Públicos (Macroeconomia)]]
-- [[Exportações Líquidas (Macroeconomia)]]
-	- [[Exportações (Macroeconomia)]]
-	- [[Importações (Macroeconomia)]]
-	- [[Termos de Troca]]
-- [[Impostos (Macroeconomia)]]
-- [[Poupança (Macroeconomia)]]
-	- [[Poupança Privada]]
-	- [[Poupança do Governo]]
-	- [[Resultado Primário Fiscal]]
-- [[Despesa Agregada]]
-- [[Renda Agregada]]
-- [[Produto Interno Bruto]]
+- [[Resultado Primário Fiscal]]
+- [[Produto Agregado]]
 	- [[Produto Nacional Bruto]]
 	- [[O PIB consiste em produção geograficamente doméstica]]
 	- [[O PIB é uma medida do valor agregado total produzido em certo período]]

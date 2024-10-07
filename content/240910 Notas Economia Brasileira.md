@@ -227,7 +227,7 @@ Estatais, recursos próprios insuficientes.
 
 BNDE: recursos próprios, aposentadoria
 
-Financiamento de [[Investimentos (Macroeconomia)]]:
+Financiamento de [[Investimentos]]:
 - $\nexists$ mercado de capitais médio/longo prazo
 - sistema intermediação financeira inadequado (em particular com [[Lei da Usura (1933)]], limite 12% [[Taxa de Juros]])
 
