@@ -70,7 +70,8 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-	  Plugin.HardLineBreaks()
+	  Plugin.HardLineBreaks(),
+	  Plugin.Latex()
     ],
     filters: [
 		Plugin.RemoveDrafts()
