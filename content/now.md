@@ -2,6 +2,7 @@
 date: 2024-06-10
 tags:
 ---
+
 up:: [[index]]
 
 > "Most websites have a link that says '**about**'. It goes to a page that tells you something about the background of this person or business. For short, people just call it an 'about page'.

@@ -18,6 +18,7 @@ child:: [[064a MOC ANPEC Estatística]]
 
 # Distribuições Básicas
 - [[Distribuição de Bernoulli]]
+	- [[Distribuição Geométrica]]
 - [[Distribuição Binomial]]
 - [[Distribuição de Poisson]]
 - [[Distribuição Normal]]
@@ -57,6 +58,7 @@ child:: [[064a MOC ANPEC Estatística]]
 	- [[Nível de Significância]]
 
 
+---
 ### Referências
 - [Referências – Estatística – Anpec Expresso](https://anpecexpresso.com/2018/12/12/referencias-estatistica/)
 	- [Apostila de Números-Índice da UFF - Ana Maria Lima de Farias & Luiz da Costa Laurencel (2005)](https://anpecexpresso.com/wp-content/uploads/2018/12/nc3bameros-c3adndice.pdf) 
