@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062b MOC Contabilidade Nacional]]
+up:: [[061b MOC Contabilidade Nacional]]
 
 Trata-se da venda de bens e serviços para o [[Resto do Mundo]].
 

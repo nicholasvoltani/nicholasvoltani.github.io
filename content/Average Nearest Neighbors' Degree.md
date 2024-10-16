@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[040 MOC Complex Systems]]
+up:: [[041 MOC Graph Theory]]
 
 ![[Pasted image 20240527143845.png]]
 Example from [0\_CS7280\_NetworkScience](https://monzersaleh.github.io/GeorgiaTech/CS7280_NetworkScience.html), for $v$'s average nearest neighbors degree, which is $4$: note it takes into account paths from $v$ to itself as well!!!

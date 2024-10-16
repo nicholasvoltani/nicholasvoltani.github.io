@@ -7,7 +7,7 @@ aliases:
   - PIB
 ---
 
-up:: [[062b MOC Contabilidade Nacional]]
+up:: [[061b MOC Contabilidade Nacional]]
 
 > "Produto Agregado é a soma de todos os bens e serviços *finais* produzidos na economia durante determinado período de tempo." (GREMAUD et al, p. 20; grifo meu)
 

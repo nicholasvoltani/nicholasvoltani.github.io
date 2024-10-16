@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062b MOC Contabilidade Nacional]]
+up:: [[061b MOC Contabilidade Nacional]]
 
 > "...**gastos públicos**, que representam a aquisição de bens e serviços pelo governo." (GREMAUD et al, p. 25)
 

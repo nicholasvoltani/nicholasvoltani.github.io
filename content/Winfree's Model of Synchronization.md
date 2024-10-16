@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[040 MOC Complex Systems]]
+up:: [[041 MOC Graph Theory]]
 
 In 1967, Winfree posited a simple model to predict synchronization in biological systems. 
 

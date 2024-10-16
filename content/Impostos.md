@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062b MOC Contabilidade Nacional]]
+up:: [[061b MOC Contabilidade Nacional]]
 
 Impostos ($T$) são uma forma de arrecadação de recursos por parte de um governo, para sua própria manutenção e para permitir o fornecimento de [[Bens Públicos]] e [[Gastos Públicos]]. 
 

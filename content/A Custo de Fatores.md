@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062b MOC Contabilidade Nacional]]
+up:: [[061b MOC Contabilidade Nacional]]
 
 Contabilizar alguma variável macroeconômica $X$ *a custo de fatores* trata-se de contabilizar a [[Renda Agregada]] gerada pela remuneração dos [[Fatores de Produção]] utilizados para sua respectiva produção.
 

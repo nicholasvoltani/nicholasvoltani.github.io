@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/nicholasvoltani/",
       Medium: "https://medium.com/@nicholasvoltani",
+	  Substack: "https://nicholasvoltani.substack.com/",
     },
   }),
 }

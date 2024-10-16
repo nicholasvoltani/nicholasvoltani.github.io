@@ -3,14 +3,12 @@ date: " 2023-10-12"
 tags:
   - essay
   - to-be-elaborated
-draft: "true"
 ---
 up:: [[Uma visão etnográfica da Faria Lima]]
 
-Obviamente estes textos são sobre minha breve passagem, em uma só empresa, no meio corporativo. Porém, percebo padrões que sinto que sejam presentes a este meio como um todo. Estes textos não são justificações ou enaltecimentos deste ambiente e de seu *habitus*; são, antes de tudo, uma espécie de vista etnográfica desse meio, podendo ser de interesse particular para quem esteja totalmente alheio a este ambiente ─ e em particular de quem fala tanto sobre a Faria Lima como recursos retóricos, mas que não faz ideia da realidade de seus próprios argumentos.
+*Disclaimer*: Obviamente estes textos são sobre minha breve passagem, em uma só empresa, no meio corporativo. Porém, percebo padrões que sinto que sejam presentes a este meio como um todo. Estes textos não são justificações ou enaltecimentos deste ambiente e de seu *habitus*; são, antes de tudo, uma espécie de vista etnográfica desse meio, podendo ser de interesse particular para quem esteja totalmente alheio a este ambiente ─ e em particular de quem fala tanto sobre a Faria Lima como recursos retóricos, mas que não faz ideia da realidade de seus próprios argumentos.
 
 ---
-# *Stakeholders* no céu, *managers* na Terra 
 Pela minha brevíssima experiência no meio corporativo, se não é o *tempo de trabalho* que tem que ser sempre otimizado, então que nunca se perca de vista o objetivo cabal da empresa: de levar oferendas dignas aos nossos *stakeholders*, que sentam-se impávidos em seu Monte Olimpo, (geralmente) no Primeiro Mundo. 
 
 Não só o lucro da empresa em que se trabalha, mas o *retorno aos seus investidores*[^1] é o ponto crucial que movimenta todas as engrenagens e os discursos da Faria Lima. Quaisquer empreitadas intelectuais "externas" ao *business as usual*[^2], que tenham aval de uma dada empresa ─ com custos monetários da própria empresa e/ou de horas extras dos funcionários envolvidos ─, devem ter em mente, em seu bojo, este objetivo sempre em vista.

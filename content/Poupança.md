@@ -6,7 +6,7 @@ aliases:
   - Poupança Agregada
 ---
 
-up:: [[062b MOC Contabilidade Nacional]]
+up:: [[061b MOC Contabilidade Nacional]]
 
 > "**Poupança Agregada** é a parcela da Renda Agregada não consumida em um dado período." (GREMAUD et al, p. 23)
 

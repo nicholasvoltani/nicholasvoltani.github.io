@@ -7,6 +7,8 @@ aliases:
 
 up:: [[064 MOC Estatística em Economia]]
 
+A desigualdade de Markov dá uma noção de quão improvável é que uma variável aleatória (não-negativa) seja maior do que sua média.
+
 Seja $X$ uma variável aleatória *não-negativa*, com valor esperado $\mathbb{E}[X]<\infty$.
 
 Então tem-se que, para todo $a > 0$,
@@ -24,8 +26,9 @@ $$
 $$
 
 # Corolários
-- [[Desigualdade de Chebyshev]]
+- [[Desigualdade de Chebyshev]], que explica a relação entre variância e *spread* de uma variável aleatória com relação à sua média
 
 ---
 ### References
 - [Markov's inequality - Wikipedia](https://en.wikipedia.org/wiki/Markov%27s_inequality#Proofs)
+- [19. Weak Law of Large Numbers - YouTube](https://www.youtube.com/watch?v=3eiio3Tw7UQ&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&index=19)

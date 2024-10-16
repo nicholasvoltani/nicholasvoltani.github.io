@@ -6,7 +6,7 @@ aliases:
   - Cosine Similarity
 ---
 
-up:: [[040 MOC Complex Systems]]
+up:: [[041 MOC Graph Theory]]
 
 Given an [[Adjacency Matrix]] $A$ for a [[Simple Graph]], one can calculate the similarity between nodes $i, j$ by comparing the neighbors of each, through their rows[^1] in the adjacency matrix, $A_{i}, A_{j}$ respectively.
 

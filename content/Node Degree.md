@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[040 MOC Complex Systems]]
+up:: [[041 MOC Graph Theory]]
 
 Given a graph $G$ with [[Adjacency Matrix]] $A$, the degree of a node $i$ is given by
 $$

@@ -7,9 +7,9 @@ aliases:
 
 up:: [[Knowledge]]
 
-> "[O saber] tem um tempo completamente diferente do que a informação, que é muito curta e de curto prazo" (Han, p. 75). 
+> "O saber não está simplesmente disponível. Não se pode simplesmente encontrá-lo como a informação. Não raramente, uma longa experiência o antecede. [O saber] tem um tempo completamente diferente do que a informação, que é muito curta e de curto prazo" (Han, p. 75). 
 
-O conhecimento não advém exclusivamente da aquisição de informação. O conhecimento não é uma mera soma de fatos, e sim uma constelação interligada de informações e práticas, norteada pela experiência.
+O conhecimento não advém exclusivamente da aquisição de informação. O conhecimento não é uma mera soma de fatos, e sim uma constelação interligada de informações e práticas, norteada pela experiência. [[O saber requer conhecimento tácito]].
 
 É por isso que vemos uma epidemia de recém-formados com médias altas e honras, mas incompetentes em seus ofícios: tornaram-se verdadeiras enciclopédias de seus *métiers*, mas veem-os como se estivessem por detrás de uma vitrine de vidro, incapazes de agir sobre o objeto do qual tantos fatos sabem. 
 

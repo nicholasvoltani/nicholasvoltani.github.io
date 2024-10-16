@@ -6,7 +6,7 @@ aliases:
   - Depósitos à Vista
 ---
 
-up:: [[061 MOC Macroeconomia]]
+up:: [[061c MOC Teoria da Moeda]]
 
 São depósitos de [[Papel Moeda em Poder do Público]] com liquidez equivalente. 
 

@@ -15,18 +15,19 @@ child:: [[064a MOC ANPEC Estatística]]
 # Resultados Básicos
 - [[Desigualdade de Markov]]
 - [[Desigualdade de Chebyshev]]
+- [[Lei dos Grandes Números]]
+- [[Teorema do Limite Central]]
 
 # Distribuições Básicas
 - [[Distribuição de Bernoulli]]
 	- [[Distribuição Geométrica]]
-- [[Distribuição Binomial]]
+	- [[Distribuição Binomial]]
 - [[Distribuição de Poisson]]
+	- [[A distribuição de Poisson é o limite contínuo da distribuição de Bernoulli]]
+	- [[Distribuição Exponencial]]
 - [[Distribuição Normal]]
 	- [[Distribuição Lognormal]]
 - [[Distribuição Hipergeométrica]]
-
-# Lei dos Grandes Números
-- [[Teoria do Limite Central]]
 
 # Números-Índice
 - [[Índice de Laspeyres]]: ignorar efeito substituição mediante alteração de preços (**quantidades constantes**) (superestima inflação, cf [REVISÃO MACROECONOMIA ANPEC - YouTube](https://youtu.be/VQI_N-1PZds?t=973))

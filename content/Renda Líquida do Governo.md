@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062b MOC Contabilidade Nacional]]
+up:: [[061b MOC Contabilidade Nacional]]
 
 A renda líquida do governo se trata da receita líquida que ele possui: [[Impostos]] menos custos.
 

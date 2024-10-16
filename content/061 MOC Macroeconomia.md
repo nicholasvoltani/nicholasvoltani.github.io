@@ -8,7 +8,9 @@ up:: [[060 MOC Economia]]
 
 child:: [[061a MOC ANPEC Macroeconomia]]
 
-# [[062b MOC Contabilidade Nacional]]
+# [[061b MOC Contabilidade Nacional]]
+# [[061c MOC Teoria da Moeda]]
+
 ## Variáveis Agregadas
 - [[Lei de Say]]
 - [[Balanço de Pagamentos]]
@@ -21,27 +23,9 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 	- [[O PIB é uma medida do valor agregado total produzido em certo período]]
 	- [[Produto Interno Bruto Nominal]]
 	- [[Deflator Implícito]]
-
-## Mercado Financeiro
-- [[Banco Central]]
-- [[Multiplicador Bancário]]
-- [[Moeda Fiduciária]] (Emissão Inconversível)
-- [[Taxa de Juros]]
-	- [[Taxa Nominal de Juros]]
-	- [[Taxa Real de Juros]]
-- [[Recessão]]
+	- [[Recessão]]
 	- [[Depressão (Macroeconomia)]] (sempre bom desambiguar)
-- [[Crise de Liquidez]]
 
-### Agregados Monetários
-- [[Meios de Pagamento]]
-	- [[Papel Moeda em Poder do Público]]
-	- [[Depósito à Vista]]
-- [[Base Monetária]]
-- [[M1]]
-- [[M2]]
-- [[M3]]
-- [[M4]]
 
 ### Ativos Financeiros
 - [[Overnight]]

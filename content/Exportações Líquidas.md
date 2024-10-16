@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062b MOC Contabilidade Nacional]]
+up:: [[061b MOC Contabilidade Nacional]]
 
 Trata-se do saldo líquido advindo de [[Exportações]] $X$ e [[Importações]] $M$: 
 $$

@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[Política Monetária]]
+up:: [[061c MOC Teoria da Moeda]]
 
 O surgimento de um Banco Central possui várias motivações, uma das mais importantes sendo a mitigação de falências em cadeia de bancos privados devido a depósitos interbancários[^1]. Além disso, também é responsável por regular a quantidade de [[Base Monetária]] presente em dada economia, através de [[Política Monetária]].
 

@@ -9,7 +9,9 @@ up:: [[064 MOC Estatística em Economia]]
 
 ![[Chebyshev.png]]
 
-O peso das caudas de uma distribuição de probabilidade possuem um *upper-bound* baseado na variância.
+A desigualdade de Chebyshev explica a relação entre variância e o *spread* de uma variável aleatória com relação à sua média. É dela que vem a noção de que a variância é a "amplitude" de uma distribuição de probabilidade.
+
+Equivalentemente, diz que o peso das caudas de uma distribuição de probabilidade possuem um *upper-bound* baseado na variância.
 
 Seja $X$ uma variável aleatória, e sejam 
 - $\mu = \mathbb{E}[X] < \infty$ 
@@ -43,3 +45,4 @@ Ou seja, para a regra heurística usual de "$3$ sigmas", temos que a probabilida
 ---
 ### References
 - [Variance](http://www.randomservices.org/random/expect/Variance.html#chb)
+- [19. Weak Law of Large Numbers - YouTube](https://www.youtube.com/watch?v=3eiio3Tw7UQ&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&index=19)

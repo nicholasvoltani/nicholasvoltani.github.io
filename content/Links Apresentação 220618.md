@@ -29,7 +29,6 @@ draft: 'true'
 	- [ ] [**Geografia da Fome** (Site Interativo)](http://geografiadafome.fsp.usp.br/)
 		- [ ] [**DA FOME À FOME: A VOLTA DA INSEGURANÇA ALIMENTAR** (Geografia da Fome, Infográfico)](http://geografiadafome.fsp.usp.br/geografia-da-fome-e-da-inseguranca-alimentar/)
 		- [ ] [**Insegurança Alimentar e Covid-19 no Brasil** (Rede PENSSAN)](https://olheparaafome.com.br/wp-content/uploads/2022/06/Relatorio-II-VIGISAN-2022.pdf)
-		- [ ] 
 - [ ] [**Energética y alimentaria, dos soberanías que dialogan** (Soberania Alimentaria)](https://soberaniaalimentaria.info/numeros-publicados/77-numero-41/875-energetica-y-alimentaria-dos-soberanias-que-dialogan?utm_source=pocket_mylist)
 - [ ] [**Controle digital: a entrada das Big Techs na produção de alimentos e na agricultura (e o que isso significa)** (GRAIN)](https://grain.org/en/article/6604-controle-digital-a-entrada-das-big-techs-na-producao-de-alimentos-e-na-agricultura-e-o-que-isso-significa?utm_source=pocket_mylist)
 - [ ] [**Um olhar feminista para desmascarar tecnosolucionismos ambientais** (Le Monde Diplomatique)](https://diplomatique.org.br/um-olhar-feminista-para-desmascarar-tecnosolucionismos-ambientais/?utm_source=pocket_mylist)

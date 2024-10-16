@@ -6,7 +6,7 @@ aliases:
   - Intersection over Union
 ---
 
-up:: [[040 MOC Complex Systems]]
+up:: [[041 MOC Graph Theory]]
 
 ![[Intersection_over_Union_-_visual_equation.png]]
 Intersection over Union, visually. Source: [Wikipedia](https://en.wikipedia.org/wiki/Jaccard_index#/media/File:Intersection_over_Union_-_visual_equation.png).

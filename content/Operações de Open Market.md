@@ -7,11 +7,11 @@ aliases:
 
 up:: [[Política Monetária]]
 
-Trata-se da compra/venda, pelo [[Banco Central]], de títulos da [[Dívida Pública]], do [[Tesouro Nacional]], para o público. O objetivo disso é de regular a quantidade de [[Base Monetária]], para indiretamente afetar a [[Taxa de Juros]] da economia.
+Trata-se da compra/venda, pelo [[Banco Central]], de títulos da [[Dívida Pública]], do [[Tesouro Nacional]], para o público. O objetivo disso é de regular a quantidade de [[Base Monetária]] (em particular o [[Papel Moeda em Poder do Público]]), para indiretamente afetar a [[Taxa de Juros]] da economia.
 
-Quando o BaCen vende títulos públicos, ele efetivamente **contrai** a base monetária/dinheiro em circulação[^1], i.e. é uma [[Política Fiscal Contracionista]].
+Quando o BaCen vende títulos públicos, ele efetivamente **contrai** a base monetária e, por conseguinte, os [[Meios de Pagamento]][^1], i.e. é uma [[Política Monetária Contracionista]].
 
-Quando o BaCen compra títulos públicos – de bancos privados –, ele está **expandindo** a base monetária (i.e. dinheiro em caixa de bancos privados)[^2], i.e. é uma [[Política Fiscal Expansionista]].
+Quando o BaCen compra títulos públicos – de bancos privados –, ele está **expandindo** a base monetária (i.e. dinheiro em caixa de bancos privados)[^2], i.e. é uma [[Política Monetária Expansionista]].
 
 Note-se que, quando o governo está em [[Déficit Fiscal]], não necessariamente há uma expansão monetária: somente configura política fiscal expansionista **caso o Bacen esteja "monetizando o déficit público"**. Por isso é pertinente que o Banco Central seja autônomo do governo nacional.
 

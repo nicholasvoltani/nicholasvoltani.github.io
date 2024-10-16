@@ -7,7 +7,7 @@ aliases:
   - Random Graph Ensemble
 ---
 
-up:: [[040 MOC Complex Systems]]
+up:: [[041 MOC Graph Theory]]
 
 ![[Erdoes-Renyi-model-of-random-graph-evolution.png]]
 Source: [4. Erdös-Rényi model of random graph evolution | Download Scientific Diagram](https://www.researchgate.net/figure/Erdoes-Renyi-model-of-random-graph-evolution_fig6_265143228)

@@ -6,7 +6,7 @@ aliases:
   - Geodesic Path
 ---
 
-up:: [[040 MOC Complex Systems]]
+up:: [[041 MOC Graph Theory]]
 
 Given a graph with [[Adjacency Matrix]] $A$, to find the shortest path from nodes $i$ to $j$, one can investigate the components of different powers of $A$:
 - $A_{ij}$ finds $1$-paths between them (i.e. direct paths)

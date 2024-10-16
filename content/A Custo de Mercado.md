@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062b MOC Contabilidade Nacional]]
+up:: [[061b MOC Contabilidade Nacional]]
 
 O cálculo de alguma variável macroeconômica $X$ *a custo de mercado* já contabiliza a incidência de [[Impostos Indiretos]] sobre $X$ [[A Custo de Fatores]]. 
 

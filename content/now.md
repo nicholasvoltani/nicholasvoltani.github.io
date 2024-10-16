@@ -1,4 +1,4 @@
---- 
+---
 date: 2024-06-10
 tags:
 ---
@@ -12,6 +12,12 @@ up:: [[index]]
 > So a website with a link that says '**now**' goes to a page that tells you **what this person is focused on at this point in their life.** For short, we call it a 'now page'." (Derek Sivers, in [nownownow.com](https://nownownow.com/about))
 
 # 2024
+## October 2024
+**Interesting content of the month**:
+- [Why billionaires should be ILLEGAL - The Market Exit](https://www.youtube.com/watch?v=cu1kYmRIJ4U): Elucidating of the scale of how rich our billionaire overlords truly are, and nice to see some concrete ideas on how to think about limits to wealth. Of course it's not a definitive answer, but it's a neat start for this whole debate.
+- [The Amazing Digital Circus](https://www.youtube.com/watch?v=HwAPLk_sQ3w&list=PLHovnlOusNLgvAbnxluXCVB3KLj8e4QB-): **An instant classic**. AMAZING animation, story, characters, humor! The Portuguese dub is also amazing, they're really hitting the nail on these ones! You can really tell this series is made with passion and expertise on the craft (animation, sound design, modelling, storytelling, dialogue, etc).
+	- [KAUFMO | The Amazing Digital Circus Short FanFilm - YouTube](https://www.youtube.com/watch?v=MbehSkrghQw) – even a fanfilm from a side character is a MASTERPIECE, what the f***!!!
+
 ## September 2024
 This entire month was dedicated towards the Master's Degree entrance exam. The only chance that I do get in is if Economics students in Brazil are big time stupid. Nevertheless, it was worth the effort anyways: it gave me clarity enough that I was on the right track, both on my career choice and on my studying methodology. There was *plenty* of things that I didn't know in the test, which I left blank (since wrong answers "cancel out" correct answers, so there's naturally a bit of Game Theory in this), but there were many things that I *did* answer, and some questions that I *know* I got right – things that, a month and a half ago, I had absolutely no clue about! 
 

@@ -4,7 +4,7 @@ tags:
   - 
 publish: "true"
 ---
-up:: 
+up:: [[index]]
 
 *Monografia que escrevi para a disciplina Teoria da História II (de Jorge Grespan), sobre os conceitos de formas de objetividade e formas de subjetividade em Lukács.*
 

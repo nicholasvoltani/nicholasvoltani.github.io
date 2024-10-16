@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062b MOC Contabilidade Nacional]]
+up:: [[061b MOC Contabilidade Nacional]]
 
 > "Entende-se por **bens públicos** aqueles bens que não podem ser providos pelo mecanismo de mercado, como justiça, segurança nacional, etc." (GREMAUD et al, p. 24)
 

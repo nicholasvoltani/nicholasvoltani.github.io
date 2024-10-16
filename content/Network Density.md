@@ -6,7 +6,7 @@ aliases:
   - Network Connectance
 ---
 
-up:: [[040 MOC Complex Systems]]
+up:: [[041 MOC Graph Theory]]
 
 ![[1_fDK6MfQvcliQ-u5lEmjc8Q.png]]
 Image from [Sparse coding: A simple exploration | by Morgan | metaflow-ai](https://blog.metaflow.fr/sparse-coding-a-simple-exploration-152a3c900a7c).

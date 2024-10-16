@@ -6,7 +6,7 @@ aliases:
   - Taxas de Juros
 ---
 
-up:: [[061 MOC Macroeconomia]]
+up:: [[061c MOC Teoria da Moeda]]
 
 Taxas de juros medem quanto algum investimento renderá no futuro. Em outras palavras, medem o quanto vale a pena abdicar da liquidez do [[Dinheiro]] em favor de fazê-lo render.
 

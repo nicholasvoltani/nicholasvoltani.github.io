@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[061 MOC Macroeconomia]]
+up:: [[061c MOC Teoria da Moeda]]
 
 É o papel-moeda em mãos do público em geral, isto é, **líquido**. 
 

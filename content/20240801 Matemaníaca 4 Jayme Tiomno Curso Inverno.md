@@ -55,7 +55,7 @@ Tem vezes que é necessário fazer algum "asterisco" pós-edição, que pode ser
 É possível retirar trechos pelo próprio editor do YouTube, mesmo após publicação, mesmo até sobreposição de voz.
 
 # Pensamentos meus
-- Realmente quero escrever algum texto (talvez até algum vídeo!!) sobre a dialética do capitalismo entre oprimir criatividade mas depender dela [[O capitalismo possui uma relação dialética com a criatividade humana]]
+- Realmente quero escrever algum texto (talvez até algum vídeo!!) sobre a dialética do capitalismo entre oprimir criatividade mas depender dela [[O capitalismo possui uma relação contraditória com a criatividade humana]]
 - Algum curso de **Escrita Criativa** parece incrível!!
 	- Escrevedeira
 	- Belas Artes – Cursos Livres

@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[040 MOC Complex Systems]]
+up:: [[041 MOC Graph Theory]]
 
 ![[Pasted image 20240522172809.png]]
 

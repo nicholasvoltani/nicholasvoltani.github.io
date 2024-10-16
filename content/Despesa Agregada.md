@@ -6,7 +6,7 @@ aliases:
   - Demanda Agregada
 ---
 
-up:: [[062b MOC Contabilidade Nacional]]
+up:: [[061b MOC Contabilidade Nacional]]
 
 A despesa agregada de um país trata-se das possíveis destinações do [[Produto Agregado]]. Consiste essencialmente nos fatores que "pressionam" à produção do produto agregado.
 

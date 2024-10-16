@@ -6,13 +6,26 @@ tags:
 
 up:: [[064 MOC Estatística em Economia]]
 
+# Probabilidade
+- Urna sem reposição:
+	- [[ANPEC Estatística 04 2025]]
+- [[Lei dos Grandes Números]]
+	- [[ANPEC Estatística 05 2025]]
+
 # Distribuições
-- [[ANPEC Estatística 05 2023]]
-- [[ANPEC Estatística 09 2023]]
+- [[Distribuição de Bernoulli]]:
+	- [[ANPEC Estatística 09 2023]]
+- [[Distribuição Geométrica]]:
+	- [[ANPEC Estatística 05 2023]]
+- [[Distribuição Exponencial]]:
+	- [[ANPEC Estatística 03 2020]]
+- [[Distribuição de Poisson]]
+	- [[ANPEC Estatística 06 2022]]
 
 # Estimadores
-- [[ANPEC Estatística 08 2022]]
-- [[ANPEC Estatística 09 2023]]
+- [[Estimador Não-Enviesado]]:
+	- [[ANPEC Estatística 08 2022]]
+	- [[ANPEC Estatística 09 2023]]
 
 
 ---

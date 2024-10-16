@@ -29,6 +29,7 @@ A ideia deste site é de ter a maior parte de meu [notemaking](https://www.youtu
 
 # (Main) Maps of Content (MOCs) 
 Maps of Content are aggregations of notes with the same "theme". Here's the main ones I'm interested on:
+- [[00 MOC Personal Knowledge Management]]
 - [[010 MOC Marxism]]
 	- [[011a MOC Capital I]]
 - [[020 MOC Mathematics]]

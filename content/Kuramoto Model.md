@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[040 MOC Complex Systems]]
+up:: [[041 MOC Graph Theory]]
 
 ![[Pasted image 20240717154121.png]]
 (From Strogatz's book "*Sync: How order emerges from chaos in the universe, nature, and daily life*")
