@@ -51,7 +51,7 @@ Pela ação do [[Trabalho]] **vivo**, o qual **consome** [[Meios de Produção]]
 
 Os meios de produção **não-duráveis** são ditos serem **[[Capital Circulante]]**, posto que somente através de sua "transfiguração" de forma , do meio de produção original ao produto final,  transferem-se valor ao novo produto.
 
-Porém, outros meios de produção podem transferir parte de seu valor enquanto conservam suas corporeidades: os **[[Meios de Trabalho]]** o fazem. Tanto máquinas quanto ambientes de trabalho, barris, etc. transferem valor ao produto final, mas "continuam a existir separados dos produtos que eles mesmos ajudaram a criar". Consoante o discutido acima, tais elementos somente cedem o valor **que perdem enquanto empregados no processo de produção**. Tal valor transferido por tais meios de produção são chamados por Marx de **[[Depreciação|depreciação]]**, e é a maneira pela qual a máquina, mesmo sendo empregada em sua totalidade no processo de trabalho, entra "de modo apenas fracionado como elemento da formação de valor".
+Porém, outros meios de produção podem transferir parte de seu valor enquanto conservam suas corporeidades: os **[[Meios de Produção]]** o fazem. Tanto máquinas quanto ambientes de trabalho, barris, etc. transferem valor ao produto final, mas "continuam a existir separados dos produtos que eles mesmos ajudaram a criar". Consoante o discutido acima, tais elementos somente cedem o valor **que perdem enquanto empregados no processo de produção**. Tal valor transferido por tais meios de produção são chamados por Marx de **[[Depreciação|depreciação]]**, e é a maneira pela qual a máquina, mesmo sendo empregada em sua totalidade no processo de trabalho, entra "de modo apenas fracionado como elemento da formação de valor".
 
 Os meios de trabalho, ou meios de produção **duráveis**, são ditos serem **[[Capital Fixo]]**, pois preservam sua forma original enquanto transferem parte de seu valor constituinte ao produto final. 
 
@@ -62,7 +62,7 @@ O desgaste de uma máquina, conforme ele possa ser efetivamente sanado e permita
 
 
 ## 2. Criação do valor pela força de trabalho
-> "O trabalhador não pode adicionar novo trabalho, criar novo valor, **sem conservar valores antigos**, pois ele tem sempre de adicionar trabalho numa forma útil **determinada**, e não tem como adicioná-lo numa forma útil sem transformar os produtos em meios de produção de um novo produto e, dessde modo, transferir ao novo produto o valor desses meios de produção. 
+> "O trabalhador não pode adicionar novo trabalho, criar novo valor, **sem conservar valores antigos**, pois ele tem sempre de adicionar trabalho numa forma útil **determinada**, e não tem como adicioná-lo numa forma útil sem transformar os produtos em meios de produção de um novo produto e, desse modo, transferir ao novo produto o valor desses meios de produção. 
 > A capacidade de **conservar valor ao mesmo tempo que adiciona valor** é um dom natural da força de trabalho em ação, do trabalho vivo" (p. 284)
 
 > "Ao produzir, o homem pode apenas proceder **como a própria natureza**, isto é, pode apenas alterar a **forma** das matérias. (...) 

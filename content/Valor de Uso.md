@@ -3,13 +3,15 @@ date: 2021-07-04
 tags:
   - evergreen
   - marxism
+aliases:
+  - Valores de Uso
 ---
 
 up:: [[011a MOC Capital I]]
 
 > "A utilidade de uma coisa faz dela um valor de uso" (MARX, p. 114)
 
-Ou seja, a utilidade de algum objeto **para o ser humano** torna-o um *valor de uso*, tanto para o uso imediato (p. ex. como comida) quanto como [[Meios de Trabalho]] (p. ex. martelos).
+Ou seja, a utilidade de algum objeto **para o ser humano** torna-o um *valor de uso*, tanto para o uso imediato (p. ex. como comida) quanto como [[Meios de Produção]] (p. ex. martelos).
 
 [[Descobrir valores de uso de algum objeto é um ato histórico]], posto que são algo que apresenta-se mediante a necessidade humana e legada a seus descendentes. 
 

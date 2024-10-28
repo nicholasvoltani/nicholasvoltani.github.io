@@ -15,7 +15,8 @@ child:: [[064a MOC ANPEC Estatística]]
 # Resultados Básicos
 - [[Desigualdade de Markov]]
 - [[Desigualdade de Chebyshev]]
-- [[Lei dos Grandes Números]]
+	- [[Convergência em Probabilidade]]
+- [[Lei Fraca dos Grandes Números]]
 - [[Teorema do Limite Central]]
 
 # Distribuições Básicas

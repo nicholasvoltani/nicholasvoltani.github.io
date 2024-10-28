@@ -9,10 +9,10 @@ up:: [[064a MOC ANPEC Estatística]]
 
 ![[Pasted image 20241014110504.png]]
 
-É uma questão sobre [[Lei dos Grandes Números]] e convergência em probabilidade.
+É uma questão sobre [[Lei Fraca dos Grandes Números]] e convergência em probabilidade.
 
 # Item 0 – Verdadeiro
-É verdadeiro pelo teorema da lei dos grandes números:
+É verdadeiro que [[Lei Fraca dos Grandes Números|A média amostral tende em probabilidade para a média das variáveis aleatórias]]:
 Dados $X_{1},\dots,X_{n}$ i.i.d., com média e variância finitas, temos que
 $$
 plim(\bar{X}) = \mu_{X} = \mathbb{E}[\bar{X}]
@@ -35,7 +35,7 @@ Portanto, $plim(a+b\bar{X}) = a + b\mu_{X}$.
 É falso, mas não sei exatamente por quê. Minha intuição diz que é por causa do $\mu_{T} > \mu_{X}$, mas ser um limite de $\frac{\bar{X}}{\bar{T}}$... E também, eu pensaria que o limite seria $\frac{\mu_{X}}{\mu_{T}}$, como $\mu_{T}>0$...
 
 # Item 3 – Verdadeiro
-Por desigualdade triangular, temos que
+Por desigualdade triangular[^2], temos que
 $$
 |\bar{X}-\mu_{X}| + |\bar{Y}-\mu_{Y}| \geq |\bar{X}-\mu_{X} + \bar{Y}-\mu_{Y}|
 $$
@@ -81,3 +81,4 @@ que vai a $0$ conforme $n \to \infty$.
 - [Conditions for convergence in probability of a sum - Mathematics Stack Exchange](https://math.stackexchange.com/questions/2665208/conditions-for-convergence-in-probability-of-a-sum)
 
 [^1]: Implicitamente tendo que $\bar{X} \equiv \bar{X}_{n}$.
+[^2]: Cf [[Metric Function]].

@@ -13,7 +13,7 @@ No tocante à produção, costuma-se utilizar
 $$
 \frac{dK}{dL}
 $$
-ou seja, quanto capital a mais é necessário com um aumento de [[Força de Trabalho (Macroeconomia)]].
+ou seja, quanto capital a mais é necessário com um aumento de [[Força de Trabalho]].
 
 Analogamente ao caso do consumidor, e assumindo [[Função Produção]] $q = f(K,L)$ dada, temos que, quanto estamos em uma [[Isoquanta]], a sua [[Produto Marginal do Trabalho]] é zero quando
 $$

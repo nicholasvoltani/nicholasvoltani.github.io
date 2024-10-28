@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062a MOC Teoria do Consumidor]]
+up:: [[062b MOC Teoria do Consumidor]]
 
 As funções de demanda de uma [[Cesta de Bens]] são as funções
 $$

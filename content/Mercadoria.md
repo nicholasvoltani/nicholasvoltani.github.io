@@ -3,6 +3,8 @@ date: 2021-07-04
 tags:
   - evergreen
   - marxism
+aliases:
+  - Mercadorias
 ---
 
 up:: [[011a MOC Capital I]]

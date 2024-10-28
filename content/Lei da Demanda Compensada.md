@@ -5,12 +5,16 @@ tags:
 aliases:
 ---
 
-up:: [[062a MOC Teoria do Consumidor]]
+up:: [[062b MOC Teoria do Consumidor]]
 
 A lei da demanda compensada diz respeito à mudança de [[Cesta de Bens|Cestas de Bens]] mediante uma mudança de preços destes bens. 
 
 # Matematicamente
-Dada uma [[Demanda Marshalliana|Demanda Walrasiana]][^1] $x(p,w) \in \mathbb{R}^{L}_{+}$, sob [[Restrição Orçamentária]] $w$ e vetor de preços $p \in \mathbb{R}^{L}_{+}$, então temos que o [[Axioma Fraco das Preferências Reveladas]] é equivalente à condição de que, para novas condições orçamentárias $(p',w') = (p', \braket{ p' | x(p,w) } )$ mediante **alteração de preços** (e respectiva adaptação da renda para comportá-la), temos que vale[^2]
+Dada uma [[Demanda Marshalliana|Demanda Walrasiana]][^1] $x(p,w) \in \mathbb{R}^{L}_{+}$, sob [[Restrição Orçamentária]] $w$ e vetor de preços $p \in \mathbb{R}^{L}_{+}$, então temos que o [[Axioma Fraco das Preferências Reveladas]] é equivalente à condição de que, para novas condições orçamentárias 
+$$
+(p',w') = (p', \braket{ p' | x(p,w) } )
+$$
+mediante alteração de preços e respectiva *compensação da renda* para comportar a antiga cesta de bens, temos que vale[^2]
 $$
 \braket{ (p'-p) | (x'-x) } \leq 0
 $$
@@ -26,7 +30,7 @@ $(\impliedby)$ Por contrapositiva, assumindo violação do [[Axioma Fraco das Pr
 $$
 \underbrace{ \braket{ p' | x' } }_{ =w' } - \underbrace{ \braket{ p' | x } }_{ \leq w' } - \underbrace{ \braket{ p | x' } }_{ \leq w } + \underbrace{ \braket{ p | x } }_{ =w } 
 $$
-Portanto, o termo é $\geq 0$. Como, por hipótese de AFPR, $x \neq x'$, temos que a desigualdade é estrita, sendo a negação da condição da tese.
+Portanto, o termo é $\geq 0$. Como, por hipótese de não-AFPR, $x \neq x'$, temos que a desigualdade é estrita, sendo a negação da condição da tese.
 
 # Corolários
 Fazendo mudanças diferenciais de preço[^3], temos que a variação da [[Restrição Orçamentária]] é
@@ -39,7 +43,7 @@ $$
 dx = D_{p}x \,dp + \braket{ D_{w}x | dw } 
 $$
 
-Substituindo $dw$ no diferencial $dx$, temos
+Substituindo $dw$ no diferencial $dx$, temos[^5]
 $$
 dx = (D_{p}x + D_{w}x \,x^{T}) dp
 $$
@@ -59,3 +63,4 @@ Portanto, a matriz de Slutsky é uma [[Matriz Semi-Definida Negativa]].
 [^2]: Onde $x \equiv x(p,w)$ e $x' \equiv x(p', w')$.
 [^3]: A partir da condição inicial $(p, w)$, expandindo a partir da respectiva demanda walrasiana $x(p,w)$, que é *dada*, fixada devido à condição inicial $(p,w)$.
 [^4]: $D_p x = \left( \frac{ \partial x_{i} }{ \partial p_{j} } \right)_{ij}$ é a matriz jacobiana de variação de demanda referente aos preços, e $D_{w}x \equiv \nabla_{w}x = \left(\frac{ \partial x_{i} }{ \partial w }\right)_{i}$ é um gradiente de variação de demanda referente à renda.
+[^5]: $D_{w}x \,x^{T}$ é um [produto externo](https://en.wikipedia.org/wiki/Outer_product) de vetores, dando em uma matriz.

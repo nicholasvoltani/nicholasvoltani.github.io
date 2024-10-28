@@ -320,7 +320,7 @@ Realidade: Plano Marshall dos EUA dirigem recursos para Japão e Europa, só dep
 
 Há uma crise de [[Balanço de Pagamentos]], no tocante a emissões **conversíveis**, em que não se desvalorizou o câmbio, pois
 - haveria efeito inflacionário
-- "pessimismo das elasticidades", em que o [[Efeito Renda]] vai ser muito pequeno comparado com [[Efeito de Substituição]], no tocante à demanda de café; ao mesmo tempo, a [[Elasticidade de Renda da Demanda|Elasticidade-Renda da Demanda]] por Importações é grande ao se valorizar o câmbio
+- "pessimismo das elasticidades", em que o [[Efeito Renda]] vai ser muito pequeno comparado com [[Efeito Substituição]], no tocante à demanda de café; ao mesmo tempo, a [[Elasticidade de Renda da Demanda|Elasticidade-Renda da Demanda]] por Importações é grande ao se valorizar o câmbio
 - *problema da seletividade* das importações: favorecer *específicos*
 
 1948: licença prévia para importar, e de acordo com prioridades do governo:

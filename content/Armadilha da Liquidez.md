@@ -11,7 +11,7 @@ up:: [[Política Monetária]]
 
 > "*There is the possibility… that, after the rate of interest has fallen to a certain level, liquidity-preference may become virtually absolute in the sense that almost everyone prefers cash to holding a debt which yields so low a rate of interest. In this event the monetary authority would have lost effective control over the rate of interest.*" (Keynes)
 
-Um cenário de "armadilha de liquidez" ocorre quando prefere-se guardar dinheiro líquido ao invés de ativos, pois ao menos ele permite a liquidação de dívidas, além de não possuir perigo de ser perdido em investimentos alheios.
+Um cenário de "armadilha de liquidez" ocorre quando prefere-se guardar dinheiro líquido ao invés de ativos, pois ao menos ele permite a liquidação de dívidas.
 
 Usualmente, armadilhas de liquidez ocorrem em cenários em que as [[Taxa de Juros]] (nominais) são essencialmente $0\%$: ou seja, o público torna-se indiferente entre manter dinheiro líquido[^1] ou convertê-lo em algum ativo (e, portanto, prefere mantê-lo em dinheiro).
 

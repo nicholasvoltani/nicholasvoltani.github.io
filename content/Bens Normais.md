@@ -10,7 +10,7 @@ up:: [[062 MOC Microeconomia]]
 
 ![[Pasted image 20240807143629.png]]
 
-Um bem **normal** é aquele cuja demanda aumenta conforme a [[Restrição Orçamentária]]/renda $m$ aumenta. Ou seja, são bens que são mais procurados conforme o "nível de vida" melhora. Provavelmente *gasolina* seja um bom exemplo (para viagens, etc)?
+Um bem **normal** é aquele cuja demanda aumenta conforme a [[Restrição Orçamentária]]/renda $m$ aumenta. Ou seja, são bens que são mais procurados conforme o "nível de vida" melhora[^1].
 
 Isso acontece quando o ponto tangente, após o aumento da renda $m$, é uma [[Cesta de Bens]] em que a reta orçamentária está tangente a alguma [[Curva de Indiferença]] cuja quantidade do bem em questão é maior do que era antes do aumento da renda.
 
@@ -30,3 +30,5 @@ Bens cuja demanda aumenta numa proporção *maior que a renda* é um [[Bens de L
 ---
 ### References
 - VARIAN, Hal. **Microeconomia**: uma abordagem moderna. 9 ed. Elsevier, 2015.
+
+[^1]: Provavelmente *gasolina* seja um bom exemplo (para viagens, etc)?

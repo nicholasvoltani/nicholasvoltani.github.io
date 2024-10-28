@@ -13,10 +13,12 @@ O tempo de trabalho socialmente necessário é a quantidade de tempo médio para
 
 É justamente por ser uma quantidade que abstrai das características qualitativas do trabalho gerador de determinada mercadoria que esta quantidade pode ser comparável entre diferentes mercadorias – e, portanto, é por isso que diferentes mercadorias podem confrontar-se através de seus [[Valor de Troca|valores de troca]].
 
-Além disso, é importante que seja uma quantidade **média** (de certa sociedade), a fim de que o valor de uma mercadoria não seja "inflado" puramente pela ineficiência de produtores específicos. De fato, há uma comparação de todos os produtores individuais mediante o desempenho de uma "[[força de trabalho]] coletiva" da qual são parte:
+Além disso, é importante que seja uma quantidade **média** (de certa sociedade), a fim de que o valor de uma mercadoria não seja "inflado" puramente pela ineficiência de produtores específicos[^1]. De fato, há uma comparação de todos os produtores individuais mediante o desempenho de uma "[[força de trabalho]] coletiva" da qual são parte:
 
 > "Cada uma dessas forças de trabalho individuais é a mesma força de trabalho humana que a outra, na medida em que possui o caráter de uma força de trabalho *média* e atua como tal; portanto, na medida em que, para a produção de uma mercadoria, ela só precisa do tempo de trabalho em média necessário (...)" (MARX, p. 117; grifo meu)
 
 ---
 ### Referências
 - MARX, Karl. **O Capital-Livro 1: Crítica da economia política. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
+
+[^1]: Suponho que há uma pressuposição de que a variância seja pequena também...? É mais uma noção geral do que mensurável, talvez (mesmo que *oftentimes* o seja)...?

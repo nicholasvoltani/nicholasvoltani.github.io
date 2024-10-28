@@ -7,7 +7,7 @@ aliases:
 
 up:: [[061b MOC Contabilidade Nacional]]
 
-A renda agregada de um país é a remuneração dos [[Fatores de Produção]] empregados em seu [[Produto Agregado]], i.e. [[Força de Trabalho (Macroeconomia)]] (isto é, [[Salário]]), [[Capital Fixo|Capital (Fixo)]] (isto é, juros e lucros) e terra (isto é, alugueis).
+A renda agregada de um país é a remuneração dos [[Fatores de Produção]] empregados em seu [[Produto Agregado]], i.e. [[Força de Trabalho]] (isto é, [[Salário]]), [[Capital Fixo|Capital (Fixo)]] (isto é, juros e lucros) e terra (isto é, alugueis).
 
 Temos também que [[A renda agregada é igual à despesa agregada]], da qual podemos inferir condições macroeconômicas de superávit.
 

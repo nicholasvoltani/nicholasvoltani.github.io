@@ -9,6 +9,7 @@ up:: [[061 MOC Macroeconomia]]
 # Quantidades Agregadas
 - [[Produto Agregado]]
 	- [[Produto Nacional Bruto]]
+	- [[Produto Interno Bruto Nominal]]
 - [[Renda Agregada]]
 - [[Despesa Agregada]]
 
@@ -57,4 +58,5 @@ up:: [[061 MOC Macroeconomia]]
 ---
 ### Referências
 - GREMAUD, Amaury Patrick et al. **Macroeconomia básica: agregados macroeconômicos**. In: LOPES, Luiz Martins et al. *Manual de macroeconomia: nível básico e nível intermediário*. 1997.
+- GREMAUD, Amaury Patrick; VASCONCELLOS, Marco Antonio Sandoval de; TONETO JÚNIOR, Rudinei. **Economia brasileira contemporânea**. 2004. 7a edição.
 - [Introdução à Macroeconomia/Contabilidade Nacional - Canal "Escala Richter"](https://www.youtube.com/playlist?list=PLOMixvLwAgxt2IbX5X7o-s8VS5vGE84b1)

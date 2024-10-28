@@ -35,8 +35,8 @@ O objeto do trabalho pode ou ser obtido imediatamente da natureza, ou então ter
 Matérias-primas podem tanto ser minérios que foram coletados de uma mina (ou seja, mais imediatamente naturais), ou peças pré-produzidas em outra fábrica e que serão montadas em outra (mais próximos da ação humana/"confeccionados").
 
 ### O processo de trabalho no capitalismo
-> "De seu ponto de vista [do capitalista], o processo de trabalho não é mais que o **consumo da mercadoria** por ele comprada, a força de trabalho, que, no entanto, ele só pode consumir **desde que lhe acrescente os meios de produção**.
-> O processo de trabalho se realiza **entre coisas que o capitalista comprou**, entre coisas que lhe pertencem. Assim, o produto desse processo tanto lhe pertence quanto o produto do processo de fermentação em sua adega" (p. 262-3)
+> "De seu ponto de vista [do capitalista], o processo de trabalho não é mais que o *consumo da mercadoria* por ele comprada, a força de trabalho, que, no entanto, ele só pode consumir *desde que lhe acrescente os meios de produção*.
+> O processo de trabalho se realiza *entre coisas que o capitalista comprou*, entre coisas que lhe pertencem. Assim, o produto desse processo tanto lhe pertence quanto o produto do processo de fermentação em sua adega" (p. 262-3)
 
 * O trabalhador trabalha **sob o controle do capitalista**: o capitalista se incumbe de assegurar a utilização adequada dos meios de produção, controlando tanto a **qualidade** quanto a **quantidade** de trabalho empregado pela [[Força de Trabalho]]
 * O produto do trabalho **pertence ao capitalista**, posto que todos os objetos empregados no processo lhe pertencem
@@ -67,7 +67,7 @@ Portanto, o valor da [[Mercadoria]] produzida pela Força de Trabalho tem seu va
 > "...o trabalho só importa **na medida em que o tempo gasto** na produção do valor de uso [mercadorias] é **socialmente necessário**, o que implica diversos fatores. 
 > A força de trabalho tem de **funcionar sob condições normais**. (...) Contudo, o caráter normal dos fatores **objetivos** de trabalho não depende do trabalhador, **e sim do capitalista** [que é o fornecedor dos meios de produção empregados]. 
 > Uma outra condição é o caráter normal **da própria força de trabalho**. No ramo de produção em que é empregada, ela tem de **possuir o padrão *médio* de habilidade, eficiência e celeridade**. (...) Tal força tem de ser aplicada com a **quantidade média de esforço** e com o **grau de intensidade socialmente usual**, e o capitalista controla o trabalhador para que este **não desperdice nenhum segundo de trabalho**. Ele comprou a força de trabalho por um período determinado, e insiste em obter o que é seu. Não quer ser furtado.
-> Por fim (...), é vedado qualquer **consumo desnecessário de matéria-prima e meios de trabalho**, pois material e meios de trabalho desperdiçados representam o **dispêndio desnecessário** de certa quantidade de **trabalho objetivado**, portatno, **trabalho que não conta** e não toma parte no produto do processo de formação de valor." (p. 272) 
+> Por fim (...), é vedado qualquer **consumo desnecessário de matéria-prima e meios de trabalho**, pois material e meios de trabalho desperdiçados representam o **dispêndio desnecessário** de certa quantidade de **trabalho objetivado**, portanto, **trabalho que não conta** e não toma parte no produto do processo de formação de valor." (p. 272) 
 
 ---
 ### Referências

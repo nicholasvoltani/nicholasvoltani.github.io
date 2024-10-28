@@ -1,0 +1,24 @@
+---
+date: " 2024-10-25"
+tags: 
+draft: "true"
+aliases:
+---
+
+up:: [[Terceiro Ato - Cidade da Fúria]]
+
+> Fazer o quê, fazer o quê, fazer o quê,
+> é tanto quê feito
+> que, se meu nome fosse Quevedo,
+> não seria nada, seria aliteração.
+> Fazer o quê, fazer o quê, fazer o quê,
+> mais vasta é minha solidão.
+
+semente que anseia brotar sob o concreto. com todas as condições para a flor da manhã que há de raiar, há de raiar, há de raiar. mas não hoje. noite eterna sem lua, nenhuma torre dos homens a rasgar os céus de Babel, nenhum sacrossanto a escancarar os portões do paraíso, nenhum galardão ao fiel diligente em sua obra. e o chão insiste em não ceder espaço, e a semente insiste em seu ímpeto inerte-ficado de brotar alhures, quem sabe antes que a jaula não estreite-se-lhe a alma. quem sabe antes de afogar-se em convulsões de brotar em terra inóspita.
+
+e vi a mulher daquele homem dando a luz ao seu filho morto, e saíam cédulas e cédulas e cédulas e cédulas e cédulas de dinheiro, direto da prensa impressora de cédulas de dinheiro. e ao pé da cama avultava-se o homem com a roupa e o chapéu, crescendo aos céus como a estátua de um antigo bandeirante que busca sua sorte nas selvas que não pertencem a ninguém, impávido colosso diante do meu ser ínfimo. e uma estrela despontava no céu, e sua luz se espraiava por todo o céu, um lago de lava no céu. e o nome da estrela era ███████. e olhei, e eis um cavalo amarelo, e o que estava assentado sobre ele tinha por nome 𝐌𝐨𝐫𝐭𝐢𝐬, e o inferno o seguia, e foi-lhes dado poder para matar a quarta parte da terra, com espada, e com fome, e com pestes, e com as feras da terra.
+
+> Fazer o quê, fazer o quê, fazer o quê,
+> mais vasta é minha solidão.
+
+ele é uma boa pessoa, sim, sua mulher é uma boa pessoa, sim, seus filhos são boas crianças de marfim e lápis-lázuli. uma boa família de marfim e lápis-lázuli. um bom chefe, ele é, sim, um bom chefe, ele me cobra porque ele deve ao seu chefe que deve ao seu chefe que deve ao seu chefe que deve ao seu chefe que deve a... quem? 

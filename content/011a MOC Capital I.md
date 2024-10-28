@@ -6,9 +6,6 @@ tags:
 # MOC Capital I
 up:: [[011 MOC Marx]]
 
-## MOCs relacionados
-- [[011a1 MOC UFPR Capital I]]
-
 ## Tópicos
 - [[Mercadoria]]
 - [[Valor de Uso]]
@@ -24,12 +21,11 @@ up:: [[011 MOC Marx]]
 - [[Forma-Mercadoria]]
 - [[Forma-Dinheiro]]
 - [[Força de Trabalho]]
-- [[O Capital, I ─ Cap 5, O processo de trabalho e o processo de valorização]]
+- ~~[[O Capital, I ─ Cap 5, O processo de trabalho e o processo de valorização]]~~
 	- [[Processo de Produção Capitalista]]
 		- [[Processo de Trabalho]]
 			- [[Trabalho]]
 			- [[Metabolismo social]]
-			- [[Meios de Trabalho]]
 			- [[Meios de Produção]]
 			- [[Matéria-Prima]]
 		- [[Processo de Valorização]]
@@ -85,5 +81,5 @@ up:: [[011 MOC Marx]]
 
 
 ## Referências
-- MARX, Karl. **O capital. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
-- [Livro I - Leituras do Capital](http://www.leiturasdocapital.ufpr.br/?page_id=40)
+- MARX, Karl. **O Capital. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
+- [Leituras d'O Capital (UFPR) - Livro I](https://www.youtube.com/@leiturasdocapital/videos)

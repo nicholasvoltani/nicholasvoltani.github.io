@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062a MOC Teoria do Consumidor]]
+up:: [[062b MOC Teoria do Consumidor]]
 
 ![[Pasted image 20240806152638.png]]
 

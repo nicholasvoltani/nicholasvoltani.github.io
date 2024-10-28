@@ -3,8 +3,12 @@ date: 2022-03-01
 tags:
   - evergreen
   - marxism
+aliases:
+  - Processo de Trabalho Útil
 ---
-# Processo de Trabalho
+
+up:: [[Processo de Produção Capitalista]]
+
 > "Os momentos simples do processo de trabalho são, em primeiro lugar, a **atividade orientada a um fim**, ou o *trabalho* propriamente dito; em segundo lugar, seu **objeto** e, em terceiro lugar, seus **meios**." (p. 256)
 
 O processo de trabalho diz respeito à própria atividade humana que busca a mediação da natureza a fim de satisfazer suas necessidades naturais: o [[Trabalho]]. 
@@ -26,7 +30,7 @@ O objeto de trabalho advém da natureza, embora de maneiras diferentes: pode vir
 De qualquer forma, o objeto do trabalho é aquilo sobre o qual o homem vai se debruçar a fim de criar algum (novo) valor de uso, através de alguma forma específica de trabalho. Para a realização do trabalho, não importa se seu objeto é imediatamente natural ou se foi produto de um trabalho prévio.
 
 ## Os meios de trabalho
-Os [[meios de trabalho]] são os objetos **através dos quais** o homem realiza seu trabalho, "**um órgão que ele acrescenta a seus próprios órgãos naturais**" (p. 257). 
+Os [[Meios de Produção]] são os objetos **através dos quais** o homem realiza seu trabalho, "**um órgão que ele acrescenta a seus próprios órgãos naturais**" (p. 257). 
 
 Então, por exemplo, uma pedra pode ser um meio de trabalho para a caça, ou para a confecção de paredes; mesmo a terra pode ser um meio de trabalho, através do qual ele pode **plantar** e produzir seus meios de subsistência. 
 

@@ -22,7 +22,7 @@ _vereinfachen_ = "*einfach machen*"
 ![[christoph-kolumbus-amerika-100~_v-gseagaleriexl-4217988457.jpg]]
 *Entdeckung Amerikas*
 
-*Entwicklungs-**stufen***: **etapas** de desenvolvimento
+_Entwicklungs-**stufen**_: **etapas** de desenvolvimento
 
 > "Jede dieser Entwicklungsstufen der Bourgeoisie
 > war begleitet von einem 
@@ -55,7 +55,7 @@ _vereinfachen_ = "*einfach machen*"
 > 	an die Stelle der zahllosen verbrieften und wohlerworbenen [wohl-erwerben = *to fully acquire*] Freiheiten 
 > die eine gewissenlose Handelsfreiheit **gesetzt**."
 
-> "Sie **hat**, mit einem Wort [i.e. "Freiheit"], an die Stelle der (mit religiösen und politischen Illusionen verhüllten Ausbeutung)[exploração]
+> "Sie **hat**, mit einem Wort [i.e. "Freiheit"], an die Stelle der (mit religiösen und politischen Illusionen verhüllten [[Ausbeutung]])[exploração]
 > die offene, unverschämte, direkte, dürre🏜️ [seca] Ausbeutung **gesetzt**."
 
 > "Die Bourgeoisie hat alle bisher ehrwürdigen [honrosos] und mit *frommer Scheu* [piedosa timidez] betrachteten Tätigkeiten 
@@ -67,10 +67,39 @@ _vereinfachen_ = "*einfach machen*"
 > 	auf reines[^1] Geldverhältnis 
 > **zurückgeführt** [zurück-führen, "conduziu de volta"]."
 
+# 241016
+> "Das Bedürfnis nach einem stets *ausgedehnteren Absatz für ihre Produkte* jagt die Bourgeoisie über die ganze Erdkugel,
+> überall muss sie sich einnisten[^2], überall anbauen, überall Verbindungen herstellen."
 
+*werden verdrängt*: serão reprimidas
+
+> *eimheimische Rohstoffe*: matéria-prima dos locais/nativos
+
+*☮️ befrieden*
+
+> "...durch Landeserzeugnisse *befriedigten Bedürfnisse* 
+> treten neue, welche (die Produkte der *entferntesten* Länder und Kilmate) zu ihrer Befriedigung *erheischen* [demand]."
+
+*Selbst-genüg-sam-keit*
+
+> "*Wie* in der materiellen, *so auch* in der geistigen Produktion.
+> Die geistigen Erzeugnisse *der einzelnen Nationen* werden **Gemeingut** [common-good, bem-comum!]"
+
+**unmöglich** $\gg$ unwahrscheinlich
+
+> Die *wohlfeilen*🤏 Preise ihrer Waren sind die schwere Artillerie, mit der sie alle chinesischen Mauern in den Grund schiesst...
+
+*zugrunde gehen* $\approx$ "go extinct", arruinar-se
+
+**bedeutend**: significativo, demasiado. (*Bedeutung* = significado!)
+
+![[maxresdefault.jpg]]
+
+[[Zweck]]: propósito, motivação.
 
 ---
 ### Referências
 - [https://www.kpoe-steiermark.at/dl/5408cec1d17ee4f9adff37c4c31f3790/manifest.pdf](https://www.kpoe-steiermark.at/dl/5408cec1d17ee4f9adff37c4c31f3790/manifest.pdf)
 
 [^1]: **Pura**! Kritik der *reinen* Vernunft.
+[^2]: Ein-nisten, ein Nest für sich machen.

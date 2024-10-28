@@ -5,6 +5,7 @@ tags:
 aliases: 
   - Restrições Orçamentárias
   - Reta Orçamentária
+  - Renda
 ---
 
 up:: [[062 MOC Microeconomia]]

@@ -11,7 +11,9 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 # [[061b MOC Contabilidade Nacional]]
 # [[061c MOC Teoria da Moeda]]
 
-## Variáveis Agregadas
+# [[061d MOC Mercado de Trabalho]]
+
+# Variáveis Agregadas
 - [[Lei de Say]]
 - [[Balanço de Pagamentos]]
 	- [[Conta Corrente]]
@@ -19,15 +21,12 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 - [[Resultado Primário Fiscal]]
 - [[Produto Agregado]]
 	- [[Produto Nacional Bruto]]
-	- [[O PIB consiste em produção geograficamente doméstica]]
-	- [[O PIB é uma medida do valor agregado total produzido em certo período]]
 	- [[Produto Interno Bruto Nominal]]
 	- [[Deflator Implícito]]
 	- [[Recessão]]
-	- [[Depressão (Macroeconomia)]] (sempre bom desambiguar)
+- [[Paradoxo da Parcimônia]]
 
-
-### Ativos Financeiros
+## Ativos Financeiros
 - [[Overnight]]
 - [[Swap]]
 - [[Depósito a Prazo]]
@@ -37,21 +36,7 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 - [[Hedging]]
 - [[Operações de Redesconto]]
 
-
-## Mercado de Trabalho
-- [[Inflação]]
-	- [[Desinflação]]
-		- [[Espiral Deflacionária]]
-	- [[Regra de Taylor]]
-	- [[Estagflação]]
-- [[Força de Trabalho (Macroeconomia)]]
-- [[Trabalhador Desencorajado]]
-- [[Taxa de Participação na Força de Trabalho]]
-- [[Taxa de Desemprego]]
-	- [[Taxa Natural de Desemprego]]
-- [[Paradoxo da Parcimônia]]
-
-## Economia Internacional
+# Economia Internacional
 - [[Taxa de Câmbio]]
 	- [[Taxa Nominal de Câmbio]]
 	- [[Taxa Real de Câmbio]]
@@ -59,10 +44,12 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 - [[Regime de Câmbio Flutuante]]
 - [[Regime Cambial de Bandas]]
 
-## Políticas
+# Políticas Econômicas
 - [[Política Fiscal]]
 	- [[Política Fiscal Expansionista]]
 	- [[Política Fiscal Contracionista]]
+	- [[Equivalência Ricardiana]]
+	- [[Crowding Out]]
 - [[Política Monetária]]
 	- [[Política Monetária Expansionista]]
 	- [[Política Monetária Contracionista]]
@@ -79,6 +66,7 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 		- [[Propensão Marginal a Consumir]] $c_{1}$
 		- [[Multiplicador keynesiano]] $\frac{1}{1-c_{1}}$
 		- [[Paradoxo da Parcimônia]]
+		- [[Teorema do Orçamento Equilibrado]]
 	- [[Curva IS]]
 		- [[Equilíbrio no Mercado de Bens (Economia Fechada)]]
 	- [[Curva LM]]
@@ -90,16 +78,6 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 	- [[Efeito Transbordamento]] (doméstico -> global)
 	- [[Efeito Repercussão]] (global -> doméstico)
 
-# Médio-prazo: Oferta Agregada
-- [[Markup]]
-- [[Lei de Okun]]
-- [[Curva de Oferta Agregada de Lucas]]
-- [[Inflação Esperada]]
-- [[Curva de Phillips]]
-- [[Expectativas Racionais]]
-- [[Expectativas Adaptativas]]
-	- [[Curva de Phillips Aceleracionista]]
-	- [[Inflação Inercial]]
 
 # Longo-prazo: [De]Crescimento Econômico
 - [[Função Produção Agregada]]
@@ -126,9 +104,10 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 
 ### Referências
 - [MIT 14.02 Principles of Macroeconomics, Spring 2023 - Ricardo Caballero](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQxkb)
-- MANKIW, N. Gregory et al. **Principles of macroeconomics**. 2007. Disponível em: [https://shorturl.at/pfCLA](https://shorturl.at/pfCLA)
-- **LOPES**, Luiz Martins et al. Manual de macroeconomia: nível básico e nível intermediário. 1997.
+- GREMAUD, Amaury Patrick; VASCONCELLOS, Marco Antonio Sandoval de; TONETO JÚNIOR, Rudinei. **Economia brasileira contemporânea**. 2004. 7a edição.
+- LOPES, Luiz Martins et al. **Manual de macroeconomia: nível básico e nível intermediário**. 1997.
 - BLANCHARD, Olivier; JOHNSON, David. R.. **Macroeconomics**. Pearson, 6 ed., 2013.
+- MANKIW, N. Gregory et al. **Principles of macroeconomics**. 2007.
 - [Economics - CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO). Excelente e extremamente útil para ver o *big picture* que eu preciso ter para a ANPEC, apesar de ter me mostrado o quão burguesa a disciplina de Economia é, no estado atual das coisas.
 - [Material de Apoio da disciplina "A Conjuntura Econômica no Tempo", FEA-USP, 2016](https://drive.google.com/drive/folders/0B2CaEohUstylWU9la1lFX0Y0WDg?resourcekey=0-JaUy9WtrYGtUayDCjOfaFA)
 - [edisciplinas.usp.br/pluginfile.php/7737599/mod\_resource/content/0/Capítulo 9 - Do curto ao médio prazo - o modelo IS-LM-PC.pdf](https://edisciplinas.usp.br/pluginfile.php/7737599/mod_resource/content/0/Cap%C3%ADtulo%209%20-%20Do%20curto%20ao%20m%C3%A9dio%20prazo%20-%20o%20modelo%20IS-LM-PC.pdf)

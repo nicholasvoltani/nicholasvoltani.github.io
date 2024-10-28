@@ -9,7 +9,7 @@ up:: [[064 MOC Estatística em Economia]]
 # Probabilidade
 - Urna sem reposição:
 	- [[ANPEC Estatística 04 2025]]
-- [[Lei dos Grandes Números]]
+- [[Lei Fraca dos Grandes Números]]
 	- [[ANPEC Estatística 05 2025]]
 
 # Distribuições

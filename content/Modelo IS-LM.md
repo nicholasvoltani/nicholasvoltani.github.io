@@ -30,6 +30,8 @@ A aplicação de [[Política Fiscal|Políticas Fiscais]] (*ceteris paribus*) afe
 
 Sob o modelo IS-LM, [[Política Fiscal Expansionista]] induz um aumento do PIB, e [[Política Fiscal Contracionista]] induz uma redução, com respectivos aumento e diminuição da taxa de juros, a fim de inibir (incentivar) a produção no equilíbrio.
 
+Há também o [[Teorema do Orçamento Equilibrado]]: um aumento de [[Gastos Públicos]] equivalente a um aumento em [[Impostos]] induz um aumento equivalente no [[Produto Agregado]] (sem fator multiplicativo)[^2].
+
 ## Relação com Políticas Monetárias
 ![[Pasted image 20240811185001.png]]
 Fonte: BLANCHARD, JOHNSON, p. 97. Os termos $\frac{M}{P}$ são medidas da "riqueza real", que são quantidades que o [[Banco Central]] pode alterar através da compra/venda de ativos/títulos.
@@ -47,3 +49,4 @@ Sob o modelo IS-LM, [[Política Monetária Expansionista]] diminui a taxa de jur
 - LOPES, Luiz Martins et al. **Manual de macroeconomia: nível básico e nível intermediário**. 1997.
 
 [^1]: [[Taxa Real de Juros]].
+[^2]: Supondo [[Modelo Keynesiano Simples]].

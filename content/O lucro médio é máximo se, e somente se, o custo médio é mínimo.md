@@ -24,13 +24,10 @@ Multiplicando tudo por $q$[^1], rearranjando os termos, temos que
 $$
 \frac{d(pq - C)}{dq} = \frac{pq - C}{q}
 $$
-Portanto, temos que a [[Receita Marginal]] é igual à [[Receita Média]]. 
+Portanto, temos que o [[Lucro Marginal]] é igual à [[Lucro Médio]]. 
 
 Num caso em que $p$ é constante[^2], tendo em vista que [[O custo médio é mínimo se, e somente se, o custo marginal é igual ao custo médio]], então temos que o [[Custo Médio]] é mínimo.
 
----
-### References
-- 
 
 [^1]: E tendo em vista sempre que $q \neq 0$, o que quebraria toda a argumentação.
 [^2]: Por exemplo, [[Competição Perfeita]].

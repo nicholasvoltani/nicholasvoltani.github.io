@@ -7,7 +7,7 @@ aliases:
 
 up:: [[062 MOC Microeconomia]]
 
-A função produção de uma firma é função da [[Força de Trabalho (Macroeconomia)]] $L$ e do capital $K$ que ela emprega[^1]. Essa função dá a quantidade de unidades de um bem produzidas:
+A função produção de uma firma é função da [[Força de Trabalho]] $L$ e do capital $K$ que ela emprega[^1]. Essa função dá a quantidade de unidades de um bem produzidas:
 $$
 q = f(K, L)
 $$

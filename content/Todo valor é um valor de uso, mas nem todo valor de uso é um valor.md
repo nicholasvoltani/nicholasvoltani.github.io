@@ -3,6 +3,8 @@ date: 2024-06-03
 tags:
   - marxism
   - mini-essay
+aliases:
+  - Todo valor é um valor de uso
 ---
 up:: [[Valor]]
 

@@ -13,7 +13,7 @@ C(w_{1},w_{2}) = w_{1} x_{1} + x_{2} x_{2}
 $$
 onde $w_{i}$ são os preços dos fatores de produção.
 
-Tratando em específico de [[Força de Trabalho (Macroeconomia)]] $L$ e capital $K$, teríamos algo como
+Tratando em específico de [[Força de Trabalho]] $L$ e capital $K$, teríamos algo como
 $$
 C(r, w) = rK + wL
 $$

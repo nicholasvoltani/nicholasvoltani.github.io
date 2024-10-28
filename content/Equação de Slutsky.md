@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062a MOC Teoria do Consumidor]]
+up:: [[062b MOC Teoria do Consumidor]]
 
 $$
 \frac{ \partial x }{ \partial p } = \frac{ \partial h }{ \partial p } - x \frac{ \partial x }{ \partial m }

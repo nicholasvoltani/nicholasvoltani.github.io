@@ -24,6 +24,15 @@ up:: [[061 MOC Macroeconomia]]
 	- [[Taxa Nominal de Juros]]
 	- [[Taxa Real de Juros]]
 
+# Relação com mercado de bens
+- [[Inflação]]
+	- [[Desinflação]]
+		- [[Espiral Deflacionária]]
+	- [[Estagflação]]
+- [[Regra de Taylor]]
+
+
+
 
 ---
 ### References

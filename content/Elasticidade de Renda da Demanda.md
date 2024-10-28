@@ -6,7 +6,7 @@ aliases:
   - Elasticidade-Renda da Demanda
 ---
 
-up:: [[062a MOC Teoria do Consumidor]]
+up:: [[062b MOC Teoria do Consumidor]]
 
 A elasticidade de renda da demanda de um bem, dada uma [[Cesta de Bens]], é dada por
 $$

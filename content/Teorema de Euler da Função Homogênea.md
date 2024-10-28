@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062a MOC Teoria do Consumidor]], [[020 MOC Mathematics]]
+up:: [[062b MOC Teoria do Consumidor]], [[020 MOC Mathematics]]
 
 Seja $F: \mathbb{R}^{L}\setminus \{0\} \to \mathbb{R}$ uma função continuamente diferenciável. Então[^1]
 $$

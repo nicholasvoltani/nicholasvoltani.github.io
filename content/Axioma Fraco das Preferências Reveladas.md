@@ -8,7 +8,7 @@ aliases:
   - WARP
 ---
 
-up:: [[062a MOC Teoria do Consumidor]]
+up:: [[062b MOC Teoria do Consumidor]]
 
 ![[images.png|500]]
 Fonte: [areweb.berkeley.edu/\~fally/Courses/ARE202Lecture3.pdf](https://areweb.berkeley.edu/~fally/Courses/ARE202Lecture3.pdf)
