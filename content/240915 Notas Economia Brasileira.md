@@ -2,6 +2,7 @@
 date: 2024-09-15
 tags:
   - literature/lecture
+  - economics
 ---
 
 up:: [[063 MOC Economia Brasileira]]

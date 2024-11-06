@@ -11,7 +11,7 @@ up:: [[063 MOC Economia Brasileira]]
 
 Delfim Netto argumenta[^1] que o processo de [[Desvalorização Cambial]] empreendido pela Velha República, no tocante à produção cafeeira, teve um papel não desprezível nos ciclos de superprodução. 
 
-A ideia é simples: quedas no preço internacional do café sinalizam excesso de oferta do produto. Quando o governo desvaloriza a [[Taxa de Câmbio]] em resposta a isso, tal sinal de mercado não é transmitido ao produtor: ele "vê" o preço estável e continua produzindo – pior ainda, é capaz que outros agentes vejam os preços estáveis e decidam que é um empreendimento rentável de se entrar!
+A ideia é simples: quedas no preço internacional do café sinalizam excesso de oferta do produto, e induzem queda nos preços da saca. Quando o governo desvaloriza a [[Taxa de Câmbio]] em resposta a isso, tal sinal de mercado (diminuição de preço) não é transmitido ao produtor: ele "vê" o preço estável e continua produzindo – pior ainda, é capaz que outros agentes vejam os preços estáveis e decidam que é um empreendimento rentável de se entrar!
 
 ---
 ### References

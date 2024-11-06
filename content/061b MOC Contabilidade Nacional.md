@@ -7,14 +7,20 @@ tags:
 up:: [[061 MOC Macroeconomia]]
 
 # Quantidades Agregadas
-- [[Produto Agregado]]
+- $Y$: [[Produto Agregado]] (PIB)
 	- [[Produto Nacional Bruto]]
 	- [[Produto Interno Bruto Nominal]]
+	- [[Recessão]]
 - [[Renda Agregada]]
+	- [[Curva de Lorenz]]
+	- [[Coeficiente de Gini]]
 - [[Despesa Agregada]]
 
 # Principais Variáveis Macroeconômicas
 - $C$: [[Consumo Agregado]]
+	- [[Efeito Riqueza]]
+	- [[Hipótese do Ciclo de Vida]]
+	- [[Hipótese da Renda Permanente]]
 - $I$: [[Investimentos]]
 	- [[Formação Bruta do Capital Fixo]]
 	- [[Acumulação de Estoques]]
@@ -25,7 +31,7 @@ up:: [[061 MOC Macroeconomia]]
 	- $M$: [[Importações]]
 	- [[Termos de Troca]]
 
-# Variáveis Componentes
+# Variáveis Derivadas
 - [[Poupança]]
 	- [[Poupança Privada]]
 	- [[Poupança do Governo]]
@@ -36,7 +42,7 @@ up:: [[061 MOC Macroeconomia]]
 	- [[Salário]]: remuneração por [[Força de Trabalho]]
 	- [[Função Receita|Receita]]: remuneração pelos bens/serviços vendidos
 	- *Juros*: remuneração financeira
-	- *Alugueis*: remuneração por usufruto alheio de seu capital / terra
+	- *Alugueis*: remuneração por usufruto alheio de capital / terra
 
 ---
 - [[Renda Líquida do Governo]]

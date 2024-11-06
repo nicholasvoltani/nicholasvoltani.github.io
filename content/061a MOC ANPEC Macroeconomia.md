@@ -21,6 +21,10 @@ up:: [[061 MOC Macroeconomia]]
 - [[Curva de Phillips]] / [[Lei de Okun]]
 	- [[ANPEC Macroeconomia 10 2024]]
 
+# Crescimento Econômico
+- [[Modelo de Solow]]
+	- [[ANPEC Macroeconomia 06 2024]]
+
 ---
 ### References
 - LOPES, Luiz Martins et al. **Manual de macroeconomia: nível básico e nível intermediário**. 1997.

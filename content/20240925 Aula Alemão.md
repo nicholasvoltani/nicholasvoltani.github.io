@@ -97,9 +97,11 @@ _Entwicklungs-**stufen**_: **etapas** de desenvolvimento
 
 [[Zweck]]: propósito, motivação.
 
+Auf ein niedriges Niveau *herabdrücken* $\downarrow\downarrow$ / *heraufdrücken* $\uparrow \uparrow$
+
 ---
 ### Referências
 - [https://www.kpoe-steiermark.at/dl/5408cec1d17ee4f9adff37c4c31f3790/manifest.pdf](https://www.kpoe-steiermark.at/dl/5408cec1d17ee4f9adff37c4c31f3790/manifest.pdf)
 
 [^1]: **Pura**! Kritik der *reinen* Vernunft.
-[^2]: Ein-nisten, ein Nest für sich machen.
+[^2]: Ein-*nist*-en, ein *Nest* für sich machen. "Aninhar-se".

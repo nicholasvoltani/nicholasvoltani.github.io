@@ -21,8 +21,10 @@ up:: [[061 MOC Macroeconomia]]
 	- [[Crise de Liquidez]]
 - [[Moeda Fiduciária]] (Emissão Inconversível)
 - [[Taxa de Juros]]
+	- [[A taxa de juros é o custo de oportunidade do dinheiro presente vis-à-vis dinheiro futuro]]
 	- [[Taxa Nominal de Juros]]
 	- [[Taxa Real de Juros]]
+	- [[Efeito Riqueza]]
 
 # Relação com mercado de bens
 - [[Inflação]]
@@ -37,3 +39,4 @@ up:: [[061 MOC Macroeconomia]]
 ---
 ### References
 - [Economia Monetária - Moeda e Bancos | Aulas USP - YouTube](https://www.youtube.com/playlist?list=PLAudUnJeNg4vWPm7Au0XhkoS58yHprEvN)
+- GREMAUD, Amaury Patrick; VASCONCELLOS, Marco Antonio Sandoval de; TONETO JÚNIOR, Rudinei. **Economia brasileira contemporânea**. 2004. 7a edição.

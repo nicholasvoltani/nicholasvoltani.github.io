@@ -19,13 +19,14 @@ A ideia deste site é de ter a maior parte de meu [notemaking](https://www.youtu
 --- 
 # Some places to start
 [Folder: Outputs](https://nicholasvoltani.github.io/Outputs/): "Finished" writings, with worthy mentions:
-- [[A brief summary on Machine Learning]] (English)
-- [[Topology (and Metrics) for the Young at Heart]] (English)
-- [[Uma introdução suave ao Cálculo]] (Português)
-- [[Formas de objetividade e de subjetividade capitalistas (Monografia Lukács)]] (Português)
-- [[Sobre a Filosofia da Práxis não ser uma Sociologia, segundo Gramsci (Monografia)]] (Português)
-- [[O potencial ideológico em estátuas - Léopold II, 'o rei construtor']] (Português)
-- [[Resumo da apresentação O País do Agro é o País da Fome]] (Português)
+- [[A brief summary on Machine Learning]]
+- [[Topology (and Metrics) for the Young at Heart]]
+- Série de posts [[Uma visão etnográfica da Faria Lima]]
+- [[Uma introdução suave ao Cálculo]]
+- [[Formas de objetividade e de subjetividade capitalistas (Monografia Lukács)]]
+- [[Sobre a Filosofia da Práxis não ser uma Sociologia, segundo Gramsci (Monografia)]]
+- [[O potencial ideológico em estátuas - Léopold II, 'o rei construtor']]
+- [[Resumo da apresentação O País do Agro é o País da Fome]]
 
 # (Main) Maps of Content (MOCs) 
 Maps of Content are aggregations of notes with the same "theme". Here's the main ones I'm interested on:

@@ -12,7 +12,6 @@ e, em particular, de uma época específica: a do modo de produção capitalista
 
 Tem como característica o **monopólio dos meios de produção por certo setor da sociedade**,
 > "que se confrontam com a força de trabalho vivo enquanto produtos e condições de trabalho tornados independentes dessa força de trabalho, que são personificados, em virtude dessa [oposição], no capital"
-> 
 
 Dessa forma, como o capital é um processo social, ele alterna entre duas formas de manifestação:
 - **capital constante**: parcelas que não alteram a grandeza do valor, representada nos **meios de produção** em geral

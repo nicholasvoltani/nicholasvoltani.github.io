@@ -6,7 +6,7 @@ aliases:
   - Consumo
 ---
 
-up:: [[061 MOC Macroeconomia]]
+up:: [[061b MOC Contabilidade Nacional]]
 
 ![[Resumo de Macroeconomia numa figura2.svg]]
 

@@ -58,7 +58,7 @@ $$
 \frac{1020-1000}{1000} = 2\%
 $$
 
-# Item 3: Verdadeiro (?)
+# Item 3: Verdadeiro [Anulada]
 O deflator do PIB em 2023 é de $103.8...\%$, $104$ por arredondamento.
 
 # Item 4: Verdadeiro

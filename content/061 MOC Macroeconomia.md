@@ -18,13 +18,8 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 - [[Balanço de Pagamentos]]
 	- [[Conta Corrente]]
 	- [[Conta Capital e Financeira]]
-- [[Resultado Primário Fiscal]]
-- [[Produto Agregado]]
-	- [[Produto Nacional Bruto]]
-	- [[Produto Interno Bruto Nominal]]
-	- [[Deflator Implícito]]
-	- [[Recessão]]
 - [[Paradoxo da Parcimônia]]
+- [[Armadilha da Liquidez]]
 
 ## Ativos Financeiros
 - [[Overnight]]
@@ -53,7 +48,6 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 - [[Política Monetária]]
 	- [[Política Monetária Expansionista]]
 	- [[Política Monetária Contracionista]]
-	- [[Armadilha da Liquidez]]
 - [[Política Cambial]]
 	- [[Apreciação Cambial]]
 	- [[Desvalorização Cambial]]
@@ -84,9 +78,9 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 - [[Estoque de Capital]]
 - [[Modelo de Solow]]
 
-# Teorias a mais
-- [[Teoria da Renda Permanente]] (*Permanent Income Theory*, Friedman): consumidores baseiam seu consumo não (só) na sua renda atual, mas (mais) na sua *renda média a longo prazo*/renda permanente
-- [[Teoria do Ciclo de Vida]] (*Lifecycle Theory of Consumption*, Modigliani): indivíduos acumulam ativos (poupança) no começo da vida, e os consomem ao final da vida, possuindo padrões de consumo qualitativamente distintos nestas fases da vida
+# [[061e MOC Teorias Econômicas]]
+- [[Hipótese da Renda Permanente]] (*Permanent Income Theory*, Friedman): consumidores baseiam seu consumo não (só) na sua renda atual, mas (mais) na sua *renda média a longo prazo*/renda permanente
+- [[Hipótese do Ciclo de Vida]] (*Lifecycle Theory of Consumption*, Modigliani): indivíduos acumulam ativos (poupança) no começo da vida, e os consomem ao final da vida, possuindo padrões de consumo qualitativamente distintos nestas fases da vida
 
 ## Teoria Novo-Clássica 
 **Expectativas (e agentes) racionais**; redução da macroeconomia à microeconomia. 

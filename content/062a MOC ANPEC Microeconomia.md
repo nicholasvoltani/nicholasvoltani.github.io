@@ -27,3 +27,11 @@ up:: [[062 MOC Microeconomia]]
 # Concorrência de Mercado
 - [[Monopólio]]
 	- [[ANPEC Microeconomia 01 2024]]
+
+# Loterias
+- [[Paradoxo de Allais]]
+	- [[ANPEC Microeconomia 07 2022]]
+
+# Teoria do Investidor
+- [[Modelo CAPM]]
+	- [[ANPEC Microeconomia 14 2022]]

@@ -58,7 +58,9 @@ up:: [[062 MOC Microeconomia]]
 - [[Medida de Arrow-Pratt]] (Aversão absoluta)
 - [[Medida de Aversão Relativa ao Risco]]
 - [[Constant Absolute Risk Aversion]] (CARA)
-- 
+- [[Modelo CAPM]]
+- [[Índice de Sharpe]]
+- [[Alavancagem]]
 
 ### Referências
 - [Iniciação Científica: Introdução à Economia Matemática (2022) - YouTube](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTjttEZI1t-7aVeFuMYkZuI)
