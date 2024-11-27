@@ -34,5 +34,5 @@ Note que, por definição, **o deflator implícito no ano base é 100**, pois as
 ### References
 - GREMAUD, Amaury Patrick et al. **Macroeconomia básica: agregados macroeconômicos**. In: LOPES, Luiz Martins et al. *Manual de macroeconomia: nível básico e nível intermediário*. 1997.
 
-[^1]: Ou seja, um ano em que o PIB nominal é o mesmo que o PIB real. Mesma coisa que "ano corrente", onde geralmente se usa o ano atual para medições do passado, mas também pode ser algum ano passado para medições posteriores, cf [[ANPEC Macroeconomia 09 2024]].
+[^1]: Ou seja, um ano em que o PIB nominal é o mesmo que o PIB real. Mesma coisa que "ano corrente", onde geralmente se usa o ano atual para medições do passado, mas também pode ser algum ano passado para medições posteriores, cf [[ANPEC Macroeconomia 09 2025]].
 [^2]: Pois assume-se, por hipótese, que o PIB real foi medido *em moeda à época $t$*.

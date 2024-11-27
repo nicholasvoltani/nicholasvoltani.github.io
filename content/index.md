@@ -1,10 +1,11 @@
- ---
+---
 title: Digital Garden Entrance
 publish: "true"
 tags: 
   - moc 
 ---
-![[Nighthawks_by_Edward_Hopper_1942.jpg]]
+
+![[Nighthawks_by_Edward_Hopper_1942.jpg|500]]
 
 Welcome to my Digital Garden! My name is Nicholas, and this space is an attempt to externalize many of the relations that I create between the many topics which I like (obviously inspired by the PKM community). 
 

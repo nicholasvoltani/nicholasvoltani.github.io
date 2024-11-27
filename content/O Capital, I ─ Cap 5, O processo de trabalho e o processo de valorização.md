@@ -8,7 +8,7 @@ tags:
 ## O [[Processo de Produção Capitalista]]
 O processo de produção no modo de produção capitalista possui duas formas opostas:
 * O processo de trabalho, que gera [[Valor de Uso]]
-* O processo de valorização, que gera [[Valor]] e [[Mais-valor]]
+* O processo de valorização, que gera [[Valor]] e [[Mais-Valor]]
 
 ## Paralelos entre relação dialética da mercadoria com a relação dialética do trabalho
 > "Assim como a própria mercadoria é **unidade de valor de uso e valor**, seu processo de produção tem de ser a **unidade de processo de trabalho e o processo de formação de valor**." (p. 263)

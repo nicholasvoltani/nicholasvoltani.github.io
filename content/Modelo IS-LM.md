@@ -26,7 +26,7 @@ A redução do [[Consumo Autônomo]] $c_{0}$ (*ceteris paribus*) se traduz num c
 ![[Pasted image 20240811192305.png]]
 Fonte: BLANCHARD, JOHNSON, p. 95. Note que retrata uma política fiscal **contracionista** $(\downarrow Y)$!!
 
-A aplicação de [[Política Fiscal|Políticas Fiscais]] (*ceteris paribus*) afetam o **mercado de bens**, ou seja, há uma translação **ao longo da curva LM**.
+A aplicação de [[Política Fiscal|Políticas Fiscais]] (*ceteris paribus*) afetam o **mercado de bens**, ou seja, há *deslocamento da curva IS* (i.e. há uma translação *ao longo da curva LM*).
 
 Sob o modelo IS-LM, [[Política Fiscal Expansionista]] induz um aumento do PIB, e [[Política Fiscal Contracionista]] induz uma redução, com respectivos aumento e diminuição da taxa de juros, a fim de inibir (incentivar) a produção no equilíbrio.
 
@@ -34,9 +34,9 @@ Há também o [[Teorema do Orçamento Equilibrado]]: um aumento de [[Gastos Púb
 
 ## Relação com Políticas Monetárias
 ![[Pasted image 20240811185001.png]]
-Fonte: BLANCHARD, JOHNSON, p. 97. Os termos $\frac{M}{P}$ são medidas da "riqueza real", que são quantidades que o [[Banco Central]] pode alterar através da compra/venda de ativos/títulos.
+Fonte: BLANCHARD, JOHNSON, p. 97. Os termos $\frac{M}{P}$ são medidas da "riqueza real", que são quantidades que o [[Banco Central]] pode alterar através da compra/venda de ativos/títulos[^3].
 
-A aplicação de [[Política Monetária|Políticas Monetárias]] (*ceteris paribus*) afetam o **mercado de ativos**, ou seja, há uma translação **ao longo da curva IS**.
+A aplicação de [[Política Monetária|Políticas Monetárias]] (*ceteris paribus*) afetam o **mercado de ativos**, ou seja, há um *deslocamento da curva LM* (i.e.há uma translação *ao longo da curva IS*).
 
 Sob o modelo IS-LM, [[Política Monetária Expansionista]] diminui a taxa de juros, induzindo uma expansão do PIB (em particular, através da indução do aumento de investimentos por empréstimos); uma [[Política Monetária Contracionista]] aumenta a taxa de juros, induzindo contração do PIB (pelo desincentivo de empréstimos para investimentos).
 
@@ -50,3 +50,4 @@ Sob o modelo IS-LM, [[Política Monetária Expansionista]] diminui a taxa de jur
 
 [^1]: [[Taxa Real de Juros]].
 [^2]: Supondo [[Modelo Keynesiano Simples]].
+[^3]: É verdadeiro isso? Parece conflitar com [[Neutralidade da Moeda]].

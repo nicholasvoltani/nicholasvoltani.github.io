@@ -7,8 +7,8 @@ tags:
 # Leituras d'O Capital─ Cap 8 & 9 ─ Jornada de Trabalho e Massa de Mais-Valia
 ## Summary: Jornada de Trabalho
 Divide-se em duas partes: 
-* jornada de **trabalho necessário**: paga o [[Valor da força de trabalho]]
-* jornada de **trabalho excedente**: gera [[Mais-valor]]
+* jornada de **trabalho necessário**: paga o [[Valor da Força de Trabalho]]
+* jornada de **trabalho excedente**: gera [[Mais-Valor]]
 
 ### Misconception: Trabalhador "produz o próprio salário"
 **Não** se tem que o trabalhador reproduz justamente o salário para sobreviver; ele gera a mercadoria **específica de seu ramo de trabalho**, os quais vão ser **trocados pelo equivalente (em dinheiro) em valor de sua força de trabalho**. Ou seja, ele gera o equivalente ao valor de sua força de trabalho, mas o produz **na forma de mercadorias específicas de seu ramo**; **não produz o dinheiro com que vai ser pago**! Este vai vir da **venda das mercadorias que produziu**. 

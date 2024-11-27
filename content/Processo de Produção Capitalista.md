@@ -3,6 +3,8 @@ date: 2022-03-01
 tags:
   - evergreen
   - marxism
+aliases:
+  - Modo de Produção Capitalista
 ---
 
 up:: [[011a MOC Capital I]]
@@ -20,7 +22,7 @@ up:: [[011a MOC Capital I]]
 
 O processo de produção capitalista busca a produção de [[Mercadoria|mercadorias]]: ou seja, busca a produção de [[Valor de Uso|valores de uso]] **tão somente porquanto** eles sejam os "suportes" do [[Valor|valor]]. 
 
-Tal processo incorpora em si o que Marx chama de [[Processo de Trabalho]] e [[Processo de Valorização]]: enquanto o primeiro efetua a produção de valores de uso[^3], o segundo se caracteriza pela produção de [[Mais-valor]]. 
+Tal processo incorpora em si o que Marx chama de [[Processo de Trabalho]] e [[Processo de Valorização]]: enquanto o primeiro efetua a produção de valores de uso[^3], o segundo se caracteriza pela produção de [[Mais-Valor]]. 
 
 > "Assim como a própria mercadoria é *unidade de valor de uso e valor*, seu processo de produção tem de ser a *unidade de processo de trabalho e o processo de formação de valor*." (MARX, p. 263; grifo meu)
 

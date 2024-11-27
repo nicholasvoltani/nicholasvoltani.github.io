@@ -7,7 +7,8 @@ aliases:
 
 up:: [[065 MOC Matemática em Economia]]
 
-![[Fluxo_financeiro_PV_pmt_n.gif]]
+![[Fluxo_financeiro_PV_pmt_n.gif|500]]
+
 Fonte: [Matemática financeira – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Matem%C3%A1tica_financeira#N%C3%BAmero_fixo_de_pagamentos_de_mesmo_valor)
 
 O sistema Price de amortização baseia-se no pagamento através de prestações (parcelas) iguais, e com amortização variável em função da [[Taxa de Juros]]. 

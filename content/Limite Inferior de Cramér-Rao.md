@@ -42,7 +42,7 @@ k'(\theta) &= \mathbb{E}[YZ] = \mathbb{E}[Y]\mathbb{E}[Z] + \rho(Y,Z) \sigma_{Y}
 \end{align}
 $$
 
-Isolando $\sigma_{Y} = Var(Y)$ e sabendo que $\rho^{2} \geq 1$, temos que
+Isolando $\sigma_{Y} = \sqrt{Var(Y)}$ e sabendo que $\rho^{2} \geq 1$, temos que
 $$
 Var(Y) \geq \frac{(k'(\theta))^{2}}{n I(\theta)}
 $$

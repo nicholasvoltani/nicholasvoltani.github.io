@@ -7,7 +7,7 @@ aliases:
 
 up:: [[064a MOC ANPEC Estatística]]
 
-![[Pasted image 20241014110504.png]]
+![[Pasted image 20241014110504.png|500]]
 
 É uma questão sobre [[Lei Fraca dos Grandes Números]] e convergência em probabilidade.
 
@@ -32,7 +32,7 @@ $$
 Portanto, $plim(a+b\bar{X}) = a + b\mu_{X}$.
 
 # Item 2 – Falso
-É falso, mas não sei exatamente por quê. Minha intuição diz que é por causa do $\mu_{T} > \mu_{X}$, mas ser um limite de $\frac{\bar{X}}{\bar{T}}$... E também, eu pensaria que o limite seria $\frac{\mu_{X}}{\mu_{T}}$, como $\mu_{T}>0$...
+É falso, mas não sei exatamente por quê. Minha intuição diz que é por causa do $\mu_{T} > \mu_{X}$, mas ser um limite de $\frac{\bar{X}}{\bar{T}}$... E também, eu pensaria que o limite seria $\frac{\mu_{X}}{\mu_{T}}$, como $\mu_{T}>0$... 
 
 # Item 3 – Verdadeiro
 Por desigualdade triangular[^2], temos que

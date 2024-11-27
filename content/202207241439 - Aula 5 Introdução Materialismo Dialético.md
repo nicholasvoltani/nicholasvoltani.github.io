@@ -86,7 +86,7 @@ Inicialmente, os bolcheviques ─ após a derrocada do czar em Fevereiro ─ pre
 A **aparência** (ou **forma**) do Estado no momento atual varia com relação a países diferentes (exatamente devido aos processos históricos diferentes); porém, o conteúdo capitalista existe em todos os países "civilizados", e serve de **conteúdo** para todos estas formas distintas de Estado; todos, portanto, repousam "**no solo da moderna sociedade burguesa**"; tal conteúdo é que todas tais sociedades assentam-se na **garantia das relações sociais de produção burguesa**, as quais dependem de alguns fatores:
 - propriedade privada dos [[Meios de Produção]] 
 - direito de comprar e vender [[Força de Trabalho]]
-- direito de **acumulação privada** do [[Mais-valor]]
+- direito de **acumulação privada** do [[Mais-Valor]]
 
 Portanto, a finalidade fundamental do Estado (atual) é:
 - **garantir** a propriedade privada dos meios de produção

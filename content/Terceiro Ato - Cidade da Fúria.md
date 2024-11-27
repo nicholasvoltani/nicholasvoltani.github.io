@@ -10,3 +10,5 @@ up:: [[Cidade da Fúria.canvas|Cidade da Fúria]]
 [[Clímax - Cidade da Fúria]]
 
 [[Sonho Febril - Cidade da Fúria]]
+
+[[Final - Cidade da Fúria]]

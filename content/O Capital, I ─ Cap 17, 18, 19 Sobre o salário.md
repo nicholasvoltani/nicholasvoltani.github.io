@@ -29,7 +29,7 @@ Compreender os conceitos:
 
 Portanto, como ficaria o valor e o preço *da força de trabalho*?
 
-### [[Valor da força de trabalho]]
+### [[Valor da Força de Trabalho]]
 É a quantidade de trabalho socialmente necessária para **produzir diariamente a força de trabalho** enquanto classe trabalhadora.
 - Isso inclui todos elementos de consumo para manutenção biológica/social do trabalhador e de sua família: **custo de reprodução da força de trabalho** (CRFT)
 	- Alimentos + roupas + moradia + educação + cuidados com saúde + lazer + etc. etc.

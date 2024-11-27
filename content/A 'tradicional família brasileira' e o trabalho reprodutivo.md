@@ -74,9 +74,9 @@ Crianças são ensinadas especificamente, que as mães tÊm de cozinhar para si,
 
 Parte-se da premissa de que **o Brasil usou o escravismo como impulso rumo ao capitalismo, mas não era capitalista per se**. 
 
-Prevalência de [[Mais-valor Absoluto]] (jornada de trabalho máxima). Expec vida 20 anos.
+Prevalência de [[Mais-Valor Absoluto]] (jornada de trabalho máxima). Expec vida 20 anos.
 
-Expansão do [[Mais-valor Relativo]]: deslocar certa parte da sociedade que não tivessem de trabalhar tanto (e que durassem mais), para garantir que certa parte **aja como mantenedora da classe trabalhadora**. 
+Expansão do [[Mais-Valor Relativo]]: deslocar certa parte da sociedade que não tivessem de trabalhar tanto (e que durassem mais), para garantir que certa parte **aja como mantenedora da classe trabalhadora**. 
 
 Estratégias de reprodução:
 - Exógena: compra de novos trabalhadores (trazer da África)

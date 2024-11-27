@@ -31,12 +31,12 @@ O [[Valor de Uso]] da força de trabalho é justamente seu usufruto no processo 
 > "A força de trabalho existe apenas como disposição do indivíduo *vivo*. A sua produção [da força de trabalho] pressupõe, portanto, a existência dele. Dada a existência do indivíduo, a produção da força de trabalho consiste em sua própria reprodução ou manutenção. Para sua manutenção, o indivíduo vivo necessita de certa quantidade de *meios de subsistência*.
 >  (...) A quantidade dos meios de subsistência têm (...) de ser suficiente para manter o indivíduo trabalhador como tal *em sua condição normal de vida*." (MARX, p. 245-6; grifo e destaque meus)
 
-O [[Valor]] de uma mercadoria é o **trabalho socialmente necessário** para a sua produção. Dessa forma, o [[Valor da força de trabalho]] é justamente o valor dos meios de subsistência em quantidade suficiente tal que permitam que a força de trabalho opere de maneira **normal**: não só para permitir a **sobrevivência** do trabalhador, mas para que trabalhe de maneira **normal**[^3].
+O [[Valor]] de uma mercadoria é o **trabalho socialmente necessário** para a sua produção. Dessa forma, o [[Valor da Força de Trabalho]] é justamente o valor dos meios de subsistência em quantidade suficiente tal que permitam que a força de trabalho opere de maneira **normal**: não só para permitir a **sobrevivência** do trabalhador, mas para que trabalhe de maneira **normal**[^3].
 
 Portanto, o valor diário da força de trabalho é justamente o valor correspondente dos meios de subsistência necessários para sua manutenção/reprodução; na prática, não são o valor de manutenção **diária**, mas sim **anual**, em média. 
 
 # Produção de mais-valor
-O emprego da força de trabalho se dá de forma que ela produza um valor **maior que o valor da própria força de trabalho**; ou seja, produza um valor que consiga pagar seu valor e que ainda gere um excedente: o [[Mais-valor]]. 
+O emprego da força de trabalho se dá de forma que ela produza um valor **maior que o valor da própria força de trabalho**; ou seja, produza um valor que consiga pagar seu valor e que ainda gere um excedente: o [[Mais-Valor]]. 
 
 Tal geração de mais-valor é o que possibilita o [[Ciclo D─M─D']], o qual é a forma imediata/simples do [[Capital]].
 

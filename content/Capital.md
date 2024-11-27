@@ -11,7 +11,7 @@ up:: [[011a MOC Capital I]]
 
 O capital é uma forma de produção específica ([[Processo de Produção Capitalista]]), na qual os geradores de [[Valor]][^2]  são empregados de maneira subordinada (sob regime de trabalho [[Salário|assalariado]]), e na qual a propriedade dos [[Meios de Produção]] é privada (ou seja, excludente, não-comunitária); os detentores desses meios de produção são chamados de "capitalistas".
 
-O [[Processo de Produção Capitalista]] apropria-se do [[Processo de Trabalho|Processo de Trabalho Útil]], que é gerador de [[Valor de Uso|Valores de Uso]], e torna-se "capital" no que Marx chama de [[Processo de Valorização]], no qual apropria-se do [[Mais-valor]] gerado pelo [[Tempo Excedente de Trabalho]] em que emprega [[Força de Trabalho]]. É justamente por esta apropriação que "capital" não é meramente o [[Ciclo D─M─D]], e sim [[Ciclo D─M─D']].
+O [[Processo de Produção Capitalista]] apropria-se do [[Processo de Trabalho|Processo de Trabalho Útil]], que é gerador de [[Valor de Uso|Valores de Uso]], e torna-se "capital" no que Marx chama de [[Processo de Valorização]], no qual apropria-se do [[Mais-Valor]] gerado pelo [[Tempo Excedente de Trabalho]] em que emprega [[Força de Trabalho]]. É justamente por esta apropriação que "capital" não é meramente o [[Ciclo D─M─D]], e sim [[Ciclo D─M─D']].
 
 > "Esse ciclo inteiro, a transformação [do] dinheiro em capital, ocorre no *interior* da esfera da circulação, porque é determinado pela *compra da força de trabalho* no mercado. Mas ocorre **fora** da circulação, pois esta [a esfera da circulação] apenas dá início ao processo de valorização, que tem lugar na esfera da *produção*." (MARX, p. 271; grifo meu)
 
@@ -26,9 +26,9 @@ O capital manifesta-se, no campo da produção, em duas formas:
 > "Mas o capital tem um único impulso vital, o impulso de se **autovalorizar**, de criar mais-valor, **de absorver**, com sua parte constante (que são os meios de produção) **a maior quantidade possível de mais-trabalho**. 
 > O capital é **trabalho morto**, que, como um vampiro, vive apenas da sucção de **trabalho vivo**, e vive tanto mais quanto mais trabalho vivo ele suga." (MARX, p. 307, grifo meu [como sempre])
 
-O capital, sendo mera relação social, não pode, *por si só*, criar [[Mais-valor]]; ele pode criar todas as condições que o permitam **extrai-lo**[^1], mas o mais-valor em si é **produzido pela força de trabalho**, esta sim o verdadeiro criador de valor no [[Processo de Produção Capitalista]].
+O capital, sendo mera relação social, não pode, *por si só*, criar [[Mais-Valor]]; ele pode criar todas as condições que o permitam **extrai-lo**[^1], mas o mais-valor em si é **produzido pela força de trabalho**, esta sim o verdadeiro criador de valor no [[Processo de Produção Capitalista]].
 
-Tal produção de mais-valor está associada à *circulação* somente porquanto depende da **aquisição de força de trabalho**, mas a geração do mais-valor em si somente ocorre durante o **processo de produção de [[Mercadoria]]** (em particular no [[Processo de Valorização]]), quando coloca tal força de trabalho recém-adquirida para gerar valor **além** de seu [[Valor da força de trabalho|valor próprio]] (o qual embolsa como mais-valor). 
+Tal produção de mais-valor está associada à *circulação* somente porquanto depende da **aquisição de força de trabalho**, mas a geração do mais-valor em si somente ocorre durante o **processo de produção de [[Mercadoria]]** (em particular no [[Processo de Valorização]]), quando coloca tal força de trabalho recém-adquirida para gerar valor **além** de seu [[Valor da Força de Trabalho|valor próprio]] (o qual embolsa como mais-valor). 
 
 ---
 ### Referências

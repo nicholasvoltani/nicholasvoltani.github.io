@@ -18,8 +18,9 @@ $$
 \hat{y}_{i} = \hat{\beta}_{0} + \hat{\beta}_{1} x_{i} + \hat{u}_{i}
 $$
 onde $\hat{u}_{i}$ é o erro em que se incorre ao fazer a regressão[^1]. 
-
-Assume-se que a média dos erros amostrais é $0$, i.e. $\mathbb{E}[\hat{u}_{i}|\{x_{i}\}] = 0$, além de que a variância dos erros é a mesma para todo $i$, $Var(\hat{u}_{i}|\{x_{i}\}) = \sigma^{2}$ (i.e. [[Homoscedasticidade]]).
+# Hipóteses do modelo
+- Assume-se que a média dos erros amostrais é $0$, i.e. $\mathbb{E}[\hat{u}_{i}|\{x_{i}\}] = 0$
+- Assume-se que a variância dos erros é a mesma para todo $i$, $Var(\hat{u}_{i}|\{x_{i}\}) = \sigma^{2}$ (i.e. [[Homoscedasticidade]])
 
 A ideia da regressão de mínimos quadrados é de minimizar a soma dos erros quadráticos
 $$
@@ -30,11 +31,16 @@ $$
 Através das derivadas de $E$ com relação aos $\hat{\beta}_{i}$ sendo $0$, obtemos que
 $$
 \begin{cases}
-\hat{\beta}_{0} = \frac{\sum\limits_{i=1}^{n} (x_{i}-\bar{x})(y_{i}-\bar{y})}{\sum \limits_{i=1}^{n} (x_{i}-\bar{x})(x_{i}-\bar{x})} \\
-\hat{\beta}_{1} = \bar{y} - \hat{\beta}_{0}\bar{x}
+\hat{\beta}_{0} = \bar{y} - \hat{\beta}_{1}\bar{x}\\
+\hat{\beta}_{1} = \frac{\sum\limits_{i=1}^{n} (x_{i}-\bar{x})(y_{i}-\bar{y})}{\sum \limits_{i=1}^{n} (x_{i}-\bar{x})(x_{i}-\bar{x})}
 \end{cases}
 $$
 
+A forma de $\hat{\beta}_{1}$ é algo do tipo
+$$
+\hat{\beta}_{1} = \frac{Cov(X,Y)}{Var(X)}
+$$
+porém calculados para valores (covariância, variância) *populacionais*.
 
 ---
 ### References

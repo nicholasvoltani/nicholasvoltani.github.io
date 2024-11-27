@@ -22,11 +22,25 @@ up:: [[064 MOC Estatística em Economia]]
 - [[Distribuição de Poisson]]
 	- [[ANPEC Estatística 06 2022]]
 
+# [[Teste de Hipótese]]
+- [[ANPEC Estatística 08 2023]]
+- [[ANPEC Estatística 06 2024]]
+
 # Estimadores
 - [[Estimador Não-Enviesado]]:
 	- [[ANPEC Estatística 08 2022]]
 	- [[ANPEC Estatística 09 2023]]
 
+# Regressão
+- [[Regressão de Mínimos Quadrados Ordinária]]
+	- [[ANPEC Estatística 07 2025]]
+
+# Séries Temporais
+- [[Modelo Autorregressivo]]
+	- [[ANPEC Estatística 15 2022]]
+	- [[ANPEC Estatística 14 2023]]
+- [[Modelo de Médias Móveis]]
+	- [[ANPEC Estatística 14 2021]]
 
 ---
 ### References

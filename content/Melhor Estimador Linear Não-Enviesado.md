@@ -11,7 +11,7 @@ up:: [[Estimador Eficiente]]
 
 Um estimador eficiente é ditor ser o *melhor estimador **linear** não-enviesado* quando é eficiente[^1] e seja *função linear das observações*.
 
-O estimador da média amostral
+Por exemplo, o estimador da média
 $$
 \bar{X} = \sum \frac{X_{i}}{n}
 $$

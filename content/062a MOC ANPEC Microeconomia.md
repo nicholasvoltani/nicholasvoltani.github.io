@@ -27,6 +27,7 @@ up:: [[062 MOC Microeconomia]]
 # Concorrência de Mercado
 - [[Monopólio]]
 	- [[ANPEC Microeconomia 01 2024]]
+- [[ANPEC Microeconomia 01 2023]]
 
 # Loterias
 - [[Paradoxo de Allais]]

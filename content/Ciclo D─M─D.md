@@ -17,7 +17,7 @@ Trata-se da compra (D─M) e posteriormente da venda (M─D) de **uma mesma [[Me
 
 Porém, o ciclo D–M–D em si próprio é contraditório, pois não faz sentido que alguém compre algo para vendê-lo pelo mesmo preço – ou melhor, de que dê compre certo valor só para vendê-lo pelo mesmo valor. Ao mesmo tempo, no nível mais elementar, não faz sentido que a mera circulação de mercadorias seja geradora/acrescentadora de valor[^2].
 
-O ciclo D–M–D é a aparência imediata do [[Ciclo D─M─D']] que é a base do [[Processo de Produção Capitalista]]: a venda por um valor maior do que o da compra vem do uso de uma mercadoria específica – a [[Força de Trabalho]] – que permite a extração de [[Mais-valor]] (e, portanto, a venda por um **valor** de fato maior que o inicialmente possuído pelo capitalista).
+O ciclo D–M–D é a aparência imediata do [[Ciclo D─M─D']] que é a base do [[Processo de Produção Capitalista]]: a venda por um valor maior do que o da compra vem do uso de uma mercadoria específica – a [[Força de Trabalho]] – que permite a extração de [[Mais-Valor]] (e, portanto, a venda por um **valor** de fato maior que o inicialmente possuído pelo capitalista).
 
 ---
 ### Referências

@@ -11,7 +11,7 @@ tags:
 
 ## As partes da jornada de trabalho
 <!-- https://q.uiver.app/?q=WzAsMyxbMCwwLCJhIl0sWzMsMCwiYiJdLFs3LDAsImMiXSxbMCwxLCJ0X24iLDAseyJzdHlsZSI6eyJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzEsMiwidF9lIiwwLHsic3R5bGUiOnsiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dXQ== --> <iframe class="quiver-embed" src="https://q.uiver.app/?q=WzAsMyxbMCwwLCJhIl0sWzMsMCwiYiJdLFs3LDAsImMiXSxbMCwxLCJ0X24iLDAseyJzdHlsZSI6eyJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzEsMiwidF9lIiwwLHsic3R5bGUiOnsiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dXQ==&embed" width="600" height="176" style="border-radius: 8px; border: none;"></iframe>
-onde $t_n$ é o [[Tempo de Trabalho Socialmente Necessário|tempo necessário]] para ressarcir o [[Valor da força de trabalho]]
+onde $t_n$ é o [[Tempo de Trabalho Socialmente Necessário|tempo necessário]] para ressarcir o [[Valor da Força de Trabalho]]
 e $t_e$ é o [[Tempo Excedente de Trabalho|tempo excedente]], no qual se produz mais-valor.
 
 Portanto, o segmento $ab$ **não é uma grandeza fixa** (é uma grandeza **dada por condições históricas-sociais-culturais-biológicas**), podendo variar com
@@ -22,7 +22,7 @@ Tais "custos" da força de trabalho podem variar, e.g., conforme surjam mais nec
 
 > "Valor" da força de trabalho é o **tempo de trabalho (socialmente) necessário** para reproduzir as mercadorias necessárias para reconstituir a capacidade de trabalho diária do trabalhador empregado. 
 
-O segmento $bc$ é o período no qual o trabalhador trabalha **gratuitamente**, posto que só é pago por seu tempo necessário (que constitui o valor de sua FT). Tal segmento também não é uma grandeza fixa: pode mudar dependendo da capacidade/possibilidade do capitalista de colocar sua força de trabalho para trabalhar **[[Mais-valor Absoluto|tempo extra]]** ou **[[Mais-valor Relativo|aumentando sua produtividade/intensidade no trabalho]]**. 
+O segmento $bc$ é o período no qual o trabalhador trabalha **gratuitamente**, posto que só é pago por seu tempo necessário (que constitui o valor de sua FT). Tal segmento também não é uma grandeza fixa: pode mudar dependendo da capacidade/possibilidade do capitalista de colocar sua força de trabalho para trabalhar **[[Mais-Valor Absoluto|tempo extra]]** ou **[[Mais-Valor Relativo|aumentando sua produtividade/intensidade no trabalho]]**. 
 
 ## Limites da jornada de trabalho
 Tem-se que a jornada de trabalho é uma **grandeza variável** em absoluto. Qual é seu limite mínimo? E o limite máximo?

@@ -12,6 +12,13 @@ up:: [[061 MOC Macroeconomia]]
 	- [[Produto Interno Bruto Nominal]]
 	- [[Recessão]]
 - [[Renda Agregada]]
+	- [[Renda Privada Disponível]]
+	- [[Salário]]: remuneração por [[Força de Trabalho]]
+	- [[Função Receita|Receita]]: remuneração pelos bens/serviços vendidos
+	- *Juros*: remuneração financeira
+	- *Alugueis*: remuneração por usufruto alheio de capital / terra
+	- [[Renda Líquida Enviada ao Exterior]]
+	- [[Transferências Unilaterais]]
 	- [[Curva de Lorenz]]
 	- [[Coeficiente de Gini]]
 - [[Despesa Agregada]]
@@ -31,20 +38,13 @@ up:: [[061 MOC Macroeconomia]]
 	- $M$: [[Importações]]
 	- [[Termos de Troca]]
 
-# Variáveis Derivadas
+# Poupança
 - [[Poupança]]
 	- [[Poupança Privada]]
 	- [[Poupança do Governo]]
 	- [[Poupança Externa]]
 
----
-- [[Renda Privada Disponível]]
-	- [[Salário]]: remuneração por [[Força de Trabalho]]
-	- [[Função Receita|Receita]]: remuneração pelos bens/serviços vendidos
-	- *Juros*: remuneração financeira
-	- *Alugueis*: remuneração por usufruto alheio de capital / terra
-
----
+# Impostos & Transferências
 - [[Renda Líquida do Governo]]
 	- [[Impostos]]
 		- [[Impostos Diretos]]
@@ -54,11 +54,6 @@ up:: [[061 MOC Macroeconomia]]
 	-  [[Transferências]] (a famílias)
 	- [[Subsídios]] (a firmas)
 - [[Déficit Fiscal]]
-
----
-- [[Renda Líquida Enviada ao Exterior]]
-- [[Transferências Unilaterais]]
-
 
 
 ---

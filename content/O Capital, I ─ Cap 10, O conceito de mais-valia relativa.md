@@ -6,7 +6,7 @@ tags:
 ---
 # O Capital, I ─ Cap 10, O conceito de mais-valia relativa
 ## Objetivos
-* Compreender as formas possíveis de **ampliação de [[Mais-valor]]**
+* Compreender as formas possíveis de **ampliação de [[Mais-Valor]]**
 	* **Mais-valor absoluto**: prolongando jornada de trabalho
 	* **Mais-valor relativo**: aprimoramento **tecnológico** do processo produtivo
 
@@ -14,8 +14,8 @@ O **mais-valor relativo** se manifesta de duas formas:
 * Mais-valor relativo do **capitalista individual** (ou mais-valor **extra*)
 * Mais-valor relativo da **classe capitalista** (ou, por simplicidade, **mais-valor relativo**)
 
-## [[Mais-valor Absoluto]]
-O aumento da jornada de trabalho (mantendo-se o **[[Valor da força de trabalho]] constante**) induzirá um aumento do tempo de trabalho **excedente** e, portanto, aumentando a produção de mais-valor.
+## [[Mais-Valor Absoluto]]
+O aumento da jornada de trabalho (mantendo-se o **[[Valor da Força de Trabalho]] constante**) induzirá um aumento do tempo de trabalho **excedente** e, portanto, aumentando a produção de mais-valor.
 
 ## Limites do prolongamento da jornada de trabalho
 * Barreiras **físicas e morais** dos próprios trabalhadores
@@ -30,7 +30,7 @@ A tecnologia permite o **aumento da produtividade do trabalho** e, logo, do mais
 Note-se que há uma **redistribuição** do valor produzido durante a jornada entre $v_{FT}$ e $m$! 
 Mas como a redistribuição do valor v/m ocorre?
 
-## Mais-valor extra: [[Mais-valor Relativo]] do *capitalista individual*
+## Mais-valor extra: [[Mais-Valor Relativo]] do *capitalista individual*
 Maior produtividade implica maior produção no mesmo tempo anterior; portanto, o mais-valor extra busca a **redução do custo unitário da mercadoria produzida**, i.e. a redução do valor individual da mercadoria **frente ao valor social**.^[Imagine-se a produção têxtil durante o início da Revolução Industrial, onde máquinas conseguiam produzir MUITAS mercadorias em um dado período de tempo e, portanto, vendiam-nas a preços muitos menores que o de manufatureiros.]
 
 A mais-valia extra é a **diferença entre o valor social e o valor individual da [[Mercadoria]] da empresa**. Em termos temporais, é a diferença entre o tempo **socialmente necessário** e o tempo **reduzido pela inovação técnica**. É um mais-valor pois o capitalista pode vender sua mercadoria **pelo valor socialmente obtido**: ao invés de vender por um preço menor, ele pode vendê-la pelo preço comumente encontrado no mercado, e obterá um lucro (mais-valor) "extra".

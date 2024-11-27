@@ -9,7 +9,7 @@ aliases:
 # Capital Constante
 > "a parte do capital que se converte em **meios de produção**, isto é, em **matérias-primas, matérias auxiliares e meios de trabalho**, não altera sua grandeza de valor no processo de produção. Por essa razão, denomino-a parte **constante** do capital, ou, mais sucintamente: **capital constante**." (p. 286)
 
-É a parcela do [[Capital]] (ou seja, da relação social capitalista de produção de mercadorias) que se manifesta em componentes que **não produzem [[Mais-valor]]**, mas que meramente **transferem seu [[Valor]] próprio** à mercadoria que o consuma em seu [[Processo de Produção Capitalista|processo de produção]].
+É a parcela do [[Capital]] (ou seja, da relação social capitalista de produção de mercadorias) que se manifesta em componentes que **não produzem [[Mais-Valor]]**, mas que meramente **transferem seu [[Valor]] próprio** à mercadoria que o consuma em seu [[Processo de Produção Capitalista|processo de produção]].
 
 O capital constante é composto de
 - [[Matéria-Prima]]: são o que compõe a **materialidade/corporiedade** da mercadoria final (o qual é "ele próprio produto de um trabalho *anterior*")

@@ -15,7 +15,7 @@ Seis e meia. Atrasado como sempre. Chego no metrô. Estrumbado de gente, como se
 
 Sete horas. Estação Deodoro da Fonseca, no tempo esperado. Atrasado mesmo assim. Olho para onde meu olhar alcança, um raio de duas ou três pessoas de distância, e todos no celular – ao menos os que não têm seus braços presos ao corpo pela pressão antropostática desse mar de gente. Eu também estou no celular, mas às vezes não estou. Às vezes meus dedos puxam o vidro para cima por conta própria, e meu cérebro reage aos respectivos estímulos, mas não *estou* ali. Por vezes vejo meu corpo "estar" ali, como se eu estivesse vendo-o por detrás de uma vitrine. O que me traz de volta é ouvir as conversas de fundo. Coisas reais, sem filtros. Viver a vida por tabela.
 
-Oito horas. O trem vomita o mesmo volume de geleia humana que traga logo após. Nenhum desperdício respinga nos trilhos: até o trem tem pressa. Nado contra o fluxo que entra, e vazo para fora da estação Marechal Deodoro. 
+Oito horas. O trem vomita o mesmo volume de geleia humana que engole logo após. Nenhum desperdício respinga nos trilhos: até o trem tem pressa. Vou nadando contra o fluxo que entra, e vazo para fora da estação Marechal Deodoro. 
 
 Chego ao prédio às oito e vinte e sete. O expediente começa oito e vinte e oito. 
 

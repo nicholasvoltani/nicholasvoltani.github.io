@@ -94,7 +94,7 @@ Más notícias: tais forças já entraram em contradição com as relações soc
 
 O ser humano está ameaçado: 2/3 da população mundial está abaixo da linha da pobreza, 80% contém menos de 20% da riqueza do planeta. Há uma destruição sistemática da força de trabalho: desemprego, fome, miséria, doenças, extermínio sistemático. 
 
-A tecnologia é a mediação entre o homem e a natureza para a produção da vida; sob o capitalismo, ela é capturada pelo processo de valorização (potencialização da produção de [[Mais-valor Relativo|mais-valor]]). Logo, torna-se a serviço da produção acelerada; está a serviço da obsolescência planejada, e portanto está relacionada à destruição dos recursos naturais. 
+A tecnologia é a mediação entre o homem e a natureza para a produção da vida; sob o capitalismo, ela é capturada pelo processo de valorização (potencialização da produção de [[Mais-Valor Relativo|mais-valor]]). Logo, torna-se a serviço da produção acelerada; está a serviço da obsolescência planejada, e portanto está relacionada à destruição dos recursos naturais. 
 
 **Que fazer: organização das lutas cotidianas dos trabalhadores, a fim de que choquem-se contra a ordem vigente, e tomem consciência de que são sujeitos de uma transformação urgente e necessária na humanidade.**
 

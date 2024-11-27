@@ -43,7 +43,7 @@ No começo, porém, não há tanta modificação no **processo de [[Trabalho]] e
 	> "Mas produção de uma oficina para 20 pessoas custa menos trabalho do que a produção de 10 oficinas para 2 pessoas cada uma"
 	
 	2.2) **reduz o valor individual** da mercadoria, pois **otimiza** a utilização de **máquinas** (do ponto de vista **técnico** do trabalho), pois a mesma quantidade de **[[Depreciação]]** despendida em uma jornada de utilização da máquina é transferida para uma **maior quantidade de mercadorias**, logo o valor individual de cada mercadoria se reduz
-3) **Reduz falsos custos**: melhor definidos no livro II, são custos que, entrando ou não no preço, são **deduções do sobreproduto ([[Mais-valor]])** para a manutenção da outra parte do produto (**trabalho produtivo**). 
+3) **Reduz falsos custos**: melhor definidos no livro II, são custos que, entrando ou não no preço, são **deduções do sobreproduto ([[Mais-Valor]])** para a manutenção da outra parte do produto (**trabalho produtivo**). 
 	3.1) Custos puros de circulação (compra e venda, contabilidade, custos com produção de dinheiro) são deduzidos da **mais-valia**; tem impacto sobre a **taxa média de lucro**
 	3.2) Custos de manutenção das mercadorias **em estado de venda/estoque** acrescem o **preço** da mercadoria; representa uma redução do valor da mercadoria
 

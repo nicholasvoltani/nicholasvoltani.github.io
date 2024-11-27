@@ -18,4 +18,4 @@ Geralmente é associada à introdução de máquinas, automatização do trabalh
 ### References
 - GREMAUD, Amaury Patrick; VASCONCELLOS, Marco Antonio Sandoval de; TONETO JÚNIOR, Rudinei. **Economia brasileira contemporânea**. 2004. 7a edição.
 
-[^1]: Maior extração de [[Mais-valor Relativo]], no contexto do [[Processo de Produção Capitalista]].
+[^1]: Maior extração de [[Mais-Valor Relativo]], no contexto do [[Processo de Produção Capitalista]].

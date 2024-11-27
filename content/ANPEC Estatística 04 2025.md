@@ -16,8 +16,8 @@ $$
 \begin{align}
 P(D_{1}=1, D_{2}=1, D_{3}=0, D_{4}=0) &=  \\
 P(D_{1}=1)  \\
-\times P(D_{2}=1 \mid D_{1}=1) \cdot \\
-\times P(D_{3}=0) \mid D_{1}=1, D_{2}=1) \\
+\times P(D_{2}=1 \mid D_{1}=1)  \\
+\times P(D_{3}=0 \mid D_{1}=1, D_{2}=1) \\
 \times P(D_{4}=0 \mid D_{3}=0, D_{1}=1, D_{2}=1) \\
 =\frac{4}{10} \frac{3}{9} \frac{6}{8} \frac{5}{7}
 \end{align}
@@ -36,4 +36,4 @@ $$
 Portanto, a resposta é $42$.
 
 
-[^1]: Ou, equivalentemente, poderíamos ter $P(D_{1}=1, D_{2}=1, E_1=1, E_2=1)$, onde $D_{i}=0 \iff E_{i}=1$. Isso ajuda a ver por que o fator é, em particular, $4 \choose{2}$: pois, numa amostra de $4$ indivíduos, queremos que $2$ sejam desempregados – e, portanto, que os restantes sejam não-desempregados.
+[^1]: Ou, equivalentemente, poderíamos ter $P(D_{1}=1, D_{2}=1, E_1=1, E_2=1)$, onde $D_{i}=0 \iff E_{i}=1$. Isso ajuda a ver por que o fator é, em particular, $4 \choose{2}$: pois, numa amostra de $4$ indivíduos, queremos que $2$ sejam desempregados – e, portanto, que os restantes destes 4 sejam não-desempregados.

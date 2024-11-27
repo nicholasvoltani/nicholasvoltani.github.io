@@ -17,7 +17,7 @@ up::
 O resumo da ópera:
 > "Qualquer capitalista sabe que, para não falir, a finalidade fundamental do empreendimento deve ser o reinvestimento – em essência, *a finalidade do empreedimento é o empreendimento*." (de Oliveira, p. 73)
 
-Há uma óbvia relação com a noção de que [[Capital]] só é capital quando é gerador de [[Mais-valor]].
+Há uma óbvia relação com a noção de que [[Capital]] só é capital quando é gerador de [[Mais-Valor]].
 
 Há uma relação clara com [[Formas de objetividade e de subjetividade capitalistas (Monografia Lukács)]], com a noção de que noções subjetivas sejam também "integradas em sistemas especiais e racionais e reconduzidas ao conceito calculador" (Lukács, p. 202).
 

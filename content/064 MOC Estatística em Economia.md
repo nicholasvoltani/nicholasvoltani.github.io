@@ -38,12 +38,6 @@ child:: [[064a MOC ANPEC Estatística]]
 - INPC: [[Índice Nacional de Preços ao Consumidor]]
 - IPCA: [[Índice Nacional de Preços ao Consumidor Amplo]]
 - IPC-FIPE
-
-# Modelos de Regressão
-- [[Modelo Autorregressivo]]
-- [[Regressão de Mínimos Quadrados Ordinária]]
-- [[Mínimos Quadrados em Dois Estágios]] (MQ2)
-
 # Estimadores
 - [[Estimador Não-Enviesado]]
 	- [[Viés de Estimação]]
@@ -58,6 +52,17 @@ child:: [[064a MOC ANPEC Estatística]]
 # Teste de Hipótese
 - [[Teste de Hipótese]]
 	- [[Nível de Significância]]
+	- [[Erro do Tipo II]]
+
+# Regressão
+- [[Regressão de Mínimos Quadrados Ordinária]] (MQO)
+- [[Regressão Linear Múltipla]]
+
+# Séries Temporais
+- [[Série Temporal (Fracamente) Estacionária]]
+- [[Modelo Autorregressivo]]
+- [[Modelo de Médias Móveis]]
+
 
 
 ---

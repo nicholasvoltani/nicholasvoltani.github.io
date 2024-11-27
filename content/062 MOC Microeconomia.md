@@ -86,6 +86,7 @@ child:: [[062a MOC ANPEC Microeconomia]]
 
 ## Referências
 - VARIAN, Hal. **Microeconomia**: uma abordagem moderna. 9 ed. Elsevier, 2015.
+- VASCONCELLOS, Marco Antonio Sandoval de. **Economia: micro e macro**. 6 ed.
 - [MIT 14.01 Principles of Microeconomics, Fall 2018 - MIT OpenCourseWare (Jonathan Gruber)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-)
 - [MIT 14.04 Intermediate Microeconomic Theory, Fall 2020 - MIT OpenCourseWare (Robert Townsend)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63wnrKge9vllow3Y2OOOKqF)
 - [Iniciação Científica: Introdução à Economia Matemática (2022) - IMPA (Campo Elias)](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTjttEZI1t-7aVeFuMYkZuI)

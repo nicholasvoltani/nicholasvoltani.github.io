@@ -25,7 +25,7 @@ Portanto, massa de mais-valor é o **volume total** de mais-valia produzido pelo
 ## Qual é o objetivo do capitalista?
 R: Auferir a **maior massa possível de mais-valia**. Como ele pode fazê-lo?
 
-* Diminuir o [[Tempo de Trabalho Socialmente Necessário]] $t_n$/diminuindo o [[Valor da força de trabalho]]: Pode fazê-lo abaixando seu salário, mas descartamos tal possibilidade por ora, devido ao [[Princípio da Troca de Equivalentes]]. 
+* Diminuir o [[Tempo de Trabalho Socialmente Necessário]] $t_n$/diminuindo o [[Valor da Força de Trabalho]]: Pode fazê-lo abaixando seu salário, mas descartamos tal possibilidade por ora, devido ao [[Princípio da Troca de Equivalentes]]. 
 * Aumentar o [[Tempo Excedente de Trabalho]] $t_e$: como estamos assumindo que se mantém o tempo necessário (para que se pague necessariamente o valor da força de trabalho), assumimos que aumentar a [[Jornada de Trabalho]] $\iff$ aumentar o tempo excedente
 * Aumentando o [[Capital Variável]] $v_f \cdot n_t$: aumentando o número de trabalhadores mas mantendo o resto constante
 * Aumentando a taxa de mais valia $m = \frac{t_e}{t_n}$, mantendo tudo o mais constante
@@ -35,8 +35,8 @@ R: Auferir a **maior massa possível de mais-valia**. Como ele pode fazê-lo?
 * Diminuindo $n_t$ de trabalhadores, mas aumentando a taxa de mais valia $m'$
 
 ## Existe limite para aumento de $M_m$?
-Há um aumento pelo **[[Mais-valor Absoluto|prolongamento da jornada de trabalho]]**, limitado pela jornada de trabalho **legal**. 
-Também há uma outra forma de aumentá-la sem incrementar a jornada de trabalho, através do **[[Mais-valor Relativo|aumento da produtividade do trabalho]]**. 
+Há um aumento pelo **[[Mais-Valor Absoluto|prolongamento da jornada de trabalho]]**, limitado pela jornada de trabalho **legal**. 
+Também há uma outra forma de aumentá-la sem incrementar a jornada de trabalho, através do **[[Mais-Valor Relativo|aumento da produtividade do trabalho]]**. 
 
 ---
 ### Referências

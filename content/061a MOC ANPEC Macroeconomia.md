@@ -9,7 +9,7 @@ up:: [[061 MOC Macroeconomia]]
 
 # [[061b MOC Contabilidade Nacional]]
 - [[Deflator Implícito]]
-	- [[ANPEC Macroeconomia 09 2024]]
+	- [[ANPEC Macroeconomia 09 2025]]
 
 # [[061c MOC Teoria da Moeda]]
 - [[Política Monetária|Políticas Monetárias]]
@@ -20,6 +20,14 @@ up:: [[061 MOC Macroeconomia]]
 - [[ANPEC Macroeconomia 01 2025]]
 - [[Curva de Phillips]] / [[Lei de Okun]]
 	- [[ANPEC Macroeconomia 10 2024]]
+
+# Equilíbrio de Curto Prazo: IS-LM(-BP)
+- [[Modelo IS-LM]]
+	- 
+- [[Modelo Mundell-Fleming]]
+	- [[ANPEC Macroeconomia 03 2024]]
+	- [[ANPEC Macroeconomia 09 2024]]
+	- [[ANPEC Macroeconomia 11 2022]]
 
 # Crescimento Econômico
 - [[Modelo de Solow]]

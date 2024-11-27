@@ -37,7 +37,7 @@ $$
 \end{align}
 $$
 ## O efeito da acumulação sobre a força de trabalho
-A [[Mais-valor|mais-valia]] reinvestida a cada ciclo de produção do capital divide-se em *meios de produção* e *força de trabalho* conforme as **condições técnicas vigentes**, i.e. conforme a necessidade de força humana para por em movimento os meios de produção, i.e., **conforme a composição orgânica do capital**. 
+A [[Mais-Valor|mais-valia]] reinvestida a cada ciclo de produção do capital divide-se em *meios de produção* e *força de trabalho* conforme as **condições técnicas vigentes**, i.e. conforme a necessidade de força humana para por em movimento os meios de produção, i.e., **conforme a composição orgânica do capital**. 
 
 ### Primeiro caso: composição constante do capital
 A composição orgânica do capital se manter **constante** quer dizer que **o capital investido em meios de produção e força de trabalho *se mantém em proporções iguais ao longo do tempo***.  
@@ -82,7 +82,7 @@ Note-se que, para que a composição orgânica $\frac{c}{v}$ aumente com o tempo
 - *aumento de $c$ em maior proporção que aumento de $v$* (mais comum): mais meios de produção disponíveis, com aumento em menor proporção de força de trabalho (ou seja, a força de trabalho acaba sendo mais capaz de operar tais meios de produção que previamente)
 
 Note-se, portanto, que tais processos de acumulação do capital **induzem mudanças na produtividade do trabalho**:
-- Há um aumento da mais-valia pela via **extra** e **[[Mais-valor Relativo]]** (intensificação do trabalho)
+- Há um aumento da mais-valia pela via **extra** e **[[Mais-Valor Relativo]]** (intensificação do trabalho)
 - **Torna supérflua uma parte da força de trabalho** conforme menos trabalhadores são tão capazes (ou mais) quanto uma quantidade prévia; isso induz ao surgimento do **exército industrial de reserva** (também chamado de **superpopulação relativa**, "relativa" às necessidades do capital)
 
  Logo, nesses casos em que há **aumento da acumulação capitalista**, temos que **os salários são regulados pelo exército industrial de reserva**! 

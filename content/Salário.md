@@ -5,7 +5,7 @@ tags:
   - marxism
 ---
 # Salário
-O salário de um trabalhador é a manifestação do [[Valor da força de trabalho|valor de sua força de trabalho]] **quando posto no mercado**. 
+O salário de um trabalhador é a manifestação do [[Valor da Força de Trabalho|valor de sua força de trabalho]] **quando posto no mercado**. 
 
 Ou seja, o salário de um trabalhador não necessariamente condiz exatamente com o [[Preço da força de trabalho|preço de sua força de trabalho]] (ou seja, com a forma monetária do valor de sua força de trabalho). 
 * Caso haja uma oferta baixa desse trabalho, seu salário poderá ser maior que seu preço; 

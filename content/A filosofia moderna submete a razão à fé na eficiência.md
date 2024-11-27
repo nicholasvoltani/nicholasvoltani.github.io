@@ -20,5 +20,5 @@ Nas sociedades de capitalismo tardio, tal submissão é levada a extremos. A fil
 - DE OLIVEIRA, Pedro Rocha. **Discurso filosófico da acumulação primitiva: estudo sobre as origens do pensamento moderno**. Editora Elefante, 2024.
 - SÊNECA, Lucius Annaeus et al. *Da felicidade*. In: **Da tranquilidade da alma**. Porto Alegre: L&PM, 2009.
 
-[^1]: E isso, no contexto capitalista, acaba traduzindo-se numa maior extração de [[Mais-valor Relativo]].
+[^1]: E isso, no contexto capitalista, acaba traduzindo-se numa maior extração de [[Mais-Valor Relativo]].
 [^2]: "Virtude" é uma palavra tão dúbia que é facilmente cooptável nos dias de hoje.
