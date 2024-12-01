@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "nicholasvoltani.github.io",
     ignorePatterns: ["private", "templates", ".obsidian", "Templates/"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
