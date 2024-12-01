@@ -102,5 +102,6 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 - BLANCHARD, Olivier; JOHNSON, David. R.. **Macroeconomics**. Pearson, 6 ed., 2013.
 - VASCONCELLOS, Marco Antonio Sandoval de. **Economia: micro e macro**. 6 ed.
 - [Economics - CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO). Excelente e extremamente útil para ver o *big picture* que eu preciso ter para a ANPEC, apesar de ter me mostrado o quão burguesa a disciplina de Economia é, no estado atual das coisas.
+- SNOWDON, Brian; VANE, Howard R. **Modern macroeconomics: its origins, development and current state**. Edward Elgar Publishing, 2005.
 - [Material de Apoio da disciplina "A Conjuntura Econômica no Tempo", FEA-USP, 2016](https://drive.google.com/drive/folders/0B2CaEohUstylWU9la1lFX0Y0WDg?resourcekey=0-JaUy9WtrYGtUayDCjOfaFA)
 - [edisciplinas.usp.br/pluginfile.php/7737599/mod\_resource/content/0/Capítulo 9 - Do curto ao médio prazo - o modelo IS-LM-PC.pdf](https://edisciplinas.usp.br/pluginfile.php/7737599/mod_resource/content/0/Cap%C3%ADtulo%209%20-%20Do%20curto%20ao%20m%C3%A9dio%20prazo%20-%20o%20modelo%20IS-LM-PC.pdf)
