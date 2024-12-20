@@ -35,5 +35,5 @@ Tal produção de mais-valor está associada à *circulação* somente porquanto
 - MARX, Karl. **O Capital. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
 - GRESPAN, Jorge. **Marx: uma introdução**. Boitempo Editorial, 2021.
 
-[^1]: Seja por formas cada vez mais sofisticadas, como submetendo a força de trabalho a [[Cooperação]], [[Divisão do Trabalho]] e, por fim, subordinação a máquinas.
+[^1]: Seja por formas cada vez mais sofisticadas, como submetendo a força de trabalho a [[Cooperação]], [[Manufatura]] e, por fim, subordinação à [[Maquinaria]].
 [^2]: I.e. os trabalhadores que vendem suas capacidades como a [[Mercadoria]] "[[Força de Trabalho]]".

@@ -12,6 +12,25 @@ up:: [[index]]
 > So a website with a link that says '**now**' goes to a page that tells you **what this person is focused on at this point in their life.** For short, we call it a 'now page'." (Derek Sivers, in [nownownow.com](https://nownownow.com/about))
 
 # 2024
+## December 2024
+Studying Economics to try bridging the gap of my knowledge when I begin my Master's. I know there'll be things that I will need to learn anyways, but it's good to have less things on my plate.
+
+**Interesting content of the month**:
+- [AI is not Designed for You - No Boilerplate](https://www.youtube.com/watch?v=6Lxk9NMeWHg)
+	- I already wrote about this hype phenomenon, in Portuguese, in [[Uma visão etnográfica da Faria Lima ─ Sobre o hype de mercado e o mercado do hype]] 
+	- Also, in Substack, same text, but... well, the same audience reach (none): [Sobre o hype de mercado e o mercado do hype ─ Visão Etnográfica da Faria Lima](https://nicholasvoltani.substack.com/p/sobre-o-hype-de-mercado-e-o-mercado)
+
+
+## November 2024
+I was essentially busy due to studying Economics for next year's entrance exam, until... I was accepted. I'll begin my Master's in Economics in 2025!!! At least *something* came out right this year.
+
+Not much else going on, aside from studying, and rushing to finish reading Capital I until the end of the year. I stopped writing in Substack for a while, since there was no one reading it anyways. Why bother? I do have around 10 drafts to publish someday, though. Eventually.
+
+**Interesting content of the month** (a month late):
+- [I Gave My Goldfish $50,000 to Trade Stocks - Michael Reeves](https://www.youtube.com/watch?v=USKD3vPD6ZA&list=FL4FadyyYjS5Uwh3RBqxjQlw) 
+- [I built an Ai Comedy Bot, but he kept getting depressed - DougDoug](https://www.youtube.com/watch?v=V_fcD2ewqk4&list=FL4FadyyYjS5Uwh3RBqxjQlw) – this is perfection. We all love you, JokeBot!
+- [The Work of Art in the Age of Surveillance Capitalism - Brendan Morris](https://www.youtube.com/watch?v=aNKiBJJFXZI&list=FL4FadyyYjS5Uwh3RBqxjQlw) and his other videos, extremely creative videomaking
+
 ## October 2024
 **Interesting content of the month**:
 - [Why billionaires should be ILLEGAL - The Market Exit](https://www.youtube.com/watch?v=cu1kYmRIJ4U): Elucidating of the scale of how rich our billionaire overlords truly are, and nice to see some concrete ideas on how to think about limits to wealth. Of course it's not a definitive answer, but it's a neat start for this whole debate.

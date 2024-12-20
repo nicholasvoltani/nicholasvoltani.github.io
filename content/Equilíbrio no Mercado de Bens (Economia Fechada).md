@@ -27,7 +27,7 @@ $$
 Y = \frac{1}{1-c_{1}}(c_{0} -c_{1}T + I + G)
 $$
 
-O fator $\frac{1}{1-c_{1}}$ é o chamado [[Multiplicador keynesiano]].
+O fator $\frac{1}{1-c_{1}}$ é o chamado [[Multiplicador Keynesiano]].
 
 # Cálculo através do modelo IS (investimento = poupança)
 Através da chamada [[Curva IS]], podemos também chegar no resultado acima.

@@ -26,7 +26,7 @@ Resultado final: gerar um **organismo de produção**, cujos órgãos são seres
 ### Definição: [[Divisão do Trabalho]] (Cf. Cap 1 da Riqueza das Nações de Smith)
 Decomposição de uma atividade **complexa** em diversas atividades (mais) **simples**, de forma que estas possam ser realizadas de forma sistemática e quase ininterrupta por um trabalhador específico (o qual concentra seus esforços nessa única atividade, e desenvolve maior **destreza**/maestria nela, economizando tempo de trabalho). Por exemplo, a troca dos meios de produção empregados nas diferentes atividades constituintes de um mesmo ofício complexo acaba por ser um dispêndio improdutivo de tempo.
 
-## O [[Trabalhador Parcial]] e sua ferramenta
+## O trabalhador parcial e sua ferramenta
 É o trabalhador que se especializa em **apenas uma etapa** de seu processo de [[Trabalho]]. Historicamente, é o artesão de outrora, que se incumbia totalmente de seu ofício, e que passa a ser empregado ([[Força de Trabalho|assalariado]]) para fazer somente uma etapa do processo que outrora fazia completamente. 
 
 Neste processo, o trabalhador torna-se **mais produtivo** (em relação a um artífice autônomo), por desempenhar somente uma única operação **simples**. 
@@ -39,7 +39,7 @@ A cada trabalho simples específico, acabam por se desenvolverem **ferramentas**
 
 > "A manufatura cria uma das condições materiais da maquinaria: **a combinação de instrumentos simples**."
 
-## [[Trabalhador Coletivo]]
+## Trabalhador coletivo
 A soma de vários trabalhadores parciais **unilaterais**, os quais são postos para trabalhar de maneira **independente mas sequencial**. 
 
 Contudo, ainda é um trabalhador que se concentra na **produção de um produto**. O administrador, por exemplo, não faz parte do trabalhador coletivo; porém, inclui-se o **gerente da produção**, posto que ele relaciona-se diretamente com o processo de produção, quais [[Meios de Produção]] são empregados e de maneira adequada, como eles são fornecidos e distribuídos, o local onde se trabalha, e que portanto acaba produzindo [[Mais-Valor]]. 

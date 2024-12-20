@@ -39,7 +39,7 @@ E não é à toa que seja tão fácil "deixar a política no cabide de entrada" 
 
 "*Por outro lado, a continuidade de um trabalho uniforme aniquila a força tensional e impulsiva dos espíritos vitais, que encontram na própria mudança de atividade seu descanso e estímulo.*" (MARX, p. 415)
 
-"*O hábito de exercer uma função unilateral transforma o trabalhoador parcial em órgão natural – e de atuação segura – dessa função, ao mesmo tempo que sua conexão com o mecanismo total o compele a operar com a regularidade de uma peça de máquina.*" (MARX, p. 423)
+"*O hábito de exercer uma função unilateral transforma o trabalhador parcial em órgão natural – e de atuação segura – dessa função, ao mesmo tempo que sua conexão com o mecanismo total o compele a operar com a regularidade de uma peça de máquina.*" (MARX, p. 423)
 
 > "Enquanto a cooperação simples deixa praticamente intocado o modo de trabalho dos indivíduos, a manufatura o revoluciona desde seus fundamentos e se apodera da força individual de trabalho em suas raízes. Ela aleija o trabalhador, converte-o numa aberração, promovendo artificialmente sua habilidade detalhista por meio da repressão de um mundo de impulsos e capacidades produtivas" (MARX, p. 434)
 

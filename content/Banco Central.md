@@ -16,7 +16,7 @@ Ele é o **banco dos bancos**, isto é, é de sua responsabilidade manter a esta
 Ele é responsável por guardar parte do dinheiro dos bancos privados ([[Reservas Compulsórias]] no mínimo), fornecer [[Operações de Redesconto]], auxiliar na liquidez de bancos, etc.
 
 ## 2) Estoque de reservas internacionais do país
-É responsável por manter um estoque de moedas estrangeiras, a fim de permitir sua intervenção nas [[Taxa de Câmbio]].
+É responsável por manter um estoque de moedas estrangeiras, a fim de permitir sua intervenção nas [[Taxa de Câmbio]] caso haja [[Regime de Câmbio Fixo]].
 
 ## 3) Banco do governo
 É o banqueiro oficial do [[Tesouro Nacional]]: recebe depósitos do Tesouro e pode conceder-lhe empréstimos.

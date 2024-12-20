@@ -183,7 +183,7 @@ Fonte: [aula 10 ec brasileira PROANPEC 2020 milagre v1/2 - YouTube](https://yout
 Fonte: [aula 10 ec brasileira PROANPEC 2020 milagre v1/2 - YouTube](https://youtu.be/DEtAb4MlAcc?list=PLjS6FkCID3JVWybnF3Bo4Nq7ssZi54G8u&t=1934)
 
 ![[Pasted image 20240912161854.png]]
-Endividamento externo é excessivo com relação às contas internas = restam reservas (demais). Tomadas de empréstimos principalmente de **empresas privadas**, assim como **capital direto** (investimento externo direto - IED).
+Endividamento externo é excessivo com relação às contas internas = restam reservas (demais). Tomadas de empréstimos principalmente de **empresas privadas**, assim como **capital direto** ([[Investimento Direto Estrangeiro|Investimento Estrangeiro Direto]] - IED).
 
 ## Principais fontes de crescimento
 **Bens duráveis de consumo** (expansão de crédito ao consumidor) e **construção civil** (infraestrutura por investimentos públicos e expansão de crédito do SFH, casas "populares"). 

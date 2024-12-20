@@ -8,10 +8,11 @@ aliases:
 up:: [[Política Monetária]]
 
 ![[Pasted image 20240808114920.png]]
+Fonte: BLANCHARD. Tirado de: [Lecture 6: IS-LM, continued - YouTube](https://youtu.be/gYgARXwnZTk?list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQxkb&t=1690)[^3]
 
 > "*There is the possibility… that, after the rate of interest has fallen to a certain level, liquidity-preference may become virtually absolute in the sense that almost everyone prefers cash to holding a debt which yields so low a rate of interest. In this event the monetary authority would have lost effective control over the rate of interest.*" (Keynes)
 
-Um cenário de "armadilha de liquidez" ocorre quando prefere-se guardar dinheiro líquido ao invés de ativos, pois ao menos ele permite a liquidação de dívidas.
+Um cenário de "armadilha de liquidez" ocorre quando prefere-se guardar dinheiro líquido ao invés de ativos, pois ao menos ele permite a liquidação de dívidas. Cessou o motivo de se guardar riqueza na forma de ativos, que era de "rendimentos futuros".
 
 Usualmente, armadilhas de liquidez ocorrem em cenários em que as [[Taxa de Juros]] (nominais) são essencialmente $0\%$: ou seja, o público torna-se indiferente entre manter dinheiro líquido[^1] ou convertê-lo em algum ativo (e, portanto, prefere mantê-lo em dinheiro).
 
@@ -26,3 +27,4 @@ Nestes cenários, políticas monetárias cessam de ter efeito sobre a mudança d
 
 [^1]: Que pode ser visto como um ativo a $0\%$ de juros: ele não rende nada, é "estanque", imóvel, imutável.
 [^2]: Aqui há um *trade-off*, de certa forma: sob armadilha de liquidez, perde-se a possibilidade de se operar com [[Política Monetária|Políticas Monetárias]], que têm efeito mais rápido sobre a economia, restando o "trabalho diligente" de ter de interferir na economia através de políticas fiscais, que são mais vagarosas em surtir efeito.
+[^3]: 241202: A imagem essencialmente mostra a ideia de [[Operações de Open Market]] (ativos de *curto* prazo), em que o aumento da oferta de dinheiro ($M^s$) não é suficiente para induzir crescimento econômico $Y$ – em verdade, nem é questão de suficiência: simplesmente não é efetivo. 

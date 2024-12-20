@@ -292,6 +292,7 @@ PS: Para quem tenha caído de paraquedas em toda essa diatribe, saiba que eu (ao
 [^14]: Sobre minha relação com a militância jovem: *I know it's part of the process, but **Jesus Christ** it hurts*.
 [^15]: Coitados dos pesquisadores de gravitação quântica, fazendo das tripas coração.
 [^16]: HEGEL, Georg Wilhelm Friedrich. **A razão na história**. Ed. Leya, 2013, p. 34. Infelizmente o Jorge Grespan se aposentou, então suas incríveis aulas de Teoria da História ficarão nas lembranças de quem pôde vê-las.
+241219: As aulas de Teoria da História do Grespan estão disponíveis no YouTube!!! [Teoria da História I](https://www.youtube.com/playlist?list=PLAfr9k0S3nKkuAA0GbynB9j7WTAd1lLP7) e [Teoria da História II](https://www.youtube.com/playlist?list=PLAfr9k0S3nKk5nkiVqN3KmZjUUX3NpNcx). **POGGERS** 
 [^17]: Dá pra se argumentar que Engenharia surgiu puramente devido ao desenvolvimento do Capital, mas enfim, não tenho opinião formada disso.
 [^18]: Ok, Cálculo é uma forma satisfatória pela qual descrevemos o **concreto no pensamento**, caso queira ser tão pedante.
 [^19]: Para os marxistas que amam Thomas More e sua Utopia, saibam que ele tinha um pelourinho em sua propriedade – e que a Utopia que ele descreve parece ser um inferno na Terra, em verdade! Novamente, leiam "Discurso Filosófico da Acumulação Primitiva".

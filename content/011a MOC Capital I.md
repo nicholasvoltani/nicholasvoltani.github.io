@@ -57,10 +57,9 @@ up:: [[011 MOC Marx]]
 	- [[Manufatura]]
 		- [[Fichamento Capital I Cap 11 - Manufatura]]
 	- [[Divisão do Trabalho]]
-	- [[Trabalhador Parcial]]
 	- [[Surgimento da alienação]]
-	- [[Trabalhador Coletivo]]
 - [[O Capital, I ─ Cap 13, Maquinaria e Grande Indústria]]
+	- [[Fichamento Capital I Cap 13 - Maquinaria e Grande Indústria]]
 	- [[Maquinaria]]
 - [[O Capital, I ─ Cap 17, 18, 19; Sobre o salário]]
 	- [[Preço da força de trabalho]]
@@ -83,3 +82,4 @@ up:: [[011 MOC Marx]]
 ## Referências
 - MARX, Karl. **O Capital. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
 - [Leituras d'O Capital (UFPR) - Livro I](https://www.youtube.com/@leiturasdocapital/videos)
+- DE ARAUJO, Paulo Henrique Furtado. Dissolução dos laços sociais mediados pelo valor: crise estrutural da sociedade do capital e o fim do seu processo civilizatório. **Revista da Sociedade Brasileira de Economia Política**, p. 133-166, 2024.

@@ -75,7 +75,7 @@ Crise de 1929 é momento de transição de [[Economia Agroexportadora|Modelo Pri
 **Peláez** indica duas vertentes que Furtado usa para analisar a superação dessa crise pelo Brasil:
 1) Vertente da Manutenção (da renda e da demanda): 
 	- Em 1931, Vargas acaba criando uma defesa do café, pelo seu peso na economia doméstica: estocagem de parte da produção, e **quotas de sacrifício**/queima de café. Ideia de queimar cerca de 1/3 de todo o café produzido anualmente, em média. Em 1937, queima-se **70% de todo café produzido** ([[Produto Agregado|PIB]] do Brasil volta a crescer em 1933/1934, provavelmente plantios dão frutos em 1937...). 
-	- Financiamento por crédito doméstico (heterodoxo): Política Keynesiana Anticíclica[^4], com objetivo de manter [[Renda Agregada]] (Nominal), [[Despesa Agregada|Demanda Agregada]] e nível de trabalho (diminuir efeitos [[Multiplicador keynesiano|Multiplicador]]es negativos sobre a economia)
+	- Financiamento por crédito doméstico (heterodoxo): Política Keynesiana Anticíclica[^4], com objetivo de manter [[Renda Agregada]] (Nominal), [[Despesa Agregada|Demanda Agregada]] e nível de trabalho (diminuir efeitos [[Multiplicador Keynesiano|Multiplicador]]es negativos sobre a economia)
 1) Vertente do Deslocamento (da demanda):
 	- Para ajustar [[Balanço de Pagamentos]], e ao fim da [[Caixa de Estabilização (1927)]], volta o [[Regime de Câmbio Flutuante]], e opera-se [[Desvalorização Cambial]] **real**[^5]: o poder de compra de produtos estrangeiros diminui de fato, e isso reduziu [[Importações]]
 	- Com a manutenção da demanda e encarecimento dos produtos externos, há um deslocamento para consumo (e produção) de produtos domésticos: [[Substituição das Importações]]

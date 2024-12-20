@@ -42,7 +42,7 @@ Há "dois Brasis":
 1) Exportador: moderno, dinâmico, produtivo
 2) De subsistência: atrasado, estagnado, baixa produtividade
 
-A relação entre ambos depende das relações de produção, da interconexão entre ambos. No período colonial/pré-república, a economia de subsistência tinha algum fôlego a mais quando a economia exportadora possuía algum ímpeto maior, i.e. via efeito [[Multiplicador keynesiano|Multiplicador]].
+A relação entre ambos depende das relações de produção, da interconexão entre ambos. No período colonial/pré-república, a economia de subsistência tinha algum fôlego a mais quando a economia exportadora possuía algum ímpeto maior, i.e. via efeito [[Multiplicador Keynesiano|Multiplicador]].
 
 [[A economia brasileira de subsistência era peça acoplada à economia exportadora colonial]]
 

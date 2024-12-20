@@ -16,4 +16,4 @@ A curva LM, do inglês *liquidity money*, ocorre quando a demanda total de moeda
 ---
 ### References
 - BLANCHARD, Olivier; JOHNSON, David. R.. **Macroeconomics**. Pearson, 6 ed., 2013.
-- **LOPES**, Luiz Martins et al. Manual de macroeconomia: nível básico e nível intermediário. 1997.
+- LOPES, Luiz Martins et al. **Manual de macroeconomia: nível básico e nível intermediário**. 1997.

@@ -32,5 +32,5 @@ Tal processo incorpora em si o que Marx chama de [[Processo de Trabalho]] e [[Pr
 - [[O Capital, I ─ Cap 5, O processo de trabalho e o processo de valorização]]
 
 [^1]: Pois [[Todo valor é um valor de uso, mas nem todo valor de uso é um valor]].
-[^2]: Porque (pensando em termos cotidianos de preço) é uma estratégia domin*ante* vender um produto por um preço abaixo de seus competidores/preço médio, e uma estratégia domin*ada*, vendê-los por um preço acima da média de mercado (ignorando diferenças qualitativas de produtos).
+[^2]: Porque (pensando em termos cotidianos de preço) é uma [[Estratégia Dominada|Estratégia Dominante]] vender um produto por um preço abaixo de seus competidores/preço médio, e uma estratégia domin*ada*, vendê-los por um preço acima da média de mercado (ignorando diferenças qualitativas de produtos).
 [^3]: E, dentro do contexto de produção capitalista, gera o próprio valor da mercadoria (ao menos sob [[Princípio da Troca de Equivalentes]]), i.e. valor dos [[Meios de Produção]] e [[Força de Trabalho]] empregados.

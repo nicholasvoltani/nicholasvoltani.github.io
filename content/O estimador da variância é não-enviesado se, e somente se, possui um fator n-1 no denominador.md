@@ -16,7 +16,7 @@ $$
 # Demonstração
 Tomando o valor esperado do estimador acima e abrindo a fórmula, temos que isso é igual a 
 $$
-\frac{1}{n-1}\left( \sum\limits_{i=1}^{n}\mathbb{E}(X_{i}^{2}) - n \mathbb{E}(\bar{X}^{2}) \right)
+\frac{1}{n-1}\left( \sum\limits_{i=1}^{n}\mathbb{E}(X_{i}^{2}) - n \mathbb{E}(\bar{X})^{2} \right)
 $$
 
 Como temos que a variância é $Var(X_{i}) = \mathbb{E}(X_{i}^{2}) - \mathbb{E}(X_{i})^{2}$, e os $X_{i}$'s são i.i.d., temos que o primeiro termo é $n(\sigma^{2} + \mu^{2})$.

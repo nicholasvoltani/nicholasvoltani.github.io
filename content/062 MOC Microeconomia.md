@@ -25,6 +25,7 @@ child:: [[062a MOC ANPEC Microeconomia]]
 # Problema de Otimização da Firma
 ## 1) Minimização do Custo
 - [[Função Produção]]
+	- [[Retorno de Escala]]
 	- [[Produto Marginal do Trabalho]]
 	- [[Isoquanta]]
 	- [[Taxa Marginal de Substituição Técnica]]

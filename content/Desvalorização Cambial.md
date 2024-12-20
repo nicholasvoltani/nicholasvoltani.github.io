@@ -3,11 +3,12 @@ date: " 2024-09-04"
 tags:
   - economics
 aliases:
+  - Depreciação Cambial
 ---
 
 up:: [[Taxa de Câmbio]]
 
-A desvalorização cambial ocorre quando a [[Taxa de Câmbio]] diminui. Isso favorece [[Exportações]] (preços menores, mais competitivo internacionalmente) e desfavorece [[Importações]] (preços internacionais mais caros comparados com nossos).
+A desvalorização cambial ocorre quando a [[Taxa de Câmbio]] diminui, isto é, quando a moeda doméstica compra *menos* moeda estrangeira. Isso favorece [[Exportações]] (preços menores, mais competitivo internacionalmente) e desfavorece [[Importações]] (preços internacionais mais caros comparados com nossos). Sob [[Condição de Marshall-Lerner]], as [[Exportações Líquidas]] aumentam conforme há depreciação cambial.
 
 Lembrando a [[Paridade Coberta das Taxas de Juros]], temos que
 $$
@@ -15,9 +16,9 @@ E = E^{e} \frac{1+i}{1+i^{*}}
 $$
 onde $E$ é a [[Taxa Nominal de Câmbio]], $E^{e}$ é a taxa nominal *esperada* de câmbio (p. ex. em um momento futuro), $i$ é a [[Taxa Nominal de Juros]] *doméstica* e $i^{*}$ é a taxa nominal de juros *estrangeiro*[^1]. 
 
-Em [[Regime de Câmbio Fixo]], uma desvalorização cambial pode se dar tanto pela mudança do câmbio em si quanto pelas mudanças das taxas de juros de ambas. Por exemplo, caso as taxas de juros domésticas diminuam, para que prevalece a paridade coberta das taxas de juros – i.e. para que os retornos de ativos domésticos e externos permaneçam iguais –, é necessário que o câmbio caia também: com a moeda local tendo menor valor, estrangeiros podem comprar mais com suas moedas estrangeiras, podendo compensar essa queda em juros por mais ativos comprados.
+Em [[Regime de Câmbio Flutuante]], uma desvalorização cambial pode se dar tanto pela mudança do câmbio em si quanto pelas mudanças das taxas de juros de ambas. Por exemplo, caso as taxas de juros domésticas diminuam, para que prevaleça a paridade coberta das taxas de juros – i.e. para que os retornos de ativos domésticos e externos permaneçam iguais –, é necessário que o câmbio caia também: com a moeda local tendo menor valor, estrangeiros podem comprar mais com suas moedas estrangeiras, podendo compensar essa queda em juros por mais ativos comprados.
 
-Em [[Regime de Câmbio Flutuante]], a taxa de câmbio local é fixada, e pela paridade coberta de taxas de juros, tem-se que
+Em [[Regime de Câmbio Fixo]], a taxa de câmbio local é fixada, e pela paridade coberta de taxas de juros, tem-se que
 $$
 i = i^{*}
 $$
