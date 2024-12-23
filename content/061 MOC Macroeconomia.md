@@ -13,14 +13,8 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 # [[061b MOC Contabilidade Nacional]]
 # [[061c MOC Teoria da Moeda]]
 
-# Variáveis Agregadas
+## Leis e Paradoxos
 - [[Lei de Say]]
-- [[Balanço de Pagamentos]]
-	- [[Conta Corrente]]
-		- [[Balança Comercial]]
-		- [[Transferências Unilaterais]] 
-	- [[Conta Capital e Financeira]]
-		- [[Investimento Direto Estrangeiro]]
 - [[Paradoxo da Parcimônia]]
 - [[Armadilha da Liquidez]]
 
@@ -101,7 +95,7 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 	- Tomadas de decisão por *informação imperfeita* / [[Assimetria de Informação]]
 
 ## Teoria Novo-Keynesiana (e.g. Mankiw, Blanchard, Krugman)
-- Imperfeições de informação fazem com que preços e salários sejam "viscosos", desacelerando os processos de equilibração de oferta e demanda
+- Imperfeições de informação fazem com que preços e salários sejam "viscosos" (*sticky*), desacelerando os processos de equilibração de oferta e demanda
 	- Tais imperfeições e *lags* podem mesmo gerar choques econômicos – ciclos econômicos
 
 
@@ -113,6 +107,5 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 - SNOWDON, Brian; VANE, Howard R. **Modern macroeconomics: its origins, development and current state**. Edward Elgar Publishing, 2005.
 - [MIT 14.02 Principles of Macroeconomics, Spring 2023 - Ricardo Caballero](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQxkb)
 - [Material de Apoio da disciplina "A Conjuntura Econômica no Tempo", FEA-USP, 2016](https://drive.google.com/drive/folders/0B2CaEohUstylWU9la1lFX0Y0WDg?resourcekey=0-JaUy9WtrYGtUayDCjOfaFA)
-- [Introdução à Macroeconomia - YouTube](https://www.youtube.com/playlist?list=PLT4EcyyDiDfs7KbIdVLwsxmld3yo9S1FW)
-- [edisciplinas.usp.br/pluginfile.php/7737599/mod\_resource/content/0/Capítulo 9 - Do curto ao médio prazo - o modelo IS-LM-PC.pdf](https://edisciplinas.usp.br/pluginfile.php/7737599/mod_resource/content/0/Cap%C3%ADtulo%209%20-%20Do%20curto%20ao%20m%C3%A9dio%20prazo%20-%20o%20modelo%20IS-LM-PC.pdf)
+- [Introdução à Macroeconomia - YouTube](https://www.youtube.com/playlist?list=PLT4EcyyDiDfs7KbIdVLwsxmld3yo9S1FW) (deixe em 1.5x para cima)
 - [Economics - CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO). Excelente e extremamente útil para ver o *big picture* que eu preciso ter para a ANPEC, apesar de ter me mostrado o quão burguesa a disciplina de Economia é, no estado atual das coisas.
