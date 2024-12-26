@@ -4,10 +4,12 @@
  * $desktop: screen width above this value will use desktop styles
  * Screen width between $mobile and $desktop width will use the tablet layout.
  * assuming mobile < desktop
+ * 
+ * Changed desktop breakpoint to 12000px, to make desktop's layout default to tablet's (to drop rightside sidebar to below Body)
  */
 $breakpoints: (
   mobile: 800px,
-  desktop: 1200px,
+  desktop: 12000px,
 );
 
 $mobile: "(max-width: #{map-get($breakpoints, mobile)})";
