@@ -19,10 +19,15 @@ Studying Economics to try bridging the gap of my knowledge when I begin my Maste
 - [AI is not Designed for You - No Boilerplate](https://www.youtube.com/watch?v=6Lxk9NMeWHg)
 	- I already wrote about this hype phenomenon, in Portuguese, in [[Uma visão etnográfica da Faria Lima ─ Sobre o hype de mercado e o mercado do hype]] 
 	- Also, in Substack, same text, but... well, the same audience reach (none): [Sobre o hype de mercado e o mercado do hype ─ Visão Etnográfica da Faria Lima](https://nicholasvoltani.substack.com/p/sobre-o-hype-de-mercado-e-o-mercado)
+- [On the Heights of Despair - Horses](https://www.youtube.com/watch?v=DNGXsbZHMMI&list=WL&index=5&pp=gAQBiAQB)
+- [You Don’t Understand How Language Works - Fractal Philosophy](https://www.youtube.com/watch?v=wE8GTZ6YaZ8&list=WL&index=8&pp=gAQBiAQB)
+- [how does an indie game get made? - Noodle](https://www.youtube.com/watch?v=69Ukg2BqIk0) – note that "getting made" did not mean *getting funded/being published*. It's a very bittersweet and entertaining story about a game that never was
+- [Realism is Bad, Actually - Zoe Bee](https://www.youtube.com/watch?v=QNDgOSPCVhQ&list=LL&index=4&pp=gAQBiAQB)
+- [Monthly Review | The Social Dialectics of AI](https://monthlyreview.org/2024/11/01/the-social-dialectics-of-ai/?utm_source=pocket_saves) by Pietro Daniel Omodeo. Fascinating marxist read on AI, I'll definitely keep the book "*The Eye of the Master: A Social History of Artificial Intelligence*" in mind to read in the future
 
 
 ## November 2024
-I was essentially busy due to studying Economics for next year's entrance exam, until... I was accepted. I'll begin my Master's in Economics in 2025!!! At least *something* came out right this year.
+I was essentially busy due to studying Economics for next year's entrance exam, until... **I was accepted**! I'll begin my Master's in Economics in 2025!!! At least *something* came out right this year.
 
 Not much else going on, aside from studying, and rushing to finish reading Capital I until the end of the year. I stopped writing in Substack for a while, since there was no one reading it anyways. Why bother? I do have around 10 drafts to publish someday, though. Eventually.
 
