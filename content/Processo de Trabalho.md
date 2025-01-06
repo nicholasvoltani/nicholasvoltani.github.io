@@ -10,7 +10,7 @@ aliases:
 
 up:: [[Processo de Produção Capitalista]]
 
-> "Os momentos simples do processo de trabalho são, em primeiro lugar, a *atividade orientada a um fim*, ou o *trabalho* propriamente dito; em segundo lugar, seu *objeto* e, em terceiro lugar, seus *meios*." (p. 256; grifo meu)
+> "Os momentos simples do processo de trabalho são, em primeiro lugar, a *atividade orientada a um fim*, ou o *trabalho* propriamente dito; em segundo lugar, seu *objeto* e, em terceiro lugar, seus *meios*." (MARX, p. 256; grifo meu)
 
 O processo de trabalho diz respeito à própria atividade humana que busca a mediação da natureza a fim de satisfazer suas necessidades naturais: o [[Trabalho]]. 
 
@@ -21,7 +21,7 @@ Tal processo possui três fatores relevantes:
 
 ## O sujeito do trabalho: o homem
 > "No final do processo de trabalho [do homem], chega-se a um resultado que *já estava presente na representação do trabalhador* no início do processo, ou seja, um resultado que já existia *idealmente*" 
-> (**O Capital**, p. 256)
+> (MARX, p. 256)
 
 Embora animais também interajam com a natureza de forma a **criar** [[Valor de Uso|valores de uso]] para si próprios, eles (até onde sabemos) não o fazem de maneira **deliberada**: fazem-no de maneira instintiva (por instinto, ou feromônios etc), enquanto o homem trabalha **tendo em mente** o resultado final antes dele ser executado efetivamente.
 

@@ -2,8 +2,10 @@
 date: "2024-05-25"
 tags:
   - marxism
+  - languages/deutsch 
 ---
-up:: 
+
+up:: [[091 MOC Deutsch]]
 
 # Einleitendes (Sobre a introdução)
 > *Nicht nur* hat er vor euch Anschauungen entwickelt, die, wie er weiß, in der Arbeiterklasse **äußerst unpopulär** sind; er hat diese Anschauungen auch öffentlich **vertreten**, wie er glaubt – im Interesse der Arbeiterklasse.

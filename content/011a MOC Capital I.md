@@ -6,6 +6,7 @@ tags:
 # MOC Capital I
 up:: [[011 MOC Marx]]
 
+> "A economia política clássica chega muito próximo à verdadeira relação das coisas, porém sem formulá-la conscientemente. Ela não poderá fazê-lo enquanto estiver coberta com sua pele burguesa." (MARX, p. 612)
 ## Tópicos
 - [[Mercadoria]]
 - [[Valor de Uso]]
@@ -25,6 +26,8 @@ up:: [[011 MOC Marx]]
 	- [[Processo de Produção Capitalista]]
 		- [[Processo de Trabalho]]
 			- [[Trabalho]]
+				- [[Trabalho Produtivo]]
+				- [[O trabalho em si não é uma mercadoria]]
 			- [[Metabolismo social]]
 			- [[Meios de Produção]]
 			- [[Matéria-Prima]]
@@ -53,16 +56,16 @@ up:: [[011 MOC Marx]]
 - ~~[[O Capital, I ─ Cap 11, Cooperação]]~~
 	- [[Cooperação]]
 		- [[Fichamento Capital I Cap 11 - Cooperação]]
-- [[O Capital, I ─ Cap 12, Divisão do Trabalho e Manufatura]]
+- ~~[[O Capital, I ─ Cap 12, Divisão do Trabalho e Manufatura]]~~
 	- [[Manufatura]]
 		- [[Fichamento Capital I Cap 11 - Manufatura]]
 	- [[Divisão do Trabalho]]
 	- [[Surgimento da alienação]]
-- [[O Capital, I ─ Cap 13, Maquinaria e Grande Indústria]]
+- ~~[[O Capital, I ─ Cap 13, Maquinaria e Grande Indústria]]~~
 	- [[Fichamento Capital I Cap 13 - Maquinaria e Grande Indústria]]
 	- [[Maquinaria]]
 - [[O Capital, I ─ Cap 17, 18, 19; Sobre o salário]]
-	- [[Preço da força de trabalho]]
+	- [[Preço da Força de Trabalho]]
 	- [[Trabalho Assalariado]] (mencionado em [[Economia Agroexportadora]])
 	- [[Salário]]
 		- [[O salário como forma mistificada do valor da força de trabalho]]

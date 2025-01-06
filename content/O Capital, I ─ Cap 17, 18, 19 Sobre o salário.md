@@ -36,7 +36,7 @@ Portanto, como ficaria o valor e o preço *da força de trabalho*?
 
 Logo, o que vem a ser o salário da força de trabalho **não é somente composto pelo custo de mera subsistência**! Inclui também os custos **sociais** de recomposição da força de trabalho.
 
-### [[Preço da força de trabalho]] ($p_f$)
+### [[Preço da Força de Trabalho]] ($p_f$)
 É a **expressão monetária** do **valor** da força de trabalho. 
 
 ### [[Salário]]

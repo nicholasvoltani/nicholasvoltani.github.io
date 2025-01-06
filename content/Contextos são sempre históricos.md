@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
  
-up::
+up:: [[Knowledge]]
 
 Como todas as atividades humanas tendem a possuir uma continuidade de suas tradições, tem-se que a apreensão de seus objetos de estudo sempre se dá mediante algum contexto histórico. É por isso que [[Saber não necessariamente é compreender]].
 

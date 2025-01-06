@@ -14,6 +14,8 @@ Enquanto o [[Valor da Força de Trabalho]] é o [[Valor]] gerado durante o [[Tem
 Ou seja, é um excedente que é apropriado pelo capitalista durante o processo de produção de [[Mercadoria|Mercadorias]], após pagamento da [[Força de Trabalho]]. Em outras palavras, é uma espécie de "trabalho grátis" que é apropriado pelo capitalista[^1], posto que o pagamento dos meios de subsistência do trabalhador já são compensados em menos tempo do que a jornada de trabalho inteira. 
 
 # Obtenção de mais-valor
+> "O capital, portanto, não é apenas o comando sobre o trabalho, como diz A. Smit. Ele é, em sua essência, o comando sobre o trabalho não pago. Todo mais-valor, qualquer que seja a forma particular em que ele mais tarde se cristalize, como o lucro, a renda etc., é, com relação à sua *substância*, *a materialização* [*Materiatur*] *de tempo de trabalho não pago*. O segredo da autovalorização do capital se resolve no fato de que este pode dispor de uma determinada quantidade de trabalho alheio não pago." (MARX, p. 602; grifo meu)
+
 Há duas formas de se obter mais-valor: a extensão do mais-trabalho (mediante trabalho socialmente necessário constante), pelo qual obtém-se o que Marx chama de [[Mais-Valor Absoluto]], e o aumento da proporção de mais-trabalho com relação ao trabalho socialmente necessário (mediante [[Jornada de Trabalho]] constante), pelo qual obtém-se o que Marx chama de [[Mais-Valor Relativo]].
 
 Os limites físicos e socio-políticos ao mero aumento da jornada de trabalho induzem o capitalista a obter "o que lhe é de direito" de outras formas, aumentando sua produtividade por inovações técnicas/tecnológicas, levando aos regimes de [[Cooperação]], [[Manufatura]] e, por fim, [[Maquinaria]], no qual o [[Capital]] subsume o trabalhador em seu processo.

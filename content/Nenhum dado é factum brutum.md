@@ -11,7 +11,7 @@ aliases:
 
 Não importa o quão "despojada de comentário" seja um colhimento de dados, tal ato sempre possuirá alguma teoria ou método implícito. 
 
-Isso se dá devido à relação [[Hegel ─ Dialética|dialética]] sujeito-objeto: não existem *facti bruti*, aos quais incutimos significado; o fato de serem "dados", de serem ob-jetos para nós, já implica em que foram apreendidos por alguma teoria nossa, i.e. de que foram **abstraídos de seu contexto original** a fim de serem considerados "sob uma nova ótica". 
+Isso se dá devido à relação [[Hegel ─ Dialética|dialética]] sujeito-objeto: não existem *facti bruti*, aos quais incutimos significado; o fato de serem "dados", de serem ob-jetos para nós, já implica em que foram apreendidos por alguma teoria nossa, i.e. de que foram **abstraídos de seu contexto original** a fim de serem considerados "sob uma nova ótica".[^1]
 
 23/07/2022: A realidade simplesmente **é**; ela não é palavras, ela não é números, portanto a atribuição destes para a qualificação da natureza já é algo que traz implícito um desenvolvimento histórico-filosófico e um aparato metodológico de apreensão da realidade (os gregos faziam-no de maneira distinta que os cientistas pós-revolução cartesiana passaram a fazer). 
 
@@ -24,3 +24,6 @@ O método científico, no qual a natureza é abstraída a números e conceitos a
 ---
 ### Referências
 - Lukács, G. **O que é marxismo ortodoxo?**. In: *História e Consciência de Classe*. Martins Fontes, 2003. 
+- [Immediate Knowledge and Absolute Knowing - by Lee Watkins](https://philosophiclee.substack.com/p/immediate-knowledge-and-absolute)
+
+[^1]: **241228**: "The whole truth is there in the object, you say. But you talk as if you were not there also, taking the scene in. The reality is that the truth emerges from a relationship between you _and_ the object. And like most relationships, it builds gradually until you are certain of it. When you claim the object 'immediately' gives up its truth, you are denying the work you had already done, consciously or not, over the course of seconds or years, before you were able to glean the truth of the object." [Immediate Knowledge and Absolute Knowing - by Lee Watkins](https://philosophiclee.substack.com/p/immediate-knowledge-and-absolute). 
