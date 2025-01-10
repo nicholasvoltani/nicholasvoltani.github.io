@@ -58,7 +58,7 @@ up:: [[011 MOC Marx]]
 		- [[Fichamento Capital I Cap 11 - Cooperação]]
 - ~~[[O Capital, I ─ Cap 12, Divisão do Trabalho e Manufatura]]~~
 	- [[Manufatura]]
-		- [[Fichamento Capital I Cap 11 - Manufatura]]
+		- [[Fichamento Capital I Cap 12 - Manufatura]]
 	- [[Divisão do Trabalho]]
 	- [[Surgimento da alienação]]
 - ~~[[O Capital, I ─ Cap 13, Maquinaria e Grande Indústria]]~~

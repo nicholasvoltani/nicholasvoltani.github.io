@@ -42,10 +42,24 @@ Dessa forma, pagar suas "últimas horas" de trabalho com o mesmo preço das "pri
 
 Porém, isso tudo é uma *bastardização* da noção de jornada de trabalho: a própria "jornada normal de trabalho", sem "horas extras", já contém [[Tempo Excedente de Trabalho]], sempre. Se não fosse o caso, nenhuma empresa que trabalhasse nas condições normais de trabalho conseguiria gerar [[Mais-Valor]].
 
+# Os preços do trabalho dependem da quantidade de trabalhadores *efetivos*
+> "Se um homem executa o trabalho de 1½ ou de 2 homens, a oferta de trabalho aumenta, ainda que permaneça constante a oferta de forças de trabalho que se acham no mercado. A concorrência que assim se produz entre os trabalhadores permite ao capitalista comprimir o preço do trabalho, enquanto, por outro lado, o preço decrescente do trabalho lhe permite aumentar ainda mais o tempo de trabalho." (MARX, p. 618-9)
+
+Ou seja, no caso em que os trabalhadores são capazes de trabalhar por mais de um — fato ocasionado, por exemplo, com a [[Manufatura]] e especialmente com a [[Maquinaria]] —, *efetivamente* tem-se uma oferta maior de mão-de-obra no mercado, pois, ao invés de "ver", p. ex., 5 possíveis trabalhadores, o capitalista "vê" 10, 12, 15 trabalhadores *efetivos*. Dessa forma, interessa-lhe contratar uma quantidade menor de indivíduos, i.e. a oferta de trabalho está excedente à demanda do capital, portanto induzindo uma queda no preço da força de trabalho.
+
+Dessa forma, encontra-se espaço para acumular "margens", i.e. dinheiro extra, que pode ou ser reinvestido, ou "queimado" no ato de diminuição do preço da mercadoria para fazer frente à concorrência[^4].
+
+# "[[Mesmo que todos os capitalistas fossem perfeitamente éticos, ainda assim ocorreria a extração de mais-valor]]" (GRESPAN, p. 39)
+> "O capitalista não sabe que também o preço normal do trabalho encerra determinada quantidade de trabalho não pago e que precisamente esse trabalho não pago é a fonte normal de seu lucro. A categoria de tempo de mais-trabalho não existe de modo algum para ele, pois esse tempo está incluído na jornada normal de trabalho que ele acredita pagar quando paga o salário diário. Mas o que existe bem para ele é, sim, o tempo extraordinário, o prolongamento da jornada de trabalho além do limite correspondente ao preço usual do trabalho. Diante de seu concorrente, que vende abaixo do preço de custo, ele defende até mesmo um pagamento extra (*extra pay*) por esse tempo excedente. Ele não sabe, uma vez mais, que nesse pagamento extra também está incluído o trabalho não pago, assim como o preço da hora usual de trabalho." (MARX, p. 620)
+
+Ou seja, o salário ofuscou a noção de [[Tempo de Trabalho Socialmente Necessário]], onde crê-se piamente que a jornada de trabalho é paga integralmente, de que não há hora de trabalho que não foi ressarcida — ao menos com o capitalista fazendo seu papel "honestamente". 
+
 ---
 ### Referências
 - MARX, Karl. **O Capital. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
+- GRESPAN, Jorge. **Marx: uma introdução**. Boitempo Editorial, 2021.
 
 [^1]: Assumindo [[Princípio da Troca de Equivalentes]]? Pois o [[Preço da Força de Trabalho]] pode desviar devido a demanda e oferta.
 [^2]: Evidentemente, caso tal jornada de trabalho excessiva normalize-se, eventualmente o próprio $J$ aumentará, cancelando o efeito compensatório de $\Delta T$, abaixando o salário efetivamente pago aos trabalhadores. Esta é a história do avanço da [[Maquinaria]], essencialmente.
 [^3]: A mesma coisa ocorre com o [[Salário por peça]], mais perversa.
+[^4]: Pois ele estará produzindo "*at a loss*", onde o valor da mercadoria é menor do que o valor consumido para produzi-la. "Faz-se necessário" suprir tal perda de outro lugar.

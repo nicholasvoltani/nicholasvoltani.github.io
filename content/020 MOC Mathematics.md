@@ -36,7 +36,7 @@ up:: [[index]]
 - [[026 MOC Topology]]
 - [[027 MOC Calculus]]
 - [[028 MOC Category Theory]]
-- [[202208042121 Intro to Umbral Calculus]]
+- [[Introduction to Umbral Calculus]]
 
 # References
 - [Notas para um Curso de Física-Matemática, João Carlos Alves Barata. Cap. 01](http://denebola.if.usp.br/~jbarata/Notas_de_aula/arquivos/nc-cap01.pdf)

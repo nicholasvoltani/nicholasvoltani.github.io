@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[011a MOC Capital I]] // [[Fichamento Capital I Cap 11 - Manufatura]]
+up:: [[011a MOC Capital I]] // [[Fichamento Capital I Cap 12 - Manufatura]]
 
  > "O modo de surgimento da manufatura, sua formação a partir do artesanato, é, portanto, duplo. Por um lado, ela parte da *combinação* de ofícios autônomos e diversos, que são *privados de sua autonomia* e unilateralizados até se converterem em *meras operações parciais e mutuamente complementares* no processo de produção de uma única e mesma mercadoria. Por outro lado, ela parte da cooperação de artesãos do mesmo tipo, *decompõe* o mesmo ofício individual em suas diversas operações particulares, isolando-as e autonomizando-as até que cada uma delas se torne uma função exclusiva de um trabalhador específico. Por um lado, portanto, a manufatura introduz a *divisão do trabalho* num processo de produção, ou desenvolve a divisão do trabalho já existente; por outro, ela *combina* ofícios que até então eram separados. Mas seja qual for seu ponto de partida particular, sua configuração final é a mesma: *um mecanismo de produção, cujos órgãos são seres humanos*." (MARX, p. 413; grifo meu)
 

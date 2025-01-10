@@ -11,9 +11,24 @@ up:: [[index]]
 > 
 > So a website with a link that says '**now**' goes to a page that tells you **what this person is focused on at this point in their life.** For short, we call it a 'now page'." (Derek Sivers, in [nownownow.com](https://nownownow.com/about))
 
+
+# 2025
+## January 2025
+I've begun studying German — again! Hope this time it works! I have a lot of content now to immerse myself in it though, so hope it helps. I also have a clearer goal in mind: I have to reach B2 until my PhD, if I want to do it in Germany (they require B2), but I want/feel like I can reach it in 2025, with enough immersion and perseverance.
+
+I also intend on writing 50 posts in Substack until the end of the year. Let's see how it goes...
+
+**Interesting content of the month**:
+- [Exposing the Honey Influencer Scam - MegaLag](https://youtu.be/vc4yL3YTwWk?si=TRLj0BwpBRyMn-NJ) — a **scandal**!!!
+- [When teenagers run virtual democracies - Trolligarch](https://www.youtube.com/watch?v=ZhFH8pi6Jdo) — fascinating view on virtual democracies and on power dynamics, even in these (seemingly) innocuous places
+	- [How one man faked a Discord "democracy" for over 3 years – Averra Dossier - Trolligarch](https://www.youtube.com/watch?v=RItD1vKUMWg) — this is so *absurd*, that someone would go to such lengths for an *artificial system of power*... but, then again, I've seen stuff like this in Marxist militance youth circles, so...
+- [Victor Wooten 2016 Commencement Speaker for the University of Vermont Rubenstein School - YouTube](https://youtu.be/o_3u41KI57E?si=3i4HQeFIKnre1Vdk) — **BEAUTIFUL** speech/bass performance!!!
+  
 # 2024
 ## December 2024
 Studying Economics to try bridging the gap of my knowledge when I begin my Master's. I know there'll be things that I will need to learn anyways, but it's good to have less things on my plate.
+
+Also, I finished reading *Das Kapital I* from cover to cover!! Great feeling! Doesn't mean I understand it completely — it's a book I'll read and reread until I die —, but it does give me a more hollistic view of the book, and will help me with reading the others. It already helped me a lot with understanding when authors mention things from it. 
 
 **Interesting content of the month**:
 - [AI is not Designed for You - No Boilerplate](https://www.youtube.com/watch?v=6Lxk9NMeWHg)
@@ -24,7 +39,6 @@ Studying Economics to try bridging the gap of my knowledge when I begin my Maste
 - [how does an indie game get made? - Noodle](https://www.youtube.com/watch?v=69Ukg2BqIk0) – note that "getting made" did not mean *getting funded/being published*. It's a very bittersweet and entertaining story about a game that never was
 - [Realism is Bad, Actually - Zoe Bee](https://www.youtube.com/watch?v=QNDgOSPCVhQ&list=LL&index=4&pp=gAQBiAQB)
 - [Monthly Review | The Social Dialectics of AI](https://monthlyreview.org/2024/11/01/the-social-dialectics-of-ai/?utm_source=pocket_saves) by Pietro Daniel Omodeo. Fascinating marxist read on AI, I'll definitely keep the book "*The Eye of the Master: A Social History of Artificial Intelligence*" in mind to read in the future
-
 
 ## November 2024
 I was essentially busy due to studying Economics for next year's entrance exam, until... **I was accepted**! I'll begin my Master's in Economics in 2025!!! At least *something* came out right this year.

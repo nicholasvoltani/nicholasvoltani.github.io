@@ -219,7 +219,7 @@ Quando possuo algo que fica "entalado na garganta", eu me coloco a escrever para
 
 Alguns dos pontos de crítica trazidos são os seguintes.
 ## 1) A discussão sobre "experimentos" em Ciências
-Houve uma fala sobre algo do tipo de que "experimetos são uma manifestação fetichista da visão da realidade", quase como se fosse um "pulo lógico" extrapolar leis universais através de resultados tão particulares e "artificiais", posto que são tão "sanitizados" e até distantes do que "realmente" acontece no mundo real.
+Houve uma fala sobre algo do tipo de que "experimentos são uma manifestação fetichista da visão da realidade", quase como se fosse um "pulo lógico" extrapolar leis universais através de resultados tão particulares e "artificiais", posto que são tão "sanitizados" e até distantes do que "realmente" acontece no mundo real.
 
 Ora, se for assim, então joguemos a filosofia grega inteira fora. Não é como se eles só olhassem pro mundo platônico das ideias! Como pode que um cabra conseguiu [medir o raio da Terra com duas varetinhas](https://pt.wikipedia.org/wiki/Erat%C3%B3stenes#A_medida_da_circunfer%C3%AAncia_da_Terra)!? Como pode que um cara [usou a água da banheira pra saber se uma coroa era de ouro ou prata](http://www.if.ufrgs.br/gpef/modelagem/hipermidia/Arquimedes_e_a_Coroa_do_Rei_files/guia_arquimedes.pdf)!? 
 
@@ -227,6 +227,13 @@ O tempo inteiro nós, cientistas ou leigos, temos uma hipótese implícita em no
 > "O físico observa processos naturais, em que eles aparecem mais nitidamente e menos obscurecidos por influências perturbadoras ou, **quando possível, realiza experimentos em condições que asseguram o transcurso puro do processo**." (MARX, 2013, p. 78 [Prefácio da primeira edição]; grifo meu)
 
 Pensar que as Ciências Exatas são mais suscetíveis ao pecado de serem enviesadas "só porque" dependem de experimentos isolados é adotar uma visão bem não-materialista: sem ter o pé no chão material, o sonho da razão produz monstros.
+
+### Adendo 250107
+> "Nas ciências da natureza, os cientistas contam, todavia, com um procedimento que contribui muito para o isolamento de categorias e relações de causa e efeito: a atividade experimental. Caso se pretenda apreender a importância epistemológica e mesmo a razão de ser da atividade experimental, deve-se salientar que o cientista produz um ambiente artificial com o propósito de 'isolar' uma parte da realidade, *impedindo assim a ação de determinadas forças e reduzindo o papel do acaso*. A criação do ambiente experimental é particularmente importante para que uma determinada lei, cuja manifestação é obstada" (i.e. impedida) "por outras determinações do mundo, exiba seu poder causal empiricamente. Constitui-se, assim, uma experiência diferenciada, que deve ser passível de reprodução para que o experimento tenha importância epistemológica" (MEDEIROS & BONENTE, p. 88; grifo meu)
+
+...ao que adicionam logo numa nota de rodapé com o experimento usual de tampar uma vela acesa com um copo, para verificar que ela se apaga depois de um tempo. "Notem, por fim, que uma sequência regular entre dois eventos (evento *A*: cobre-se a vela acesa com um copo; evento *B*: a chama cessa após um decurso de tempo) é, portanto, *criada pelo sujeito que conduz o experimento*, mas não aquilo cuja existência o experimento permite revelar: o oxigênio" (ibid., destaque no original).
+
+Ou seja, a ideia de um experimento é, em última instância, a determinação de *como alguma lei específica afeta algum dado fenômeno* — não de que o fenômeno estudado é afetado *exclusivamente* por esta lei! A experimentação nas ciências exatas sempre têm, implicitamente, a hipótese de totalidade concreta em que seus fenômenos de estudo jazem.
 
 ## 2) Ciência $\neq$ Tecnociência
 Em Ciências Humanas, parece-me que falar "da Ciência" assume um claro valor de juízo duplo: quando incluem-se nessa "Ciência", ela aparece como algo *bom*, variada e abrangente, interessante e até importante para a sociedade; quando excluem-se dela, ela torna-se ideológica, destrutiva, abreviam palavras e chamam-na diretamente de *capitalista*. 
@@ -273,8 +280,9 @@ PS: Para quem tenha caído de paraquedas em toda essa diatribe, saiba que eu (ao
 ## Referências do posfácio
 - MARX, Karl. **O capital-Livro 1: Crítica da economia política. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
 - MARX, Karl. **Grundrisse: manuscritos econômicos de 1857-1858: esboços da crítica da economia política**. Boitempo Editorial, 2015. Disponível em: [https://files.cercomp.ufg.br/weby/up/208/o/Karl\_Marx\_-\_Grundrisse\_(boitempo)\_completo.pdf](https://files.cercomp.ufg.br/weby/up/208/o/Karl_Marx_-_Grundrisse_(boitempo)_completo.pdf).
-- DE OLIVEIRA, Pedro Rocha. **Discurso filosófico da acumulação primitiva: estudo sobre as origens do pensamento moderno**. Editora Elefante, 2024.
+- OLIVEIRA, Pedro Rocha de. **Discurso filosófico da acumulação primitiva: estudo sobre as origens do pensamento moderno**. Editora Elefante, 2024.
 - FREIRE, Paulo. **Princípios do Trabalho Popular**. In: **Trabalho de Base (Seleção de roteiros organizados pelo Cepis)**, Ranolfo Peluso (org.), Expressão Popular, 2012. Disponível em: [https://www.novacultura.info/post/2022/08/19/paulo-freire-principios-do-trabalho-popular](https://www.novacultura.info/post/2022/08/19/paulo-freire-principios-do-trabalho-popular)
+-  MEDEIROS, João Leonardo; BONENTE, Bianca Imbiriba. **Marx e a crítica da economia política: considerações metodológicas**. In: MEDEIROS, João Leonardo; BARRETO, Eduardo Sá (Org.). **Para que leiam O capital: interpretações sobre o Livro I**. Usina Editorial, 2021.
 
 [^1]: Leia-se: "conforme $x$ tende a $0$".
 [^2]: A quem interesse: a animação foi feita com o pacote Manim, do Python, em particular o Manim *Community*. Para os códigos que utilizei, conferir [GitHub - nicholasvoltani/Manimations](https://github.com/nicholasvoltani/Manimations).
