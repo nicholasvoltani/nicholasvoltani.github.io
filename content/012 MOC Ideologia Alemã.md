@@ -3,7 +3,7 @@ date: 2022-07-23
 tags:
   - moc 
 ---
-up:: [[011 MOC Marx]]
+up:: [[011 MOC Capital]]
 
 ## Tópicos
 - [[Caracterização das ideologias idealistas]]

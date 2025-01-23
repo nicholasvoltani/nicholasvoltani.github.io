@@ -40,7 +40,7 @@ Ou seja: o desgaste do trabalhador não é algo linear no tempo, mas agrava-se t
 
 Dessa forma, pagar suas "últimas horas" de trabalho com o mesmo preço das "primeiras horas" é esdrúxulo; esta é a justificação (burguesa) das *horas extras* e de seu pagamento maior.
 
-Porém, isso tudo é uma *bastardização* da noção de jornada de trabalho: a própria "jornada normal de trabalho", sem "horas extras", já contém [[Tempo Excedente de Trabalho]], sempre. Se não fosse o caso, nenhuma empresa que trabalhasse nas condições normais de trabalho conseguiria gerar [[Mais-Valor]].
+Porém, isso tudo é uma *bastardização* da noção de jornada de trabalho: a própria "jornada normal de trabalho", sem "horas extras", já contém [[Tempo Excedente de Trabalho]], sempre. Se não fosse o caso, nenhuma empresa que trabalhasse nas condições normais de trabalho conseguiria gerar [[Mais-Valor]]. [[A forma-salário mistifica a relação de valor do trabalho assalariado]].
 
 # Os preços do trabalho dependem da quantidade de trabalhadores *efetivos*
 > "Se um homem executa o trabalho de 1½ ou de 2 homens, a oferta de trabalho aumenta, ainda que permaneça constante a oferta de forças de trabalho que se acham no mercado. A concorrência que assim se produz entre os trabalhadores permite ao capitalista comprimir o preço do trabalho, enquanto, por outro lado, o preço decrescente do trabalho lhe permite aumentar ainda mais o tempo de trabalho." (MARX, p. 618-9)

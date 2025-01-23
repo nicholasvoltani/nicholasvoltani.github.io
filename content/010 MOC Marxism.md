@@ -6,9 +6,8 @@ tags:
 # 010 MOC Marxism
 up:: [[index]]
 
-## Tópicos
-- [[011 MOC Marx]]
-	- [[011a MOC Capital I]]
-	- [[011b MOC Ideologia Alemã]]
-- [[012 MOC Lukács]]
-- [[013 MOC Método]]
+- [[011 MOC Capital]]
+	- [[011a MOC Capital I]] 
+- [[012 MOC Ideologia Alemã]]
+- [[013 MOC Lukács]]
+- [[014 MOC Método]]

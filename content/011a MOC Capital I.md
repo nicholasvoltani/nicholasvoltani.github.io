@@ -4,7 +4,7 @@ tags:
   - moc 
 ---
 # MOC Capital I
-up:: [[011 MOC Marx]]
+up:: [[011 MOC Capital]]
 
 > "A economia política clássica chega muito próximo à verdadeira relação das coisas, porém sem formulá-la conscientemente. Ela não poderá fazê-lo enquanto estiver coberta com sua pele burguesa." (MARX, p. 612)
 ## Tópicos
@@ -69,8 +69,9 @@ up:: [[011 MOC Marx]]
 	- [[Trabalho Assalariado]] (mencionado em [[Economia Agroexportadora]])
 	- [[Salário]]
 		- [[O salário como forma mistificada do valor da força de trabalho]]
-	- [[Salário por tempo]]
+	- [[Salário por Tempo]]
 	- [[Salário por peça]]
+		- [[Fichamento Capital I Cap 19 - Salário por peça]]	
 	- [[A legalidade de horas extras não necessariamente é uma reivindicação proletária]]
 - [[O Capital, I ─ Cap 21, 22 ─ Sobre a reprodução do capital]]
 	- [[Reprodução Simples do Capital]]
@@ -86,3 +87,4 @@ up:: [[011 MOC Marx]]
 - MARX, Karl. **O Capital. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
 - [Leituras d'O Capital (UFPR) - Livro I](https://www.youtube.com/@leiturasdocapital/videos)
 - DE ARAUJO, Paulo Henrique Furtado. Dissolução dos laços sociais mediados pelo valor: crise estrutural da sociedade do capital e o fim do seu processo civilizatório. **Revista da Sociedade Brasileira de Economia Política**, p. 133-166, 2024.
+- MEDEIROS, João Leonardo; BARRETO, Eduardo Sá (Org.). **Para que leiam O capital: interpretações sobre o Livro I**. São Paulo, Usina Editorial, 2021.

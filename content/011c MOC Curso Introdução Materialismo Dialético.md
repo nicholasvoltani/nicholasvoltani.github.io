@@ -3,7 +3,7 @@ date: 2022-07-24
 tags:
   - moc
 ---
-up:: [[011 MOC Marx]]
+up:: [[011 MOC Capital]]
 
 ## Tópicos
 - [[202206151902 - Aula 1 Introdução Materialismo Dialético]]

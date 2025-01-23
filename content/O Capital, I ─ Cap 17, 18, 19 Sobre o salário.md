@@ -61,7 +61,7 @@ Quando se fala do salário, se fala do **pagamento do trabalho por um determinad
 	- A hora extra
 	- A conexão entre valor da força de trabalho e mais-valor
 
-### Definição: [[Salário por tempo]]
+### Definição: [[Salário por Tempo]]
 Quando o valor da força de trabalho se representa diretamente em salário **por unidade de tempo** (hora-a-hora, diário, semanal, mensal, etc)
 $$
 s_t = \frac{\texttt{valor diário da força de trabalho}}{\texttt{\# horas de uma jornada \bf normal}}

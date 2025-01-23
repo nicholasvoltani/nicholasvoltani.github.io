@@ -14,7 +14,7 @@ up:: [[Salário]]
 
 Sob esta forma de trabalho, oculta-se a diferenciação da [[Jornada de Trabalho]] em [[Tempo de Trabalho Socialmente Necessário]] e [[Tempo Excedente de Trabalho]]; ou seja, oculta-se que há trabalho não pago fornecido ao capitalista, *aparecendo* ao trabalhador (e mesmo ao capitalista) como se todo seu tempo fosse remunerado[^2], inclusive devido ao fato de que "o dinheiro realiza, porém *a posteriori*, o valor ou o preço [da força de trabalho]" (MARX, p. 611)[^4]. 
 
-Dessa forma, as variações do [[Valor da Força de Trabalho]] – que são a substância das variações dos salários – são efetivamente ocultadas, fazendo com que a variação dos salários[^3] apareça "necessariamente como variação do valor ou preço" *das horas trabalhadas*. Daí é um pulo o surgimento do [[Salário por tempo]]. 
+Dessa forma, as variações do [[Valor da Força de Trabalho]] – que são a substância das variações dos salários – são efetivamente ocultadas, fazendo com que a variação dos salários[^3] apareça "necessariamente como variação do valor ou preço" *das horas trabalhadas*. Daí é um pulo o surgimento do [[Salário por Tempo]]. 
 
 Um outro nível de ocultação é quando o capitalista paga não pelo tempo despendido pelo trabalhador, mas *por mercadoria produzida*, o que Marx chama de [[Salário por peça]]. Toda mercadoria requer uma quantidade de tempo para ser produzida, porém a produção individual chega a tal nível que resultados passam a ser cobrados *por quantidade produzida*, e não por tempo despendido.
 

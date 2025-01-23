@@ -1,6 +1,7 @@
 ---
-date: "{{date:YYYY-MM-DD}}"
-tags: languages
+date: <% tp.date.now("YYYYMMDD") %>
+tags:
+  - languages
 ---
 
 up:: 

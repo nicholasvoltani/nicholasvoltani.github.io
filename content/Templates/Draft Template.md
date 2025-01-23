@@ -1,10 +1,8 @@
 ---
-date: "{{date: YYYY-MM-DD}}"
-tags:
-  - 
+date: <% tp.date.now("YYYYMMDD") %>
+tags: 
 draft: "true"
 aliases:
-  - 
 ---
 
 up:: 

@@ -9,7 +9,7 @@ up:: [[Valor da Força de Trabalho]]
 
 O preço da [[Força de Trabalho]] é a manifestação de seu valor em [[Dinheiro]]. 
 
-Dependendo da forma em que o [[Trabalho Assalariado|Trabalhador Assalariado]] receba seu [[Salário]] – p. ex. [[Salário por tempo]] ou [[Salário por peça]] –, a quantidade que ele receberá depende do preço a que sua força de trabalho será paga. Ou seja, seja o salário $S$ e sua subdivisão $X$. Então o preço será
+Dependendo da forma em que o [[Trabalho Assalariado|Trabalhador Assalariado]] receba seu [[Salário]] – p. ex. [[Salário por Tempo]] ou [[Salário por peça]] –, a quantidade que ele receberá depende do preço a que sua força de trabalho será paga. Ou seja, seja o salário $S$ e sua subdivisão $X$. Então o preço será
 $$
 P \equiv \frac{S}{X}
 $$

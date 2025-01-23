@@ -1,6 +1,7 @@
 ---
-date: "{{date:YYYY-MM-DD}}"
-tags: deutsch
+date: <% tp.date.now("YYYYMMDD") %>
+tags:
+  - deutsch
 ---
 
 up:: 

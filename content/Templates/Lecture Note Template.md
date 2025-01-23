@@ -1,5 +1,5 @@
 ---
-date: "{{date:YYYY-MM-DD}}"
+date: <% tp.date.now("YYYYMMDD") %>
 tags:
   - literature/lecture
 ---

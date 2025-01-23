@@ -1,6 +1,7 @@
 ---
-date: "{{date:YYYY-MM-DD}}"
-tags: languages
+date: <% tp.date.now("YYYYMMDD") %>
+tags:
+  - languages
 ---
 
 up:: 
@@ -19,38 +20,40 @@ up::
 ![[4ed941213ca3862707d4ad16b9638dd9.jpg|500]]
 Source: [Pin by Antonio Fabián on Education | Foreign language learning, Esperanto language, Linguistics](https://br.pinterest.com/pin/209769295113489370/)
 
-| sur $\uparrow$   |     |
-| ---------------- | --- |
-| sub $\downarrow$ |     |
-| apud             |     |
-| antaŭ            |     |
-| inter            |     |
-| post             |     |
-| ĉirkaŭ           |     |
-| dum              |     |
-| anstataŭ         |     |
+| sur $\uparrow$           |     |
+| ------------------------ | --- |
+| sub $\downarrow$         |     |
+| apud                     |     |
+| antaŭ<br>("in front of") |     |
+| behind                   |     |
+| inter                    |     |
+| ĉirkaŭ                   |     |
+| dum                      |     |
+| anstataŭ                 |     |
 
 # Conjunctions
 
-| aŭ                 |     |
-| ------------------ | --- |
-| kaj                |     |
-| ankaŭ              |     |
-| ĉar<br>(kial?)     |     |
-| ĝis<br>("until")   |     |
-| se<br>($\implies$) |     |
-| sed                |     |
-| ankoraŭ<br>("aún") |     |
-| verŝajne           |     |
-| eĉ<br>("even")     |     |
+| aŭ                     |     |
+| ---------------------- | --- |
+| kaj                    |     |
+| ankaŭ                  |     |
+| ĉar<br>(kial?)         |     |
+| ĝis<br>("until")       |     |
+| se<br>($\implies$)     |     |
+| sed                    |     |
+| ankoraŭ<br>("aún")     |     |
+| verŝajne               |     |
+| eĉ<br>("even")         |     |
+| Already<br>("jam", EO) |     |
 # Other connectives
 
-| Therefore   |     |
-| ----------- | --- |
-| Anyway      |     |
-| By the way  |     |
-| Furthermore |     |
-| Instead of  |     |
+| Therefore            |     |
+| -------------------- | --- |
+| Anyway               |     |
+| By the way           |     |
+| Furthermore          |     |
+| Instead of           |     |
+| Although/even though |     |
 
 # Time
 
@@ -62,6 +65,9 @@ Source: [Pin by Antonio Fabián on Education | Foreign language learning, Espera
 | Soon       |     |
 | Someday    |     |
 | Eventually |     |
+| Often      |     |
+| Before     |     |
+| After      |     |
 ## Quantity/Comparisons
 
 | More                |     |
@@ -82,6 +88,8 @@ Source: [Pin by Antonio Fabián on Education | Foreign language learning, Espera
 | How can I say ...?                  |     |
 | Doch!<br>("As if!" / "Até parece!") |     |
 | *Cool*                              |     |
+| Essentially/Basically               |     |
+| (In) This way...                    |     |
 
 
 

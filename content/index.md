@@ -42,6 +42,8 @@ Maps of Content are aggregations of notes with the same "theme". Here's the main
 	- [[061 MOC Macroeconomia]]
 	- [[062 MOC Microeconomia]]
 	- [[063 MOC Economia Brasileira]]
+- [[090 MOC Languages]]
+	- [[091 MOC Deutsch]]
 
 ---
 
