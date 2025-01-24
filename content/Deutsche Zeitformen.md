@@ -163,6 +163,22 @@ Z. B.:
 
 ---
 # 4) Passiv
+![[Pasted image 20250124111221.png|500]]
+Quelle: [Harry - Gefangen in der Zeit, Folge 60](https://learngerman.dw.com/en/handlungen-beschreiben-aktiv-und-passiv/l-60883050/e-65657686)
+
+## 4.1) Passiv Präsens: *werden* + Partizip Perfekt
+| Subjekt   | *werden* | Verb im Partizip Perfekt |
+| --------- | -------- | ------------------------ |
+| Ich       | werde    | getötet                  |
+| Du        | wirst    |                          |
+| Er/sie/es | wird     |                          |
+| Wir       | werden   |                          |
+| Ihr       | werdet   |                          |
+| Sie       | werden   |                          |
+![[Pasted image 20250124111739.png|500]]
+Es ist *nicht* ,,Wird Harry vom Arzt getötet ==sein==?"
+
+![[Pasted image 20250124112014.png|500]]
 
 
 ---
@@ -171,6 +187,7 @@ Z. B.:
 - [Konjunktiv I und II in der deutschen Grammatik](https://deutsch.lingolia.com/de/grammatik/verben/konjunktiv)
 - [Konjunktiv 1 (Indirekte Rede) Erklärung \| Deutsch lernen c1, b2 - YouTube](https://www.youtube.com/watch?v=fSntdA-DThI)
 - [Konjunktiv II bilden und anwenden. B1, B2, C1 - YouTube](https://youtu.be/P2pMrF8ixM8)
+- [Harry - Gefangen in der Zeit, Folge 60](https://learngerman.dw.com/en/60-dying-for-the-sake-of-science/l-60883050)
 
 [^1]: [übereinstimmen - Wörterbuch Deutsch-Englisch - WordReference.com](https://www.wordreference.com/deen/übereinstimmen).
 [^2]: In Portuguese: "Subjuntivo", "subjunctive".

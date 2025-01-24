@@ -30,7 +30,7 @@ Ou seja, mesmo que se pagasse "devidamente"[^4] $v$ ao trabalhador, não se extr
 
 O que muda agora é a (falsa) sensação de [[Autonomia]] do indivíduo[^5], e, nesse ínterim, também sua sensação de concorrência com os demais trabalhadores. 
 
-> " O salário por peça tem, assim, uma tendência a aumentar os salários *individuais* acima do nível médio e, ao mesmo tempo, a *abaixar esse nível*" (MARX, p. 626)
+> "O salário por peça tem, assim, uma tendência a aumentar os salários *individuais* acima do nível médio e, ao mesmo tempo, a *abaixar esse nível*" (MARX, p. 626)
 
 e isso justamente devido à tendência "competitiva" de maior intensidade de produção dos indivíduos induzindo uma queda no preço (valor) por peça, portanto aumentando a quantidade média de peças produzidas por hora; com o aumento do nível médio, aumenta o tempo e/ou a intensidade de trabalho daqueles que produzem abaixo desta média, a qual é puxada justamente por aqueles que produzem acima deste nível. É neste sentido também (talvez principalmente) que Marx diz que ocorre a exploração do trabalhador pelo trabalhador.
 # Cálculo do salário por peça

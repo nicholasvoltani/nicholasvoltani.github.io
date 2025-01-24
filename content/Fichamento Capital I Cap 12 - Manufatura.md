@@ -81,7 +81,7 @@ A partir do momento em que a manufatura se espalha como modo de produção "norm
 
 É neste contexto que a [[Alienação do Trabalho]] adquire uma forma palpável, em que o trabalhador é despido de sua [[Autonomia]] no processo de trabalho: não só o propósito de seu ofício lhe é alheio, como até mesmo "o tempo" lhe é alheio, não devendo ser desperdiçado ou empregado "inutilmente".
 
-> "Enquanto a cooperação simples deixa praticamente intocado o modo de trabalho dos indivíduos, a manufatura o revoluciona desde seus fundamentos e se apodera da força individual de trabalho em suas raízes. Ela aleija o trabalhador, converte-o numa aberração [Abnormität], promovendo artificialmente sua habilidade detalhista por meio da repressão de um mundo de impulsos e capacidades produtivas" (MARX, p. 434; destaque meu)
+> "Enquanto a cooperação simples deixa praticamente intocado o modo de trabalho dos indivíduos, a manufatura o revoluciona desde seus fundamentos e se apodera da força individual de trabalho em suas raízes. Ela aleija o trabalhador, converte-o numa aberração [*Abnormität*], promovendo artificialmente sua habilidade detalhista por meio da repressão de um mundo de impulsos e capacidades produtivas" (MARX, p. 434; destaque meu)
 
 # A resistência subjetiva do trabalhador ante o processo manufatureiro
 > "Ao mesmo tempo, a manufatura nem podia se apossar da produção social em toda sua extensão, nem revolucioná-la em suas bases. Como obra de arte econômica, ela se erguia apoiada sobre o amplo pedestal do artesanato urbano e da indústria doméstica rural. Sua própria base técnica estreita, tendo atingido certo grau de desenvolvimento, entrou em contradição com as necessidades de produção que ela mesma criara." (MARX, p. 442)

@@ -39,7 +39,7 @@ O objetivo da cooperação de vários trabalhadores (sob o regime capitalista) �
 
 # Surgimento da alienação do trabalho sob o regime capitalista
 
-> "A cooperação dos assalariados é, além disso, um mero efeito do capital que os emprega simultaneamente" (por mais que se pregue que "são uma família"). "A interconexão de suas funções e sua unidade como corpo produtivo total reside *fora* deles, *no capital*, que os reúne e os mantém unidos. Por isso, a conexão entre seus trabalhos aparece para os trabalhadores, idealmente como plano *preconcebido* e, praticamente, como autoridade do capitalista, como o poder de uma vontade *alheia* que submete seu agir ao seu próprio objetivo." (MARX, p. 407; grifo meu)
+> "A cooperação dos assalariados é, além disso, um mero efeito do capital que os emprega simultaneamente" (por mais que se pregue que "são uma família"). "A interconexão de suas funções e sua unidade como corpo produtivo total reside *fora* deles, *no capital*, que os reúne e os mantém unidos. Por isso, a conexão entre seus trabalhos aparece para os trabalhadores, idealmente, como plano *preconcebido* e, praticamente, como autoridade do capitalista, como o poder de uma vontade *alheia* que submete seu agir ao seu próprio objetivo." (MARX, p. 407; grifo meu)
 
 Eventualmente, o próprio capitalista emancipa-se do trabalho de supervisão (que outrora lhe era fardo), delegando-o a outros assalariados, que também submetem-se à cooperação *in their own right*, fractalmente, conforme a organização/empresa/fábrica cresce e requer mais e mais supervisão.
 
