@@ -1,5 +1,5 @@
 ---
-date: <% tp.date.now("YYYYMMDD") %>
+date: "{{date: YYYY-MM-DD}}"
 tags:
 ---
 

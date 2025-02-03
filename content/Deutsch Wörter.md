@@ -12,9 +12,9 @@ up:: [[091 MOC Deutsch]]
 |                 | *o*<br>(noun) | *a*<br>(adjective)                                | *am*<br>(time) | *e*<br>(place) | *al*<br>(reason) | *el*<br>(modo) | *om*<br>(amount) | *u*<br>(person) | *es*<br>("belongness")                            |
 | --------------- | ------------- | ------------------------------------------------- | -------------- | -------------- | ---------------- | -------------- | ---------------- | --------------- | ------------------------------------------------- |
 | *ki*<br>(which) | was           | welcher<br>welche<br>welches<br>welche            | wann           | wo             | warum            | wie            | wie viel         | wer             | wessen                                            |
-| *neni*<br>(no)  | nichts        |                                                   | nie            | nirgendwo      |                  |                |                  | niemand         |                                                   |
+| *neni*<br>(no)  | nichts        |                                                   | nie/niemals    | nirgendwo      |                  |                |                  | niemand/keiner  |                                                   |
 | *ĉi*<br>(all)   | alles         |                                                   | immer          | überall        |                  |                |                  | jeder/alle      |                                                   |
-| *i*<br>(some)   | etwas         |                                                   | manchmal       | irgendwo       |                  | irgendwie      |                  | jemand          |                                                   |
+| *i*<br>(some)   | etwas         |                                                   | manchmal       | irgendwo       |                  | irgendwie      |                  | jemand[^9]      |                                                   |
 | *ti*<br>(this)  | das           | dieser<br>diese<br>dieses<br>diese<br>(Nominativ) |                | da             |                  |                |                  |                 | dieses<br>dieser<br>dieses<br>dieser<br>(Genitiv) |
 
 # Prepositions
@@ -76,16 +76,18 @@ Source: [Pin by Antonio Fabián on Education | Foreign language learning, Espera
 | This time  | diesmal |
 ## Quantity/Comparisons
 
-| More                | mehr             |
-| ------------------- | ---------------- |
-| Less                | weniger          |
-| The most            | am meisten       |
-| The least           | am wenigsten     |
-| Almost<br>(preskaŭ) | fast / beinahe   |
-| Barely              | kaum[^3]             |
-| Finally             | schließlich[^4]  |
-| Kind of             | ziemlich / etwas |
-| "Like" $\sim$       | als              |
+| More                | mehr                    |
+| ------------------- | ----------------------- |
+| Less                | weniger                 |
+| The most            | am meisten              |
+| The least           | am wenigsten            |
+| Almost<br>(preskaŭ) | fast / beinahe          |
+| Barely              | kaum[^3]                |
+| Finally             | schließlich[^4]         |
+| Kind of             | ziemlich / etwas        |
+| "Like" $\sim$       | als                     |
+| Close/Similar       | ähnlich                 |
+| Different           | unähnlich / verschieden |
 
 # Useful phrases/expressions/terms
 
@@ -105,6 +107,7 @@ Source: [Pin by Antonio Fabián on Education | Foreign language learning, Espera
 ### Template References
 - [Preposições | Esperanto em 12 lições](https://esperanto12.net/pt/prepozicioj/)
 - [Connections, Conjunctions, And Conversational Glue For Esperantists | AutoLingual – Learn A Foreign Language By Yourself](https://autolingual.com/connections-conjunctions-and-conversational-glue-for-esperantists/)
+- [Welche Bilder werden beschrieben? - Harry, gefangen in der Zeit (Folge 66)](https://learngerman.dw.com/en/welche-bilder-werden-beschrieben/l-60986519/e-66154953)
 
 ### Deutschen Referenzen
 - [Negation Words (Harry, Gefangen in der Zeit, F26)](https://learngerman.dw.com/en/negation-words/l-59004308/gr-61002198) — aber es hat ein Fehler, weil "no-one" auf Deutsch ist *jeder*, nicht *jemand*
@@ -117,3 +120,4 @@ Source: [Pin by Antonio Fabián on Education | Foreign language learning, Espera
 [^6]: "Aber die Gestalt *vor* dem Haus war kein Traum" (Tintenherz)
 [^7]: "Meggie konnte sich nich entscheiden, *ob* es spöttisch, herablassend oder einfach nur verlegen war" (Tintenherz)
 [^8]: Ich bin ein Kölner, **deshalb** trinke ich ein Kölsch. (Cf. [Harry - Gefangen in der Zeit, F-47](https://learngerman.dw.com/en/connecting-main-clauses-with-deshalb-und-trotzdem/l-60799476/gr-61062320))
+[^9]: Cf. [Welche Bilder werden beschrieben? - Harry, gefangen in der Zeit (Folge 66)](https://learngerman.dw.com/en/welche-bilder-werden-beschrieben/l-60986519/e-66154953)

@@ -13,8 +13,19 @@ up:: [[index]]
 
 
 # 2025
+## February 2025
+The anxiety of waiting for the Master's scholarship, while barely receiving any notifications, is killing me. 
+
+I'll also be applying for Santa Fe Institute's [2025 Complexity Global School for Emerging Political Economies](https://www.santafe.edu/info/2025-complexity-global-school/overview?passKey=5e453325-48ec-415b-b96d-ff3c7ee42931), taking place in Bogotá, Colombia. Let's see how *that* goes...
+
+**Interesting content of the month**:
+- [The "Modern Day Slaves" Of The AI Tech World - Real Stories](https://www.youtube.com/watch?v=VPSZFUiElls): "*Before the internet, it would be really difficult to find someone, sit them down for ten minutes and get them to work for you, and then fire them after those ten minutes. But with technology, you can actually find them, pay them [a] tiny amount of money, and then get rid of them when you don't need them anymore.*" Couldn't sum up late-stage capitalism better myself. Yikes.
+- [Investigating a forgotten Edward Snowden Quote (Allie Meowy)](https://www.youtube.com/watch?v=fAf1Syz17JE): "Some hentai games are very good" (Edward Snowden)
+- [Against Optimization - by Brian Klaas](https://www.forkingpaths.co/p/against-optimization): interesting view on how excessive efficiency is detrimental, and how one should strive for *resilience* (robustness against unexpected problems) — just like ecosystems (natural complex systems) do!
+- [Brett Scott on why we should advocate for cash money](https://www.youtube.com/watch?v=pPyER72nFcw): because it brings back (some) agency back to consumers, instead of putting them at the sheer mercy of the banking system and their services
+	- Highly recommend Brett Scott's Substack as well, [Altered States of Monetary Consciousness](https://www.asomo.co/) 
 ## January 2025
-I've begun studying German — again! Hope this time it works! I have a lot of content now to immerse myself in it though, so hope it helps. I also have a clearer goal in mind: I have to reach B2 until my PhD, if I want to do it in Germany (they require B2), but I want/feel like I can reach it in 2025, with enough immersion and perseverance. My progress will be somewhere linked to [[091 MOC Deutsch]]. 
+I've begun studying German — again! Hope this time it works! I have a lot of content now to immerse myself in it though, so hope it helps. I also have a clearer goal in mind: I have to reach B2 until my PhD, if I want to do it in Germany (they require B2), but I want/feel like I can reach it in 2025, with enough immersion and perseverance. I also plan on a Winterkurs in the beginning of 2026 (requires B1, which is more feasible). My progress will be somewhere linked to [[091 MOC Deutsch]]. 
 
 I also intend on writing 50 posts in Substack until the end of the year. Let's see how it goes...
 
@@ -25,7 +36,10 @@ I also intend on writing 50 posts in Substack until the end of the year. Let's s
 - [Victor Wooten 2016 Commencement Speaker for the University of Vermont Rubenstein School - YouTube](https://youtu.be/o_3u41KI57E?si=3i4HQeFIKnre1Vdk) — **BEAUTIFUL** speech/bass performance!!!
 - [Fear of Dark - Jacob Geller](https://www.youtube.com/watch?v=BcQ-8R2fiZg) — another Jacob Geller banger
 - [5 Self-Care Micro-Habits to be Unrecognisable in 2025 - Dr. Izzy Sealey](https://www.youtube.com/watch?v=cMGwOEIkQRo) — I'm plenty aware that there's this annoying trend of "X whatevers to Y" on YouTube, especially on the self-help/entrepreneur side of it, but this video surprised me! The first tip, which is "somatic pauses" is *great*: every now and then, take a moment, breathe, and feel your body, see what it is "telling" you, if it's too stiff or contracted etc. It's different from the usual "take a break now and then", because it tells you to *feel your body*, to not dissociate from it, to hear what it has to say about your mood. 
-  
+- [The Alt-Right Playbook: The South Bank of the Rubicon (Innuendo Studios)](https://www.youtube.com/watch?v=0YFdwfNh5vs) — What does it take for us to admit that something unadmissible happened? In the end, it depends on what we (socially, not just individually) take to be *acceptable* — which is *always* being coopted by the right, pushing the Overton Window all the way towards accepting/relativizing things as absurd as a [*fucking Nazi salute from the (current) richest man on Earth*](https://www.youtube.com/watch?v=-VfYjPzj1Xw). 
+	- To make this written for posterity, such as to not allow this to fall out of memory: some idiots just take Musk's words of "giving his heart" to the audience; some other dumbasses are saying that "it's a *stim*", since, you know, he's Autistic, so *obviously* he must've been stimming... just fuck off. No wonder [Netanyahu backed up this bozo](https://www.brasildefato.com.br/2025/01/24/netanyahu-defends-musk-in-the-controversy-of-nazi-salute-a-dear-friend-of-israel): takes one to know one. 
+- [We need to talk about the complicated past of Smogon (cecilily)](https://www.youtube.com/watch?v=lPG6vIN8Kx8): The most famous forum of competitive Pokémon started out as a """joke""" Nazi forum. Well shit. It's an interesting video, because its intent isn't to dismantle Smogon as it is today (which is a very diverse and engaged community), but rather to start this painful conversation, which *must* be had, not just silently put aside, as it has been
+
 # 2024
 ## December 2024
 Studying Economics to try bridging the gap of my knowledge when I begin my Master's. I know there'll be things that I will need to learn anyways, but it's good to have less things on my plate.

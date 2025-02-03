@@ -1,8 +1,8 @@
 ---
-date: 20250123
+date: " 2025-01-27"
 tags:
-  - mini-essay
-  - "#to-be-elaborated"
+  - essay
+  - to-be-elaborated
 aliases:
 ---
 
@@ -12,7 +12,6 @@ up:: [[Uma visão etnográfica da Faria Lima]]
 
 ---
 > “O homem não aparece, nem objetivamente, nem em seu comportamento em relação ao processo de trabalho, como o verdadeiro portador desse processo; em vez disso, ele é incorporado como parte mecanizada num sistema mecânico que já encontra pronto e funcionando de modo totalmente independente dele, e a cujas funções ele deve se submeter.” (LUKÁCS, p. 203-4)
-
 
 # Sobre "bons chefes" e "maus chefes" — segurar o trabalhador a rédea curta, pois o trabalho lhes é alheio
 > "Do mesmo modo, o comando do capitalista sobre o trabalho parecia inicialmente ser apenas uma decorrência formal do fato de o trabalhador trabalhar não para si, mas para o capitalista e, portanto, sob o capitalista. Com a cooperação de muitos trabalhadores assalariados, o comando do capital se converte num requisito para a consecução do próprio processo de trabalho, numa verdadeira condição da produção. O comando do capitalista no campo de produção torna-se agora tão imprescindível quanto o comando do general no campo de batalha." (MARX, p. 406)

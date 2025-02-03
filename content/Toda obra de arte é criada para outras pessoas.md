@@ -24,10 +24,3 @@ No fundo, a motivação de toda obra de arte é [[A arte busca representar o mun
 ---
 ### Referências
 - SARTRE, Jean-Paul. *Por que escrever?*. In: **Que é a literatura?**. Editora vozes, 2020.
-
-%%
-# Drawing
-```json
-{"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.5","elements":[],"appState":{"gridSize":null,"viewBackgroundColor":"#ffffff"}}
-```
-%%

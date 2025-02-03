@@ -10,7 +10,7 @@ up:: [[Unlinked Files]]
 ```dataview
 list
 date
-FROM ""
+FROM "" AND !"Outputs"
 WHERE !contains(file.name, "emplate") AND (length(file.outlinks) = 0 OR length(file.inlinks) = 0)
 SORT date DESC
 LIMIT 10
@@ -37,6 +37,8 @@ GROUP BY outlinks
 SORT rows.date DESC
 LIMIT 10
 ```
+
+
 
 ---
 # Referência

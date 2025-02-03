@@ -1,5 +1,5 @@
 ---
-date: <% tp.date.now("YYYYMMDD") %>
+date: "{{date: YYYY-MM-DD}}"
 tags:
   - languages
 ---
@@ -79,6 +79,8 @@ Source: [Pin by Antonio Fabián on Education | Foreign language learning, Espera
 | Barely              |     |
 | Kind of             |     |
 | "Like" $\sim$       |     |
+| Close/Similar       |     |
+| Different           |     |
 
 # Useful phrases/expressions
 
