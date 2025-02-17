@@ -21,7 +21,8 @@ up:: [[090 MOC Languages]]
 - [[Tintenherz Studiensätze]]
 - [[Deutsche Zeitformen]]
 - [[20250120 Deutsche Welle Video Transkription]]
+- [[20250206 Deutsch Video - Was ist Metaphysik]]
 
 ---
 ### Referenzen
-- 
+- [Learn German (A1-A2) \| Harry – gefangen in der Zeit - Deutsche Welle](https://www.youtube.com/playlist?list=PLs7zUO7VPyJ6Ufol7Z4FfkCviaETvl3c8)

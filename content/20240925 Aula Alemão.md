@@ -26,7 +26,7 @@ _Entwicklungs-**stufen**_: **etapas** de desenvolvimento
 
 > "Jede dieser Entwicklungsstufen der Bourgeoisie
 > war begleitet von einem 
-> entsprechenden politischen Forschritt."
+> entsprechenden politischen Fortschritt."
 
 > "*Underdrückter Stand* unter der Herrschaft der Feudalherren,
 > bewaffnete [armou-se] und sich selbst verwaltende Assoziation in der Kommune,"

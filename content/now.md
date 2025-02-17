@@ -14,13 +14,17 @@ up:: [[index]]
 
 # 2025
 ## February 2025
-The anxiety of waiting for the Master's scholarship, while barely receiving any notifications, is killing me. 
+The anxiety of waiting for the Master's scholarship, while barely receiving any notifications, is killing me. Also dealing with the stress of finding a minimally-humane place to move into.
 
 I'll also be applying for Santa Fe Institute's [2025 Complexity Global School for Emerging Political Economies](https://www.santafe.edu/info/2025-complexity-global-school/overview?passKey=5e453325-48ec-415b-b96d-ff3c7ee42931), taking place in Bogotá, Colombia. Let's see how *that* goes...
 
 **Interesting content of the month**:
+- [TF2: You Will (Not) Play (Zesty Jesus)](https://www.youtube.com/watch?v=JNxg5stxlhk) — To see one of my favorite games of all time be mangled to such a state, to see a 4-hour documentary on the process of its murder, in the name of profit and a hubris of recreating a game against its own will and soul... it's heartbreaking.
+- [SEAVER, Nick. Captivating algorithms: Recommender systems as traps. **Journal of material culture**, v. 24, n. 4, p. 421-436, 2019.](https://journals.sagepub.com/doi/abs/10.1177/1359183518820366) — Taking the analogy of algorithms as traps more "seriously", very interesting read (also interesting his take on *infrastructure as "slow" traps*)
+- [Robust Yet Fragile (Maxim Raginsky)](https://realizable.substack.com/p/robust-yet-fragile) — "*Because control acts to reduce externally perceived complexity, it may lead to a false impression that, just because things have been going reasonably well for so long, certain mechanisms or practices or policies are no longer necessary and can be done away with.*"
+- [The New Fascist International: Technocratic Oligarchy and the Threat to Democracy (The Structural Lens)](https://substack.com/home/post/p-154522269)
 - [The "Modern Day Slaves" Of The AI Tech World - Real Stories](https://www.youtube.com/watch?v=VPSZFUiElls): "*Before the internet, it would be really difficult to find someone, sit them down for ten minutes and get them to work for you, and then fire them after those ten minutes. But with technology, you can actually find them, pay them [a] tiny amount of money, and then get rid of them when you don't need them anymore.*" Couldn't sum up late-stage capitalism better myself. Yikes.
-- [Investigating a forgotten Edward Snowden Quote (Allie Meowy)](https://www.youtube.com/watch?v=fAf1Syz17JE): "Some hentai games are very good" (Edward Snowden)
+- [Investigating a forgotten Edward Snowden Quote (Allie Meowy)](https://www.youtube.com/watch?v=fAf1Syz17JE): "*Some hentai games are very good*" (Edward Snowden)
 - [Against Optimization - by Brian Klaas](https://www.forkingpaths.co/p/against-optimization): interesting view on how excessive efficiency is detrimental, and how one should strive for *resilience* (robustness against unexpected problems) — just like ecosystems (natural complex systems) do!
 - [Brett Scott on why we should advocate for cash money](https://www.youtube.com/watch?v=pPyER72nFcw): because it brings back (some) agency back to consumers, instead of putting them at the sheer mercy of the banking system and their services
 	- Highly recommend Brett Scott's Substack as well, [Altered States of Monetary Consciousness](https://www.asomo.co/) 
