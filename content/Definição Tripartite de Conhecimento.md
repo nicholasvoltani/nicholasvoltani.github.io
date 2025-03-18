@@ -4,7 +4,7 @@ tags:
   - philosophy
 alias: Crença Verdadeira Justificada
 ---
-up:: [[030a MOC Teoria do Conhecimento e Filosofia da Ciência]]
+up:: [[071 MOC Teoria do Conhecimento e Filosofia da Ciência]]
 
 A definição tripartite de conhecimento, associada a Platão, diz que todo [[conhecimento]] é composto de
 1. **opiniões/crenças/julgamentos** sobre fenômenos do mundo, que sejam

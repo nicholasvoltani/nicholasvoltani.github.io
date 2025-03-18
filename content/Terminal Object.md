@@ -4,7 +4,7 @@ tags:
   - mathematics
 alias: 
 ---
-up:: [[028 MOC Category Theory]]
+up:: [[027 MOC Category Theory]]
 
 ![[Pasted image 20230820211612.png|200]]
 

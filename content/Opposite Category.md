@@ -4,7 +4,7 @@ tags:
   - mathematics
 alias: 
 ---
-up:: [[028 MOC Category Theory]]
+up:: [[027 MOC Category Theory]]
 
 Given a [[Category]] $C$, its opposite category $C^{op}$ is defined as $C$ but with all morphisms flipped. That is,
 - $Ob(C^{op}) = Ob(C)$

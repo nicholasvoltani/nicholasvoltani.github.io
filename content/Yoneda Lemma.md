@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[028 MOC Category Theory]]
+up:: [[027 MOC Category Theory]]
 
 ![[5b58b5134f9143d6ab130528_network.jpg|500]]
 Source: [The Yoneda Embedding - Math3ma](https://www.math3ma.com/blog/the-yoneda-embedding)

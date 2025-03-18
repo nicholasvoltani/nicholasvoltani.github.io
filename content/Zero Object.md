@@ -8,7 +8,7 @@ excalidraw-plugin: parsed
 ---
 ![[Zero Object.svg|1000]]
 
-up:: [[028 MOC Category Theory]]
+up:: [[027 MOC Category Theory]]
 
 A zero object in a [[Category]] $C$ is an object $0$ which is an [[Initial Object]] and also a [[Terminal Object]]. 
 # Properties

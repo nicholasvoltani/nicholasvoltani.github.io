@@ -4,7 +4,7 @@ tags:
   - mathematics
 alias: Product
 ---
-up:: [[028 MOC Category Theory]]
+up:: [[027 MOC Category Theory]]
 
 ![[Pasted image 20230821211433.png|300]]
 

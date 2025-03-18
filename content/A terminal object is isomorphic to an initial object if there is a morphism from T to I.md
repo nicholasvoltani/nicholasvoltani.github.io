@@ -7,7 +7,7 @@ excalidraw-open-md: true
 excalidraw-plugin: parsed
 ---
 
-up:: [[028 MOC Category Theory]]
+up:: [[027 MOC Category Theory]]
 
 ![[A terminal object is isomorphic to an initial object if there is a morphism from T to I.svg]]
 

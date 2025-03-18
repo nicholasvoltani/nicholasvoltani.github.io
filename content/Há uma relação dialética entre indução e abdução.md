@@ -6,7 +6,7 @@ tags:
   - to-be-elaborated
 aliases: Todo universal real é um universal-particular
 ---
-up:: [[030a MOC Teoria do Conhecimento e Filosofia da Ciência]]
+up:: [[071 MOC Teoria do Conhecimento e Filosofia da Ciência]]
 
 Há uma relação dialética entre a compilação de conhecimentos particulares e a abdução, ou seja, há uma relação entre a catalogação de resultados particulares versus a busca de algum fundamento universal que seja causa comum destes.
 

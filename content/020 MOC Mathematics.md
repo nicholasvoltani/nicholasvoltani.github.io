@@ -35,7 +35,7 @@ up:: [[index]]
 - [[025 MOC Lógica de Primeira Ordem]]
 - [[026 MOC Topology]]
 - [[027 MOC Calculus]]
-- [[028 MOC Category Theory]]
+- [[027 MOC Category Theory]]
 - [[Introduction to Umbral Calculus]]
 
 # References
