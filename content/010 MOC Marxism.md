@@ -6,8 +6,11 @@ tags:
 up:: [[index]]
 
 # MOCs
+- [[010a MOC Curso Introdução Materialismo Dialético]]
 - [[011 MOC Capital]]
 	- [[011a MOC Capital I]] 
+	- [[011b MOC Capital II]]
+	- [[011c MOC Capital III]]
 - [[012 MOC Ideologia Alemã]]
 - [[013 MOC Lukács]]
 - [[014 MOC Método]]

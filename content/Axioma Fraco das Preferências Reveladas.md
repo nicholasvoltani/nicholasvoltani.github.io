@@ -30,7 +30,7 @@ $$
 $$
 \braket{ p' | x } \nleq w'
 $$
-Ou seja, se uma nova cesta $x'$ estava no conjunto orçamentário prévio $B(p,w)$, **e é uma escolha ótima**, então (sob AFPR) não pode ser o caso de que ele estava no conjunto orçamentário prévio.
+Ou seja, se uma nova cesta $x'$ estava no conjunto orçamentário prévio $B(p,w)$, **e é uma escolha ótima nesta cesta**, então (sob AFPR) não pode ser o caso de que ela estava no conjunto orçamentário prévio.
 
 ## Exemplo numérico
 ![[Pasted image 20241002092609.png]]
@@ -38,10 +38,10 @@ Fonte: [(14/01/2022) - Iniciação Científica: Introdução à Economia Matemá
 
 Para os casos $1$ e $3$, temos que
 
-|     | $p_{1}$ | $p_{2}$ | $x_{1}$ | $x_{2}$ | $m$<br>(cesta ótima) | $m$ <br>(outra cesta) |
-| --- | ------- | ------- | ------- | ------- | -------------------- | --------------------- |
-| (1) | 2       | 2       | 10      | 1       | 22                   | 18                    |
-| (3) | 1       | 2       | 5       | 4       | 13                   | 12                    |
+|          | $p_{1}$ | $p_{2}$ | $x_{1}$ | $x_{2}$ | $m$<br>(cesta ótima) | $m$ <br>(outra cesta) |
+| -------- | ------- | ------- | ------- | ------- | -------------------- | --------------------- |
+| (Caso 1) | 2       | 2       | 10      | 1       | 22                   | 18                    |
+| (Caso 3) | 1       | 2       | 5       | 4       | 13                   | 12                    |
 
 Ou seja, na situação (3), temos que a cesta foi $(5,4)$ com gasto total $13$ – mas ele poderia ter comprado a mesma cesta que em $(1)$ – i.e. $(10,1)$ (e ainda gastando menos)! 
 Portanto, essa escolha não satisfaz o axioma fraco de preferências reveladas: não faz sentido que eu escolha (otimamente) uma delas em um caso, e a outra em outro caso, posto que ambas estavam ao meu alcance desde o começo.
@@ -54,4 +54,4 @@ Portanto, essa escolha não satisfaz o axioma fraco de preferências reveladas: 
 
 [^1]: Assumindo uma situação "pior" para uma "melhor". Caso haja o contrário, i.e. aumento de todos os preços e "piora" das condições de compra, podemos ver seu simétrico: ele *estava* melhor antes.
 [^2]: E se ele fosse [[Curva de Indiferença|indiferente]] entre ambas, não faz muito sentido que uma mudança de preços faça com que elas deixem de ser indiferentes.
-[^3]: Assumindo que a escolha ótima é única para dado conjunto orçamentário...?
+[^3]: Assumindo que a escolha ótima é única para dado conjunto orçamentário.

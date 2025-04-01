@@ -16,9 +16,9 @@ $$
 \tilde{x}(m) = x(\bar{p}, m) = (x_{1}(\bar{p}, m), \dots, x_{n}(\bar{p}, m))
 $$
 
-As derivadas $\frac{ \partial x_{k} }{ \partial m }$ indicam se o bem $k$ é um [[Bens Normais|Bem Normal]] ($>0$), ou um [[Bens Inferiores|Bem Inferior]] ($<0$). Em termos da curva de Engel (no espaço paramétrico das [[Cesta de Bens|Cestas de Bens]]):
-- se ela se curva *na direção* do eixo do bem $k$, então ele é um bem normal
-- se ela se curva *contrário* ao eixo do bem $k$, ele é um bem inferior
+As derivadas $\frac{ \partial x_{k} }{ \partial m }$ indicam se o bem $k$ é um [[Bens Normais|Bem Normal]] ($>0$), ou um [[Bens Inferiores|Bem Inferior]] ($<0$). Em termos da curva de Engel (no espaço paramétrico das [[Cesta de Bens|Cestas de Bens]]), no espaço $x-m$ conforme imagem:
+- se ela *aumenta com $m$*, então ele é um bem normal
+- se ela *decai com $m$*, então ele é um bem inferior
 
 ---
 ### References

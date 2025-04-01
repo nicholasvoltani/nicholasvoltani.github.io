@@ -11,7 +11,7 @@ up:: [[Preferências do Consumidor]]
 
 O conjunto fracamente preferido consiste no conjunto das [[Cesta de Bens|Cestas de Bens]] $(x,y)$ tais que, para qualquer cesta na [[Curva de Indiferença]] $(x_{1},x_{2})$, temos que
 $$
-(x,y) \geq (x_{1},x_{2})
+(x,y) \succeq (x_{1},x_{2})
 $$
 
 Quando tratamos de [[Preferências bem-comportadas]], há preferência por combinações convexas de cestas indiferentes; logo, [[O conjunto fracamente preferido bem-comportado é convexo]].

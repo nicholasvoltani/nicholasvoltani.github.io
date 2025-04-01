@@ -23,8 +23,6 @@ Porém, discute-se também sobre **utilidade cardinal**: não só a preferência
 # Propriedades
 [[Curvas de indiferença são curvas de nível da função utilidade]] e, portanto, nunca se cruzam.
 
-[[Preferências monotônicas são descritas por utilidades monotônicas]].
-
 ---
 ### References
 - VARIAN, Hal. **Microeconomia**: uma abordagem moderna. 9 ed. Elsevier, 2015.

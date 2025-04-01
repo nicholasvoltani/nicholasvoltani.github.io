@@ -85,7 +85,7 @@ $$
 A soma de ambos tem de ser a arrecadação do governo (inclusive a soma dá exatamente $T \cdot Q_{t}$ .)
 
 # Item 3: Falso
-~~Sacanagem~~ Para os *demandantes*, $\$25$ é o preço que eles pagam, porém *não é o preço que o ofertante põe a mercado*! A taxação ocorre *entre* o produtor colocar o produto no mercado (a preço de equilíbrio $P^{*}$) e o momento da compra.
+~~Sacanagem~~ Para os *demandantes*, $25$ é o preço que eles pagam, porém *não é o preço que o ofertante põe a mercado*! A taxação ocorre *entre* o produtor colocar o produto no mercado (a preço de equilíbrio $P^{*}$) e o momento da compra.
 
 # Item 4: Falso
 O cálculo da [[Perda de Peso Morto]] pode ser feita ao decompor as perdas do consumidor e do produtor.

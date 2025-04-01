@@ -85,6 +85,8 @@ child:: [[062a MOC ANPEC Microeconomia]]
 - [[Seleção Adversa]]
 - [[Risco Moral]] (*Moral Hazard*)
 
+
+---
 ## Referências
 - VARIAN, Hal. **Microeconomia**: uma abordagem moderna. 9 ed. Elsevier, 2015.
 - VASCONCELLOS, Marco Antonio Sandoval de. **Economia: micro e macro**. 6 ed.

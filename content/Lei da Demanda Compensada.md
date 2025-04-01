@@ -53,7 +53,7 @@ $$
 \braket{ dp | dx } = \braket{ dp | S \, dp } \leq 0
 $$
 
-Portanto, a matriz de Slutsky é uma [[Matriz Semi-Definida Negativa]]. 
+Portanto, [[A Matriz de Slutsky é semi-definida negativa]]. 
 
 ---
 ### References
@@ -62,5 +62,5 @@ Portanto, a matriz de Slutsky é uma [[Matriz Semi-Definida Negativa]].
 [^1]: Ou seja, uma [[Função Demanda]] que possua homogeneidade de grau $0$ e satisfaça a [[Lei de Walras]].
 [^2]: Onde $x \equiv x(p,w)$ e $x' \equiv x(p', w')$.
 [^3]: A partir da condição inicial $(p, w)$, expandindo a partir da respectiva demanda walrasiana $x(p,w)$, que é *dada*, fixada devido à condição inicial $(p,w)$.
-[^4]: $D_p x = \left( \frac{ \partial x_{i} }{ \partial p_{j} } \right)_{ij}$ é a matriz jacobiana de variação de demanda referente aos preços, e $D_{w}x \equiv \nabla_{w}x = \left(\frac{ \partial x_{i} }{ \partial w }\right)_{i}$ é um gradiente de variação de demanda referente à renda.
-[^5]: $D_{w}x \,x^{T}$ é um [produto externo](https://en.wikipedia.org/wiki/Outer_product) de vetores, dando em uma matriz.
+[^4]: $D_p x = \left( \frac{ \partial x_{i} }{ \partial p_{j} } \right)_{ij}$ é a matriz de [[Efeito Substituição]], e $D_{w}x \equiv \nabla_{w}x = \left(\frac{ \partial x_{i} }{ \partial w }\right)_{i}$ é um gradiente de [[Efeito Renda]].
+[^5]: $D_{w}x \,x^{T}$ é um [produto externo](https://en.wikipedia.org/wiki/Outer_product) de vetores (p. ex. $v w^T$), dando em uma matriz.

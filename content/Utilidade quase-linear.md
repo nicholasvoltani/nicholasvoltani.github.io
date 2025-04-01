@@ -13,7 +13,7 @@ Uma utilidade quase-linear tem a forma
 $$
 U(x_{1},x_{2}) = v(x_{1}) + x_{2}
 $$
-Ela é dita "quase-linear", pois, para cada utilidade $u$, temos que a [[Curva de Indiferença]] respectiva é
+Ela é dita "quase-linear", pois, para cada utilidade $u$[^1], temos que a [[Curva de Indiferença]] respectiva é
 $$
 x_{2} = u - v(x_{1})
 $$
@@ -24,3 +24,5 @@ A função $v(x_{1})$ não necessariamente é linear, então cuidado! Há casos 
 ---
 ### References
 - VARIAN, Hal. **Microeconomia**: uma abordagem moderna. 9 ed. Elsevier, 2015.
+
+[^1]: Ou seja, cada curva de nível da função $U(x_{1},x_{2})$, de valor $u$.

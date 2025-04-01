@@ -11,9 +11,9 @@ aliases:
 
 up:: [[Função Utilidade]]
 
-A demanda marshalliana (ou walrasiana) de um bem em uma [[Cesta de Bens]] é a quantidade ótima em que um indivíduo se sente compelido a comprá-la, referente à sua capacidade de compra.
+A demanda marshalliana (ou walrasiana) de um bem em uma [[Cesta de Bens]] é a quantidade ótima em que um indivíduo se sente compelido a comprá-la, referente à sua capacidade de compra. Caso as [[Preferências do Consumidor]] sejam [[Preferências bem-comportadas]], temos que a cesta ótima será *única*; senão, ela será um *conjunto* de cestas ótimas.
 
-Matematicamente, dada uma [[Função Utilidade]] $U(x_{1},x_{2})$, deseja-se maximizar a utilidade sob alguma [[Restrição Orçamentária]] (e com preços fixos $p_{i}$)
+Matematicamente, dada uma [[Função Utilidade]] $U(x_{1},x_{2})$, deseja-se maximizar a utilidade sob alguma [[Restrição Orçamentária]] (e com preços fixos $p_{i}$), sob [[Lei de Walras]]
 $$
 \begin{align}
 \max\limits_{{x_{1}, x_{2}}} U(x_{1},x_{2}) \\
@@ -29,7 +29,7 @@ $$
 U(x_{1},x_{2}) = x_{1}^{\alpha}x_{2}^{1-\alpha}
 $$
 
-– com $\sum \alpha_{i} = 1$ – tem a forma
+(com $\sum \alpha_{i} = 1$) tem a forma
 $$
 \begin{cases}
 x_{1}^{*}(p_{1},p_{2},m) = \alpha \frac{m}{p_{1}} \\

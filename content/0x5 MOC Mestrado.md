@@ -7,10 +7,9 @@ tags:
 up:: [[index]]
 
 # Primeiro semestre (1/4)
-## [[0x51a MOC Teoria Microeconômica]]
 ## [[0x51b MOC Teoria Macroeconômica]]
+## [[062 MOC Microeconomia]]
 ## [[0x51c MOC História do Pensamento Econômico]]
-
 
 
 

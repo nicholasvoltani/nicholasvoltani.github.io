@@ -19,7 +19,7 @@ $$
 \braket{ dp | dx } = \braket{ dp | S \, dp } \leq 0
 $$
 
-Ou seja, a matriz de Slutsky é uma [[Matriz Semi-Definida Negativa]][^1].
+Ou seja, [[A Matriz de Slutsky é semi-definida negativa]][^1].
 
 ---
 ### References

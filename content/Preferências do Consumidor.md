@@ -15,7 +15,9 @@ Dessa forma, pode-se construir as [[Curva de Indiferença]], compostas pela [[Eq
 
 Além das curvas de indiferença, podem-se construir [[Conjunto fracamente preferido]] a essas curvas. 
 
-Em Microeconomia, geralmente trata-se de [[Preferências bem-comportadas]]: [[Preferências bem-comportadas são monotônicas]] e [[Preferências bem-comportadas são convexas]]. 
+Em Microeconomia, geralmente trata-se de [[Preferências bem-comportadas]], que satisfazem: 
+- [[Preferências bem-comportadas são monotônicas]]
+- [[Preferências bem-comportadas são convexas]]. 
 
 ---
 ### References
