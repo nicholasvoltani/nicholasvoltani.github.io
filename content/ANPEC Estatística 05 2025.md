@@ -22,11 +22,11 @@ $$
 # Item 1 – Verdadeiro
 Dado algum $\epsilon > 0$, temos[^1]
 $$
-\begin{align}
+\begin{align*}
 \lim\limits_{n \to \infty}P(|a + b\bar{X} -a-b\mu_{X}|\geq \epsilon) &= \lim\limits_{n\to \infty}P(|b||\bar{X}-\mu_{X}|\geq \epsilon) \\
 &=\lim\limits_{n\to \infty}P\left( |\bar{X} - \mu_{X}| \geq \frac{\epsilon}{|b|} \right) \\
 &= 0
-\end{align}
+\end{align*}
 $$
 
 Portanto, $plim(a+b\bar{X}) = a + b\mu_{X}$.
@@ -42,28 +42,28 @@ $$
 
 Tendo $\epsilon>0$, temos que
 $$
-\begin{align}
+\begin{align*}
 \lim\limits_{n\to \infty} &P(|\bar{X}+\bar{Y}-\mu_{X}-\mu_{Y}|\geq\epsilon) \\
 &\leq \lim\limits_{n\to \infty}P(|\bar{X}-\mu_{X}| + |\bar{Y}-\mu_{Y}| \geq \epsilon)
-\end{align}
+\end{align*}
 $$
 Assumindo que $|\bar{X}-\mu_{X}| \geq \frac{\epsilon}{2}$ e idem para $\bar{Y}$, temos que, em particular,
 $$
-\begin{align}
+\begin{align*}
 \{|\bar{X}-\mu_{X}| + &|\bar{Y}-\mu_{Y}| \geq \epsilon\}  \\
 &\subset \left\{ |\bar{X}-\mu_{X}|\geq \frac{\epsilon}{2} \right\} \cup \left\{ |\bar{Y}-\mu_{Y}|\geq \frac{\epsilon}{2} \right\}
 
-\end{align}
+\end{align*}
 $$
 pois $\epsilon>0$ e $|\dots| > 0$.
 
 Portanto, temos
 $$
-\begin{align}
+\begin{align*}
 \lim\limits_{n\to \infty} &P(|\bar{X}+\bar{Y}-\mu_{X}-\mu_{Y}|\geq\epsilon) \\
 &\leq \lim\limits_{n\to \infty}P\left( |\bar{X}-\mu_{X}| \geq \frac{\epsilon}{2})\right)+ P\left(|\bar{Y}-\mu_{Y}| \geq \frac{\epsilon}{2} \right) \\
 &= 0
-\end{align}
+\end{align*}
 $$
 Portanto, $plim(\bar{X}+\bar{Y}) = plim(\bar{X})+plim(\bar{Y})$.
 

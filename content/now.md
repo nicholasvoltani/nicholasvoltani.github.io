@@ -13,6 +13,17 @@ up:: [[index]]
 
 
 # 2025
+## April 2025
+Basically focused on my Master's. **A lot** of reading to do, and not enough time/energy for it. 
+
+**Interesting content of the month**:
+- [How oyster beds can rebuild New York harbor \| WILD HOPE (Nature on PBS)](https://www.youtube.com/watch?v=YD7LlpKGEnY)
+- Fascinating stuff on the construction of the Great Green Wall between the Saharan Desert and the Sahel:
+	- [How the UN is Holding Back the Sahara Desert (Andrew Milligan)](https://www.youtube.com/watch?v=WCli0gyNwL0)
+	- [Inside Africa's Food Forest Mega-Project (Andrew Milligan)](https://www.youtube.com/watch?v=xbBdIG--b58)
+	- Also related: [How Trees Bring Water (Andrew Milligan)](https://www.youtube.com/watch?v=oY8ds4BiG1A) ([[Biotic Pump]])
+- [Talking with Contrapoints - Gender Identity, Judgement, & YouTube (Dr. K.)](https://www.youtube.com/watch?v=cKrxP44Gp_0)
+
 ## March 2025
 My Master's degree begins this month! I've moved to Niterói on March 20th, and my classes begin on March 24th.
 

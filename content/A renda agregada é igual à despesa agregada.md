@@ -12,9 +12,9 @@ up:: [[061 MOC Macroeconomia]]
 
 Como temos que a [[Renda Agregada]] é $Y = C + S + T$ e a [[Despesa Agregada]] é $DA = C + I + G + NX$, então, ao igualá-los, temos que
 $$
-\begin{align}
+\begin{align*}
 C + S + T &= C + I + G + NX
-\end{align}
+\end{align*}
 $$
 
 Logo, temos a relação

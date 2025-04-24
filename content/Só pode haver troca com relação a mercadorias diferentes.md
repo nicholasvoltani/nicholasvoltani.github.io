@@ -11,13 +11,13 @@ Duas [[Mercadoria|mercadorias]] $A$ e $B$ só podem travar uma [[Processo de Tro
 
 Dessa forma, $A$ não possui mais [[Valor de Uso]] para seu portador, e idem para $B$; eles só "têm olhos" para a mercadoria que o outro porta, e por isso travam uma relação de troca entre si. 
 
-É nesse sentido que entra também o fato de que [[Todo valor é um valor de uso, mas nem todo valor de uso é um valor]]: é justamente nesse sentido que ainda resta um "uso último" da mercadoria que deseja-se alienar: ela serve para ser cambiada por outra que lhe seja de "verdadeiro" usufruto[^2].
+É nesse sentido que entra também o fato de que [[Todo valor é um valor de uso, mas nem todo valor de uso é um valor]]: é justamente nesse sentido que ainda resta um "uso último" da mercadoria que deseja-se alienar: ela serve para ser cambiada por outra que lhe seja de "verdadeiro" usufruto[^1].
 
-Não há sentido em trocar uma mercadoria por uma que lhe seja idêntica, se não por haver *alguma* distinção entre ambas (em cujo caso elas *não* são idênticas) – é justamente a noção cotidiana de *trocar*[^1] uma coisa por outra (diferente).
+Não há sentido em trocar uma mercadoria por uma que lhe seja idêntica, se não por haver *alguma* distinção entre ambas (em cujo caso elas *não* são idênticas) – é justamente a noção cotidiana de *trocar*[^2] uma coisa por outra (diferente).
 
 ---
 ### Referências
 - MARX, Karl. **O Capital-Livro 1: Crítica da economia política. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
 
-[^1]: Em alemão, [aus-tauschen](https://www.wordreference.com/deen/austauschen); em inglês, *ex-change*. Há implícita a noção de troca, câmbio, mudança (de mãos/posse).
-[^2]: Ou seja, é seu [[Valor Relativo]].
+[^1]: Ou seja, é seu [[Valor Relativo]].
+[^2]: Em alemão, [aus-tauschen](https://www.wordreference.com/deen/austauschen); em inglês, *ex-change*. Há implícita a noção de troca, câmbio, mudança (de mãos/posse).

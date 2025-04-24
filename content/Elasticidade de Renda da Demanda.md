@@ -10,9 +10,9 @@ up:: [[062b MOC Teoria do Consumidor]]
 
 A elasticidade de renda da demanda de um bem, dada uma [[Cesta de Bens]], é dada por
 $$
-\gamma = \frac{m_{0}}{q_{0}} \frac{\Delta q}{\Delta m}
+\gamma = \frac{m_{0}}{q_{0}} \frac{\Delta q}{\Delta m} = \frac{\% \Delta q}{\% \Delta m}
 $$
-Ou seja, trata de como mudanças na [[Restrição Orçamentária]] induzem mudanças na demanda de um bem.
+Ou seja, trata de como mudanças na [[Restrição Orçamentária|Renda]] induzem mudanças na demanda de um bem.
 
 # $\gamma > 0$: Bens normais
 [[Bens Normais]] são aqueles em que a elasticidade-renda da demanda é positiva: o aumento da renda induz um aumento no consumo desse bem.

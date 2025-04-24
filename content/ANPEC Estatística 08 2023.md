@@ -31,10 +31,10 @@ RC = (-\infty, -1.71] \cup [1.71, \infty)
 $$
 no espaço-$Z$. Convertendo para o espaço de $\bar{X}$, temos
 $$
-\begin{align}
+\begin{align*}
 RC &= (-\infty, 100 - 1.71\cdot 4] \cup [100 + 1.71 \cdot 4, \infty) \\
 &= (-\infty, 93.16] \cup [106.84, \infty)
-\end{align}
+\end{align*}
 $$
 
 Como temos que $\bar{X}=110 \in RC$ pertence à região crítica, temos de rejeitar a hipótese nula.
@@ -49,11 +49,11 @@ O que ocorre é o mostrado no gráfico acima. Para calcular o p-valor de fato, b
 
 Portanto, buscamos
 $$
-\begin{align}
+\begin{align*}
 P(\bar{X} > 110) &= P\left( Z > \frac{110-100}{4} \right) \\
 &= P(Z > 2.5) \\
 &= 1 - P(Z\leq 2.5)
-\end{align}
+\end{align*}
 $$
 
 Como temos uma distribuição simétrica, multiplicamos esta probabilidade por $2$.

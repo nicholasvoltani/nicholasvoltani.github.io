@@ -8,16 +8,10 @@ up:: [[060 MOC Economia]]
 
 child:: [[062a MOC ANPEC Microeconomia]]
 
-# Conceitos Fundamentais
-- [[Cesta de Bens]]
-	- [[Preço Numerário]]
-- [[Restrição Orçamentária]]
-	- [[Custo de Oportunidade]]
-- [[Bens Substitutos]]
-- [[Bens Complementares]]
-- [[Bens Comuns]]
-- [[Bens de Giffen]]
-	- [[Todo bem de Giffen é um bem inferior]]
+related:: [[Resumo - 'Rational Fools', Amartya Sen]]
+
+# Fundamentos
+- [[Envelope Theorem]]
 
 # [[062b MOC Teoria do Consumidor]]
 

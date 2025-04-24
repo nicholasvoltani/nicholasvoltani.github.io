@@ -5,13 +5,13 @@ tags:
   - marxism
 draft: 'false'
 ---
-> "Os homens não relacionam entre si seus produtos do trabalho como valores por considerarem essas coisas meros invólucros materiais de trabalho humano de mesmo tipo.
-> Ao contrário. Porque equiparam entre si seus produtos de diferentes tipos na troca (como valores), eles **equiparam entre si seus diferentes trabalhos como trabalho humano \[abstrato\]**.
-> Eles não sabem disso, mas o fazem." (O Capital, p. 149)
 
 ![[Pasted image 20221115163631.png]]
 (Imagem do filme Love, Simon)
 
+> "Os homens não relacionam entre si seus produtos do trabalho como valores por considerarem essas coisas meros invólucros materiais de trabalho humano de mesmo tipo.
+> Ao contrário. Porque equiparam entre si seus produtos de diferentes tipos na troca (como valores), eles **equiparam entre si seus diferentes trabalhos como trabalho humano \[abstrato\]**.
+> Eles não sabem disso, mas o fazem." (O Capital, p. 149)
 
 O fetichismo da mercadoria consiste na atribuição de [[Valor|valor]] como um atributo natural, "trivial", a [[Valor de Uso|valores de uso]]. Tal caráter das [[Mercadoria]]s somente aparecem comumente numa sociedade desenvolvida plenamente (no capitalismo), ou seja, quando as mercadorias são produzidas justamente para serem vendidas (i.e. são produzidas por seu [[Valor de Troca|valor de troca]]). 
 

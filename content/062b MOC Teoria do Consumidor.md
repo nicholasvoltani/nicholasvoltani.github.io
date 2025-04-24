@@ -5,14 +5,31 @@ tags:
 ---
 up:: [[062 MOC Microeconomia]]
 
-# 0) Axiomas & Resultados Essenciais
+# Conceitos Fundamentais & Tipos de Bens
+- [[Cesta de Bens]]
+	- [[Preço Numerário]]
+- [[Restrição Orçamentária]] (Renda)
+	- [[Custo de Oportunidade]]
+- [[Bens Substitutos]]
+- [[Bens Complementares]]
+- [[Bens Normais]]
+	- [[Bens Necessários]]
+	- [[Bens de Luxo]]
+	- [[Todo bem normal é um bem ordinário]]
+- [[Bens Inferiores]]
+- [[Bens Ordinários]]
+- [[Bens de Giffen]]
+	- [[Todo bem de Giffen é um bem inferior]]
+
+# 0) Axiomas & Derivações Essenciais
 - [[Teorema de Euler da Função Homogênea]]
 - [[Lei de Walras]]
 - [[Axioma Fraco das Preferências Reveladas]]
+- [[Independência de Alternativas Irrelevantes]]
 - [[Lei da Demanda Compensada]]
-	- [[Matriz de Slutsky]]
-
-# 1) Maximização da Utilidade
+- [[Identidade de Roy]]
+- [[Lema de Shephard]]
+# 1) Preferências/Dispêndio do Consumidor
 - [[Preferências do Consumidor]]
 	- [[Preferências bem-comportadas]]
 	- [[Independência de Alternativas Irrelevantes]]
@@ -20,39 +37,33 @@ up:: [[062 MOC Microeconomia]]
 	- [[Conjunto fracamente preferido]]
 - [[Função Utilidade]]
 	- [[Utilidade Marginal]]
-	- [[Utilidade quase-linear]]
 	- [[Função de Cobb-Douglas]]
+	- [[Utilidade quase-linear]]
 	- [[Funções monotônicas preservam curvas de indiferença]]
 - [[Taxa Marginal de Substituição]]
 	- [[Dada uma restrição orçamentária, a taxa marginal de substituição é a razão das utilidades marginais]]
+- [[Função de Utilidade Indireta]]
+- [[Função Dispêndio]]
+
+# 2) Demanda (Ótima) do Consumidor $x^*$ & Curvas Associadas
 - [[Função Demanda]]
-	- [[Demanda Marshalliana]]
-	- [[Curva de Engel]]
 	- [[Curva de Demanda]]
+	- [[Demanda Marshalliana]]
+	- [[Demanda Hicksiana]]
+	- [[Curva de Engel]]
 - [[Elasticidade de Preço da Demanda]]
-	- [[Efeito Substituição]]
-	- [[Demanda Perfeitamente Elástica]]
-	- [[Demanda Perfeitamente Inelástica]]
 - [[Elasticidade de Renda da Demanda]]
-	- [[Efeito Renda]]
-	- [[Bens Normais]]
-		- [[Bens Necessários]]
-		- [[Bens de Luxo]]
-	- [[Todo bem normal é um bem comum]]
-	- [[Bens Inferiores]]
-- [[Efeito Preço]]
 - [[Curva de Renda-Consumo]]
 - [[Curva de Preço-Consumo]]
 
-# 2) Problema Dual: Minimização do Dispêndio
-- [[Função Dispêndio]]
-- [[Demanda Hicksiana]]
-	- [[Lema de Shepard]]
-- [[Função de Utilidade Indireta]]
-- [[Equação de Slutsky]]
+# 3) Estática Comparativa: Efeitos de substituição/renda/preço
+- [[Equação de Slutsky]] // [[Matriz de Slutsky]]
 	- [[Compensação de Slutsky]]
+- [[Efeito Substituição]]
+- [[Efeito Renda]]
+- [[Efeito Preço]]
 
-# 3) Loterias
+# 4) Loterias & "Incerteza"
 - [[Utilidade de von Neumann-Morgenstern]] (Aula 9 IMPA)
 - [[Paradoxo de Allais]]: contraexemplo cotidiano do axioma da independência de loterias (Aula 10 IMPA)
 - [[Aversão ao Risco]]
@@ -67,3 +78,4 @@ up:: [[062 MOC Microeconomia]]
 ### Referências
 - [Iniciação Científica: Introdução à Economia Matemática (2022) - YouTube](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTjttEZI1t-7aVeFuMYkZuI)
 - [robguena.fearp.usp.br/microIII/risco.imp.pdf](https://robguena.fearp.usp.br/microIII/risco.imp.pdf)
+- MAS-COLELL, Andreu et al. **Microeconomic theory**. New York: Oxford university press, 1995.

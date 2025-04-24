@@ -3,6 +3,7 @@ date: " 2024-08-06"
 tags:
   - economics
 aliases:
+  - Relação de Preferência
 ---
 
 up:: [[062b MOC Teoria do Consumidor]]
@@ -15,13 +16,11 @@ Dessa forma, pode-se construir as [[Curva de Indiferença]], compostas pela [[Eq
 
 Além das curvas de indiferença, podem-se construir [[Conjunto fracamente preferido]] a essas curvas. 
 
-Em Microeconomia, geralmente trata-se de [[Preferências bem-comportadas]], que satisfazem: 
-- [[Preferências bem-comportadas são monotônicas]]
-- [[Preferências bem-comportadas são convexas]]. 
+Em Microeconomia, geralmente trata-se de [[Preferências bem-comportadas]]. Pode-se falar também de [[Preferências Racionais]] e [[Preferências Consistentes]].
 
 ---
 ### References
 - VARIAN, Hal. **Microeconomia**: uma abordagem moderna. 9 ed. Elsevier, 2015.
 
-[^1]: Ou, ao menos, restringimos a análise a subconjuntos em que vale uma relação de ordem total. Sim, é *hand-wavy*...
+[^1]: Ou, ao menos, restringimos a análise a subconjuntos em que vale uma [[Totally Ordered Set|relação de ordem total]]. Sim, é *hand-wavy*... Ao mínimo é [[Partially Ordered Set|uma ordem parcial]]
 [^2]: Estamos desconsiderando a questão de **saciedade**. Pode-se pensar que é uma quantidade não-tão-grande de bens, a fim de que a saciedade "pareça estar infinitamente longe". Sim, é *hand-wavy*...

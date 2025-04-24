@@ -21,14 +21,14 @@ Questão sobre [[Teste de Hipótese]], com [[Distribuição Binomial]].
 # Cálculos
 Buscamos o [[Nível de Significância]] $\alpha$, i.e. probabilidade de erro de tipo I, de rejeitar hipótese nula quando ela é, de fato, verdadeira. Supondo que $Y \sim Bin\left( 5, \frac{1}{2} \right)$, temos
 $$
-\begin{align}
+\begin{align*}
 \alpha &= P(Y \geq 4 \mid Bin) = {5 \choose 4} \left( \frac{1}{2} \right)^{4} \frac{1}{2} + {5 \choose 5} \left( \frac{1}{2} \right)^{5} \\
 &= \frac{5 + 1}{32} \\
 &= \frac{6}{32}  \\
 &= \frac{3}{16} = \frac{3}{4} \frac{1}{4}\\
 &= \frac{0.75}{4} \\
 &\approx 0.18
-\end{align}
+\end{align*}
 $$
 
 Portanto, a resposta é $18$.

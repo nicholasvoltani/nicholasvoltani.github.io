@@ -17,6 +17,7 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 - [[Lei de Say]]
 - [[Paradoxo da Parcimônia]]
 - [[Armadilha da Liquidez]]
+- [[Princípio da Demanda Efetiva]]
 
 ## Ativos Financeiros
 - [[Overnight]]
@@ -85,18 +86,6 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 # [[061e MOC Teorias Econômicas]]
 - [[Hipótese da Renda Permanente]] (*Permanent Income Theory*, Friedman): consumidores baseiam seu consumo não (só) na sua renda atual, mas (mais) na sua *renda média a longo prazo*/renda permanente
 - [[Hipótese do Ciclo de Vida]] (*Lifecycle Theory of Consumption*, Modigliani): indivíduos acumulam ativos (poupança) no começo da vida, e os consomem ao final da vida, possuindo padrões de consumo qualitativamente distintos nestas fases da vida
-
-## Teoria Novo-Clássica 
-**Expectativas (e agentes) racionais**; redução da macroeconomia à microeconomia. 
-- [[Equivalência Ricardiana]]: 
-
-## Teoria Neokeynesiana (e.g. Stiglitz)
-- Mercados não conseguem se regular totalmente sozinhos (*podem falhar*); requer-se uma intervenção do Estado (mínima mas não-nula). Falhas de mercado podem surgir devido a:
-	- Tomadas de decisão por *informação imperfeita* / [[Assimetria de Informação]]
-
-## Teoria Novo-Keynesiana (e.g. Mankiw, Blanchard, Krugman)
-- Imperfeições de informação fazem com que preços e salários sejam "viscosos" (*sticky*), desacelerando os processos de equilibração de oferta e demanda
-	- Tais imperfeições e *lags* podem mesmo gerar choques econômicos – ciclos econômicos
 
 
 ### Referências

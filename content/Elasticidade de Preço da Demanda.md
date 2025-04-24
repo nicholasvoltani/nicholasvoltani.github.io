@@ -10,11 +10,11 @@ up:: [[062b MOC Teoria do Consumidor]]
 
 A elasticidade-preço da demanda de um bem em uma [[Cesta de Bens]] é dada por
 $$
-\epsilon = \frac{p_{0}}{q_{0}} \frac{\Delta q}{\Delta p}
+\epsilon = \frac{p_{0}}{q_{0}} \frac{\Delta q}{\Delta p} = \frac{\% \Delta q}{\% \Delta p}
 $$
 de onde partimos de $(q_{0},p_{0})$.
 
-Pela Lei de Demanda usual, temos que $\frac{\Delta q}{\Delta p} < 0$, de tal forma que a elasticidade-preço é sempre negativa.
+Pela Lei de Demanda **usual**, temos que $\frac{\Delta q}{\Delta p} < 0$, de tal forma que a elasticidade-preço costuma ser negativa. **Porém**, existem bens que possuem elasticidade-preço **positiva**, ditos [[Bens de Giffen]].
 
 # Demanda Perfeitamente Elástica: Substitutos perfeitos
 Quando temos que dois bens são [[Bens Substitutos|Substitutos Perfeitos]] uns dos outros, temos que o aumento do preço de um induz com que sua demanda seja $0$ – em favor de seu substituto perfeito, pois não há motivo para gastar mais dinheiro em algo equivalente!

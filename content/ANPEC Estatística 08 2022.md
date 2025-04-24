@@ -12,10 +12,10 @@ up:: [[064a MOC ANPEC Estatística]]
 # Cálculos preliminares
 Sabe-se que a [[Covariância]] é relacionada à [[Correlação]] como
 $$
-\begin{align}
+\begin{align*}
 Cov(X_{i}, X_{i+1}) &= \sigma^{2} Corr(X_{i},X_{i+1})  \\
 &= \sigma^{2}\rho
-\end{align}
+\end{align*}
 $$
 Lembrando também que ambas as operações são comutativas em seus argumentos ($X_{i} \leftrightarrow X_{i+1}$).
 
@@ -25,10 +25,10 @@ O valor esperado da soma é sempre a soma dos valores esperados, independente da
 # Item 1
 Pela definição de variância,
 $$
-\begin{align}
+\begin{align*}
 \mathbb{E}[X_{i}^{2}] &= \text{Var}(X_{i}) - \mathbb{E}[X_{i}]^{2} \\
 &= \sigma^{2} - \mu^{2}
-\end{align}
+\end{align*}
 $$
 Portanto,
 $$
@@ -38,17 +38,17 @@ $$
 # Item 2
 Pela definição de [[Covariância]], 
 $$
-\begin{align}
+\begin{align*}
 Cov(X_{i},X_{i+1}) &= \mathbb{E}[(X_{i}-\mu)(X_{i+1}-\mu)]  \\
 &= \mathbb{E}[X_{i}X_{i+1}] - \mu^{2}
-\end{align}
+\end{align*}
 $$
 Por hipótese, $Cov(X_{i},X_{i+1}) = \rho \sigma^{2}$. Portanto,
 $$
-\begin{align}
+\begin{align*}
 \mathbb{E}[X_{i}X_{i+1}] = \rho \sigma^{2} + \mu^{2} \\
 \implies \sum_{i=1}^{n-1} \mathbb{E}[X_{i}X_{i+1}] = (n-1)(\rho \sigma^{2}+\mu^{2})
-\end{align}
+\end{align*}
 $$
 
 # Item 3
@@ -61,11 +61,11 @@ $$
 
 Através da covariância, temos
 $$
-\begin{align}
+\begin{align*}
 \text{Var}(\hat{\mu}) &= \frac{1}{4}(\mathbb{E}[X_{1}^{2}+X_{2}^{2}] + 2 \mathbb{E}[X_{1}X_{2}]) - \mu^{2} \\
 &= \frac{1}{2}( (\sigma^{2}-\cancel{ \mu^{2} })+ \rho \sigma^{2}+\cancel{ \mu^{2} }) - \mu^{2} \\ 
 &= \frac{1}{2}(1+\sigma^{2})\rho - \mu^{2}
-\end{align}
+\end{align*}
 $$
 
 O gabarito indica que o resultado é $\frac{1}{2}(1+\sigma^{2})\rho$, mas não parece o caso...
@@ -78,12 +78,12 @@ $$
 
 Tomando o valor esperado, temos
 $$
-\begin{align}
+\begin{align*}
 \mathbb{E}[\hat{\sigma}^{2}] &= \frac{1}{4}\mathbb{E}[X_{1}^{2}+X_{2}^{2}] - \frac{1}{2}\mathbb{E}[X_{1}X_{2}] \\
 &=\frac{1}{2}(\sigma^{2}-\mu^{2}) - \frac{1}{2}(\rho \sigma^{2}+\mu^{2}) \\
 &=\frac{1}{2}(1-\rho)\sigma^{2} - \frac{\mu^{2}}{2} \\
 &\neq \sigma^{2}
-\end{align}
+\end{align*}
 $$
 
 Portanto, $\hat{\sigma}^2$ não é um [[Estimador Não-Enviesado]].

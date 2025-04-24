@@ -43,11 +43,11 @@ $$
 
 Porém, o item possui um menor **ou igual**. Portanto, seria algo do tipo[^1]
 $$
-\begin{align}
+\begin{align*}
 P(X \geq 8 \mid X>4) &= P(X > 4 + 4 \mid X > 4) + P(X=8 \mid X>4) \\
 &= P(X > 4) + P(X=8) \\
 &\neq P(X>4)
-\end{align}
+\end{align*}
 $$
 
 

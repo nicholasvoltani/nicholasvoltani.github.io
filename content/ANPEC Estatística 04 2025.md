@@ -13,24 +13,24 @@ O exercício é de *urna sem reposição*. Sejam $D$ e $E$ o número de desempre
 
 Deseja-se encontrar $P(D=2, E=2)$. Assumindo que não há diferença entre as pessoas selecionadas, haverá um fator combinatorial $4 \choose{2}$. A probabilidade da possibilidade de obter 2 desempregados e 2 empregados consecutivamente é[^1]
 $$
-\begin{align}
+\begin{align*}
 P(D_{1}=1, D_{2}=1, D_{3}=0, D_{4}=0) &=  \\
 P(D_{1}=1)  \\
 \times P(D_{2}=1 \mid D_{1}=1)  \\
 \times P(D_{3}=0 \mid D_{1}=1, D_{2}=1) \\
 \times P(D_{4}=0 \mid D_{3}=0, D_{1}=1, D_{2}=1) \\
 =\frac{4}{10} \frac{3}{9} \frac{6}{8} \frac{5}{7}
-\end{align}
+\end{align*}
 $$
 
 Multiplicando pelo fator combinatorial, temos
 $$
-\begin{align}
+\begin{align*}
 P(D=2, E=2) &= {4 \choose{2}} \frac{2}{\cancel{ 5 }} \frac{1}{\cancel{ 3 }} \frac{\cancel{ 3 }}{4} \frac{\cancel{ 5 }}{7} \\
 &= \frac{\cancel{ 2 } \cdot 3 \cdot \cancel{ 2 }}{\cancel{ 4 } \cdot 7}  \\
 &= \frac{3}{7} \\
 &\approx 0.42
-\end{align}
+\end{align*}
 $$
 
 Portanto, a resposta é $42$.

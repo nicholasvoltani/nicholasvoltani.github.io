@@ -11,7 +11,9 @@ up:: [[index]]
 
 # Tópicos
 - [[Substância]]
-- [[Matéria]] & [[Forma]] 
+- [[Matéria]]
+- [[Forma]] & [[Conteúdo]]
+- [[Essência]] & [[Aparência]]
 - [[Qualidade]] (?)
 
 

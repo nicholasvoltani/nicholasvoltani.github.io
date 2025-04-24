@@ -19,7 +19,9 @@ A curva de Phillips é uma relação entre a [[Inflação]] e o [[Desemprego]], 
 $$
 \pi = \pi^{e} - \phi (u - u_{N})
 $$
-onde $\phi > 0$, $\pi^{e}$ é a inflação **esperada**, $u$ é a taxa de desemprego e $u_{N}$ é a [[Taxa Natural de Desemprego]]. Esta versão que inclui expectativas de inflação é também chamada de [[Curva de Phillips Aceleracionista]], ou curva de Phillips-Phelps.
+onde $\phi > 0$, $\pi^{e}$ é a inflação **esperada**, $u$ é a taxa de desemprego e $u_{N}$ é a [[Taxa Natural de Desemprego]]. 
+
+A versão que inclui expectativas de inflação é chamada de [[Curva de Phillips Aceleracionista]], ou curva de Phillips-(Friedman-)Phelps.
 
 ---
 ### References

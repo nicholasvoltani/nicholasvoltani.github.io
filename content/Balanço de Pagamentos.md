@@ -3,6 +3,7 @@ date: " 2024-08-14"
 tags:
   - economics
 aliases:
+  - Balança de Pagamentos
 ---
 
 up:: [[061 MOC Macroeconomia]]

@@ -22,8 +22,6 @@ up:: [[061 MOC Macroeconomia]]
 			- [[Desemprego Estrutural]]
 			- [[Trabalhador Desencorajado]]
 		- [[Taxa Natural de Desemprego]]
-
-# Economia a médio-prazo
 - [[Markup]]
 - [[Lei de Okun]]
 - [[Curva de Oferta Agregada Clássica]]

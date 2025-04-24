@@ -27,4 +27,4 @@ $$
 - [Life-Cycle Hypothesis - Economics Help](https://www.economicshelp.org/blog/27080/concepts/life-cycle-hypothesis/)
 - [What Is the Life-Cycle Hypothesis in Economics?](https://www.investopedia.com/terms/l/life-cycle-hypothesis.asp)
 
-[^1]: Isso é um padrão da [[Economia Neoclássica]]: de formular hipóteses e restringir-se a verificar se elas se aplicam à realidade ou não, sem muita preocupação com a plausibilidade "racional" da hipótese em si.
+[^1]: Isso é um padrão da [[Teoria Neoclássica]]: de formular hipóteses e restringir-se a verificar se elas se aplicam à realidade ou não, sem muita preocupação com a plausibilidade "racional" da hipótese em si.

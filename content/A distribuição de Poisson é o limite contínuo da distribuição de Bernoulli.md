@@ -26,10 +26,10 @@ P(X=k) = \left( \frac{n!}{(n-k)!} \frac{1}{n^{k}}\right) \frac{\lambda^{k}}{k!} 
 $$
 Tomando o limite em que $n \to \infty$ – que é o mesmo que tomar "intervalos infinitesimais" dentro dos quais a distribuição de Bernoulli ocorre –, temos[^1]
 $$
-\begin{align}
+\begin{align*}
 \lim\limits_{n \to \infty} P(X=k) &= \frac{\lambda^{k}}{k!} \lim\limits_{n \to \infty} \cancelto{1}{ \left( \frac{n!}{(n-k)!} \frac{1}{n^{k}}\right) }\lim\limits_{n \to \infty}  \left( 1-\frac{\lambda}{n} \right)^{n} \\
 &= \frac{\lambda^{k}}{k!} e^{ -\lambda}
-\end{align}
+\end{align*}
 $$
 
 Portanto, a distribuição de Poisson é definida como

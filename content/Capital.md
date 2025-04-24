@@ -18,7 +18,7 @@ O [[Processo de Produção Capitalista]] apropria-se do [[Processo de Trabalho|P
 ## Formas de manifestação
 > "Meios de produção, de um lado, e força de trabalho, do outro, não são mais do que diferentes **formas de existência** que o valor do capital originário assume ao se despojar de sua forma-dinheiro e se converter nos **fatores do processo de produção**." (MARX, p. 286)
 
-O capital manifesta-se, no campo da produção, em duas formas:
+O capital manifesta-se, no [[Ciclo do Capital Produtivo|campo da produção]], em duas formas:
 - [[Capital Constante]], que constitui as componentes do valor a ser produzido, mas que não o alteram (representada em formas de **trabalho pretérito/"morto"**); ou seja, pode tratar-se de [[Matéria-Prima]] e [[Meios de Produção]]
 - [[Capital Variável]], que constitui as componentes que **incutem (mais-)valor** no processo de produção (representada pela força de trabalho, **trabalho "vivo"**)
 

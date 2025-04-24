@@ -3,6 +3,8 @@ date: " 2024-08-16"
 tags:
   - economics
 aliases:
+  - Mercado Perfeitamente Competitivo
+  - Mercados Perfeitamente Competitivos
 ---
 
 up:: [[062 MOC Microeconomia]]

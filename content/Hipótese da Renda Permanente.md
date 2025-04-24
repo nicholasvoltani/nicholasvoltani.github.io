@@ -18,4 +18,4 @@ A própria renda permanente pode mudar ao longo da vida de um indivíduo, confor
 - GREMAUD, Amaury Patrick; VASCONCELLOS, Marco Antonio Sandoval de; TONETO JÚNIOR, Rudinei. **Economia brasileira contemporânea**. 2004. 7a edição.
 - [Permanent Income Hypothesis: Definition, How It Works, and Impact](https://www.investopedia.com/terms/p/permanent-income-hypothesis.asp)
 
-[^1]: [[Economia Neoclássica]], pela qual pode-se entender a hipótese em si: ela busca postular uma ideia e verificar sua plausibilidade "experimentalmente", invés de buscar deduzir um motivo racional para que ela seja plausível.
+[^1]: [[Teoria Neoclássica]], pela qual pode-se entender a hipótese em si: ela busca postular uma ideia e verificar sua plausibilidade "experimentalmente", invés de buscar deduzir um motivo racional para que ela seja plausível.

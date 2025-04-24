@@ -5,9 +5,10 @@ tags:
 aliases:
 ---
 
-up:: [[062e MOC Teoria dos Jogos]]
+up:: [[062e MOC Teoria dos Jogos]] // [[062 MOC Microeconomia]]
 
-![[Pasted image 20241030101948.png]]Fonte: [(18/02/2022) - Iniciação Científica: Introdução à Economia Matemática - Campo Elias - Aula 17 - YouTube](https://youtu.be/Gx9_2z1tsXI?list=PLo4jXE-LdDTTjttEZI1t-7aVeFuMYkZuI&t=3205) (Mas-Colell?)
+![[Pasted image 20250403195833.png]]
+Fonte: [Edgeworth box - Wikipedia](https://en.wikipedia.org/wiki/Edgeworth_box)
 
 # Relação com curvas de indiferença
 ![[Pasted image 20241030102155.png]]Fonte: [(18/02/2022) - Iniciação Científica: Introdução à Economia Matemática - Campo Elias - Aula 17 - YouTube](https://youtu.be/Gx9_2z1tsXI?list=PLo4jXE-LdDTTjttEZI1t-7aVeFuMYkZuI&t=4297)

@@ -20,12 +20,12 @@ $$
 Já se sabe de cara que é falsa, pois o valor esperado de $X$ é $\frac{1}{\lambda}$ – ou seja, $\lambda$ possui unidade do inverso de $X$. Espera-se que $Var(X) \sim \frac{1}{\lambda^{2}}$.
 
 $$
-\begin{align}
+\begin{align*}
 \mathbb{E}[X^{2}] &= \int_{0}^{\infty} \lambda x^{2}\underbrace{ e^{-\lambda x }dx }_{ \equiv du } \\
 &= -\int_{0}^{\infty }2x \underbrace{ e^{ -\lambda x }dx }_{ \equiv du }  \\
 &= -\frac{2}{\lambda^{2}}\int_{0}^{\infty}e^{ -\lambda x }dx \\
 &=\frac{2}{\lambda^{2}}
-\end{align}
+\end{align*}
 $$
 
 Logo,
