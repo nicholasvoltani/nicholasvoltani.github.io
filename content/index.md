@@ -34,6 +34,8 @@ Maps of Content are aggregations of notes with the same "theme". Here's the main
 - [[00 MOC Personal Knowledge Management]]
 - [[010 MOC Marxism]]
 	- [[011a MOC Capital I]]
+	- [[011b MOC Capital II]]
+	- [[011c MOC Capital III]]
 	- [[012 MOC Ideologia Alemã]]
 	- [[013 MOC Lukács]]
 	- [[014 MOC Método]]
@@ -57,6 +59,7 @@ Maps of Content are aggregations of notes with the same "theme". Here's the main
 	- [[063 MOC Economia Brasileira]]
 - [[070 MOC Philosophy]]
 	- [[071 MOC Teoria do Conhecimento e Filosofia da Ciência]]
+	- [[072 MOC Realismo Crítico]]
 - [[090 MOC Languages]]
 	- [[091 MOC Deutsch]]
 

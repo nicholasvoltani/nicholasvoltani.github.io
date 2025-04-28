@@ -10,7 +10,9 @@ up:: [[061 MOC Macroeconomia]]
 ![[Pasted image 20240811184358.png]]
 Fonte: BLANCHARD, JOHNSON, p. 91.
 
-A curva LM, do inglês *liquidity money*, ocorre quando a demanda total de moeda é igual à oferta de moeda. É a condição de **equilíbrio do mercado de ativos**.
+A curva LM, do inglês *liquidity money*, ocorre quando a demanda total de moeda ([[Preferência por Liquidez]]) é igual à oferta de moeda. É a condição de **equilíbrio do mercado de ativos**.
+
+Geralmente toma-se que a oferta de moeda $M_{s}$ é exógena, i.e. ditada pelas [[Banco Central|autoridades monetárias]]. Geralmente isso se dá pela "fixação" de uma [[Taxa de Juros]]. 
 
 
 ---

@@ -8,6 +8,7 @@ up:: [[index]]
 
 # Related MOCs
 - [[071 MOC Teoria do Conhecimento e Filosofia da Ciência]]
+- [[072 MOC Realismo Crítico]]
 
 # Tópicos
 - [[Substância]]

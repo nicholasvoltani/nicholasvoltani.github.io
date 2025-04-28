@@ -11,10 +11,9 @@ up:: [[index]]
 > 
 > So a website with a link that says '**now**' goes to a page that tells you **what this person is focused on at this point in their life.** For short, we call it a 'now page'." (Derek Sivers, in [nownownow.com](https://nownownow.com/about))
 
-
 # 2025
 ## April 2025
-Basically focused on my Master's. **A lot** of reading to do, and not enough time/energy for it. 
+Basically focused on my Master's. **A lot** of reading to do, and not enough time/energy for it. A lot of activity in [[060 MOC Economia]] and [[011b MOC Capital II]].
 
 **Interesting content of the month**:
 - [How oyster beds can rebuild New York harbor \| WILD HOPE (Nature on PBS)](https://www.youtube.com/watch?v=YD7LlpKGEnY)
@@ -23,6 +22,11 @@ Basically focused on my Master's. **A lot** of reading to do, and not enough tim
 	- [Inside Africa's Food Forest Mega-Project (Andrew Milligan)](https://www.youtube.com/watch?v=xbBdIG--b58)
 	- Also related: [How Trees Bring Water (Andrew Milligan)](https://www.youtube.com/watch?v=oY8ds4BiG1A) ([[Biotic Pump]])
 - [Talking with Contrapoints - Gender Identity, Judgement, & YouTube (Dr. K.)](https://www.youtube.com/watch?v=cKrxP44Gp_0)
+- [How philanthropists are destroying African farms (It's Complicated/The Guardian))](https://www.youtube.com/watch?v=KO3-xkVACgE) (color me surprised...)
+- [Serj Tankian Eats His Last Meal (Mythical Kitchen)](https://www.youtube.com/watch?v=Mo5JVuW4_qk)
+- [Existential Crisis in Class (WhatsItLike)](https://www.youtube.com/watch?v=NESBtODxNVA)
+> - [How To Use Zotero In Obsidian To Simplify Research 📚 + Research Rabbit (Wanderloots)](https://www.youtube.com/watch?v=ScXGpZRZ7Ck) **GAMECHANGER!!!** Will try to implement it in my own workflow.
+- [The Manipulator's Sneaky Math to Beat Chaos (Braintruffle)](https://www.youtube.com/watch?v=-jF9gW2r_bk)
 
 ## March 2025
 My Master's degree begins this month! I've moved to Niterói on March 20th, and my classes begin on March 24th.

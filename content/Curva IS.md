@@ -10,7 +10,7 @@ up:: [[061 MOC Macroeconomia]]
 ![[Pasted image 20241211130901.png]]
 Fonte: [Macroeconomia 103 Demanda Agregada Curva IS - YouTube](https://youtu.be/XMdaYY2z7BA?list=PLT4EcyyDiDfs7KbIdVLwsxmld3yo9S1FW&t=1031)
 
-A curva IS, do inglês *investment saving*, descreve a relação entre o [[Produto Agregado]] e as [[Taxa de Juros|Taxas de Juros]]. Trata-se do **equilíbrio no mercado de bens**.
+A curva IS, do inglês *investment = saving*, descreve a relação entre o [[Produto Agregado]] e as [[Taxa de Juros|Taxas de Juros]]. Trata-se do **equilíbrio no mercado de bens**.
 
 A curva em si vem da intersecção da [[Despesa Agregada|Demanda Agregada]] com o [[Produto Agregado]], ou seja, de quando a demanda efetiva é igual à produção efetiva[^1]. 
 

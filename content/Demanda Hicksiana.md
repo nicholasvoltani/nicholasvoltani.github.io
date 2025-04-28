@@ -39,3 +39,4 @@ A relação entre demanda hicksiana e demanda walrasiana é dada pela [[Equaçã
 ---
 ### References
 - MAS-COLELL, Andreu et al. **Microeconomic theory**. New York: Oxford university press, 1995.
+- [Deriving Compensated (Hicksian) Demand Functions - YouTube](https://www.youtube.com/watch?v=lq9w2qyNk1A)

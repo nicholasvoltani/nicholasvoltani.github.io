@@ -5,6 +5,9 @@ tags:
 ---
 up:: [[062 MOC Microeconomia]]
 
+related:: [[Resumo - 'Rational Fools', Amartya Sen]]
+
+
 # Conceitos Fundamentais & Tipos de Bens
 - [[Cesta de Bens]]
 	- [[Preço Numerário]]
@@ -79,3 +82,4 @@ up:: [[062 MOC Microeconomia]]
 - [Iniciação Científica: Introdução à Economia Matemática (2022) - YouTube](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTjttEZI1t-7aVeFuMYkZuI)
 - [robguena.fearp.usp.br/microIII/risco.imp.pdf](https://robguena.fearp.usp.br/microIII/risco.imp.pdf)
 - MAS-COLELL, Andreu et al. **Microeconomic theory**. New York: Oxford university press, 1995.
+- VARIAN, Hal R. **Intermediate microeconomics: a modern approach**. 9 ed. W. W. Norton, 2014.

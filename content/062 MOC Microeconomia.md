@@ -8,8 +8,6 @@ up:: [[060 MOC Economia]]
 
 child:: [[062a MOC ANPEC Microeconomia]]
 
-related:: [[Resumo - 'Rational Fools', Amartya Sen]]
-
 # Fundamentos
 - [[Envelope Theorem]]
 
@@ -82,7 +80,7 @@ related:: [[Resumo - 'Rational Fools', Amartya Sen]]
 
 ---
 ## Referências
-- VARIAN, Hal. **Microeconomia**: uma abordagem moderna. 9 ed. Elsevier, 2015.
+- VARIAN, Hal R. **Intermediate microeconomics: a modern approach**. 9 ed. W. W. Norton, 2014.
 - VASCONCELLOS, Marco Antonio Sandoval de. **Economia: micro e macro**. 6 ed.
 - [MIT 14.01 Principles of Microeconomics, Fall 2018 - MIT OpenCourseWare (Jonathan Gruber)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-)
 - [MIT 14.04 Intermediate Microeconomic Theory, Fall 2020 - MIT OpenCourseWare (Robert Townsend)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63wnrKge9vllow3Y2OOOKqF)

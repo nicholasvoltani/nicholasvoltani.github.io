@@ -8,6 +8,7 @@ tags:
 up:: [[061 MOC Macroeconomia]]
 
 # Fundamentos
+- [[Preferência por Liquidez]]
 - [[Banco Central]]
 - [[Base Monetária]] / M1
 	- [[M2]]

@@ -2,8 +2,7 @@
 date: " 2024-10-25"
 tags:
   - economics
-aliases:
-  - Efeito Riqueza
+aliases: []
 ---
 
 up:: [[062b MOC Teoria do Consumidor]]

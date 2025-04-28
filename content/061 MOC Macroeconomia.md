@@ -61,7 +61,10 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 		- [[Teorema do Orçamento Equilibrado]]
 	- [[Curva IS]]
 		- [[Equilíbrio no Mercado de Bens (Economia Fechada)]]
+			- [[A inclinação da curva IS é inversamente proporcional à elasticidade-juros dos investimentos]]
 	- [[Curva LM]]
+		- [[A inclinação da curva LM é proporcional à elasticidade-renda da demanda por moeda]]
+		- [[A inclinação da curva LM é inversamente proporcional à elasticidade-juros da demanda por moeda]]
 
 ## Economia Aberta
 - [[Curva BP]]
@@ -87,7 +90,7 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 - [[Hipótese da Renda Permanente]] (*Permanent Income Theory*, Friedman): consumidores baseiam seu consumo não (só) na sua renda atual, mas (mais) na sua *renda média a longo prazo*/renda permanente
 - [[Hipótese do Ciclo de Vida]] (*Lifecycle Theory of Consumption*, Modigliani): indivíduos acumulam ativos (poupança) no começo da vida, e os consomem ao final da vida, possuindo padrões de consumo qualitativamente distintos nestas fases da vida
 
-
+---
 ### Referências
 - GREMAUD, Amaury Patrick; VASCONCELLOS, Marco Antonio Sandoval de; TONETO JÚNIOR, Rudinei. **Economia brasileira contemporânea**. 2004. 7a edição.
 - LOPES, Luiz Martins et al. **Manual de macroeconomia: nível básico e nível intermediário**. 1997.
