@@ -20,7 +20,7 @@ Derivando com relação a $\alpha$ e tomando $\alpha=1$ ao final, temos
 $$
 \begin{align*}
 \frac{ \partial x_{l} }{ \partial w } w &= x_{l} \\
-\therefore \frac{ \partial x_{l} }{ \partial w } \frac{x_{l}}{w} \equiv \epsilon_{lw} &= 1
+\therefore \frac{ \partial x_{l} }{ \partial w } \frac{w}{x_{l}} \equiv \epsilon_{lw} &= 1
 
 \end{align*}
 $$
@@ -30,7 +30,7 @@ Vetorialmente, temos[^2]
 $$
 \nabla_{w} x = \frac{x}{w}
 $$
-Sendo $w$ dado, tomando $\alpha = \frac{1}{w}$, temos
+Sendo $w$ dado (assim como $p$), tomando $\alpha = \frac{1}{w}$, temos
 $$
 \nabla_{w} x = \frac{1}{w} x(p, 1)
 $$
@@ -43,7 +43,7 @@ $$
 x_{1} = \frac{w}{p_{1}}
 $$
 
-Logo, $\frac{ \partial x_{1} }{ \partial w } = \frac{1}{p_{1}}$ é a inclinação da curva de Engel de (dois) bens substitutos perfeitos.
+Logo, $\frac{ \partial x_{1} }{ \partial w } = \frac{1}{p_{1}}$ é a inclinação da curva de Engel de bens substitutos perfeitos.
 
 2) [[Bens Complementares|Complementares Perfeitos]]
 Supondo-se bens complementares $1:1$, temos que $x_{1}=x_{2}\equiv x$. Pela restrição orçamentária, teremos

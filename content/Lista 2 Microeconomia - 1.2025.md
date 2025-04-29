@@ -108,33 +108,37 @@ $$
 ### Elasticidades de substituição
 ![[Pasted image 20250424162324.png|500]]
 
-Note-se que há um erro no enunciado: o correto é 
+A elasticidade de substituição de $x_{1}$ por $x_{2}$ é definida como:
 $$
-\xi_{12}(p, w) = \frac{ \partial x_{1}/x_{2} }{ \partial \color{red} p_{2}/p_{1} } \frac{\color{red} p_{2}/p_{1}}{x_{1}/x_{2}} 
+\xi_{12}(p, w) = \frac{ \partial x_{1}/x_{2} }{ \partial p_{1}/p_{2} } \frac{ p_{1}/p_{2}}{x_{1}/x_{2}} 
 $$
-pois, em verdade, se está falando da elasticidade no tocante à [[Taxa Marginal de Substituição]]:
+Em verdade, se está falando da elasticidade no tocante à [[Taxa Marginal de Substituição]]:
 $$
-\xi_{12}(p, w) = \frac{ \partial \ln (\frac{x_{1}}{x_{2}}) }{ \partial \ln(TMS_{21}) } 
+\xi_{12}(p, w) = \frac{ \partial \ln (\frac{x_{1}}{x_{2}}) }{ \partial \ln(TMS_{12}) } 
 $$
+
+Note-se que ela geralmente é **negativa**, pois, conforme se aumenta o preço relativo $\frac{p_{1}}{p_{2}}$ (p. ex. $p_{1}$ aumentando conforme $p_{2}=const$), a demanda relativa $\frac{x_{1}}{x_{2}}$ aumenta[^5]; portanto, aumentar um **diminui** o outro, e a elasticidade fica negativa.
 
 No caso geral da função CES (com $\alpha_{1} = \alpha_{2}$), tem-se que
 $$
-\frac{x_{1}}{x_{2}} = \left( \frac{p_{1}}{p_{2}} \right)^{\delta-1} = \left( \frac{p_{2}}{p_{1}} \right)^{1-\delta}
+\frac{x_{1}}{x_{2}} = \left( \frac{p_{1}}{p_{2}} \right)^{\delta-1}
 $$
-Derivando com relação a $\frac{p_{2}}{p_{1}}$, tem-se
+Derivando com relação a $\frac{p_{1}}{p_{2}}$, tem-se
 $$
-\frac{ \partial \left( \frac{x_{1}}{x_{2}} \right) }{ \partial \left( \frac{p_{2}}{p_{1}} \right) } = (1-\delta) \left( \frac{p_{2}}{p_{1}} \right)^{-\delta} 
+\frac{ \partial \left( \frac{x_{1}}{x_{2}} \right) }{ \partial \left( \frac{p_{1}}{p_{2}} \right) } = (\delta-1) \left( \frac{p_{1}}{p_{2}} \right)^{\delta-2} 
 $$
 Portanto, a elasticidade de substituição fica
 $$
-\xi_{12}(p,w) = (1-\delta) \cancel{ \frac{\left( \frac{p_{2}}{p_{1}} \right)^{-\delta} \frac{p_{1}}{p_{2}}}{\left( \frac{p_{2}}{p_{1}} \right)^{1-\delta}} }
+\xi_{12}(p,w) = (\delta - 1) \cancel{ \frac{\left( \frac{p_{1}}{p_{2}} \right)^{\delta - 2} \frac{p_{1}}{p_{2}}}{\left( \frac{p_{2}}{p_{1}} \right)^{\delta - 1}} }
 $$
 Reabrindo com relação ao parâmetro original da CES, tem-se
 $$
-\xi_{12}(p,w) = 1-\delta = \frac{1}{1-\rho}
+\xi_{12}(p,w) = \delta - 1 = \frac{1}{\rho - 1} \left( = - \frac{1}{1 - \rho} \right)
 $$
 
-Para a utilidade linear, $x_{12} \to \infty$; para Cobb-Douglas, $\xi_{12} \to 1$; e para Leontief, $\xi_{12} \to 0$. 
+Para a utilidade linear, $\xi_{12} \to - \infty$; para Cobb-Douglas, $\xi_{12} \to -1$; e para Leontief, $\xi_{12} \to 0$. 
+
+
 
 ---
 ### References
@@ -146,3 +150,4 @@ Para a utilidade linear, $x_{12} \to \infty$; para Cobb-Douglas, $\xi_{12} \to 1
 [^2]: Não creio que seja correto fazer ambos iguais a $1$, pois (ao que parece) deve-se ter $\alpha_{1}+\alpha_{2}=1$. De qualquer forma, quer dizer a mesma coisa: ambos $x_{1}$ e $x_{2}$ possuem mesmo "peso".
 [^3]: Caso $p_{1} \neq p_{2}$, então $\left( \frac{p_{1}}{p_{2}} \right)^\delta$ ou $\left( \frac{p_{2}}{p_{1}} \right)^\delta$ vai divergir conforme $\delta \to -\infty$, caso $p_{1}<p_{2}$ ou $p_{1} > p_{2}$ respectivamente. Caso $p_{1}=p_{2}$, não faz diferença alguma intercambiar $x_{1}$ por $x_{2}$, sendo qualquer combinação convexa de ambos equivalente.
 [^4]: De novo, [[Funções monotônicas preservam curvas de indiferença]].
+[^5]: Para [[Bens Normais]], que são o mais comum. Para [[Bens de Giffen]], seria positivo: aumentar o preço relativo aumentaria a demanda relativa.
