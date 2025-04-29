@@ -17,7 +17,13 @@ $$
 é linear quando $\rho = 1$, e converge para a [[Função de Cobb-Douglas]] quando $\rho \to 0$. 
 **Suponha-se também que $\sum_{i} \alpha_{i} = 1$.**
 
-Para verificar isso, podemos tomar o logaritmo, pois [[Funções monotônicas preservam curvas de indiferença]]:
+Para verificar isso, podemos fazer a sequência de operações[^6]
+$$
+\ln \to \lim_{ \rho \to 0 } \to \exp \iff \lim_{ \rho \to 0 } 
+$$
+
+
+
 $$
 \tilde{u}_{\rho}(x) \equiv \ln(u(x)) = \frac{1}{\rho} \ln(\alpha_{1} x_{1}^\rho + \alpha_{2}x_{2}^\rho)
 $$
@@ -144,10 +150,11 @@ Para a utilidade linear, $\xi_{12} \to - \infty$; para Cobb-Douglas, $\xi_{12} \
 ### References
 - VARIAN, Hal R. **Intermediate microeconomics: a modern approach**. 9 ed. W. W. Norton, 2014.
 - [Constant elasticity of substitution - Wikipedia](https://en.wikipedia.org/wiki/Constant_elasticity_of_substitution)
-	- [CES: Production function: Elasticity of substitution $\\sigma = 1/(1 + \\rho)$ - Economics Stack Exchange](https://economics.stackexchange.com/questions/11412/ces-production-function-elasticity-of-substitution-sigma-1-1-rho)
+	- [CES: Production function: Elasticity of substitution \$\\sigma = 1/(1 + \\rho)\$ - Economics Stack Exchange](https://economics.stackexchange.com/questions/11412/ces-production-function-elasticity-of-substitution-sigma-1-1-rho)
 
 [^1]: Notação para simplicidade: $\partial_{i}u \equiv \frac{ \partial u }{ \partial x_{i} }$.
 [^2]: Não creio que seja correto fazer ambos iguais a $1$, pois (ao que parece) deve-se ter $\alpha_{1}+\alpha_{2}=1$. De qualquer forma, quer dizer a mesma coisa: ambos $x_{1}$ e $x_{2}$ possuem mesmo "peso".
 [^3]: Caso $p_{1} \neq p_{2}$, então $\left( \frac{p_{1}}{p_{2}} \right)^\delta$ ou $\left( \frac{p_{2}}{p_{1}} \right)^\delta$ vai divergir conforme $\delta \to -\infty$, caso $p_{1}<p_{2}$ ou $p_{1} > p_{2}$ respectivamente. Caso $p_{1}=p_{2}$, não faz diferença alguma intercambiar $x_{1}$ por $x_{2}$, sendo qualquer combinação convexa de ambos equivalente.
 [^4]: De novo, [[Funções monotônicas preservam curvas de indiferença]].
 [^5]: Para [[Bens Normais]], que são o mais comum. Para [[Bens de Giffen]], seria positivo: aumentar o preço relativo aumentaria a demanda relativa.
+[^6]: Isso é o que chamam em Teoria de Grupos de [conjugação](https://en.wikipedia.org/wiki/Conjugacy_class), i.e. dado um elemento $g$, fazemos $h^{-1} \cdot g \cdot h$ com algum $h$. Nesse caso, com a expectativa de que $h^{-1} \cdot g \cdot h = g$: tirar o $\log$, tomar o limite, e re-exponenciar, é o mesmo que tomar o limite, *pois as funções são contínuas e bem-definidas no domínio das cestas de bens $\mathbb{R}_{+}^L$*.
