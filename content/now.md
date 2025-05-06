@@ -13,7 +13,7 @@ up:: [[index]]
 
 # 2025
 ## April 2025
-Basically focused on my Master's. **A lot** of reading to do, and not enough time/energy for it. A lot of activity in [[060 MOC Economia]] and [[011b MOC Capital II]].
+Basically focused on my Master's. **A lot** of reading to do, and not enough time/energy for it. A lot of activity in [[060 MOC Economia]] and [[011b MOC Capital II]]. Also got rejected from Santa Fe Institute's 2025 Complexity Global School. Oh joy!
 
 **Interesting content of the month**:
 - [How oyster beds can rebuild New York harbor \| WILD HOPE (Nature on PBS)](https://www.youtube.com/watch?v=YD7LlpKGEnY)

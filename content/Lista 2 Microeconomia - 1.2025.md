@@ -151,6 +151,7 @@ Para a utilidade linear, $\xi_{12} \to - \infty$; para Cobb-Douglas, $\xi_{12} \
 - VARIAN, Hal R. **Intermediate microeconomics: a modern approach**. 9 ed. W. W. Norton, 2014.
 - [Constant elasticity of substitution - Wikipedia](https://en.wikipedia.org/wiki/Constant_elasticity_of_substitution)
 	- [CES: Production function: Elasticity of substitution \$\\sigma = 1/(1 + \\rho)\$ - Economics Stack Exchange](https://economics.stackexchange.com/questions/11412/ces-production-function-elasticity-of-substitution-sigma-1-1-rho)
+- [econ.ucsb.edu/\~tedb/Courses/GraduateTheoryUCSB/elasticity\_of\_substitution2015.pdf](https://www.econ.ucsb.edu/~tedb/Courses/GraduateTheoryUCSB/elasticity_of_substitution2015.pdf)
 
 [^1]: Notação para simplicidade: $\partial_{i}u \equiv \frac{ \partial u }{ \partial x_{i} }$.
 [^2]: Não creio que seja correto fazer ambos iguais a $1$, pois (ao que parece) deve-se ter $\alpha_{1}+\alpha_{2}=1$. De qualquer forma, quer dizer a mesma coisa: ambos $x_{1}$ e $x_{2}$ possuem mesmo "peso".

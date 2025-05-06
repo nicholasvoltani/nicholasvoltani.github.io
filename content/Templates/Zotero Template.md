@@ -1,9 +1,10 @@
 ---
-category: literaturenote
-tags: {% if allTags %}{{allTags}}{% endif %}
+draft: true
 citekey: {{citekey}}
-status: unread
-dateread:
+tags:
+  - references
+{% for tagObj in tags %}  - {{ tagObj.tag }}
+{% endfor %}
 ---
 
 > [!Cite]
@@ -38,10 +39,6 @@ dateread:
 > **DOI**:: {{DOI}} {%- endif %}{%- if ISBN %}  
 > **ISBN**:: {{ISBN}} {%- endif %}    
 
-> [!LINK] 
-> {%- for attachment in attachments | filterby("path", "endswith", ".pdf") %}
->  [{{attachment.title}}](file://{{attachment.path | replace(" ", "%20")}})  {%- endfor -%}.
-
 > [!Abstract]
 > {%- if abstractNote %}
 > {{abstractNote}}
@@ -57,21 +54,18 @@ dateread:
 {%- if type == "highlight" -%}  
 <mark style="background-color: {{color}}">Quote</mark>  
 {%- endif -%}
-
 {%- if type == "text" -%}  
 Note  
 {%- endif -%}  
 {%- endmacro -%}
-
 {% persist "annotations" %}
 {% set newAnnotations = annotations | filterby("date", "dateafter", lastImportDate) %}
 {% if newAnnotations.length > 0 %}
-
 ### Imported: {{importDate | format("YYYY-MM-DD h:mm a")}}
-
-
 {% for a in newAnnotations %}
 {{calloutHeader(a.type, a.color)}}
+Page {{a.page}}
+{% if a.comment %} **Comment**: {{ a.comment }}{% endif %}
 > {{a.annotatedText}}
 {% endfor %}
 {% endif %}

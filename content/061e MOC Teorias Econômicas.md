@@ -17,10 +17,11 @@ related:: [[010 MOC Marxism]] // [[0x51c MOC História do Pensamento Econômico]
 ## [[Teoria Quantitativa da Moeda]]
 
 ## [[Teoria Neoclássica]]
+- [[Síntese Neoclássica]]
 
 ## [[Monetarismo]]
 
-## [[Economia Novo-Clássica]]
+## [[Novos-Clássicos]]
 **Expectativas (e agentes) racionais**; redução da macroeconomia à microeconomia. 
 - [[Equivalência Ricardiana]]: 
 
@@ -28,7 +29,7 @@ related:: [[010 MOC Marxism]] // [[0x51c MOC História do Pensamento Econômico]
 - Mercados não conseguem se regular totalmente sozinhos (*podem falhar*); requer-se uma intervenção do Estado (mínima mas não-nula). Falhas de mercado podem surgir devido a:
 	- Tomadas de decisão por *informação imperfeita* / [[Assimetria de Informação]]
 
-## [[Teoria Novo-Keynesiana]] (e.g. Mankiw, Blanchard, Krugman)
+## [[Escola Novo-Keynesiana]] (e.g. Mankiw, Blanchard, Krugman)
 - Imperfeições de informação fazem com que preços e salários sejam "viscosos" (*sticky*), desacelerando os processos de equilibração de oferta e demanda
 	- Tais imperfeições e *lags* podem mesmo gerar choques econômicos – ciclos econômicos
 
@@ -37,6 +38,7 @@ related:: [[010 MOC Marxism]] // [[0x51c MOC História do Pensamento Econômico]
 ---
 ### References
 - SNOWDON, Brian; VANE, Howard R. **Modern macroeconomics: its origins, development and current state**. Edward Elgar Publishing, 2005.
+	- [[@Snowdon2005]]
 - [Schools of Thought (Institute for New Economic Thinking)](https://www.hetwebsite.net/het/thought.htm)
 	- [Mercantilism](https://www.hetwebsite.net/het/schools/mercant.htm)
 	- [HET: Monetary Theory - Contents](https://www.hetwebsite.net/het/essays/money/moneycont.htm)

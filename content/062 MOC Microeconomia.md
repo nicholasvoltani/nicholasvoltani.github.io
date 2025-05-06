@@ -65,10 +65,11 @@ child:: [[062a MOC ANPEC Microeconomia]]
 
 # Tipos de Concorrência de Mercado
 - [[Competição Perfeita]]
-- [[Monopólio]]
-- [[Oligopólio]]
-	- [[Cartel]]
-	- [[Truste]]
+- [[Mercados Imperfeitamente Competitivos]]
+	- [[Monopólio]]
+	- [[Oligopólio]]
+		- [[Cartel]]
+		- [[Truste]]
 
 # [[062e MOC Teoria dos Jogos]]
 

@@ -2,13 +2,14 @@
 date: " 2025-02-25"
 tags:
   - moc
+  - philosophy
 ---
 
 up:: [[index]]
 
 # Related MOCs
 - [[071 MOC Teoria do Conhecimento e Filosofia da Ciência]]
-- [[072 MOC Realismo Crítico]]
+	- [[071a MOC Realismo Crítico]]
 
 # Tópicos
 - [[Substância]]

@@ -2,6 +2,7 @@
 date: " 2025-04-10"
 tags:
   - marxism
+  - mini-essay
 aliases:
 ---
 
@@ -19,7 +20,6 @@ Assume a forma de [[Capital-Dinheiro]] para que possa adquirir (na circulação)
 
 Enquanto estiver em movimento, é capital. Quando não estiver em movimento, não é capital; é capital *latente*.
 > "O ciclo do capital só se desenrola normalmente enquanto suas distintas fases se sucedem sem interrupção[^3]. Se o capital estaciona na segunda fase $D-M$, o capital [dinheiro] se enrijece como tesouro; se estaciona na fase da produção, tem-se, de um lado, que os meios de produção restam desprovidos de qualquer função, e, de outro, que a força de trabalho permanece ociosa[^2]; se estaciona na última fase $M'-D'$, as mercadorias não vendidas e acumuladas bloqueiam o fluxo da circulação." (MARX, 2014, p. 132)
-
 
 
 ---

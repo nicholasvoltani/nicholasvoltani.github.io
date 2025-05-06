@@ -18,8 +18,8 @@ Possas descreve essa escola econômica como possuindo agentes cujas *decisões* 
 No fim das contas, o projeto neoclássico interessa-se por "soluções ótimas, unívocas e previsíveis" (POSSAS, p. 34).
 
 Há várias hipóteses implícitas em modelos neoclássicos, como, por exemplo:
-- *Informação Perfeita*: Todos os agentes têm informação sobre todas as condições do mercado, grátis e imediatamente
-- Tratam-se de modelos *sem tempo*: quando trata-se de equilíbrios, já se está falando de algo "assintótico", portanto algo em que o tempo não é relevante. Há uma conclusão implícita em que o movimento ao longo do tempo, para os neoclássicos, trata-se de um *movimento de equilíbrio em equilíbrio*, tal qual a minimização da ação[^3] na Física
+- *Informação Perfeita*: Todos os agentes têm informação sobre todas as condições do mercado, grátis e imediatamente 
+- Tratam-se de modelos *sem tempo*: quando trata-se de equilíbrios, já se está falando de algo "assintótico", portanto algo em que o tempo não é relevante.[^3] 
 - Pressupõe-se que a moeda é puramente *meio de troca*, sem função de *portfolio* (cf. Keynes)
 - A maximização da utilidade se dá exclusivamente através do [[Consumo Agregado|Consumo]] de [[Mercadoria|Mercadorias]] (bens e serviços)
 - Há um fator de consumo intertemporal, em que parte da renda atual torna-se [[Poupança]], [[Investimentos|investida]] para que [[Taxa de Juros|renda juros]] para consumo futuro 
@@ -35,6 +35,6 @@ Uma conclusão do modelo neoclássico é a [[Lei de Say]]: a renda agregada $Y$ 
 
 [^1]: Ou seja, trata de [[Preferências Racionais|Agentes Econômicos Racionais]].
 [^2]: Ou seja, há uma identificação entre escolha e preferência, cf. [[Resumo - 'Rational Fools', Amartya Sen]].
-[^3]: $S = \int \mathcal{L}(x, \dot{x}, t) dt$.
+[^3]: Há uma conclusão implícita em que o movimento ao longo do tempo, para os neoclássicos, trata-se de um *movimento de equilíbrio em equilíbrio*, tal qual a minimização da ação ($S = \int \mathcal{L}(x, \dot{x}, t) dt$) na Física.
 [^4]: Assume-se.
 [^5]: **250404**: Isso é correto, que a Lei de Say é conclusão da teoria neoclássica?

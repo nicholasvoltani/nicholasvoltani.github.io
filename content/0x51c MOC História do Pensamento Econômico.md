@@ -15,7 +15,9 @@ related:: [[061e MOC Teorias Econômicas]] // [[071 MOC Teoria do Conhecimento e
 - [[Unknown Unknowns]]
 - [[Lei de Tendência]]
 
-# ~~[[Trabalho HPE - Fenômenos Emergentes e Complexidade]]~~ [[Trabalho HPE - Roy Bhaskar e o Realismo Crítico]]
+# [[Trabalho HPE - Roy Bhaskar e o Realismo Crítico]]
+- [[071a MOC Realismo Crítico]]
+~~[[Trabalho HPE - Fenômenos Emergentes e Complexidade]]~~ 
 
 ---
 ### Referências

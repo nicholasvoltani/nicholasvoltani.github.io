@@ -59,7 +59,7 @@ Maps of Content are aggregations of notes with the same "theme". Here's the main
 	- [[063 MOC Economia Brasileira]]
 - [[070 MOC Philosophy]]
 	- [[071 MOC Teoria do Conhecimento e Filosofia da Ciência]]
-	- [[072 MOC Realismo Crítico]]
+	- [[071a MOC Realismo Crítico]]
 - [[090 MOC Languages]]
 	- [[091 MOC Deutsch]]
 

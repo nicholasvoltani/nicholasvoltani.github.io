@@ -2,8 +2,11 @@
 date: 2023-08-20
 tags:
   - moc
+  - philosophy/philosophy_of_science
 ---
 up:: [[070 MOC Philosophy]]
+
+child:: [[071a MOC Realismo Crítico]]
 
 - [[Conhecimento]]
 	- [[Definição Tripartite de Conhecimento]]
@@ -17,14 +20,17 @@ up:: [[070 MOC Philosophy]]
 	- [[Leis gerais permitem a previsão de casos particulares]]
 	- [[Positivismo]]
 		- [[Lei de Cobertura]]
-- [[Abdução]]
+- [[Abdução]] (retrodução — Charles Sanders Peirce)
 
 - [[Princípio Explicativo]]
 - [[Instrumentalismo]]
 - [[Realismo]]
 - [[Relevância Explanatória]]
 - [[Verificabilidade]]
+# Teoria de Paradigmas (Kuhn)
 - [[Paradigma]]
+- [[Ciência Normal]]
+- [[Ciência Extraordinária]] (ou revolucionária)
 
 ### Referências
 - HARRÉ, Rom. **The philosophies of science**. Oxford University Press, 1972.
