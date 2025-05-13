@@ -17,7 +17,7 @@ Bhaskar também expõe o conceito de [[Falácia Epistêmica (Bhaskar)]], em que 
 (ao que Cavalcante elabora a visão de Lawson quanto ao *estatuto da escolha humana*, um fenômeno empírico-efetivo, a partir do qual pode-se entrever noções mais profundas da realidade como "uma noção de escolha real (sistema abertos) e estruturas sociais relativamente duradouras (presença de legalidades potencialmente revogáveis, ou leis de tendência)" (Ibid., p. 289).)
 
 ## O empírico, o efetivo e o real
-
+[[Dimensão Empírica da Realidade]], [[Dimensão Efetiva da Realidade]], [[Dimensão Real da Realidade]].
 
 # "Propriedades ontológicas do objeto social" (CAVALCANTE, p. 289; cf. LAWSON, p. 63)
 

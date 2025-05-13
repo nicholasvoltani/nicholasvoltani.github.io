@@ -35,7 +35,7 @@ Para os mercantilistas, o aumento da moeda em circulação induzia o crescimento
 - Como ela serve de *meio de transações*, ter mais dela permitirá ampliação do comércio, portanto, escoamento da produção[^7]
 	- Isso é falacioso, pois o aumento da moeda em circulação pode induzir [[Inflação]], removendo estabilidade de preços e, portanto, desincentivando comércio
 - Seu excesso induz redução da [[Taxa de Juros]], incentivando [[Investimentos]] por empréstimos e, logo, a produção
-	- Também é um argumento falacioso, pois taxas de juros também dependem da *demanda monetária*, que refletem as *expectativas de rentabilidade dos investimentos* 
+	- Também é um argumento falacioso, pois taxas de juros também dependem da *demanda monetária* ([[Preferência por Liquidez]]), que reflete as *expectativas de rentabilidade dos investimentos* 
 
 # Mistificação econômica
 > "O processo de produção _aparece_ apenas como inevitável elo intermediário, um mal necessário ao ato de fazer dinheiro." (MARX, p. 135)

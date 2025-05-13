@@ -12,6 +12,17 @@ up:: [[index]]
 > So a website with a link that says '**now**' goes to a page that tells you **what this person is focused on at this point in their life.** For short, we call it a 'now page'." (Derek Sivers, in [nownownow.com](https://nownownow.com/about))
 
 # 2025
+## May 2025
+Yep: a lot of reading. I'm also reading more on [[071a MOC Realismo Crítico|critical realism]], been really illuminating.
+
+**Interesting content of the month**:
+- [Notes on Vanishing (Lily Alexandre)](https://www.youtube.com/watch?v=cqhiup5qSY8) — *amazingly creative* cinematography for a video-essay
+- [how billionaires made you addicted to your phone (and how to unrot your brain) - hazelisonline](https://www.youtube.com/watch?v=aH7Z2ORlkjI)
+- [Why I Joined a Cult: The Psychology of Cult Recruitment \| Video Essay (Kafryn D)](https://www.youtube.com/watch?v=VaSAesX3it4) — incredible someone's first video-essay!
+- [I finally find least action principle satisfying (Mathemaniac)](https://www.youtube.com/watch?v=Ohrl3S2wcBU) — a geometric view of the least action principle. *Beautiful!* 
+- [23 Hidden Language Devices That Shape The Way We Read (Robin Waldun)](https://www.youtube.com/watch?v=fPwQ4OBqLng)
+
+
 ## April 2025
 Basically focused on my Master's. **A lot** of reading to do, and not enough time/energy for it. A lot of activity in [[060 MOC Economia]] and [[011b MOC Capital II]]. Also got rejected from Santa Fe Institute's 2025 Complexity Global School. Oh joy!
 

@@ -15,6 +15,7 @@ child:: [[071a MOC Realismo Crítico]]
 - [[Indutivismo]]
 	- [[Peru Indutivista de Russell]]
 	- [[Falseabilidade]] (Popper)
+	- [[Problema da Indução]]
 - [[Dedução]] 
 	- [[Construir uma teoria geral a partir de observações particulares é como reconstruir uma função não-injetiva a partir de pontos de sua imagem]]
 	- [[Leis gerais permitem a previsão de casos particulares]]

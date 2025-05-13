@@ -11,7 +11,12 @@ up:: [[index]]
 - [[071 MOC Teoria do Conhecimento e Filosofia da Ciência]]
 	- [[071a MOC Realismo Crítico]]
 
-# Tópicos
+
+# Grandes áreas
+- [[Ontologia]]
+- [[Epistemologia]]
+
+# Conceitos fundamentais
 - [[Substância]]
 - [[Matéria]]
 - [[Forma]] & [[Conteúdo]]
@@ -22,3 +27,4 @@ up:: [[index]]
 ---
 ### Referências
 - HARRÉ, Rom. **The philosophies of science**. Oxford University Press, 1972.
+- FRYER, T.; NAVARRETE, C. A short guide to ontology and epistemology. 2020.

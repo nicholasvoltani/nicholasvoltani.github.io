@@ -8,6 +8,8 @@ aliases:
 
 up:: [[061e MOC Teorias Econômicas]]
 
+related:: [[Apresentação Macroeconomia B 1.2025]]
+
 > "The essence of the new Keynesian approach is *to recognize the importance of a whole variety of real-world imperfections* (Stiglitz, 2000; 2002). By rebuilding the microfoundations of Keynesian economics utilizing the findings of modern microeconomic theory, new Keynesian theorists have established a research programme aimed at rectifying the theoretical flaws which permeated the supply side of the ‘old’ Keynesian model (see Snowdon and Vane, 1995). *Because the typical market economy is riddled with numerous imperfections, aggregate supply does respond to changes in aggregate demand*." (SNOWDON & VANE, p. 360; grifo meu)
 > 
 > "The paramount task facing Keynesian theorists is to remedy the theoretical flaws and inconsistencies in the old Keynesian model. Therefore, new Keynesian theorists aim to *construct a coherent theory of aggregate supply where wage and price rigidities can be rationalized*." (Ibid, p. 361; grifo meu)
@@ -32,6 +34,8 @@ Diferentemente dos [[Novos-Clássicos]], assume-se aqui [[Mercados Imperfeitamen
 - [[Modelo Demanda Agregada-Ajuste de Inflação (AD-IA)]]
 - [[Monopólio]]: competição imperfeita, empresas são (também) *formadoras de preço*, possuindo algum "market power" para estabelecimento de preços 
 - [[Assimetria de Informação]]
+
+- [[Teoria do Salário Eficiência]]
 
 ---
 ### References

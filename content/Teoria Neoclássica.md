@@ -23,7 +23,6 @@ Há várias hipóteses implícitas em modelos neoclássicos, como, por exemplo:
 - Pressupõe-se que a moeda é puramente *meio de troca*, sem função de *portfolio* (cf. Keynes)
 - A maximização da utilidade se dá exclusivamente através do [[Consumo Agregado|Consumo]] de [[Mercadoria|Mercadorias]] (bens e serviços)
 - Há um fator de consumo intertemporal, em que parte da renda atual torna-se [[Poupança]], [[Investimentos|investida]] para que [[Taxa de Juros|renda juros]] para consumo futuro 
-- 
 
 Uma conclusão do modelo neoclássico é a [[Lei de Say]]: a renda agregada $Y$ divide-se em consumo $C$ e poupança $S$, e toda a poupança converte-se em investimentos $I$[^4], o que dita a produção do momento futuro.[^5]
 
