@@ -15,6 +15,8 @@ $$
 1+r_{t} = \frac{1 + i_{t}}{1+\pi^{e}}
 $$
 
+Ou seja, considerar somente a taxa **nominal** de juros em tomadas de decisão econômica trata-se de possuir [[Ilusão Monetária]]; [[Não-Ilusão Monetária]] consiste em considerar a taxa **real** de juros.
+
 Quando $|\pi^{e}| \ll 1$, podemos aproximar como
 $$
 r_{t} \approx i_{t} - \pi^{e}

@@ -28,7 +28,7 @@ $$
 Efetivamente, vamos pensar na inclinação da curva $\frac{ \partial BP }{ \partial i }= \frac{ \partial MK }{ \partial i }$ (que é uma constante para curvas BP lineares) para dar uma noção da intensidade da elasticidade. **Tomar em conta que os gráficos possuem $i$ no eixo vertical!!!**
 
 Ou seja, essa elasticidade indica qual é a variação necessária na taxa de juros para reequilibrar o [[Balanço de Pagamentos]] através da atração/repulsão de capitais internacionais.
-- Quanto mais inclinada, maior é a variação necessária na taxa de juros para atrair capitais (pensando no eixo $i$-$Y$). Pode-se pensar que indica que o mercado de capitais é mais "cauteloso", mais [[Aversão ao Risco|averso ao risco]], requerindo [[Prêmio de Risco]] (retorno $i$) maior. Portanto (reinvertendo os eixos para $Y$-$i$), a curva é mais horizontal.
+- Quanto mais inclinada, maior é a variação necessária na taxa de juros para atrair capitais (pensando no eixo $i$-$MK$). Pode-se pensar que indica que o mercado de capitais é mais "cauteloso", mais [[Aversão ao Risco|averso ao risco]], requerindo [[Prêmio de Risco]] (retorno $i$) maior. Portanto (reinvertendo os eixos para $MK$-$i$), a curva é mais horizontal.
 - Quanto menos inclinada, menor a variação necessária na taxa de juros para atrair capitais (pensando no eixo $i$-$Y$). Pode-se pensar que indica que o mercado de capitais é mais "*risk-loving*", aceitando menores aumentos de retorno ($i$) para se manter no investimento. Portanto (reinvertendo os eixos para $Y$-$i$), a curva é mais vertical.
 
 Casos extremos são:

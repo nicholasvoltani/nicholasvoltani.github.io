@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[0x51c MOC História do Pensamento Econômico]]
+up:: [[066 MOC História do Pensamento Econômico]]
 
 > "... o hábito de empilhar uma carga pesada de conclusões práticas sobre uma fundação tênue, que não se lhe iguala, mas que parece, em sua simplicidade, não apenas atrativa, mas também convincente." (SCHUMPETER *apud* SILVEIRA, p. 162)
 

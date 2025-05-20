@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[0x51c MOC História do Pensamento Econômico]]
+up:: [[066 MOC História do Pensamento Econômico]]
 
 > "As proposições da *economia pura* [teórico-abstrata], não importando a generalidade ou verdade que encerrem, *não autorizam conclusões normativas* [práticas], mas não podem ser ignoradas. A economia social positiva entrelaça teorias econômicas puras e todas as ciências sociais, mas com relevância variável. Conclusões normativas − sob a forma do que não pode ser feito −são deriváveis de proposições da economia social, mas são ainda qualificáveis pelas especificidades de cada caso.
 > 

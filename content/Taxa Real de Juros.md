@@ -11,6 +11,8 @@ up:: [[Taxa de Juros]]
 
 A taxa real de juros de algum ativo consiste no **poder de compra** que seu rendimento terá. Consiste na [[Taxa Nominal de Juros]], após ajustes de [[Inflação]] (esperada para o período do investimento).
 
+Somente agentes que [[Não-Ilusão Monetária|não possuam ilusão monetária]] tomarão a taxa **real** de juros em suas tomadas de decisões; caso possuam [[Ilusão Monetária]], somente considerarão a taxa **nominal** de juros.
+
 Sendo $i_t$ a taxa nominal de juros de algum investimento, e $\pi^{e}$ a inflação esperada ao momento $t$, temos que a taxa real de juros no instante $t$, $r_{t}$, será dada pela fórmula
 $$
 1+r_{t} = \frac{1+i_{t}}{1+\pi^{e}}

@@ -32,7 +32,7 @@ Diferentemente dos [[Novos-Clássicos]], assume-se aqui [[Mercados Imperfeitamen
 - [[Metas de Inflação]]  
 	- [[Regra de Taylor]] 
 - [[Modelo Demanda Agregada-Ajuste de Inflação (AD-IA)]]
-- [[Monopólio]]: competição imperfeita, empresas são (também) *formadoras de preço*, possuindo algum "market power" para estabelecimento de preços 
+- [[Mercados Imperfeitamente Competitivos]]: competição imperfeita, empresas são (também) *formadoras de preço*, possuindo algum "market power" para estabelecimento de preços 
 - [[Assimetria de Informação]]
 
 - [[Teoria do Salário Eficiência]]

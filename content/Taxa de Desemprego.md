@@ -3,6 +3,7 @@ date: " 2024-10-27"
 tags:
   - economics
 aliases:
+  - Taxas de Desemprego
 ---
 
 up:: [[Desemprego]]

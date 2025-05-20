@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[0x51c MOC História do Pensamento Econômico]]
+up:: [[066 MOC História do Pensamento Econômico]]
 
 # Apresentação e exemplos
 - Mão Invisível do mercado

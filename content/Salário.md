@@ -4,6 +4,7 @@ tags:
   - evergreen
   - marxism
 aliases:
+  - Salários
 ---
 
 up:: [[011a MOC Capital I]]

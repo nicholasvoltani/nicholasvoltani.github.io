@@ -7,6 +7,27 @@ tags:
 
 up:: [[060 MOC Economia]]
 
+# Lógica Proposicional
+- Tabelas verdade
+- Operadores: $\land$, $\lor$, $\lnot$, $\implies$, $\iff$
+- Técnicas de demonstração
+	- Indução
+	- *Contradictio ad absurdum*
+	- Contrapositiva
+- *Modus ponens* etc? "Todo homem é mortal $\land$ Sócrates é um homem $\implies$ Sócrates é mortal"
+# Teoria de Conjuntos
+- Conjuntos
+	- $\cap, \cup, \subseteq, =$
+- Funções
+	- [[Injective Function|Injetiva]]
+	- [[Surjective Function|Sobrejetora]]
+	- [[Bijective Function|Bijetiva]]
+- Relações
+	- [[Partially Ordered Set|Ordem Parcial]] (e [[Totally Ordered Set|Ordem Total]])
+		- Relação com [[Preferências do Consumidor]]
+	- [[Equivalence Relation|Relações de Equivalência]] & [[Equivalence Class|Classes de Equivalência]]
+		- Relação com [[Curva de Indiferença|Curvas de Indiferença]] e [[Isoquanta|Isoquantas]] 
+
 # Cálculo Diferencial e Integral
 Cf. [[Uma introdução suave ao Cálculo]]
 - Limites importantes
@@ -25,6 +46,10 @@ Cf. [[Uma introdução suave ao Cálculo]]
 Cf. [Notas Álgebra Linear (2019)](https://drive.google.com/file/d/13wdpQO5_LbypF4_YneNxUPy-T_32MN8N/view)
 - Definição (formal)
 - Matrizes / Transformações lineares
+	- Propriedades
+		- Transposta
+		- Inversa
+		- Determinantes
 	- Equações Diferenciais
 - $\mathbb{R}^n$
 	- Produto escalar
@@ -32,8 +57,12 @@ Cf. [Notas Álgebra Linear (2019)](https://drive.google.com/file/d/13wdpQO5_Lbyp
 		- Projeções ortogonais
 			- [[Regressão Linear Múltipla]] & *Hat Matrix* $\hat{H}$
 	- Produto vetorial (just because)
+- Sistemas Lineares
 
-# Topologia / Séries (??)
+# Equações Diferenciais
+- Solução Homogênea
+- Solução Particular
+- Relação com Espaços Vetoriais
 
 # Sistemas Dinâmicos
 - [[Modelo de Solow]]
@@ -43,7 +72,6 @@ Cf. [Notas Álgebra Linear (2019)](https://drive.google.com/file/d/13wdpQO5_Lbyp
 - [[Taxa de Juros]]
 - Juros Simples / Compostos
 - Taxas diárias/mensais/anualizadas etc
-- 
 # Amortização
 - [[Sistema Price de Amortização]]
 

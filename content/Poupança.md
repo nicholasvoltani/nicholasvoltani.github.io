@@ -37,9 +37,8 @@ Ou seja, a poupança separa-se em três componentes:
 
 A partir disso, pode-se ver, por exemplo, como um superávit de exportações ($NX > 0$) reflete-se na economia nacional: 
 - ou é apropriado mais pelo governo do que pelo setor privado ($T-G > 0$, mas $S-I < 0$), 
-- ou vice-versa ($S-I> 0$$, mas $T - G < 0$), 
-- ou é apropriado positivamente por ambos
-
+- ou vice-versa ($S-I> 0$, mas $T - G < 0$), 
+- ou é apropriado (positivamente) por ambos
 
 
 ---

@@ -29,6 +29,4 @@ If there is at least one index $k \in \{2, \dots, n\}$ such that $v_k \in [v_i]_
 ### References
 - [Notas sobre Álgebra Linear](https://nicholasvoltani.github.io/2021-12-27-notas-alglin/)
 
-[^1]: Because if $\{v_1, \dots, v_k\}$ is already L.D., we have that $\{v_1, \dots, v_k, \dots\}$ is L.D., since $$
-v_k = \sum\limits_{i=1}^{k-1} \alpha_i v_i + \sum\limits_{i\geq k} 0 v_i
-$$ 
+[^1]: Because if $\{v_1, \dots, v_k\}$ is already L.D., we have that $\{v_1, \dots, v_k, \dots\}$ is L.D., since $v_k = \sum\limits_{i=1}^{k-1} \alpha_i v_i + \sum\limits_{i\geq k} 0 v_i$. 

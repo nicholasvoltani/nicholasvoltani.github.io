@@ -4,6 +4,7 @@ tags:
   - economics
 aliases:
   - Taxa de Redesconto
+  - Taxas de Redesconto
 ---
 
 up:: [[Política Monetária]]

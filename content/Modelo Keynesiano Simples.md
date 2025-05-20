@@ -7,7 +7,7 @@ aliases:
 
 up:: [[061 MOC Macroeconomia]]
 
-Chamam de modelo keynesiano simples um modelo que assume que o [[Consumo Agregado]] $C$ é uma função linear da [[Renda Agregada]] $Y$: quanto mais o país recebe, tanto mais ele deseja gastar.
+Chamam de modelo keynesiano simples um modelo que assume que o [[Consumo Agregado]] $C$ é uma função linear da [[Renda Privada Disponível]] $Y_{d} = Y -T$ ([[Renda Agregada]] $Y$ menos [[Impostos]] $T$). Essencialmente diz que quanto mais o país recebe, tanto mais ele deseja gastar.
 
 Escrevem o modelo como
 $$

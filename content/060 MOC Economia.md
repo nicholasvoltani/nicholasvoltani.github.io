@@ -20,3 +20,4 @@ up:: [[index]]
 
 # [[065 MOC Matemática em Economia]]
 - [[065a MOC ANPEC Matemática em Economia]]
+# [[066 MOC História do Pensamento Econômico]]

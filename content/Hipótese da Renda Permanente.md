@@ -3,6 +3,7 @@ date: " 2024-11-02"
 tags:
   - economics
 aliases:
+  - Renda Permanente
 ---
 
 up:: [[061b MOC Contabilidade Nacional]]

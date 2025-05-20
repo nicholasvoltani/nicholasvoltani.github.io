@@ -4,7 +4,7 @@ tags:
   - moc
 ---
 
-up:: [[0x51c MOC História do Pensamento Econômico]] // [[071 MOC Teoria do Conhecimento e Filosofia da Ciência]] 
+up:: [[066 MOC História do Pensamento Econômico]] // [[071 MOC Teoria do Conhecimento e Filosofia da Ciência]] 
 
 # Introdução ao Realismo Crítico de Roy Bhaskar: a estratificação da realidade e pressupostos ontológicos
 ## Dimensões transitiva e intransitiva da realidade

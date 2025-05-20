@@ -3,6 +3,7 @@ date: " 2024-08-16"
 tags:
   - economics
 aliases:
+  - Lucro
 ---
 
 up:: [[062 MOC Microeconomia]]
