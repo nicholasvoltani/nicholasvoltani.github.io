@@ -9,7 +9,11 @@ up:: [[Escola Novo-Keynesiana|Novos Keynesianos]]
 
 related:: [[Questões P1 Macroeconomia B 1.2025]]
 
-A teoria do salário eficiência (*efficiency wage theory*) descreve uma possibilidade em que pode haver [[Desemprego Involuntário]] mesmo num cenário de equilíbrio de mercado, como advogavam os novos keynesianos.
+> "Efficiency wage theories argue that **productivity often increases with real wages**; as a result, it does not pay firms to cut wages \[*sic*\]. High wages may raise productivity either because they attract higher quality labor; or because they result in increased effort; or because they **reduce labor turnover and save on hiring and training costs**. Efficiency wage theories can be used to explain why firms do not lower wages even in the presence of an excess supply of workers, and also why they avoid two-tier wage systems, under which new workers are hired at lower wages than existing workers." (GREENWALD & STIGLITZ, p. 34; grifo meu)
+
+A teoria de salário eficiência postula que *a produtividade de trabalho pode crescer junto a salários reais*, casos em que firmas podem escolher *aumentar salários por motivos racionais*.  
+
+Através dessa teoria, há possibilidade de haver [[Desemprego Involuntário]] mesmo num cenário de equilíbrio de mercado, como advogavam os novos keynesianos.
 
 Solow criou um modelo em que a função de produção depende do "salário eficiência"
 $$
@@ -37,6 +41,7 @@ Fonte: SNOWDON & VANE, p. 387.
 
 ---
 ### References
+- GREENWALD, Bruce; STIGLITZ, Joseph. New and old Keynesians. **Journal of Economic Perspectives**, v. 7, n. 1, p. 23–44, 1993.
 - SNOWDON, Brian; VANE, Howard R. **Modern Macroeconomics: Its Origins, Development and Current State**. Edward Elgar Publishing, 2005.
 
 [^1]: Pois $w < w^* \implies e(w) < e(w^*)$, *ex hypothesi*.
