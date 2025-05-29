@@ -38,7 +38,7 @@ Porém, os preços dos produtos de mercado aumentarão, devido à maior demanda,
 
 Conforme há uma demanda maior por salários nominais, de forma a compensar a inflação esperada $\dot{P}_{e}$, haverá um aumento da taxa de desemprego (defasagem demanda-oferta), "desfazendo" a diminuição original do desemprego, o qual voltará à sua [[Taxa Natural de Desemprego]] a longo prazo, conforme as expectativas de inflação se ajustam — ou seja, conforme a taxa de [[Inflação]] *não esteja mudando*, i.e. os preços estão *mudando uniformemente*. 
 
-# [[Curva de Phillips Aceleracionista]]
+# [[Curva de Phillips Aceleracionista]] (**distinguir curva aceleracionista de curva Phelps-Friedman (?)**)
 ![[Pasted image 20250518142043.png|500]]
 Fonte: SNOWDON & VANE, p. 177.
 $$

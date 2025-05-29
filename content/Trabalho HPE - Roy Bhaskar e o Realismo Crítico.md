@@ -4,9 +4,9 @@ tags:
   - moc
 ---
 
-up:: [[066 MOC História do Pensamento Econômico]] // [[071 MOC Teoria do Conhecimento e Filosofia da Ciência]] 
+up:: [[066 MOC História do Pensamento Econômico]] // [[071 MOC Teoria do Conhecimento e Filosofia da Ciência]] // [[071a MOC Realismo Crítico]]
 
-# Introdução ao Realismo Crítico de Roy Bhaskar: a estratificação da realidade e pressupostos ontológicos
+# Introdução ao Realismo Crítico de Roy Bhaskar: Teoria do valor \[de Marx\] sob a ótica do Realismo Crítico
 ## Dimensões transitiva e intransitiva da realidade
 Apresentação de [[Objetos Transitivos do Conhecimento]] e [[Objetos Intransitivos da Ciência]] como os fundamentos de uma teoria científica, contrapondo-os às metodologias científicas em voga na época, as quais enviesavam-se ao extremo no tocante a estas dimensões científicas — idealismo e [[Positivismo]], respectivamente. (BHASKAR, 1978)
 
@@ -28,6 +28,6 @@ Bhaskar também expõe o conceito de [[Falácia Epistêmica (Bhaskar)]], em que 
 - ARCHER, M. (Org.). **Critical realism: essential readings**. Londres: Routledge, 1998.
 - BHASKAR, R. **A Realist Theory of Science**. 2. ed. Nova Jersey: Humanities Press, 1978.
 - BHASKAR, R. **The Possibility of Naturalism**. 3. ed. Londres: Routledge, 1998.
-- CAVALCANTE, C. M. Filosofia da ciência e metodologia econômica: do positivismo lógico ao realismo crítico. **Texto para Discussão-UFF**, n. 210, 2007.
+- CAVALCANTE, Carolina Miranda. Filosofia da ciência e metodologia econômica: do positivismo lógico ao realismo crítico. **Cadernos de História e Filosofia da Ciência**, 4. v. 1, n. 2, p. 263–300, 2017.
 - COLLIER, A. **Critical realism: an introduction to Roy Bhaskar’s philosophy**. Londres: Verso, 1994.
 - LAWSON, T. **Economics and reality**. Londres: Routledge, 1997.

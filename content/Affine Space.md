@@ -15,7 +15,7 @@ Transformations which preserve affine structures are called [[Affine Map]]s.
 
 # Properties
 ## Vectors act as translations of points in the space
-Vectors $\vec{ab} \in V$ act as "parallel displacements": for each point $a \in A$, one can go to $b \in A$ via group action[^2], as
+Vectors $\vec{ab} \in V$ act as "parallel displacements": for each point $a \in A$, one can go to $b \in A$ via group action, as
 $$
 b = a + \vec{ab}
 $$
@@ -41,5 +41,3 @@ A consequence of this is that [[An affine space with a fixed point is isomorphic
 - ARNOL'D, Vladimir Igorevich. **Mathematical methods of classical mechanics**. Springer Science & Business Media, 2013.
 - [Notes on Mathematical Physics for Mathematicians - Daniel Tausk](https://www.ime.usp.br/\~tausk/texts/MathPhysics.pdf)
 - [Affine spaces | Mauricio Poppe](https://www.mauriciopoppe.com/notes/mathematics/geometry/affine-spaces/)
-
-[^2]: Existence of this vector between any two points in $A^n$ is guaranteed by the transitive property, and being free guarantees it to be unique.

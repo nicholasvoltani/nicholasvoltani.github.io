@@ -43,5 +43,5 @@ Uma pesquisa que siga a metodologia do realismo crítico precisa considerar:
 ---
 ### References
 - [Introducing Critical Realism Workshop 1: Ontology - YouTube](https://www.youtube.com/watch?v=1KTE7UY3vjo)
-- GORSKI, P. S. “What is Critical Realism? And Why Should You Care?” **Contemporary Sociology: A Journal of Reviews**, v. 42, n. 5, p. 658–670, set. 2013.
+- GORSKI, P. S. “What is Critical Realism? And Why Should You Care?” **Contemporary Sociology: A Journal of Reviews**, v. 42, n. 5, p. 658–670, 2013.
 - FRYER, T.; NAVARRETE, C. A short guide to ontology and epistemology. **Available from tfryer. com/ontology-guide**, 2020. Disponível em: [https://www.researchgate.net/profile/Cristian-Navarrete-3/publication/383296029_A_short_guide_to_ontology_and_epistemology_Why_everyone_should_be_a_realist_Third_edition/links/66c7585875613475fe73722f/A-short-guide-to-ontology-and-epistemology-Why-everyone-should-be-a-realist-Third-edition.pdf](https://www.researchgate.net/profile/Cristian-Navarrete-3/publication/383296029_A_short_guide_to_ontology_and_epistemology_Why_everyone_should_be_a_realist_Third_edition/links/66c7585875613475fe73722f/A-short-guide-to-ontology-and-epistemology-Why-everyone-should-be-a-realist-Third-edition.pdf)

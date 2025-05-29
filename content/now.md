@@ -15,16 +15,21 @@ up:: [[index]]
 ## May 2025
 Yep: a lot of reading. I'm also reading more on [[071a MOC Realismo Crítico|critical realism]], been really illuminating.
 
+I also created an [are.na channel](https://www.are.na/nicholas-voltani/thank-god-for-the-internet), which is like a Pinterest for links, PDFs and so on. Didn't get to fiddle around, but it's a nice idea. Adding stuff there from time to time.
+
 **Interesting content of the month**:
 - [Notes on Vanishing (Lily Alexandre)](https://www.youtube.com/watch?v=cqhiup5qSY8) — *amazingly creative* cinematography for a video-essay
 - [how billionaires made you addicted to your phone (and how to unrot your brain) - hazelisonline](https://www.youtube.com/watch?v=aH7Z2ORlkjI)
 - [Why I Joined a Cult: The Psychology of Cult Recruitment \| Video Essay (Kafryn D)](https://www.youtube.com/watch?v=VaSAesX3it4) — incredible someone's first video-essay!
 - [I finally find least action principle satisfying (Mathemaniac)](https://www.youtube.com/watch?v=Ohrl3S2wcBU) — a geometric view of the least action principle. *Beautiful!* 
+	- This also got me in a rabbit hole: [Assumptions of Physics (Gabriele Carcassi, Christine Aidala)](https://assumptionsofphysics.org/)
 - [23 Hidden Language Devices That Shape The Way We Read (Robin Waldun)](https://www.youtube.com/watch?v=fPwQ4OBqLng)
+- [Tak Is About to Be Your New Favorite Game (The Modern Rogue)](https://www.youtube.com/watch?v=Te0Wm_GCCAQ)
+- [The Zen Browser Experience (Bog)](https://www.youtube.com/watch?v=9G5PtUwdFkY&list=LL&index=1&pp=gAQBiAQB). Let's hope it doesn't flounder like Arc...
 
 
 ## April 2025
-Basically focused on my Master's. **A lot** of reading to do, and not enough time/energy for it. A lot of activity in [[060 MOC Economia]] and [[011b MOC Capital II]]. Also got rejected from Santa Fe Institute's 2025 Complexity Global School. Oh joy!
+Basically focused on my Master's. **A lot** of reading to do, and not enough time/energy for it. A lot of activity in [[060 MOC Economia]] and [[011b MOC Capital II]]. Also got rejected from the Santa Fe Institute's 2025 Complexity Global School application. Oh joy!
 
 **Interesting content of the month**:
 - [How oyster beds can rebuild New York harbor \| WILD HOPE (Nature on PBS)](https://www.youtube.com/watch?v=YD7LlpKGEnY)
@@ -33,7 +38,7 @@ Basically focused on my Master's. **A lot** of reading to do, and not enough tim
 	- [Inside Africa's Food Forest Mega-Project (Andrew Milligan)](https://www.youtube.com/watch?v=xbBdIG--b58)
 	- Also related: [How Trees Bring Water (Andrew Milligan)](https://www.youtube.com/watch?v=oY8ds4BiG1A) ([[Biotic Pump]])
 - [Talking with Contrapoints - Gender Identity, Judgement, & YouTube (Dr. K.)](https://www.youtube.com/watch?v=cKrxP44Gp_0)
-- [How philanthropists are destroying African farms (It's Complicated/The Guardian))](https://www.youtube.com/watch?v=KO3-xkVACgE) (color me surprised...)
+- [How philanthropists are destroying African farms (It's Complicated/The Guardian)](https://www.youtube.com/watch?v=KO3-xkVACgE) (color me surprised...)
 - [Serj Tankian Eats His Last Meal (Mythical Kitchen)](https://www.youtube.com/watch?v=Mo5JVuW4_qk)
 - [Existential Crisis in Class (WhatsItLike)](https://www.youtube.com/watch?v=NESBtODxNVA)
 > - [How To Use Zotero In Obsidian To Simplify Research 📚 + Research Rabbit (Wanderloots)](https://www.youtube.com/watch?v=ScXGpZRZ7Ck) **GAMECHANGER!!!** Will try to implement it in my own workflow.

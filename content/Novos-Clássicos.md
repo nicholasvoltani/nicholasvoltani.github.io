@@ -36,10 +36,10 @@ Como as tomadas de decisão são racionais (no esquema neoclássico), deve-se as
 
 Nesse sentido, assume-se não só *market clearing* do mercado de bens, como também do mercado de trabalho — ou seja, assume-se que todo [[Desemprego]] é [[Desemprego Voluntário]]. 
 
-# Informação incompleta e expectativas racionais
-Porém, como Friedman e os [[Monetarismo|monetaristas]] trouxeram à baila, pode haver [[Não-Neutralidade da Moeda]] (i.e. fenômenos monetários afetaram o mercado real) (ao menos *a curto prazo*). A forma com que Lucas abordou isso foi a adoção de [[Informação Imperfeita]] pelos agentes econômicos.[^3]
+# [[Informação Imperfeita]] e [[Expectativas Racionais]]
+Porém, como Friedman e os [[Monetarismo|monetaristas]] trouxeram à baila, pode haver [[Não-Neutralidade da Moeda]] (i.e. fenômenos monetários afetaram o mercado real) (ao menos *a curto prazo*). A forma com que Lucas abordou isso foi a adoção de Informação Imperfeita pelos agentes econômicos.[^3]
 
-Ou seja, há uma tomada de decisões racionais *dentro das informações assumidas pelos agentes econômicos*: eles fazem o melhor que podem com o máximo de informação que têm às mãos. Possuem o que se chama de [[Expectativas Racionais]]:
+Ou seja, há uma tomada de decisões racionais *dentro das informações assumidas pelos agentes econômicos*: eles fazem o melhor que podem com o máximo de informação que têm às mãos. Possuem o que se chama de Expectativas Racionais':
 $$
 \dot{P}_{t}^e = \mathbb{E}[\dot{P}_{t} \mid \Omega_{t-1}]
 $$

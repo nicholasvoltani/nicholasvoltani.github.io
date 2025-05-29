@@ -11,16 +11,17 @@ related:: [[010 MOC Marxism]] // [[066 MOC História do Pensamento Econômico]]
 
 # Anotações
 - [[20250511 Notas sobre Adam Smith]]
-
-# Conceitos gerais
-- [[Crítica de Lucas]]
+- [[20250524 Notas sobre Ricardo e Mill]]
 
 ## [[Mercantilismo]]
+
+## [[010 MOC Marxism]]
 
 ## [[Marginalistas]]
 
 ## [[Teoria Neoclássica]]
 
+## [[061e1 MOC Keynes]]
 ## [[Síntese Neoclássica]]
 - Macro keynesiana curto prazo + microeconomia neoclássica
 - "Esquizofrenia teórica"

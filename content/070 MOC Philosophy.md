@@ -27,4 +27,4 @@ up:: [[index]]
 ---
 ### Referências
 - HARRÉ, Rom. **The philosophies of science**. Oxford University Press, 1972.
-- FRYER, T.; NAVARRETE, C. A short guide to ontology and epistemology. 2020.
+- FRYER, T.; NAVARRETE, C. **A short guide to ontology and epistemology**. 2020.

@@ -16,9 +16,9 @@ $$
 \end{align*}
 $$
 Note that it is indeed a group action, since
-- $\forall p \in V, p + 0 = p$
-- $\forall p \in V, \forall u, v \in (V, +), (p+v) + w = p + (v+w)$
+- $\forall p \in V: p + 0 = p$
+- $\forall p \in V, \forall u, v \in (V, +): (p+v) + w = p + (v+w)$
 
-Note that this group action is [[Regular Group Action|Regular]], since for any two points $p, q \in V$, there is a **unique** vector connecting them (namely, $q - v \in (V, +)$, seeing $p, q \in (V,+)$).
+Note that this group action is [[Regular Group Action|Regular]], since, for any two points $p, q \in V$, there is a **unique** vector connecting them — namely, $q - v \in (V, +)$, seeing $p, q \in (V,+)$.
 
 Thus, $\left(V, (V,+), +\right)$ is an affine space induced by $(V, +, \cdot)$.

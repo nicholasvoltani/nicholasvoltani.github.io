@@ -30,7 +30,7 @@ A ideia deste site é de ter a maior parte de meu [notemaking](https://www.youtu
 - [[Resumo da apresentação O País do Agro é o País da Fome]]
 
 # Maps of Content (MOCs) 
-Maps of Content are aggregations of notes with the same "theme". Here's the main ones I'm interested on:
+Maps of Content are aggregations of notes with the same "theme". Here's the main ones:
 - [[00 MOC Personal Knowledge Management]]
 - [[010 MOC Marxism]]
 	- [[011a MOC Capital I]]
@@ -41,7 +41,6 @@ Maps of Content are aggregations of notes with the same "theme". Here's the main
 	- [[014 MOC Método]]
 - [[020 MOC Mathematics]]
 	- [[021 MOC Algebra]]
-	- [[022 MOC Functional Analysis]]
 	- [[023 MOC Measure Theory]]
 	- [[024 MOC Information Theory]]
 	- [[025 MOC Lógica de Primeira Ordem]]

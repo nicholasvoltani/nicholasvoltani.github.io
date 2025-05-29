@@ -6,7 +6,7 @@ alias: Newtonian Reference Frame
 ---
 up:: [[031 MOC Classical Mechanics]]
 
-A reference frame of space-time consists of an [[Affine Space]] $A^4$ ─ that is, a triple $(A^4, \vec{A}^4, \alpha)$, where $A^4$ is a set[^1], a vector space $\vec{A}^4$ which acts upon $A^4$ via a [[Group Action]] which is both [[Free Group Action|free]] and [[Transitive Group Action|transitive]] of the additive group $(\vec{A}^4, +)$.
+A reference frame of space-time consists of an [[Affine Space]] $A^4$ ─ that is, a triple $(A^4, \vec{A}^4, \alpha)$, where $A^4$ is a set[^1], a vector space $\vec{A}^4$ which acts upon $A^4$ via a [[Group Action]] $\alpha$ which is both [[Free Group Action|free]] and [[Transitive Group Action|transitive]] of the additive group $(\vec{A}^4, +)$.
 
 Points in this affine space are called **events**.
 

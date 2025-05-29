@@ -1,14 +1,15 @@
 ---
+draft: true
 citekey: Collier1994
 tags:
   - references
   - philosophy
   - philosophy/philosophy_of_science
-draft: "true"
+
 ---
 
 > [!Cite]
-> COLLIER, A. **Critical realism: an introduction to Roy Bhaskar’s philosophy**. Londres: Verso, 1994.
+> COLLIER, Andrew. **Critical realism: an introduction to Roy Bhaskar’s philosophy**. Londres: Verso, 1994.
 
 >[!Synth]
 >**Contribution**:: 
@@ -37,7 +38,7 @@ draft: "true"
 # Annotations%% begin annotations %%
 
 
-### Imported: 2025-05-02 1:46 pm
+### Imported: 2025-05-23 3:48 pm
 
 
 Page 9
@@ -62,4 +63,4 @@ Page 19
 
 %% end annotations %%
 
-%% Import Date: 2025-05-02T13:47:02.586-03:00 %%
+%% Import Date: 2025-05-23T15:48:27.361-03:00 %%

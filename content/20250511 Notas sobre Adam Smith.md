@@ -187,6 +187,93 @@ Com o aumento do salário, há a possibilidade de manter maiores famílias; port
 Há um eco à [[Teoria do Salário Eficiência]]:
 > "The liberal reward of labour, as it encourages the propagation \[i.e. reproduction\], so it increases the industry of the common people. The wages of labour are the encouragement of industry, which, like every other human quality, improves in proportion to the encouragement it receives. A plentiful subsistence increases the bodily strength of the labourer, and the comfortable hope of bettering his condition, and of ending his days perhaps in ease and plenty, animates him to exert that strength to the utmost. Where wages are high, accordingly, we shall always find the workmen more active, diligent, and expeditious, than where they are low" (Ibid.)
 
+---
+**Continuação: 23/05/2025**
+### Cap 9: Taxas de lucros
+Depende do estado de progresso **da sociedade** — assim como salários. 
+
+> "The increase of stock, which raises wages, tends to lower profit."
+
+Concentração de capital nas cidades aumenta salários e (portanto) reduz taxas de lucro, e mutatis mutandis para o campo.
+
+O desenvolvimento da economia (tende a) diminuir as taxas de lucro, devido à competição de capitais. Smith destaca que há uma *correlação positiva* entre o movimento das taxas de lucros e o movimento das [[Taxa de Juros|Taxas de Juros]].
+
+> "It may be laid down as a maxim, that wherever a great deal can be made by the use of money, a great deal will commonly be given for the use of it; and that wherever little can be made by it, less will commonly be given for it."
+
+Há exceções: por exemplo, exploração econômica em colônias — associados a *terras com maior fertilidade* (hmm...); há também casos de salários *e lucros* conjuntamente baixos, p. ex. estagnação após um grande crescimento. 
+
+Os altos salários nas cidades são compensados pelas baixas de taxas de juros, no que se refere ao *preço* das mercadorias. 
+
+Juros são sempre proporcionais ao lucro **líquido**. As taxas **mínimas** de juros devem remunerar os **riscos** do emprestador, ou seja, os lucros devem estar acima desta taxa mínima. Ou seja, em países ricos/mais "certos", juros tendem a ser mais baixos; mutatis mutandis para países pobres. 
+
+### Cap. 11: Renda da terra
+> "RENT, considered as **the price paid for the use of land, is naturally the highest which the tenant can afford to pay in the actual circumstances of the land**. In adjusting the terms of the lease, the landlord endeavours to leave him no greater share of the produce than what is sufficient to keep up the stock from which he furnishes the seed, pays the labour, and purchases and maintains the cattle and other instruments of husbandry, together with the ordinary profits of farming stock in the neighbourhood. This is evidently the smallest share with which the tenant can content himself without being a loser, and the landlord seldom means to leave hiim any more. Whatever part of the produce, or, what is the same thing, whatever part of its price, is over and above this share, he naturally endeavours to reserve for himself as the rent of his land, which is evidently the highest the tenant can affordr to pay in the actual circumstances of the land."
+
+Dado um preço (de produção?) $p$ cobrado, e descontados os salários $w$ e os lucros $\pi$, o que sobra é a renda da terra $t$. 
+
+A renda da terra é um **preço de [[Monopólio]]**.
+
+> "The rent of land, therefore, considered as the price paid for the use of the land, is naturally a monopoly price. It is not at all proportioned to what the landlord may have laid out upon the improvement of the land, or to what he can afford to take; but to what the farmer can afford to give."
+
+Caso haja venda para demanda eficaz ao **preço natural** $\bar{p}$, 
+$$
+t = \bar{p} - w - \pi - \delta
+$$
+($\delta$ reposição de valor do capital.)
+
+Há uma inconsistência: enquanto a renda da terra *depende dos preços* (é um "restante" das remunerações advindas do preço de venda), ela também *descreve os preços*, por ser uma parcela componente sua. 
+
+A renda aumenta com sua *proximidade das cidades*, assim como com sua *fertilidade*; a *melhoria dos transportes* também afeta a renda da terra (uniformiza os preços). O tipo de atividade que é feita nestas terras também influencia a renda da terra (justamente porque ela é composta pelo excedente da produção).
+
+Prioritariamente a terra é usada para alimentos; satisfeito isso, para vestuário e moradia. 
+
+A renda depende da dinâmica demanda-oferta: caso haja excesso de demanda pelos produtos da terra, sua renda aumentará; caso haja um excesso de oferta destes produtos (alta concorrência, p. ex.), poderá não restar renda alguma. 
+
+## Livro II
+### Cap. 1: [[Capital Circulante]] vs [[Capital Fixo]]
+> "There are two different ways in which a capital may be employed so as to yield a revenue or profit to its employer.
+> 
+> First, it may be employed in raising, manufacturing, or purchasing goods, and selling them again with a profit. The capital employed in this manner yields no revenue or profit to its employer, while it either remains in his possession, or continues in the same shape. **The goods of the merchant yield him no revenue or profit till he sells them for money, and the money yields him as little till it is again exchanged for goods. His capital is continually going from him in one shape, and returning to him in another, and it is only by means of such circulation, or successive exchanges, that it can yield him any profit. Such capitals, therefore, may very properly be called circulating capitals.**
+> 
+> Secondly, it may be employed in the improvement of land, in the purchase of useful machines and instruments of trade, or in such-like things as yield a revenue or profit **without changing masters**, or circulating any further. Such capitals, therefore, may very properly be called fixed capitals." (grifo meu)
+
+Capital fixo: se decompõe pouco, durável.
+Capital circulante: se realiza totalmente em sua venda.
+
+### Cap. 2: Papel da moeda e crédito na circulação de mercadorias & acumulação de capital
+**Leitura extremamente interessante!! Ver algum dia!!**
+
+### Cap. 3: Trabalho produtivo
+> "THERE is one sort of labour which adds to the value of the subject upon which it is bestowed: there is another which has no such effect. The former, as it produces a value, may be called productive; the latter, unproductive labour. Thus the labour of a manufacturer adds, generally, to the value of the materials which he works upon, **that of his own maintenance, and of his master’s profit**. The labour of a menial servant, on the contrary, adds to the value of nothing. Though the manufacturer has his wages advanced to him by his master, **he, in reality, costs him no expence, the value of those wages being generally restored, together with a profit, in the improved value of the subject upon which his labour is bestowed**. But the maintenance of a menial servant never is restored. A man grows rich by employing a multitude of manufacturers: he grows poor, by maintaining a multitude of menial servants. (etc)" (grifo meu)
+
+Já existe um apontamento de [[Valor da Força de Trabalho]] e [[Mais-Valor]], e de que o trabalho **deve repor o valor da força de trabalho em seu uso**.
+
+### Cap. 4: Teoria de juros
+
+### Cap. 5: Produtividade do capital em diferentes setores
+
+
+## Livro III
+## Livro IV: Os sistemas de economia política
+### Cap. 1: "Do princípio do sistema comercial ou mercantil"
+Crítica ao [[Mercantilismo]], estereotipado como dizendo que o dinheiro representa a riqueza. Smith destaca que a verdadeira riqueza de uma nação é a **quantidade de bens que possui**. 
+
+A vantagem do comércio internacional não se trata da acumulação de ouro e prata do resto do mundo, como se fazê-lo fosse, por si só, uma forma de aumentar a riqueza do país; a vantagem é justamente de **vender produção excedente no mercado interno para o exterior**.
+
+### Cap. 2: "Das restrições à importação dos países estrangeiros daqueles bens que podem ser produzidos internamente"
+- Taxas/restrições à importação cria um monopólio no mercado interno
+	- Desvia-se capital e trabalho para esta atividade favorecida mais do que o normal
+	- Não há atividade direcionada pelo *autointeresse*
+	- Quando o preço interno é maior que o externo, há uma alocação ineficiente da sociedade, em uma área em que ela não é vantajosa (comparativamente, em particular, ao mercado externo)!
+
+É aqui que aparece a citação da mão invisível!! 
+> "As every individual, therefore, endeavours as much as he can both to employ his capital in the support of domestic industry, and so to direct that industry that its produce may be of the greatest value; every individual necessarily labours to render the annual revenue of the society as great as he can. He generally, indeed, neither intends to promote the public interest, nor knows how much he is promoting it. By preferring the support of domestic to that of foreign industry, he intends only his own security; and by directing that industry in such a manner as its produce may be of the greatest value, he intends only his own gain, and he is in this, as in many other cases, led by an invisible hand to promote an end which was no part of his intention. Nor is it always the worse for the society that it was no part of it. By pursuing his own interest he frequently promotes that of the society more effectually than when he really intends to promote it."
+
+Aqui há uma forma em que o próprio sistema **conduz a ação do indivíduo**, possui força causal — logo, de acordo com Bhaskar, é algo [[Dimensão Real da Realidade|real]]! 
+
+### Capítulo 9: Crítica aos fisiocratas (Quesnay)
+
+
 
 ---
 ### References

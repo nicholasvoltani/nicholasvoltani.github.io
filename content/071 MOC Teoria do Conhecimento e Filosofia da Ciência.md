@@ -32,6 +32,7 @@ child:: [[071a MOC Realismo Crítico]]
 - [[Paradigma]]
 - [[Ciência Normal]]
 - [[Ciência Extraordinária]] (ou revolucionária)
+- [[Mudança de Paradigma]]
 
 ### Referências
 - HARRÉ, Rom. **The philosophies of science**. Oxford University Press, 1972.
