@@ -48,6 +48,14 @@ related:: [[Resumo - 'Rational Fools', Amartya Sen]]
 - [[Função de Utilidade Indireta]]
 - [[Função Dispêndio]]
 
+Identidades:
+$$
+\begin{cases}
+h(p, u) = x(p, w=e(p,u)) \\
+x(p, w) = h(p, u=v(p,w))
+\end{cases}
+$$
+
 # 2) Demanda (Ótima) do Consumidor $x^*$ & Curvas Associadas
 - [[Função Demanda]]
 	- [[Curva de Demanda]]

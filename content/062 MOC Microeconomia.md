@@ -14,36 +14,6 @@ child:: [[062a MOC ANPEC Microeconomia]]
 # [[062b MOC Teoria do Consumidor]]
 
 # [[062b MOC Teoria da Firma]]
-# Problema de Otimização da Firma
-## 1) Minimização do Custo
-- [[Função Produção]]
-	- [[Retorno de Escala]]
-	- [[Produto Marginal do Trabalho]]
-	- [[Isoquanta]]
-	- [[Taxa Marginal de Substituição Técnica]]
-		- [[Dada uma função custo, a taxa marginal de substituição técnica é a razão dos produtos marginais]]
-	- [[Função de Cobb-Douglas]] (de novo)
-	- [[Função de Leontief]]
-- [[Economia de Escala]]
-- [[Função Custo]]
-	- [[Custo Marginal]]
-	- [[Isocusto]]
-	- [[O custo médio é mínimo se, e somente se, o custo marginal é igual ao custo médio]]
-## 2) Maximização do Lucro
-- [[Função Receita]]
-	- [[Receita Marginal]]
-	- [[Demandas inelásticas permitem maior receita com maiores preços]]
-		- $\iff$ [[Demandas inelásticas têm receita marginal negativa]]
-	- [[Demandas elásticas prejudicam a receita com maiores preços]]
-		- $\iff$ [[Demandas elásticas têm receita marginal positiva]]
-	- [[Poder de Mercado]]
-	- [[Markup]]
-		- [[O markup de um monopólio é maior quanto mais rígida a demanda]]
-- [[Função Lucro]]
-	- [[Lucro Médio]]
-	- [[Lucro Marginal]]
-	- [[A produção ótima ocorre quando o lucro marginal é 0]]
-	- [[O lucro marginal é 0 quando a receita marginal é igual ao custo marginal]]
 
 ## 3) [[062c MOC Teoria do Bem-Estar]]
 - [[Excedente do Consumidor]]
@@ -83,6 +53,7 @@ child:: [[062a MOC ANPEC Microeconomia]]
 ## Referências
 - VARIAN, Hal R. **Intermediate microeconomics: a modern approach**. 9 ed. W. W. Norton, 2014.
 - VASCONCELLOS, Marco Antonio Sandoval de. **Economia: micro e macro**. 6 ed.
+- MAS-COLELL, Andreu; WHINSTON, Michael Dennis; GREEN, Jerry R. **Microeconomic theory**. New York: Oxford University Press, 1995.
 - [MIT 14.01 Principles of Microeconomics, Fall 2018 - MIT OpenCourseWare (Jonathan Gruber)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-)
 - [MIT 14.04 Intermediate Microeconomic Theory, Fall 2020 - MIT OpenCourseWare (Robert Townsend)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63wnrKge9vllow3Y2OOOKqF)
 - [Iniciação Científica: Introdução à Economia Matemática (2022) - IMPA (Campo Elias)](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTjttEZI1t-7aVeFuMYkZuI)

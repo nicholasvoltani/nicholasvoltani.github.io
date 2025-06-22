@@ -11,6 +11,8 @@ up:: [[062 MOC Microeconomia]]
 ![[Pasted image 20240817122505.png]]
 Fonte: [fep.up.pt/docentes/joao/material/micro2/micro2\_maxlucro.pdf](https://www.fep.up.pt/docentes/joao/material/micro2/micro2_maxlucro.pdf)
 
+A receita de uma produção se trata de seu valor *produzido*. (A receita, quando deduzida dos [[Função Custo|custos]], é o [[Função Lucro|Lucro]] da produção; portanto, o lucro é a receita *líquida de custos*.)
+
 A receita de uma firma, obtida pela venda de $q$ unidades de algum bem, é a integral
 $$
 R(q) =  \int \limits_{0}^{q} p(\tilde{q})d\tilde{q}
@@ -29,5 +31,5 @@ A derivada $\frac{dR}{dq}$ é chamada de [[Receita Marginal]], receita obtida pe
 ### References
 - 
 
-[^1]: Ou seja, quando a [[Elasticidade de Preço da Demanda|Elasticidade-Preço da Demanda]] desse bem é perfeitamente elástica. É o caso também de [[Competição Perfeita]], em que as firmas são meras tomadoras de preço.
+[^1]: É o caso também de [[Competição Perfeita]], em que as firmas são meras tomadoras de preço.
 [^2]: Em verdade é uma taxa de variação, blá-blá-blá.

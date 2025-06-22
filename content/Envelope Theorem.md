@@ -17,8 +17,8 @@ $$
 através das derivadas
 $$
 \begin{cases*}
-\frac{ \partial \mathcal{L} }{ \partial x } = \frac{ \partial f }{ \partial x }|_{x^*} + \lambda \frac{ \partial g }{ \partial x }|_{x^*}  &= 0 \\
-\frac{ \partial \mathcal{L} }{ \partial \lambda } = g(x^*, \alpha) &= 0
+\frac{\partial \mathcal{L}}{\partial x} = \frac{\partial f}{\partial x}|_{x^*} + \lambda \frac{\partial g}{\partial x}|_{x^*}  &= 0 \\
+\frac{\partial \mathcal{L}}{\partial \lambda} = g(x^*, \alpha) &= 0
 \end{cases*}
 $$
 

@@ -9,9 +9,15 @@ up:: [[061e MOC Teorias Econômicas]]
 
 related:: [[061 MOC Macroeconomia]]
 
-- [[Princípio da Demanda Efetiva]]
-- 
+## Anotações
+- [[20250531 Anotações sobre Keynes]]
+- [[20250602 Anotações sobre Keynes]]
+- [[20250609 Anotações sobre Keynes]]
 
+# Conceitos Fundamentais
+- [[Eficiência Marginal do Capital]]
+- [[Princípio da Demanda Efetiva]]
+- [[Preferência por Liquidez]]
 
 
 ---

@@ -8,6 +8,8 @@ up:: [[070 MOC Philosophy]]
 
 child:: [[071a MOC Realismo Crítico]]
 
+related:: [Sobre Conspirações e Conhecimento (Nicholas F. Voltani)](https://nicholasvoltani.substack.com/p/sobre-conspiracoes-e-conhecimento)
+
 - [[Conhecimento]]
 	- [[Definição Tripartite de Conhecimento]]
 - [[Critério da Demarcação]]

@@ -16,6 +16,11 @@ U(x_{1},x_{2}) = x_{1}^{a}x_{2}^{b}
 $$
 onde $a, b > 0$.
 
+O caso geral é da forma
+$$
+U(x_{1, \dots, x_{L}}) = \prod \limits_{k=1}^{L} x_{k}^{\alpha_{k}}
+$$
+
 Suas [[Curva de Indiferença|Curvas de Indiferença]] são o exemplo prototípico de [[Preferências bem-comportadas]], pois a função é naturalmente monotônica e convexa.
 
 ---

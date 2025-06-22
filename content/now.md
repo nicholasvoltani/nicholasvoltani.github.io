@@ -12,8 +12,14 @@ up:: [[index]]
 > So a website with a link that says '**now**' goes to a page that tells you **what this person is focused on at this point in their life.** For short, we call it a 'now page'." (Derek Sivers, in [nownownow.com](https://nownownow.com/about))
 
 # 2025
+## June 2025
+
+**Interesting content of the month**:
+- ["Don't mourn for us" (Jim Sinclair)](https://philosophy.ucsc.edu/SinclairDontMournForUs.pdf)
+	- [Toby: neuter, genderless person pt1](https://www.youtube.com/watch?v=_VeLOIxiG4c&ab_channel=BetamaxBooty) & other parts
+
 ## May 2025
-Yep: a lot of reading. I'm also reading more on [[071a MOC Realismo Crítico|critical realism]], been really illuminating.
+Yep: a lot of reading. I'm also reading more on [[071a MOC Realismo Crítico|critical realism]], been really illuminating. Consumed by my Master's studies. Getting frequently close to burnout.
 
 I also created an [are.na channel](https://www.are.na/nicholas-voltani/thank-god-for-the-internet), which is like a Pinterest for links, PDFs and so on. Didn't get to fiddle around, but it's a nice idea. Adding stuff there from time to time.
 

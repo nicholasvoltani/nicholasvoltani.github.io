@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[0x5 MOC Mestrado]]
+up:: [[0x5 MOC Mestrado]] // [[062b MOC Teoria do Consumidor]]
 
 # Exercício 3
 ![[Pasted image 20250424121030.png|400]]

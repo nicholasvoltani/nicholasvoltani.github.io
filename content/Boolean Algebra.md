@@ -17,7 +17,7 @@ It is assured to have unique complement, since [[Every distributive and limited 
 Every boolean algebra satisfies the **De Morgan laws**:
 $$
 \begin{cases*}
-\lnot (a \land b) = \lnot a \lor \lnot b\\
+\lnot (a \land b) = \lnot a \lor \lnot b \\
 \lnot(a \lor b) = \lnot a \land \lnot b
 \end{cases*}
 $$

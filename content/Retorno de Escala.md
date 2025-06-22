@@ -14,7 +14,7 @@ Retornos de escala de uma [[Função Produção]] $Y$ são dados por
 $$
 \frac{ \partial Y }{ \partial FP } \frac{FP}{Y}
 $$
-onde $FP$ são [[Fatores de Produção]] ($K$ ou $L$).
+onde $FP$ são [[Fatores de Produção]] ($K$ ou $L$). *Grosso modo*, é uma espécie de **elasticidade**.
 
 Pode-se reescrever essa equação através de $\ln$s como[^1]
 $$

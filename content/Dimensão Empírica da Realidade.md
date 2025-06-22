@@ -5,6 +5,10 @@ tags:
   - philosophy/philosophy_of_science
   - philosophy/critical_realism
 aliases:
+  - Empírica
+  - Empírico
+  - Empíricas
+  - Empíricos
 ---
 
 up:: [[071a MOC Realismo Crítico]]

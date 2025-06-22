@@ -5,6 +5,7 @@ tags:
 aliases:
   - Demanda Compensada de Hicks
   - Demanda Compensada
+  - Demandas Hicksianas
 ---
 
 up:: [[062b MOC Teoria do Consumidor]]

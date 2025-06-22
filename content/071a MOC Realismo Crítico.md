@@ -14,6 +14,7 @@ related:: [[Trabalho HPE - Roy Bhaskar e o Realismo Crítico]]
 
 # Anotações
 - [[20250507 Notas sobre Realismo Crítico]]
+- [[20250530 Anotações sobre Realismo Crítico]]
 
 # Conceitos fundamentais
 - [[Dimensão Empírica da Realidade]]

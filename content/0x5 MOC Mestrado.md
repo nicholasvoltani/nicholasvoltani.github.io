@@ -15,6 +15,7 @@ up:: [[index]] // [[060 MOC Economia]]
 - [[Lista 2 Microeconomia - 1.2025]]
 - [[Lista 3 Microeconomia - 1.2025]]
 - [[Lista 4 Microeconomia - 1.2025]]
+- [[Possíveis exercícios para listas de Microeconomia]]
 ## [[066 MOC História do Pensamento Econômico]]
 - [[071 MOC Teoria do Conhecimento e Filosofia da Ciência]]
 	- [[071a MOC Realismo Crítico]]
@@ -22,6 +23,10 @@ up:: [[index]] // [[060 MOC Economia]]
 # Segundo semestre (2/4)
 ## Economia Política I
 - [[011a MOC Capital I]]
+
+## Teoria de Ciclos, Crises
+
+
 
 # Terceiro semestre (3/4)
 ## Economia Política II

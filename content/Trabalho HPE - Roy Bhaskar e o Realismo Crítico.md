@@ -4,7 +4,9 @@ tags:
   - moc
 ---
 
-up:: [[066 MOC História do Pensamento Econômico]] // [[071 MOC Teoria do Conhecimento e Filosofia da Ciência]] // [[071a MOC Realismo Crítico]]
+up:: [[071a MOC Realismo Crítico]]
+
+related:: [[066 MOC História do Pensamento Econômico]] // [[071 MOC Teoria do Conhecimento e Filosofia da Ciência]]
 
 # Introdução ao Realismo Crítico de Roy Bhaskar: Teoria do valor \[de Marx\] sob a ótica do Realismo Crítico
 ## Dimensões transitiva e intransitiva da realidade
@@ -21,6 +23,8 @@ Bhaskar também expõe o conceito de [[Falácia Epistêmica (Bhaskar)]], em que 
 
 # "Propriedades ontológicas do objeto social" (CAVALCANTE, p. 289; cf. LAWSON, p. 63)
 
+# Teoria do valor
+Pode ser interessante investigar: [[O valor de uma mercadoria é um fenômeno emergente]]
 
 
 ---
