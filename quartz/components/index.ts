@@ -21,6 +21,8 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import LinksHeader from "./LinksHeader"
+import ConditionalRender from "./ConditionalRender"
+import Flex from "./Flex"
 
 export {
   ArticleTitle,
@@ -45,5 +47,7 @@ export {
   RecentNotes,
   NotFound,
   Breadcrumbs,
-  LinksHeader
+  LinksHeader,
+  ConditionalRender,
+  Flex
 }
