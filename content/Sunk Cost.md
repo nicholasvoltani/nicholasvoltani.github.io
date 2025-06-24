@@ -6,7 +6,7 @@ aliases:
   - Sunk Costs
 ---
 
-up:: [[062b MOC Teoria da Firma]]
+up:: [[062c MOC Teoria da Firma]]
 
 ![[Pasted image 20250612114437.png|300]]
 Fonte: MWG, p. 131. $Y$ é o conjunto de [[Função Produção|produção]].

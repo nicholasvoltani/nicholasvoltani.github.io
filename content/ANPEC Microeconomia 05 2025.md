@@ -7,7 +7,7 @@ aliases:
 
 up:: [[062a MOC ANPEC Microeconomia]]
 
-related:: [[062c MOC Teoria do Bem-Estar]]
+related:: [[062d MOC Teoria do Bem-Estar]]
 
 ![[Pasted image 20241122145238.png|500]]
 

@@ -51,6 +51,42 @@ Ou seja, o problema de minimização de custo é equivalente ao problema de maxi
 - [[Lema de Shephard]]
 - [[Sunk Cost]]
 ## 2) Maximização do Lucro
+Dado um vetor de preços $p \gg 0$, e supondo *netputs* $y \in Y \subseteq \mathbb{R}^L$ (positivos para produtos, negativos para insumos), temos que o *lucro* da firma é dado por $\braket{ p | y }$. 
+
+O problema da maximização do lucro se traduz em
+$$
+\max\limits_{y \in Y} \braket{ p | y }
+$$
+Como queremos *netputs* que sejam **viáveis** — dada função produção $F$, $F(y) \leq 0$ —, o problema de maximização diz
+$$
+\max\limits_{y} \braket{ p | y }  \,\, \mid \,\, F(y) \leq 0
+$$
+(É necessário que $F$ tenha **retornos marginais decrescentes**, senão $\pi \to \infty$!)
+
+A função $\pi(p)$ associada a essa maximização é chamada de função lucro.
+
+Maximizando para uma *solução interior* (evitando Kuhn-Tucker vide acima), vem as condições de primeira ordem:
+$$
+\begin{cases}
+p = - \lambda \, \nabla F(y^{*})  \\
+F(y) = 0
+\end{cases}
+$$
+
+Das primeiras equações, tem-se que a taxa marginal de substituição técnica $MTST_{ik}(y^*)$ é igual à razão dos respectivos preços:
+$$
+- \frac{F_{i}(y^{*})}{F_{k}(y^{*})} \eqqcolon MTST_{ik}(y^{*}) = - \frac{p_{i}}{p_{k}}
+$$
+Assumindo que $Y$ possui somente *um* produto ($y$), e $L$ insumos ($z$) — i.e. a função de produção é da forma $f: \mathbb{R}^{L} \to \mathbb{R}$ —, a maximização traz
+$$
+\max\limits_{z\geq 0} p \,f(z) - \braket{ w | z } 
+$$
+cujas condições de primeira ordem (de solução interior) são
+$$
+\nabla f(z^{*}) = \frac{w}{p}
+$$
+(e $z^* \gg 0$.) Dessa forma, temos que as taxas marginais de substituição técnica (do produto) com relação a certos insumos são iguais às razões dos preços *destes respectivos insumos*.
+
 - [[Função Receita]]
 	- [[Receita Marginal]]
 	- [[Demandas inelásticas permitem maior receita com maiores preços]]

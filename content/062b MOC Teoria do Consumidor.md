@@ -5,7 +5,7 @@ tags:
 ---
 up:: [[062 MOC Microeconomia]]
 
-related:: [[Resumo - 'Rational Fools', Amartya Sen]]
+related:: [[Resumo - 'Rational Fools', Amartya Sen]] // [[062c MOC Loterias]]
 
 
 # Conceitos Fundamentais & Tipos de Bens
@@ -73,18 +73,6 @@ $$
 - [[Efeito Substituição]]
 - [[Efeito Renda]]
 - [[Efeito Preço]]
-
-# 4) Loterias & "Incerteza"
-- [[Utilidade de von Neumann-Morgenstern]] (Aula 9 IMPA)
-- [[Paradoxo de Allais]]: contraexemplo cotidiano do axioma da independência de loterias (Aula 10 IMPA)
-- [[Aversão ao Risco]]
-- [[Prêmio de Risco]]
-- [[Medida de Arrow-Pratt]] (Aversão absoluta)
-- [[Medida de Aversão Relativa ao Risco]]
-- [[Constant Absolute Risk Aversion]] (CARA)
-- [[Modelo CAPM]]
-- [[Índice de Sharpe]]
-- [[Alavancagem]]
 
 ### Referências
 - [Iniciação Científica: Introdução à Economia Matemática (2022) - YouTube](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTjttEZI1t-7aVeFuMYkZuI)

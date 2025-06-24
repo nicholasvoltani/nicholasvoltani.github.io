@@ -4,6 +4,7 @@ tags:
   - economics
 aliases:
   - IIA
+  - Axioma da Independência
 ---
 
 up:: [[062b MOC Teoria do Consumidor]]
@@ -21,5 +22,16 @@ O exemplo acima é ilustrativo:
 
 Não é difícil pensar em exemplos que violem IIA: eu posso preferir carne a peixe no cotidiano, mas posso preferir peixe a carne caso, p. ex., eu esteja em uma peixaria bem-conceituada.
 
+# Contexto de loterias
+![[Pasted image 20250623154104.png|500]]
+Fonte: MAS-COLLELL et al., p. 172.
+
+No contexto de [[062c MOC Loterias|loterias]], tem-se que uma relação de preferência $\succeq$ satisfaz o *axioma da independência* (IIA) se
+$$
+\forall L, L', L'' \in \mathcal{L}; \alpha \in (0,1): L' \succeq L \iff \alpha L' + (1-\alpha) L'' \succeq \alpha L + (1-\alpha) L''
+$$
+
+### Referências
+- MAS-COLELL, Andreu; WHINSTON, Michael Dennis; GREEN, Jerry R. **Microeconomic theory**. New York: Oxford University Press, 1995.
 
 [^1]: *Independent of irrelevant alternatives*.

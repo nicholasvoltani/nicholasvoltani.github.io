@@ -3,9 +3,10 @@ date: " 2025-06-12"
 tags:
   - economics
 aliases:
+  - A função de oferta de uma firma é o gradiente da função lucro
 ---
 
-up:: [[062b MOC Teoria da Firma]]
+up:: [[062c MOC Teoria da Firma]]
 
 Caso os *netputs* ótimos de uma [[Função Produção]], dado $p \gg 0$, sejam unívocos por $p$, então  
 $$

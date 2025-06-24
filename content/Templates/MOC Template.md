@@ -6,8 +6,7 @@ tags:
 
 up:: 
 
-# Topics
-
 
 ---
 ### References
+- 

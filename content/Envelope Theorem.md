@@ -60,7 +60,7 @@ $$
 $$
 
 # Corolários
-Corolários muito importantes para a Microeconomia são a [[Identidade de Roy]] e o [[Lema de Shephard]] ([[062b MOC Teoria do Consumidor]]), assim como o [[Lema de Hotelling]] ([[062b MOC Teoria da Firma]]). 
+Corolários muito importantes para a Microeconomia são a [[Identidade de Roy]] e o [[Lema de Shephard]] ([[062b MOC Teoria do Consumidor]]), assim como o [[Lema de Hotelling]] ([[062c MOC Teoria da Firma]]). 
 
 ---
 ### References

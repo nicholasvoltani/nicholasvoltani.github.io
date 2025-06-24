@@ -15,7 +15,13 @@ Sequer ouvia aquele pobre coitado, que sequer funcionário seria capaz de ser. S
 
 Ao final do falatório, cumprimentou sua mão, virou-se e foi-se embora sem mais.
 
-O lavrador, agora sem terras, olhava-o ir embora. Seu vínculo fora cortado. Suas alegrias e labutas, sua vida e de sua família, seu amor pelos grilos da noite – sepultados. Seu olhar também não alcançava o homem que ia-se embora à sua frente: estendia-se para o passado, para as dores e as conquistas, para a felicidade e alívio de uma boa safra, para a harmonia de quem sabe que age em consonância com a terra, com as plantas e os bichos, com os céus e os insetinhos, com o círculo da vida que girava em torno de si.
+O lavrador, agora sem terras, olhava-o ir embora. Um mau agouro terrível o acometia. 
+
+Seu vínculo fora cortado. 
+
+Suas alegrias e labutas, sua vida e de sua família, seu amor pelos grilos da noite – sepultados. 
+
+Seu olhar também não alcançava o homem que ia-se embora à sua frente: estendia-se para o passado, para as dores e as conquistas, para a felicidade e alívio de uma boa safra, para a harmonia de quem sabe que age em consonância com a terra, com as plantas e os bichos, com os céus e os insetinhos, com o círculo da vida que girava em torno de si.
 
 Não mais.
 

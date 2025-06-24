@@ -13,9 +13,11 @@ child:: [[062a MOC ANPEC Microeconomia]]
 
 # [[062b MOC Teoria do Consumidor]]
 
-# [[062b MOC Teoria da Firma]]
+# [[062c MOC Teoria da Firma]]
 
-## 3) [[062c MOC Teoria do Bem-Estar]]
+# [[062c MOC Loterias]]
+
+# [[062d MOC Teoria do Bem-Estar]]
 - [[Excedente do Consumidor]]
 - [[Excedente do Produtor]]
 - [[Excedente Total]]
@@ -28,6 +30,7 @@ child:: [[062a MOC ANPEC Microeconomia]]
 - [[Externalidade]]
 - [[Função de Bem-Estar Social de Bentham]]
 - [[Função de Bem-Estar Social de Rawls]]
+- [[Caixa de Edgeworth]]
 
 # Mercado de Fatores
 - [[Receita do Produto Marginal]]

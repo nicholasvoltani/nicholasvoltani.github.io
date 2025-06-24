@@ -11,11 +11,11 @@ up:: [[Terceiro Ato - Cidade da Fúria]]
 > e onde sou parte de todos.
 > 
 > Nada mudará com um aviso de curva.
-> Em seus rostos vejo o temor.
+> Em seus rostos, vejo o temor.
 > Não há mais fábulas
 > nesta cidade da fúria.
 > 
-> Com a luz do sol se derretem minhas asas.
+> Com a luz do sol, se derretem minhas asas.
 > Só encontro na escuridão o que me une
 > com esta cidade da fúria.
 > 
