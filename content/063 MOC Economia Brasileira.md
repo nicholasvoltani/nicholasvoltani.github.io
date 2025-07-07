@@ -257,6 +257,8 @@ Mercosul: [[Protocolo de Ouro Preto (1994)]]: adoção de Tarifa Externa Comum (
 [[Crise Cambial do Brasil (1999)]]
 - [[Regime de Metas de Inflação (1999)]]
 
+[[Boom das Commodities (anos 2000)]]
+
 [[Lei de Responsabilidade Fiscal (2000)]]
 
 [[Crise do Apagão (2001)]]
@@ -275,6 +277,7 @@ Mercosul: [[Protocolo de Ouro Preto (1994)]]: adoção de Tarifa Externa Comum (
 
 
 ## Dilma Rousseff (2011 - 2016)
+[[Crise Econômica Brasileira de 2014]] 
 
 
 ---

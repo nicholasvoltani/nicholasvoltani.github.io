@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062e MOC Teoria dos Jogos]]
+up:: [[062f MOC Teoria dos Jogos]]
 
 Uma estratégia $(s_{i}^{*}, s_{-i}^{*})$ é dita ser um equilíbrio de Nash se $s_{i}^{*}$ é uma [[Melhor Resposta]] para $s_{-i}^{*}$, e vice-versa. Ou seja, [[Um equilíbrio de Nash é a interseção de todas as melhores respostas]]. 
 

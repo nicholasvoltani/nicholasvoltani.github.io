@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062c MOC Loterias]]
+up:: [[062d MOC Loterias]]
 
 > "It is important to distinguish between the utility function $U(\cdot)$, defined on lotteries, and the utility function $u(\cdot)$ **defined on sure amounts of money**. For this reason, we call (...) $u(\cdot)$ the *Bernoulli utility function*." (MAS-COLELL et al., p. 184)
 

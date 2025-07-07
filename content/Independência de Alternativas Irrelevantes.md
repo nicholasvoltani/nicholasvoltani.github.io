@@ -26,7 +26,7 @@ Não é difícil pensar em exemplos que violem IIA: eu posso preferir carne a pe
 ![[Pasted image 20250623154104.png|500]]
 Fonte: MAS-COLLELL et al., p. 172.
 
-No contexto de [[062c MOC Loterias|loterias]], tem-se que uma relação de preferência $\succeq$ satisfaz o *axioma da independência* (IIA) se
+No contexto de [[062d MOC Loterias|loterias]], tem-se que uma relação de preferência $\succeq$ satisfaz o *axioma da independência* (IIA) se
 $$
 \forall L, L', L'' \in \mathcal{L}; \alpha \in (0,1): L' \succeq L \iff \alpha L' + (1-\alpha) L'' \succeq \alpha L + (1-\alpha) L''
 $$

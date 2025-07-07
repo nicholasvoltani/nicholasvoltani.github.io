@@ -44,11 +44,11 @@ Custos do emprego de [[Força de Trabalho]]:
 
 O [[Função Lucro|Lucro]] do empresário — **visto agregadamente** — é igual ao valor produzido (i.e. [[Função Receita|Receita]]) *menos custos de fatores e de uso*, doravante chamado de **renda**.
 
-Porém, como pode-se ver os custos de fatores de uma parte como rendimentos destes mesmos fatores para a outra parte, pode-se definir a **renda total** do empresário como o lucro *mais custos de fatores*, ou seja, valor produzido menos custo de uso. Outra forma de vê-lo é que a renda total é o valor produzido, *líquido de custos de uso*.
+Porém, como pode-se ver, os custos de fatores de uma parte como rendimentos destes mesmos fatores para a outra parte, pode-se definir a **renda total** do empresário como o lucro *mais custos de fatores*, ou seja, valor produzido menos custo de uso. Outra forma de vê-lo é que a renda total é o valor produzido, *líquido de custos de uso*.
 
 É a **renda total** a quantidade (segundo Keynes) o que o empresário busca maximizar. 
 
-Por algum motivo, Keynes considera que "o preço da oferta agregada da produção resultante de determinado volume de emprego *é o produto esperado*, que é exatamente suficiente para que os empresário considerem vantajoso oferecer o emprego em questão" (Keynes, 1996, p. 59-60; grifo meu).
+Por algum motivo, Keynes considera que "o preço da oferta agregada da produção resultante de determinado volume de emprego *é o produto esperado*, que é exatamente suficiente para que os empresários considerem vantajoso oferecer o emprego em questão" (Keynes, 1996, p. 59-60; grifo meu).
 
 $Z$: preço da oferta agregada da produção, advinda do emprego de $N$ *men*. A relação entre ambos, dada por $\phi$, é a *função da oferta agregada*.
 $$

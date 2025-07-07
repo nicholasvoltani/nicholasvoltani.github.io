@@ -3,9 +3,10 @@ date: " 2025-06-23"
 tags:
   - economics
 aliases:
+  - Coeficiente de Aversão Absoluta ao Risco
 ---
 
-up:: [[062c MOC Loterias]]
+up:: [[062d MOC Loterias]]
 
 Dada uma [[Utilidade de Bernoulli]] $u(\cdot)$ duplamente diferenciável, o coeficiente de Arrow-Pratt, de **aversão absoluta ao risco**, é definido como
 $$
@@ -15,6 +16,8 @@ $$
 Essa definição não é meramente $u''(x)$, pois tal medida não seria invariante a transformações lineares da função utilidade.
 
 O sinal negativo é por convenção: $r_{A}$ é positivo para agentes [[Aversão ao Risco|avessos ao risco]], $0$ para neutros ao risco, e negativo para amantes ao risco.
+
+Este coeficiente se trata de aversão *absoluta* ao risco, ou seja, trata-se de desvios em valor *absoluto* de uma dada riqueza inicial $x$. Há também o [[Coeficiente de Aversão Relativa ao Risco]], que se trata de desvios *percentuais* de dada riqueza $x$.
 
 # Relação com Prêmio de Risco
 Dada uma riqueza $x$, analisando o [[Prêmio de Risco]] $\pi(x, \epsilon, u)$, denote-se $\pi(\epsilon) \coloneqq  \pi(x, \epsilon, u)$. Analisamos sua variação conforme $\epsilon \to 0$. A definição de prêmio de risco é

@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062e MOC Teoria dos Jogos]] // [[062 MOC Microeconomia]]
+up:: [[062f MOC Teoria dos Jogos]] // [[062 MOC Microeconomia]]
 
 ![[Pasted image 20250403195833.png]]
 Fonte: [Edgeworth box - Wikipedia](https://en.wikipedia.org/wiki/Edgeworth_box)

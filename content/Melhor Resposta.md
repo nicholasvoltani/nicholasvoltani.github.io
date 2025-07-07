@@ -6,7 +6,7 @@ aliases:
   - Best Response
 ---
 
-up:: [[062e MOC Teoria dos Jogos]]
+up:: [[062f MOC Teoria dos Jogos]]
 
 Dado um jogador $i$ e uma estratégia $s_{-i}$ escolhida pelos demais jogadores, uma escolha $\hat{s}_{i} \in S_{i}$ é dita ser sua *melhor escolha* se
 $$

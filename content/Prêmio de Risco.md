@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[062c MOC Loterias]]
+up:: [[062d MOC Loterias]]
 
 ![[Pasted image 20250623174839.png|600]]
 Fonte: MAS-COLELL et al., p. 187.

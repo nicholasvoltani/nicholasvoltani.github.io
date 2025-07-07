@@ -4,7 +4,7 @@ tags:
   - economics 
   - moc
 ---
-up:: [[060 MOC Economia]]
+up:: [[060 MOC Economia]] // [[0x5 MOC Mestrado]]
 
 child:: [[062a MOC ANPEC Microeconomia]]
 
@@ -15,26 +15,10 @@ child:: [[062a MOC ANPEC Microeconomia]]
 
 # [[062c MOC Teoria da Firma]]
 
-# [[062c MOC Loterias]]
+# [[062d MOC Loterias]]
 
-# [[062d MOC Teoria do Bem-Estar]]
-- [[Excedente do Consumidor]]
-- [[Excedente do Produtor]]
-- [[Excedente Total]]
-- [[Perda de Peso Morto]]
-- [[Imposto Específico]]
-	- [[Quanto mais inelástico, mais sensível ao imposto específico]]
-- [[Imposto Ad Valorem]]
-- [[O mercado é eficiente quando ele maximiza o excedente total]]
-	- $\iff$ [[O mercado é eficiente quando ele minimiza a perda de peso morto]]
-- [[Externalidade]]
-- [[Função de Bem-Estar Social de Bentham]]
-- [[Função de Bem-Estar Social de Rawls]]
-- [[Caixa de Edgeworth]]
+# [[062e MOC Teoria do Bem-Estar]]
 
-# Mercado de Fatores
-- [[Receita do Produto Marginal]]
-- [[Efeito Laffer]]
 
 # Tipos de Concorrência de Mercado
 - [[Competição Perfeita]]
@@ -44,12 +28,12 @@ child:: [[062a MOC ANPEC Microeconomia]]
 		- [[Cartel]]
 		- [[Truste]]
 
-# [[062e MOC Teoria dos Jogos]]
+# [[062f MOC Teoria dos Jogos]]
 
 # Problemas Atuariais
 - [[Assimetria de Informação]]
 - [[Seleção Adversa]]
-- [[Risco Moral]] (*Moral Hazard*)
+- [[Risco Moral]]
 
 
 ---

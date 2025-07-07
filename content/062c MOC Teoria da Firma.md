@@ -51,7 +51,22 @@ Ou seja, o problema de minimização de custo é equivalente ao problema de maxi
 - [[Lema de Shephard]]
 - [[Sunk Cost]]
 ## 2) Maximização do Lucro
-Dado um vetor de preços $p \gg 0$, e supondo *netputs* $y \in Y \subseteq \mathbb{R}^L$ (positivos para produtos, negativos para insumos), temos que o *lucro* da firma é dado por $\braket{ p | y }$. 
+- [[Função Receita]]
+	- [[Receita Marginal]]
+	- [[Demandas inelásticas permitem maior receita com maiores preços]]
+		- $\iff$ [[Demandas inelásticas têm receita marginal negativa]]
+	- [[Demandas elásticas prejudicam a receita com maiores preços]]
+		- $\iff$ [[Demandas elásticas têm receita marginal positiva]]
+	- [[Poder de Mercado]]
+	- [[Markup]]
+		- [[O markup de um monopólio é maior quanto mais rígida a demanda]]
+- [[Função Lucro]]
+	- [[Lucro Médio]]
+	- [[Lucro Marginal]]
+	- [[A produção ótima ocorre quando o lucro marginal é 0]]
+- [[Lema de Hotelling]]
+
+Supondo *netputs* $y \in Y \subseteq \mathbb{R}^L$ (positivos para produtos, negativos para insumos), e dado um vetor de seus respectivos preços $p \gg 0$, temos que o *lucro* da firma é dado por $\braket{ p | y }$. 
 
 O problema da maximização do lucro se traduz em
 $$
@@ -69,7 +84,7 @@ Maximizando para uma *solução interior* (evitando Kuhn-Tucker vide acima), vem
 $$
 \begin{cases}
 p = - \lambda \, \nabla F(y^{*})  \\
-F(y) = 0
+F(y^{*}) = 0
 \end{cases}
 $$
 
@@ -87,22 +102,6 @@ $$
 $$
 (e $z^* \gg 0$.) Dessa forma, temos que as taxas marginais de substituição técnica (do produto) com relação a certos insumos são iguais às razões dos preços *destes respectivos insumos*.
 
-- [[Função Receita]]
-	- [[Receita Marginal]]
-	- [[Demandas inelásticas permitem maior receita com maiores preços]]
-		- $\iff$ [[Demandas inelásticas têm receita marginal negativa]]
-	- [[Demandas elásticas prejudicam a receita com maiores preços]]
-		- $\iff$ [[Demandas elásticas têm receita marginal positiva]]
-	- [[Poder de Mercado]]
-	- [[Markup]]
-		- [[O markup de um monopólio é maior quanto mais rígida a demanda]]
-- [[Função Lucro]]
-	- [[Lucro Médio]]
-	- [[Lucro Marginal]]
-	- [[A produção ótima ocorre quando o lucro marginal é 0]]
-	- [[O lucro marginal é 0 quando a receita marginal é igual ao custo marginal]]
-- [[Lema de Hotelling]]
-- [[Ótimo de Pareto]]
 
 
 ---

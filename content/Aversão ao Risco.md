@@ -3,9 +3,10 @@ date: " 2025-06-23"
 tags:
   - economics
 aliases:
+  - Avesso ao Risco
 ---
 
-up:: [[062c MOC Loterias]]
+up:: [[062d MOC Loterias]]
 
 ![[Pasted image 20250623171154.png|500]]
 Fonte: MAS-COLELL et al., p. 186.

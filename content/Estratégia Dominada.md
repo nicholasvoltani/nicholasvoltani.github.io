@@ -8,7 +8,7 @@ aliases:
   - Estratégia Fracamente Dominante
 ---
 
-up:: [[062e MOC Teoria dos Jogos]]
+up:: [[062f MOC Teoria dos Jogos]]
 
 Dado um jogador $i$ com utilidade $u_{i}: S \to \mathbb{R}$ e com estratégias $S_{i}$, temos que uma estratégia $s_{i}$ é *estritamente dominada* se houver alguma outra estratégia $s_{i}'$ que seja melhor que ela, independente da reação dos demais jogadores.
 

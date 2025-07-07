@@ -6,7 +6,7 @@ aliases:
   - Utilidade Esperada
 ---
 
-up:: [[062c MOC Loterias]]
+up:: [[062d MOC Loterias]]
 
 Uma função $U: \mathcal{L} \to \mathbb{R}$ sobre o espaço de [[Loteria (Microeconomia)|Loterias]] possui a *forma de utilidade esperada* se existe algum $u\coloneqq (u_{1}, \dots, u_{n}) \in \mathbb{R}^n$ tal que
 $$

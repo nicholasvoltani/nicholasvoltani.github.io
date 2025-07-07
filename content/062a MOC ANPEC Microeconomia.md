@@ -18,7 +18,7 @@ up:: [[062 MOC Microeconomia]]
 	- [[Subsídios]]
 		- [[ANPEC Microeconomia 06 2024]]
 
-# [[062d MOC Teoria do Bem-Estar]]
+# [[062e MOC Teoria do Bem-Estar]]
 - [[Imposto Específico]]
 	- [[ANPEC Microeconomia 14 2023]]
 	- [[ANPEC Microeconomia 05 2025]]

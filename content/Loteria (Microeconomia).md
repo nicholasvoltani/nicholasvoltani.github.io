@@ -9,7 +9,7 @@ aliases:
   - Loterias Compostas
 ---
 
-up:: [[062c MOC Loterias]]
+up:: [[062d MOC Loterias]]
 
 Uma loteria (em Microeconomia) é um vetor de probabilidades — i.e. um vetor em um $(n-1)$-*simplexo* — $(p_{1}, \dots, p_{n})$, onde $p_{k}$ é a probabilidade de que algum evento $k$ ocorra.
 

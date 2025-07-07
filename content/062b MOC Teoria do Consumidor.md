@@ -5,7 +5,7 @@ tags:
 ---
 up:: [[062 MOC Microeconomia]]
 
-related:: [[Resumo - 'Rational Fools', Amartya Sen]] // [[062c MOC Loterias]]
+related:: [[Resumo - 'Rational Fools', Amartya Sen]] // [[062d MOC Loterias]]
 
 
 # Conceitos Fundamentais & Tipos de Bens

@@ -5,7 +5,7 @@ tags:
 ---
 up:: [[020 MOC Mathematics]]
 
-Given a set $X$, a function $\sim: X \times X \to \{True, False\}$ is an equivalence relation if it satisfies
+Given a set $X$, a relation $\sim: X \times X \to \{True, False\}$ is an equivalence relation if it satisfies
 1. **Reflexivity**: $\forall x \in X, x \sim x$
 2. **Commutativity**: $\forall x, y \in X, x \sim y \iff y \sim x$
 3. **Transitivity**: $\forall x, y, z \in X, x \sim y \land y \sim z \implies x \sim z$

@@ -53,6 +53,57 @@ onde $D_{p}x \equiv \left(\frac{ \partial x_{i} }{ \partial p_{j} }\right)_{ij}$
 
 A matriz resultante, $S$, é a [[Matriz de Slutsky]]. 
 
+# Exemplo
+Seja $U(x_{1},x_{2}) = x_{1}^{1/2}x_{2}^{1/2}$ [[Função de Cobb-Douglas|Utilidade de Cobb-Douglas]] (a preços $p_{x}, p_{y}$). Sabe-se que as [[Demanda Marshalliana|Demandas Marshallianas]] são
+$$
+x_{i}^{*} = \frac{w}{2p_{i}}
+$$
+A partir delas, obtém-se a [[Função de Utilidade Indireta|Utilidade Indireta]]
+$$
+v(p, w) = \frac{w}{2 \sqrt{ p_{x} p_{y} }} \left( = x_{1}^{*} \sqrt{ \frac{p_{x}}{p_{y}} } = x_{2}^{*} \sqrt{ \frac{p_{y}}{p_{x}} } \right)
+$$
+Invertendo em termos de $w$, temos a [[Função Dispêndio]]
+$$
+e(p, u) = 2 u \sqrt{ p_{x} p_{y} }
+$$
+
+Pela identidade que define a [[Demanda Hicksiana]]
+$$
+h(p, u) = x^{*}(p, e(p,u))
+$$
+podemos reobter $h(p, u)$:
+$$
+\begin{cases}
+h_{1}(p, u) = u \sqrt{ \frac{p_{y}}{p_{x}} } \\
+h_{2}(p,u) = u \sqrt{ \frac{p_{x}}{p_{y}} }
+\end{cases}
+$$
+
+Montando a equação de Slutsky para $x_{1}^{*}$ primeiro, temos
+$$
+\frac{ \partial x_{1}^{*} }{ \partial p_{x} }  = - \frac{w}{2 p_{x}^{2}}
+$$
+que é o [[Efeito Preço]] dessa demanda (efetivamente observado).
+
+O [[Efeito Renda]] é obtido como
+$$
+x_{1}^{*} \frac{ \partial x_{1}^{*} }{ \partial w } = \frac{w}{4 p_{x}^{2}}
+$$
+
+O [[Efeito Substituição]] é obtido como
+$$
+\frac{ \partial h_{1} }{ \partial p_{x} }  =  -\frac{u}{2} \sqrt{ \frac{p_{y}}{p_{x}^{3}} } 
+$$
+Tomando $u$ como sendo a utilidade indireta — ou seja, $h_{1} = x_{1}^{*}$ —, obtém-se
+$$
+\frac{ \partial h_{1} }{ \partial p_{x} }  = - \frac{x_{1}^{*}}{2 p_{x}} = -\frac{w}{4 p_{x}^{2}}
+$$
+
+Somando ambos, confirma-se a identidade de Slutsky
+$$
+\frac{ \partial h_{1} }{ \partial p_{x} } = \frac{ \partial x_{1}^{*} }{ \partial p_{x} } + x \frac{ \partial x_{1}^{*} }{ \partial w } = -\frac{1}{4} \frac{w}{p_{x}^{2}}
+$$
+
 ---
 ### References
 - [Lecture 3: Income and Substitution Effects - MIT OpenCourseWare (Robert Townsend)](https://www.youtube.com/watch?v=DGoILxx9KsE&list=PLUl4u3cNGP63wnrKge9vllow3Y2OOOKqF&index=3)

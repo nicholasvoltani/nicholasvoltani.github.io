@@ -1,6 +1,6 @@
 ---
 date: 2024-10-10
-tags:
+aliases:
   - Principais Dúvidas
   - Principais Perguntas
 ---

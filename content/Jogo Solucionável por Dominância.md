@@ -6,7 +6,7 @@ aliases:
   - Eliminação Iterada de Estratégias Estritamente Dominadas
 ---
 
-up:: [[062e MOC Teoria dos Jogos]]
+up:: [[062f MOC Teoria dos Jogos]]
 
 ![[Pasted image 20241029182433.png|700]]
 Fonte: [Dominância estratégica – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Domin%C3%A2ncia_estrat%C3%A9gica#Elimina%C3%A7%C3%A3o_iterada_de_estrat%C3%A9gias_estritamente_dominadas_(IESDS)).

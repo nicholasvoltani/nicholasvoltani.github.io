@@ -15,9 +15,11 @@ related:: [[061 MOC Macroeconomia]]
 - [[20250609 Anotações sobre Keynes]]
 
 # Conceitos Fundamentais
-- [[Eficiência Marginal do Capital]]
 - [[Princípio da Demanda Efetiva]]
+- [[Eficiência Marginal do Capital]]
 - [[Preferência por Liquidez]]
+	- [[Taxa de Juros]]
+- [[Propensão Marginal a Consumir]]
 
 
 ---
