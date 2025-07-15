@@ -12,7 +12,16 @@ up:: [[index]]
 > So a website with a link that says '**now**' goes to a page that tells you **what this person is focused on at this point in their life.** For short, we call it a 'now page'." (Derek Sivers, in [nownownow.com](https://nownownow.com/about))
 
 # 2025
+## July 2025
+Holidays are close by. Must. Keep. Going.
+
+**Interesting content of the month**:
+- [The Most Important Concept in Physics. \#SoME4 (PolyaMath)](https://www.youtube.com/watch?v=3bH-3dINo7E) (it's *differentials*)
+- [How Bread Built Civilization: From the First Farmers to the Modern Factory (OTR Food & History)](https://www.youtube.com/watch?v=892yaBEwtbM)
+- ["One Day, Everyone Will Have Always Been Against This" (PhilosyNoir)](https://www.youtube.com/watch?v=wAJI0Jc-GEE) (amidst all the Contrapoints controversy about the Gaza genocide... now *that's* [disappointing](https://youtu.be/y6EDlD_fWn0?t=14))
+
 ## June 2025
+Complete focus on my Master's, almost burnt out. But still standing.
 
 **Interesting content of the month**:
 - ["Don't mourn for us" (Jim Sinclair)](https://philosophy.ucsc.edu/SinclairDontMournForUs.pdf)
@@ -26,7 +35,7 @@ I also created an [are.na channel](https://www.are.na/nicholas-voltani/thank-god
 **Interesting content of the month**:
 - [Notes on Vanishing (Lily Alexandre)](https://www.youtube.com/watch?v=cqhiup5qSY8) — *amazingly creative* cinematography for a video-essay
 - [how billionaires made you addicted to your phone (and how to unrot your brain) - hazelisonline](https://www.youtube.com/watch?v=aH7Z2ORlkjI)
-- [Why I Joined a Cult: The Psychology of Cult Recruitment \| Video Essay (Kafryn D)](https://www.youtube.com/watch?v=VaSAesX3it4) — incredible someone's first video-essay!
+- [Why I Joined a Cult: The Psychology of Cult Recruitment \| Video Essay (Kafryn D)](https://www.youtube.com/watch?v=VaSAesX3it4) — incredible for someone's first video-essay!
 - [I finally find least action principle satisfying (Mathemaniac)](https://www.youtube.com/watch?v=Ohrl3S2wcBU) — a geometric view of the least action principle. *Beautiful!* 
 	- This also got me in a rabbit hole: [Assumptions of Physics (Gabriele Carcassi, Christine Aidala)](https://assumptionsofphysics.org/)
 - [23 Hidden Language Devices That Shape The Way We Read (Robin Waldun)](https://www.youtube.com/watch?v=fPwQ4OBqLng)

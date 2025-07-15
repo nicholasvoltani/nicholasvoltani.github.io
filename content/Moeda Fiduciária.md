@@ -10,11 +10,11 @@ aliases:
 
 up:: [[061c MOC Teoria da Moeda]]
 
-Uma moeda fiduciária trata-se de um "signo de [[Valor]]" **sem valor intrínseco**. É, portanto, uma moeda que serve somente como [[Meios de Pagamento]] (compra/venda de [[Mercadoria]]s, liquidação/saldação de dívidas), e **não** como mercadoria *per se*[^1].
+Uma moeda fiduciária trata-se de um "signo de [[Valor]]" **sem valor intrínseco**. É, portanto, uma moeda que serve *somente* como [[Meios de Pagamento]] (compra/venda de [[Mercadoria]]s, liquidação/saldação de dívidas), e **não** como mercadoria *per se*[^1].
 
 No tocante à emissão de moeda, é o oposto do [[Padrão-Ouro]], onde emite-se somente o que se possui em reservas metálicas ([[Dinheiro|Mercadoria-dinheiro]]).
 
-Evidentemente que a emissão desenfreada de moeda fiduciária induz [[Inflação]][^2], como no [[Encilhamento]], agindo como uma [[Política Monetária Expansionista]].
+Evidentemente que a emissão desenfreada de moeda fiduciária induz [[Inflação]][^2] (como no [[Encilhamento]]), agindo como uma [[Política Monetária Expansionista]].
 
 
 ---

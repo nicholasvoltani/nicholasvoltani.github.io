@@ -33,28 +33,53 @@ onde $Y_{i}$ é a despesa média da fração $i$ para este produto, $X_{i}$ a re
 - $III$: $\beta + \epsilon_{1}+ \epsilon_{2}$
 
 **Resultados**: Com preços constantes de $2018$ (última POF considerada no artigo), há diminuição de consumo de produtos da cesta básica, como arroz, feijão, macarrão. 
-- Paralelamente, há aumento de elasticidade média de alimentação **fora do domicílio** *vis-à-vis* em casa, assim como de alimentos preparados. 
+- Paralelamente, há aumento de elasticidade média de alimentação **fora do domicílio** *vis-à-vis* em casa (com **queda** de consumo na última rodada), assim como de alimentos preparados
 - Queda de consumo de "carnes, vísceras e pescados" (elasticidade média mantida)
 
-**Apontamentos meus**: Há um hiato de tempo enorme entre a POF de 2008-9 e 2017-8! Muita coisa aconteceu nesse período: consequências da [[Crise do Subprime (2007)]] pela Europa (e [[Efeito Transbordamento]] ao resto do mundo), reeleição do PT via Dilma Rousseff, [[Crise Econômica Brasileira de 2014]] após o fim do [[Boom das Commodities (anos 2000)]], *impeachment*, medidas de Michel Temer...  É difícil fazer afirmações como "queda no consumo de carnes foi acompanhada de aumento de e.g. ovos", pois até pode ser o caso *imediatamente*, mas ele certamente oscilou muito ao longo desses quase $10$ anos de defasagem das POFs, ao ponto que é indevido fazer uma relação de causalidade entre uma e outra.
+**Apontamentos meus**: Há um hiato de tempo enorme entre a POF de 2008-9 e 2017-8! Muita coisa aconteceu nesse período: consequências da [[Crise do Subprime (2007)]] pela Europa (e [[Efeito Transbordamento]] ao resto do mundo), reeleição do PT via Dilma Rousseff, [[Crise Econômica Brasileira de 2014]] após o fim do [[Boom das Commodities (anos 2000)]], *impeachment*, medidas de Michel Temer...  É difícil fazer afirmações como "queda no consumo de carnes foi acompanhada de aumento de e.g. ovos", pois até pode ser o caso *imediatamente*/*ocasionalmente*, mas esse consumo certamente oscilou muito ao longo desses quase $10$ anos de defasagem das POFs, ao ponto que me parece indevido fazer uma relação de causalidade entre uma e outra.
 
 Além disso, as separações extremas de tais extratos — por exemplo, 1-8-1 — são discutíveis sobre sua assertividade com relação à explicação dos dados (embora tais averiguações requerissem ver os dados um por um, naturalmente levando tempo).
 
 
 # Grupo 3: Labor Economics (CAHUC, CARCILLO, ZYLBERBERG, 2014)
-- **Objetivo**: 
-- **Conceitos abordados**:  [[061d MOC Mercado de Trabalho]], [[Efeito Substituição de Slutsky]], [[Salário]]
-- **Metodologia**: 
-- **Resultados**: 
+**Objetivo**: 
+
+**Conceitos abordados**:  [[061d MOC Mercado de Trabalho]], [[Efeito Substituição de Slutsky]], [[Salário]]
+
+**Metodologia**: 
+
+**Resultados**: 
 
 # Grupo 4: Influência de Taxação em Famílias e Oferta de Trabalho (ATKINSON, STIGLITZ, 2013)
-- **Objetivo**: 
-- **Conceitos abordados**: Oferta de Trabalho, [[Impostos]]
-- **Metodologia**: 
-- **Resultados**: 
+**Objetivo**: Analisar os efeitos de taxação sobre renda na oferta de trabalho.
+
+**Conceitos abordados**: Oferta de [[Força de Trabalho]], [[Impostos]], [[Efeito Renda]], [[Efeito Substituição]], "Financial Effect" (evasão de impostos de maneiras lícitas)
+
+**Metodologia**: Impostos de renda aplicados à [[Restrição Orçamentária|Restrições Orçamentárias]] $Y = wL + I$ ($I$ [[Restrição Orçamentária|Renda]] exógena) ocasionam um efeito renda $I \mapsto  M \coloneqq (1-t)I$ (pressupondo que $\frac{ \partial L }{ \partial M } < 0$, i.e. lazer $L_{0}-L$ é um [[Bens Normais|Bem Normal]]), e um [[Efeito Preço]] devido a $w \mapsto \omega \coloneqq (1-t) w$ (por [[Equação de Slutsky]]), via
+$$
+\frac{ \partial L }{ \partial w } = \left( \frac{ \partial L }{ \partial w }  \right)_{\bar{U}} + L \frac{ \partial L }{ \partial M } 
+$$
+
+Portanto, a mudança de $L$ com relação ao imposto $t$ é
+$$
+\frac{ \partial L }{ \partial t } = \frac{ \partial L }{ \partial \omega } \frac{ \partial \omega }{ \partial t } + \frac{ \partial L }{ \partial M } \frac{ \partial M }{ \partial t } = -w\left( \left( \frac{ \partial L }{ \partial \omega } \right)_{\bar{U}} + L \frac{ \partial L }{ \partial M }  \right) - I \frac{ \partial L }{ \partial M } = -w \left( \frac{ \partial L }{ \partial \omega } \right)_{\bar{U}}  - (wL + I) \frac{ \partial L }{ \partial M }   
+$$
+A composição dos dois efeitos é representada da seguinte forma:
+![[Pasted image 20250707145557.png|400]]
+Fonte: ATKINSON, STIGLITZ, 2013, p. 27.
+
+(Ou seja, pode haver casos em que o trabalho **aumente** após taxação.)
+
+**Resultados**: Diferentes tipos de taxação podem induzir efeitos diferentes sobre a oferta de \[força de\] trabalho.  
+
+*Lump-sum tax*: $Y = wL + I \mapsto wL + I - G$ (taxação de igual valor para todos)
+
+*Wage tax*: $Y = wL + I \mapsto (1-t_{w})wL + I$.
+
+*Proportional [income] tax*: $Y = wL + I \mapsto (1-t) (wL+I)$. É igual a uma taxação *lump-sum* ($I \mapsto (1-t)I$) mais uma taxação sobre salário ($w \mapsto (1-t)w$).
 
 
-# Grupo 5: Influência de Taxação para Fumantes (GRUBER, KOSZEGI, 2004; 2008)
+# Grupo 5: Influência de Taxação para Fumantes (GRUBER, KŐSZEGI, 2004; 2008)
 **Objetivo**: Modelar como aumento de impostos podem influenciar em um menor consumo de cigarros, assumindo que fumantes possuem inconsistência temporal no tocante a suas taxas de desconto de utilidades futuras
 
 **Conceitos abordados**: [[Impostos]], [[Desconto Exponencial]], [[Desconto Hiperbólico]], Inconsistência Temporal
@@ -111,11 +136,9 @@ Portanto, como indivíduos de renda menor possuem [[Elasticidade de Preço da De
 # $\star$ Grupo 1: Crítica ao Maximin (HARSANYI, 1975)
 [[Resumo - Maximin Principle as a Basis for Morality (Harsanyi, 1975)]]
 
-**Objetivo**: 
+**Objetivo**: Expor teoria de John Rawls sobre escolhas éticas, e propor uma alternativa a este mecanismo de escolhas entre alternativas.
 
 **Conceitos abordados**: [[Função de Bem-Estar Social de Rawls]], [[Função de Bem-Estar Social de Bentham|Função de Bem-Estar Utilitarista]], [[Utilidade de von Neumann-Morgenstern]]
-
-**Metodologia**: 
 
 **Resultados**: 
 

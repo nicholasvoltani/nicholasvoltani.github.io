@@ -30,12 +30,10 @@ Aplicado na posição original, o uso do princípio do maximin levaria ao que Ra
 
 Dessa forma, como, na posição original, os indivíduos *não* sabem que posição ocupariam na sociedade, então eles *devem* pressupor que *poderiam* ser os indivíduos mais impactados pelas instituições sociais que estejam em consideração; ou seja, devem agir como se *tivessem certeza* que seria isso o que aconteceria com eles. Dessa forma, análogo ao exemplo acima exposto, chega-se à conclusão de que o princípio da diferença requer que *sempre* se dê prioridade absoluta ao indivíduo em piores condições — mesmo que seja em detrimento de demais indivíduos!
 
-
 |                                     | Resultado                                                   |
 | ----------------------------------- | ----------------------------------------------------------- |
 | Escolhe paciente $A$ ("menos pior") | Paciente $A$ viverá normalmente<br>(paciente $B$ morre)     |
 | Escolhe paciente $B$ (terminal)     | Paciente $A$ morre,<br>paciente $B$ viverá por alguns meses |
-
 
 # Sobre papel de contraexemplos
 > "To be sure, counterexamples to some minor details of an ethical theory may not prove very much. They may prove no more than that the theory needs correction in some minor points, and this fact may have no important implications for the basic principles of the theory. But it is a very different matter when the counterexamples are directed precisely against the most fundamental principles of the theory, as are the maximin principle and the difference principle for Rawls's theory. In this case, if the counterexamples are valid, it can only mean that the theory is *fundamentally* wrong." (HARSANYI, p. 597)
@@ -44,19 +42,6 @@ Dessa forma, como, na posição original, os indivíduos *não* sabem que posiç
 Harsanyi propõe que as tomadas de decisão quanto a instituições sociais, invés de se pautar no princípio do maximin, paute-se pelo que chama de *hipótese de equiprobabilidade* ("*equiprobability assumption*", p. 598): que, a partir da posição original, tenha a mesma probabilidade de tomar a posição de qualquer dos demais indivíduos na sociedade[^1]. Mediante a isso, sua decisão é feita baseada não no maximin, mas na maximização da [[Utilidade de von Neumann-Morgenstern|Utilidade Esperada]] (von-Neumann-Morgenstern). 
 
 Dessa forma, este indivíduo estaria fazendo a escolha com a maior utilidade esperada (com a distribuição uniforme de probabilidades acima). Contrapondo ao princípio do maximin, Harsanyi chama-o de de *princípio da utilidade média*.
-
-
-
-# Sobre Comparações Interpessoais
-
-
-# Ações Supererrogatórias
-
-
-# Sobre a Poupança
-
-
-# Sobre a estabilidade de uma sociedade justa
 
 
 

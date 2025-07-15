@@ -8,7 +8,7 @@ aliases:
 
 up:: [[061c MOC Teoria da Moeda]]
 
-Taxas de juros medem quanto algum investimento renderá no futuro. Em outras palavras, medem o quanto vale a pena abdicar da liquidez do [[Dinheiro]] em favor de fazê-lo render. Dessa forma, [[A taxa de juros é o custo de oportunidade do dinheiro presente vis-à-vis dinheiro futuro]].
+Taxas de juros medem quanto algum investimento renderá no futuro. Em outras palavras, medem o quanto vale a pena abdicar da liquidez do [[Dinheiro]] em favor de fazê-lo render. Dessa forma, [[A taxa de juros é o custo de oportunidade do dinheiro presente vis-à-vis dinheiro futuro]]; segundo Keynes, [[A taxa de juros é 'uma recompensa por desfazer-se de liquidez']].
 
 Note-se que o acréscimo em dinheiro no futuro – dado pela [[Taxa Nominal de Juros]] – não necessariamente terá o mesmo poder de compra do presente, devido à [[Inflação]]. A contabilização da depreciação inflacionária de moeda na taxa de juros dá a [[Taxa Real de Juros]].
 
@@ -30,4 +30,4 @@ Portanto, quando as taxas de juros estão em baixa, há um incentivo para invest
 - [Lecture 6: IS-LM, continued - MIT OpenCourseWare (Ricardo Caballero, 2023)](https://youtu.be/gYgARXwnZTk?si=33frng1nUPc6tOBg)
 - [Lecture 7: An Extended IS-LM Model - MIT OpenCourseWare (Ricardo Caballero, 2023)](https://youtu.be/fkiWQZPOHXk?si=RFVFkBqkRwuSf0el)
 
-[^1]: Um bom exemplo é a questão do agronegócio: máquinas agrícolas não são baratas!
+[^1]: Um bom exemplo é a questão do [[Agronegócio]]: máquinas agrícolas não são baratas!

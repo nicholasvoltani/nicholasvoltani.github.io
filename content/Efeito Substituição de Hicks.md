@@ -8,7 +8,7 @@ aliases:
 up:: [[Efeito Substituição]]
 
 ![[Pasted image 20241025113303.png|400]]
-Fonte: [Income and Substitution Effects: Hicks and Slutsky Methods](https://spureconomics.com/income-and-substitution-effects-hicks-and-slutsky-methods/)
+Fonte: [Income and Substitution Effects: Hicks and Slutsky Methods](https://spureconomics.com/income-and-substitution-effects-hicks-and-slutsky-methods/). Note que a substituição $E_{1} \to E_{3}$ ocorre **na mesma curva de indiferença** $I_{1}$.
 
 O efeito substituição de Hicks é uma decomposição do [[Efeito Substituição]] após uma mudança de preços, feita de tal forma a "descompensar" a variação em renda devida a esta mudança – ou seja, busca manter o consumidor na mesma [[Curva de Indiferença]] anterior.
 

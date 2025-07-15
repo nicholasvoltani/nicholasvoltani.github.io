@@ -7,8 +7,8 @@ aliases:
 
 up:: [[062b MOC Teoria do Consumidor]]
 
-![[Pasted image 20250418152510.png]]
-Fonte: VARIAN, cap. 8.
+![[Pasted image 20241025113303.png|400]]
+Fonte: [Income and Substitution Effects: Hicks and Slutsky Methods](https://spureconomics.com/income-and-substitution-effects-hicks-and-slutsky-methods/). Note que a substituição $E_{1} \to E_{3}$ ocorre **na mesma curva de indiferença** $I_{1}$.
 
 O efeito preço diz respeito à mudança da [[Demanda Marshalliana|Cesta Ótima (Walrasiana)]] quando se mudam os **preços**. 
 

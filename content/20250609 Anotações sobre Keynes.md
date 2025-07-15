@@ -83,4 +83,4 @@ Ou seja, $V$ é a proporção da renda pela quantidade de moeda para transação
 - KEYNES, John Maynard. **The collected writings of John Maynard Keynes: The General Theory of Employment, Interest and Money**. Cambridge: Cambridge University Press for the Royal Economic Society, 2013. v. 7
 - KEYNES, J.M. **A Teoria Geral do Emprego, do Juro e da Moeda.** São Paulo: Nova Cultural, 1996
 
-[^1]: Não falta um $P$ multiplicando...?
+[^1]: Não falta um $P$ multiplicando...? ($Y$ deve ser produto *nominal*.)

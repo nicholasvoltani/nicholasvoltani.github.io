@@ -10,7 +10,7 @@ up:: [[Efeito Substituição]]
 ![[Pasted image 20241025114944.png|400]]
 Fonte: [Income and Substitution Effects: Hicks and Slutsky Methods](https://spureconomics.com/income-and-substitution-effects-hicks-and-slutsky-methods/)
 
-O efeito substituição de Slutsky ocorre quando há uma compensação de [[Restrição Orçamentária|Renda]] tal que a [[Demanda Marshalliana|Cesta Ótima]] anterior ainda seja alcançável após uma mudança de preços — **embora deixe de ser uma cesta ótima**. Ou seja, ela **preserva o poder de compra**.
+O efeito substituição de Slutsky ocorre quando há uma compensação de [[Restrição Orçamentária|Renda]] tal que a [[Demanda Marshalliana|Cesta Ótima]] anterior ainda seja alcançável após uma mudança de preços — **embora deixe de ser uma cesta ótima**. Ou seja, ela **preserva o poder de compra**. 
 
 Partindo de uma [[Demanda Marshalliana|Demanda Walrasiana]] $x(p,w)$ original, mudando preços de $p$ para $p' = p + \Delta p$, tem-se que o efeito substituição de Slutsky induz à escolha da nova cesta ótima
 $$
@@ -25,6 +25,8 @@ $$
 &= \braket{ \Delta p | x } 
 \end{align*}
 $$
+
+Uma alternativa a este efeito substituição é manter a [[Função Utilidade|Utilidade]] constante, em cujo caso é chamado de [[Efeito Substituição de Hicks]].
 
 ---
 ### References

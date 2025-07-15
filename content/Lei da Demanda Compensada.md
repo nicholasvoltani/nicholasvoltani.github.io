@@ -23,7 +23,7 @@ $$
 
 Deseja-se provar
 $$
-\braket{ (p'-p) | (x'-x) } \leq 0 \iff \text{AFPR}
+\text{AFPR} \iff \braket{ (p'-p) | (x'-x) } \leq 0
 $$
 
 # Demonstração

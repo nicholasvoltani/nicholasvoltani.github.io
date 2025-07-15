@@ -108,5 +108,5 @@ This also creates local resilience, since the local systems don't rely on long-r
 
 ---
 ### Referências
-- **Biomimicry**, Janine Benyus. 
+- BENYUS, Janine. **Biomimicry: innovation inspired by nature**. New York: Perennial, 2009.
 - [**Collaboration and Creativity: The Small World Problem** (Uzzi & Spiro, 2005)](https://www.jstor.org/stable/pdf/10.1086/432782.pdf?casa_token=-JdDvgppLjcAAAAA:kozgJkJwWG7IPCokChor237pwFw4N2oF_MUMuCZZSu99J641vSznEQN8FyCGJwNXvRKmr96wC7EkCGzo7LSZ18IRyhYaf0TaQ43XwOODz0Yf5kJ_kIzFeQ)

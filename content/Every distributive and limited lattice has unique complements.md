@@ -12,12 +12,12 @@ Given $x \in X$, we seek to prove that, to any $y, y' \in X$ such that $x \perp 
 
 We have that
 $$
-\begin{cases*}
+\begin{cases}
 x \land y &= 0\\
 x \lor y &= 1\\
 x \land y' &= 0\\
 x \lor y' &= 1
-\end{cases*}
+\end{cases}
 $$
 
 # 1) $y' \leq y$

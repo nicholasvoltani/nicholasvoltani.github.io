@@ -7,8 +7,8 @@ aliases:
 
 up:: [[062b MOC Teoria do Consumidor]]
 
-![[Pasted image 20250418152510.png]]
-Fonte: VARIAN, cap. 8. (Note-se que a imagem é uma depicção, em particular, de um [[Efeito Substituição de Slutsky]].)
+![[Pasted image 20241025113303.png|400]]
+Fonte: [Income and Substitution Effects: Hicks and Slutsky Methods](https://spureconomics.com/income-and-substitution-effects-hicks-and-slutsky-methods/). Note que a substituição $E_{1} \to E_{3}$ ocorre **na mesma curva de indiferença** $I_{1}$.
 
 O efeito substituição diz respeito à variação da escolha de uma [[Demanda Marshalliana|cesta ótima de bens]] *devido a uma mudança de preços*; em particular, é a parcela do [[Efeito Preço]] quando se desconta o [[Efeito Renda]].[^2] 
 
@@ -17,7 +17,7 @@ O efeito substituição **não é observável**, sendo apenas **idealmente infer
 Há duas formas de efeito substituição: de forma que se mantenha a [[Função Utilidade|Utilidade]] original ([[Efeito Substituição de Hicks]]), ou de forma que se mantenha o **poder de compra** original ([[Efeito Substituição de Slutsky]]). 
 
 ![[Pasted image 20250422191042.png]]
-Fonte: MAS-COLLELL et al., p. 73. 
+Fonte: MAS-COLLELL et al., p. 73. Note que a compensação de Slutsky mantém ambas as cestas na mesma [[Restrição Orçamentária|Reta Orçamentária]], e a compensação de Hicks mantém-nas na mesma [[Curva de Indiferença]].
 
 Dada uma [[Demanda Marshalliana|Demanda Walrasiana]] $x(p,w)$ com vetor de preços $p$ e [[Restrição Orçamentária|Renda]] $w$, temos que o diferencial é[^1]
 $$
@@ -49,7 +49,7 @@ $$
 Ou seja, a direção do consumo do bem $i$ vai depender de sua relação com o preço $p_{1}$, i.e. se ele é um [[Bens Ordinários|Bem Ordinário]] ou um [[Bens de Giffen|Bem de Giffen]].  
 
 # Tipos de efeito substituição
-Há dois tipos de efeitos de substituição: o [[Efeito Substituição de Hicks]], que mantém a *utilidade original* (i.e. ocorre na mesma [[Curva de Indiferença]]), e o [[Efeito Substituição de Slutsky]], que mantém a *renda original* (i.e. [[Função Dispêndio]]).
+Há dois tipos de efeitos de substituição: o [[Efeito Substituição de Hicks]], que mantém a *[[Função Utilidade|Utilidade]] original* (i.e. ocorre na mesma [[Curva de Indiferença]]), e o [[Efeito Substituição de Slutsky]], que mantém a *renda original* (i.e. [[Função Dispêndio]]).
 
 ---
 ### References

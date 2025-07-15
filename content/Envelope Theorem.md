@@ -16,10 +16,10 @@ $$
 $$
 através das derivadas
 $$
-\begin{cases*}
+\begin{cases}
 \frac{\partial \mathcal{L}}{\partial x} = \frac{\partial f}{\partial x}|_{x^*} + \lambda \frac{\partial g}{\partial x}|_{x^*}  &= 0 \\
 \frac{\partial \mathcal{L}}{\partial \lambda} = g(x^*, \alpha) &= 0
-\end{cases*}
+\end{cases}
 $$
 
 Seja $x^* = x^*(\alpha)$ o valor que otimiza $\mathcal{L}$ (portanto, $f$ sob restrição $g$). Portanto, temos que o lagrangiano otimizado[^3] é

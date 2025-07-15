@@ -16,10 +16,10 @@ It is assured to have unique complement, since [[Every distributive and limited 
 ## De Morgan Laws
 Every boolean algebra satisfies the **De Morgan laws**:
 $$
-\begin{cases*}
+\begin{cases}
 \lnot (a \land b) = \lnot a \lor \lnot b \\
 \lnot(a \lor b) = \lnot a \land \lnot b
-\end{cases*}
+\end{cases}
 $$
 
 To prove the first equation[^1]:

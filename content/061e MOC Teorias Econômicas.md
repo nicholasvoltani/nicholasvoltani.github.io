@@ -48,6 +48,7 @@ related:: [[010 MOC Marxism]] // [[066 MOC História do Pensamento Econômico]]
 	- Tomadas de decisão por *informação imperfeita* / [[Assimetria de Informação]]
 
 # [[Financeirização]]
+- [[Hipótese de Instabilidade Financeira]] (Minsky)
 
 ---
 ### References
