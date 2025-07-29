@@ -13,7 +13,7 @@ draft: 'false'
 > Ao contrário. Porque equiparam entre si seus produtos de diferentes tipos na troca (como valores), eles **equiparam entre si seus diferentes trabalhos como trabalho humano \[abstrato\]**.
 > Eles não sabem disso, mas o fazem." (O Capital, p. 149)
 
-O fetichismo da mercadoria consiste na atribuição de [[Valor|valor]] como um atributo natural, "trivial", a [[Valor de Uso|valores de uso]]. Tal caráter das [[Mercadoria]]s somente aparecem comumente numa sociedade desenvolvida plenamente (no capitalismo), ou seja, quando as mercadorias são produzidas justamente para serem vendidas (i.e. são produzidas por seu [[Valor de Troca|valor de troca]]). 
+O fetichismo da mercadoria consiste na atribuição de [[Valor|valor]] como um atributo natural, "trivial", a [[Valor de Uso|valores de uso]]. Tal caráter das [[Mercadoria|Mercadorias]] somente aparecem comumente numa sociedade desenvolvida plenamente (no capitalismo), ou seja, quando as mercadorias são produzidas justamente para serem vendidas (i.e. são produzidas por seu [[Valor de Troca|valor de troca]]). 
 
 As características dos trabalhos úteis que criaram as mercadorias aparecem-lhes como características intrínsecas e naturais, objetivas:
 

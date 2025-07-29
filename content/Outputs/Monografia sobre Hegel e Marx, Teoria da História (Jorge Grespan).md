@@ -47,7 +47,7 @@ Um outro exemplo dialético em Marx é em como a divisão do trabalho induz a in
 Tais contradições aparecem no capitalismo, mas não podem ser sanadas, _superadas_ dentro do sistema; o capital não fornece os meios pelos quais pode superar suas contradições; ele até pode “criar novos circuitos de mercadorias” para contorná-las[^20] (como ao vender-se como “capitalismo verde”), mas não pode superá-las em seu próprio _modus operandi_, porquanto busca tornar-se a totalidade do conteúdo do mundo, embora seja puramente _formal_ ─ cria valor somente mediante o emprego da força de trabalho (mesmo que tenha tornado-a mercadoria). Esta é a relação dialética característica do capitalismo que Marx busca elucidar, em que o capital busca fazer-se “valor que se valoriza”, negando, portanto, o papel do verdadeiro gerador de valor, a força de trabalho (por exemplo, através do emprego de máquinas). Mas que, nesse processo, “opõe-se a si mesmo em uma contradição paralisante”[^21], processo este que resulta em crises cada vez mais violentas, as quais deverão ser justificadas e apaziguadas, _time and time again_, por seus fieis representantes e apóstolos capitalistas, ante a massa de assalariados que incorrerão tanto na destruição quanto na subsequente reposição do valor envolvido ─ ou até tal massa sublevar-se ante tal mundo de riqueza, de si parida e de si alienada, “superar a dominação de todas as classes ao superar as próprias classes” e “desembaraçar-se de toda a antiga imundície”.
 
 
-[^1]: HEGEL, G. W. F. **A razão na história**. Lisboa: Edições 70, 1995, p. 142.
+[^1]: HEGEL, G. W. F. **A razão na história**. Lisboa: Edições 70, 1995, p. 34.
 [^2]: Ibid, p. 33.
 [^3]: Ibid., p. 34.
 [^4]: Ibid., p. 36-7 (grifo meu).

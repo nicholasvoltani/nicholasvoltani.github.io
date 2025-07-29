@@ -38,7 +38,7 @@ A intermediação obrigatória do dinheiro, portanto, é condição **necessári
 
 (Pois é justamente a divisão do trabalho que permite com que as trocas sempre se deem com relação a mercadorias — porque há quem as produza todas! Da mesma forma, elas são produzidas partindo de decisões *privadas* [isso é um fator relevante mesmo?].)
 
-> "Uma das propriedades que conferem maior robustez ao PDE é que ele *independe* de qualquer hipótese de *equilíbrio*, seja de que tipo for, sendo até mesmo compatível com qualquer padrão de racionalidade que se queira adotar — incluindo comportamentos irracionais! Tudo o que importa é que o *gasto  realizado* — por qualquer motivo — *determinará* a renda, e, por extensão  (numa sucessão temporal de períodos curtos, de que Keynes trata mas não  Kalecki), o nível de atividade, inclusive o emprego, de uma economia." (p. 23)
+> "Uma das propriedades que conferem maior robustez ao PDE é que ele *independe* de qualquer hipótese de *equilíbrio*, seja de que tipo for, sendo até mesmo compatível com qualquer padrão de racionalidade que se queira adotar — incluindo comportamentos irracionais! Tudo o que importa é que o *gasto  realizado* — por qualquer motivo — *determinará* a renda, e, por extensão  (numa sucessão temporal de períodos curtos, de que Keynes trata mas não Kalecki), o nível de atividade, inclusive o emprego, de uma economia." (p. 23)
 
 É neste sentido, portanto, que se diz que a economia keynesiana pressupõe que a **demanda dita a oferta**, e (como Possas o põe) é uma relação *causal unilateral* — o *causal* é importante aqui, posto que, evidentemente, ela não é *puramente* unilateral. 
 
@@ -119,6 +119,8 @@ Aumentos de taxas de juros dificultarão ou comprometerão o pagamento de obriga
 > "The construction of standard economic theory - the neoclassical synthesis - starts by examining bartering such as might take place at a village fair and proceeds by tacking production, capital assets, money, and financial assets onto the basic model. The village fair paradigm shows that a decentralized market mechanism can lead to a coherent result, but it cannot explain the periodic rupturing of coherence as an **endogenous** phenomenon. In Keynes' view the rupturing of coherence originates in financial usages and spreads by way of investment activity. In order to explain how this takes place it is necessary to abandon the village fair paradigm and the definition of money as merely an expediter of transactions." (MINSKY, 1977, p. 21; grifo meu)
 
 > "What we have in the financial instability hypothesis is a theory of how a capitalist economy endogenously generates a financial structure which is susceptible to financial crises and how the normal functioning of financial markets in the resulting boom economy will trigger a financial crisis." (MINSKY, 1977, p. 25)
+
+> "Stable growth is inconsistent with the manner in which investment is determined in an economy in which debt-financed ownership of capital-assets exists and in which the extent to which such debt-financing can be carried is determined by the market. It follows that the fundamental instability of a capitalist economy is upward. The tendency to transform doing well into a speculative investment boom is the basic instability in a capitalist economy" (MINSKY, 1977, p. 24)
 
 
 ### Manias, pânicos e crises (Kindleberger & Aliber, 2005)

@@ -7,9 +7,9 @@ tags:
 
 up:: [[011a MOC Capital I]]
 
-> "Como criador de valores de uso, como trabalho útil, o trabalho é, assim, uma **condição de existência do homem**, independente de todas as formas sociais, eterna necessidade natural de **mediação do metabolismo** entre homem e natureza" (O Capital, p. 120)
+> "Como criador de valores de uso, como trabalho útil, o trabalho é, assim, uma **condição de existência do homem**, independente de todas as formas sociais, eterna necessidade natural de **mediação do metabolismo** entre homem e natureza" (MARX, p. 120)
 
-O trabalho surge como uma forma com que o homem *media* sua existência com a natureza. Note-se que trabalho não necessita ser algo social: um homem sozinho numa floresta necessita trabalhar com as condições materiais ao seu alcance para sobreviver. 
+O trabalho surge como uma forma com que o homem *medeia* sua existência com a natureza. Note-se que trabalho não necessita ser algo social: um homem sozinho numa floresta necessita trabalhar com as condições materiais ao seu alcance para sobreviver.[^2]
 
 Note-se que tal manipulação da natureza, sendo sempre [[Pensamentos sobre alquimia|meramente formal]] com relação a suas condições materiais **dadas**, surge como criadora de [[Valor de Uso|Valores de Uso]], que satisfaçam necessidades humanas. 
 
@@ -18,7 +18,7 @@ Note-se que tal manipulação da natureza, sendo sempre [[Pensamentos sobre alqu
 Quando visto embutido no [[Processo de Produção Capitalista]], compõe o [[Processo de Trabalho]], gerador de valores de uso.
 
 ## O trabalho no sistema capitalista
-No sistema capitalista, o trabalho torna-se cada vez mais um produtor de [[Valor de Troca|valores de troca]], produzindo [[Mercadoria|mercadorias]] meramente para vender, invés de produzi-las pensando em satisfazer necessidades materiais[^1].
+No sistema capitalista, o trabalho torna-se cada vez mais um produtor de [[Valor|valores]], produzindo [[Mercadoria|mercadorias]] meramente para vender, invés de produzi-las pensando em satisfazer necessidades materiais[^1].
 
 Quando a divisão do trabalho não é feita de forma racional, mas sim de forma "*natural*" (como "força da natureza"), o trabalho aparecerá ao homem como uma [[Surgimento da alienação|força estranha]], como algo sobre o qual não possui poder, e que pode até mesmo "guiá-lo arbitrariamente". 
 
@@ -37,3 +37,4 @@ Já em Mill há a noção de que, não só o trabalho é algo que advém do *com
 - MILL, John Stuart. *Principles of political economy*. Disponível em: <[https://oll.libertyfund.org/titles/mill-principles-of-political-economy-ashley-ed](https://oll.libertyfund.org/titles/mill-principles-of-political-economy-ashley-ed)>
 
 [^1]: Ainda produz [[Valor de Uso|Valores de Uso]] necessariamente, pois [[Todo valor é um valor de uso, mas nem todo valor de uso é um valor|Todo valor é um valor de uso]].
+[^2]: **250722**: Embora ele necessariamente traga preconcepções sociais neste fazer, pois ele necessariamente vem de um grupo social.

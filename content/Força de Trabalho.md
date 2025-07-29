@@ -7,7 +7,7 @@ tags:
 
 up:: [[011a MOC Capital I]]
 
-> "Por força de trabalho ou capacidade de trabalho entendemos o conjunto das capacidades físicas e mentais que existem na corporeidade [Leiblichkeit], na personalidade viva de um homem e que ele põe em movimento sempre que produz valores de uso de qualquer tipo." (MARX, 2013)
+> "Por força de trabalho ou capacidade de trabalho entendemos o conjunto das capacidades físicas e mentais que existem na corporeidade [Leiblichkeit], na personalidade viva de um homem e que ele põe em movimento sempre que produz valores de uso de qualquer tipo." (MARX, 2013, p. 242)
 
 A força de trabalho é o **conjunto de capacidades físicas e mentais** de um trabalhador, as quais são postas em exercício durante **períodos determinados de tempo**.
 

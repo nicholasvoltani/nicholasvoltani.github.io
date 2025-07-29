@@ -3,7 +3,7 @@ date: " 2025-02-14"
 tags:
   - moc
 ---
-
+j
 up:: [[index]] // [[060 MOC Economia]] 
 
 # Primeiro semestre (1/4)
@@ -24,6 +24,8 @@ up:: [[index]] // [[060 MOC Economia]]
 ## [[066 MOC História do Pensamento Econômico|História do Pensamento Econômico]]
 - [[071 MOC Teoria do Conhecimento e Filosofia da Ciência]]
 	- [[071a MOC Realismo Crítico]]
+- [[20250511 Notas sobre Adam Smith]]
+- [[20250524 Notas sobre Ricardo e Mill]]
 
 ---
 # Segundo semestre (2/4)
