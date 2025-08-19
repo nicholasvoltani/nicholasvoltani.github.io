@@ -8,3 +8,4 @@ aliases:
 up:: [[Cidade da Fúria.canvas|Cidade da Fúria]]
 
 [[Primeiro Contato - Cidade da Fúria]]
+

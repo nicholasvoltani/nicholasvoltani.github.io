@@ -3,8 +3,9 @@ date: 2022-07-23
 tags:
   - moc 
 ---
-# MOC Capital I
 up:: [[011 MOC Capital]]
+
+related:: [[071a MOC Realismo Crítico]] // [[070 MOC Philosophy]]
 
 > "A economia política clássica chega muito próximo à verdadeira relação das coisas, porém sem formulá-la conscientemente. Ela não poderá fazê-lo enquanto estiver coberta com sua pele burguesa." (MARX, p. 612)
 ## Tópicos

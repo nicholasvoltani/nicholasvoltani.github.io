@@ -1,5 +1,5 @@
 ---
-date: "{{date: YYYY-MM-DD}}"
+date: "{{date:YYYY-MM-DD}}"
 tags:
   - philosophy
   - philosophy/philosophy_of_science

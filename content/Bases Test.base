@@ -1,0 +1,20 @@
+filters:
+  and:
+    - file.hasTag("marxism")
+    - or:
+        - draft == "false"
+        - '!file.hasProperty("draft")'
+    - '!file.inFolder("Templates")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - date
+      - file.ctime
+      - file.mtime
+    sort: []
+    columnSize:
+      file.name: 455
+      note.date: 143
+      file.ctime: 147

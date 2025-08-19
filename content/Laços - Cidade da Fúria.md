@@ -7,7 +7,9 @@ aliases:
 
 up:: [[Terceiro Ato - Cidade da Fúria]]
 
-Quando cheguei ao trabalho, sou pego desprevenido: hoje é um dia especial, haveria uma festa para cem mil pessoas à noite, e os presentes precisavam de laços de cetim como decoração. Mãos à obra.
+Quando cheguei ao trabalho, sou pego desprevenido: hoje é um dia especial, haveria uma festa para cem mil pessoas à noite, e os presentes precisavam de laços de cetim como decoração. 
+
+Mãos à obra.
 
 No começo, foi preciso um tanto de atenção para ver como diabos se faz um laço de cetim, mas pegamos o jeito depois de um tempo. 
 

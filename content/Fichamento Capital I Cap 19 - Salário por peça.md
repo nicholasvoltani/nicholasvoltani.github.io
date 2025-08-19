@@ -1,5 +1,5 @@
 ---
-date: "20250114"
+date: 2025-01-14
 tags:
   - marxism
 aliases:

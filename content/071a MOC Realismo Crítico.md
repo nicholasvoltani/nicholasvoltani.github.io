@@ -17,14 +17,14 @@ related:: [[Trabalho HPE - Roy Bhaskar e o Realismo Crítico]]
 - [[20250530 Anotações sobre Realismo Crítico]]
 
 # Conceitos fundamentais
-- [[Dimensão Empírica da Realidade]]
-- [[Dimensão Efetiva da Realidade]]
 - [[Dimensão Real da Realidade]]
+	- [[Dimensão Efetiva da Realidade]]
+		- [[Dimensão Empírica da Realidade]]
 - [[Objetos Transitivos do Conhecimento]]
 - [[Objetos Intransitivos da Ciência]]
 - [[Lei de Tendência]]
-- [[Falácia Epistêmica (Bhaskar)]]
-- [[Lei Causal]]
+	- [[Lei Causal]]
+- [[Falácia Epistêmica]]
 - [[Modelo Transformacional da Atividade Social]]
 
 

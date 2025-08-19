@@ -96,4 +96,3 @@ Ai! ai! ai! dos que habitam sobre a terra!
 por causa das outras vozes das trombetas
 dos três anjos que hão de ainda tocar.
 ```
-

@@ -1,7 +1,7 @@
 ---
-date: "{{date:YYYY-MM-DD}"
+date: "2025-08-19"
 tags:
-  - evergreen
+  - economics
 aliases:
 ---
 
@@ -9,3 +9,4 @@ up::
 
 ---
 ### References
+- 

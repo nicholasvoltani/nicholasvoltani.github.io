@@ -23,6 +23,9 @@ up:: [[index]]
 - [[Essência]] & [[Aparência]]
 - [[Qualidade]] (?)
 
+# Grandes "paradigmas"
+- [[Empirismo]]
+
 
 ---
 ### Referências

@@ -6,7 +6,7 @@ publish: "true"
 ---
 up:: [[index]]
 
-*Monografia que escrevi para a disciplina Teoria da História II (de Jorge Grespan), sobre os conceitos de formas de objetividade e formas de subjetividade em Lukács.*
+*Monografia que escrevi para a disciplina Teoria da História II (de Jorge Grespan, 2021), sobre os conceitos de formas de objetividade e formas de subjetividade em Lukács.*
 
 ---
 ## Formas de objetividade e de subjetividade capitalistas

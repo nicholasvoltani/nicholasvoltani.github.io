@@ -21,3 +21,7 @@ up:: [[index]]
 # [[065 MOC Matemática em Economia]]
 - [[065a MOC ANPEC Matemática em Economia]]
 # [[066 MOC História do Pensamento Econômico]]
+
+# [[067 MOC Ecological Economics]]
+
+# [[068 MOC Economia Política dos Ciclos]]

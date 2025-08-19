@@ -5,6 +5,11 @@ tags:
 ---
 up:: [[010 MOC Marxism]]
 
+## Anotações
+- [[Formas de objetividade e de subjetividade capitalistas (Monografia Lukács)]]
+- [[20250810 Anotações sobre ensaio de Reificação de Lukács]]
+- [[20250811 Anotações reunião LEMA Lukács Reificação Antinomias do pensamento burguês]]
+
 ## Tópicos
 - [[GL ─ Características de um estudo científico]]
 - [[GL ─ Formas de Objetividade]]

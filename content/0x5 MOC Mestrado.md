@@ -32,7 +32,7 @@ up:: [[index]] // [[060 MOC Economia]]
 ## Economia Política I
 - [[011a MOC Capital I]]
 
-## Teoria de Ciclos, Crises
+## Economia Política dos Ciclos
 
 
 ---

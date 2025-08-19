@@ -12,13 +12,28 @@ up:: [[index]]
 > So a website with a link that says '**now**' goes to a page that tells you **what this person is focused on at this point in their life.** For short, we call it a 'now page'." (Derek Sivers, in [nownownow.com](https://nownownow.com/about))
 
 # 2025
+
+## August 2025
+Fumbling around on my Master's degree's theme. I settled on [[067 MOC Ecological Economics|Ecological Economics]], which is probably the main theme that I'll be dealing with for the foreseeable future (as far as my interest in Economics goes). 
+
+**Interesting content of the month**:
+- [How Plants Completely Transformed My Life (Reject Convenience)](https://www.youtube.com/watch?v=FwQpxZM66Xc) — on the fascinating evolution of corn and its properties!
+- [How a passive player changed Brawlhalla forever - YouTube](https://www.youtube.com/watch?v=KhCdAXc52wg)
+
+
 ## July 2025
 Holidays are close by. Must. Keep. Going.
+
+Ok, I got through, finally! 
+...only to have barely a month of holidays.
 
 **Interesting content of the month**:
 - [The Most Important Concept in Physics. \#SoME4 (PolyaMath)](https://www.youtube.com/watch?v=3bH-3dINo7E) (it's *differentials*)
 - [How Bread Built Civilization: From the First Farmers to the Modern Factory (OTR Food & History)](https://www.youtube.com/watch?v=892yaBEwtbM)
 - ["One Day, Everyone Will Have Always Been Against This" (PhilosyNoir)](https://www.youtube.com/watch?v=wAJI0Jc-GEE) (amidst all the Contrapoints controversy about the Gaza genocide... now *that's* [disappointing](https://youtu.be/y6EDlD_fWn0?t=14))
+	- Not the only disappointment from the (putative) American left: [AOC [Alexandria Ocasio-Cortez] and Israel: The Myth of Progressive Politics in America (north star radio)](https://www.youtube.com/watch?v=ZFdrxSJfZYk)
+- [Behind China's Firm Stance AGAINST Israel (klaize)](https://www.youtube.com/watch?v=KUb5nthE6eI)
+- [What DeleteMe and Incogni aren't telling you (Reject Convenience)](https://www.youtube.com/watch?v=iX3JT6q3AxA)
 
 ## June 2025
 Complete focus on my Master's, almost burnt out. But still standing.
