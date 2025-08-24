@@ -5,8 +5,6 @@ tags:
 ---
 ![[Orogênese]]
 
-![[Epirogênese]]
-
 ![[Abalos Sísmicos (Terremotos)]]
 
 ![[Vulcanismo]]

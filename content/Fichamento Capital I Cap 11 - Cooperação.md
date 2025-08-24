@@ -1,5 +1,5 @@
 ---
-date: " 2024-11-29"
+date: "2024-11-29"
 tags:
   - essay
 aliases:

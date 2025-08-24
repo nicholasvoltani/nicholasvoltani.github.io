@@ -6,9 +6,9 @@ tags:
   - mini-essay
 ---
 # Sobre a linguagem segundo Marx e Physarum Polycephalum
-Segundo Marx, a linguagem nada mais é que **consciência real, prática**, condensada em ação. N'[[A Ideologia Alemã]], Marx e Engels afirmam isso, e que a linguagem nasce da *necessidade de troca de informações* com outros indivíduos.
+Segundo Marx, a linguagem nada mais é que **consciência real, prática**, condensada em ação. N'[[012 MOC Ideologia Alemã]], Marx e Engels afirmam isso, e que a linguagem nasce da *necessidade de troca de informações* com outros indivíduos.
 
-O livro fala sobre a linguagem dos homens, mas sinto que podemos abstrai-lo para outros seres conscientes. E penso "conscientes" aqui [[Consciência segundo Hegel|no sentido de Hegel]], de indivíduos que têm noção da realidade como Outro, oposto a si próprios; mas penso que o ideal seja pensá-lo [[Pressupostos da existência humana|segundo Marx]]: a consciência surge em quatro aspectos da existência, que são 
+O livro fala sobre a linguagem dos homens, mas sinto que podemos abstrai-lo para outros seres conscientes. E penso "conscientes" aqui no sentido de Hegel, de indivíduos que têm noção da realidade como Outro, oposto a si próprios; mas penso que o ideal seja pensá-lo [[Pressupostos da existência humana|segundo Marx]]: a consciência surge em quatro aspectos da existência, que são 
 1. *a satisfação das necessidades orgânicas*
 2. *a criação de novas necessidades*
 3. *a procriação das relações de vida*

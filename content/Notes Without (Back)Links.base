@@ -1,0 +1,78 @@
+properties:
+  file.links:
+    displayName: Links
+  file.backlinks:
+    displayName: Backlinks
+views:
+  - type: table
+    name: Without Links
+    filters:
+      and:
+        - file.ext == "md"
+        - and:
+            - '!file.inFolder("Attachments")'
+            - '!file.inFolder("Bibliography")'
+            - '!file.inFolder("Outputs")'
+            - '!file.inFolder("Templates")'
+        - "!file.links"
+    order:
+      - file.name
+      - date
+      - file.backlinks
+    sort:
+      - property: date
+        direction: DESC
+      - property: file.tags
+        direction: ASC
+    columnSize:
+      file.name: 390
+      note.date: 143
+      file.backlinks: 229
+      file.links: 393
+    rowHeight: medium
+  - type: table
+    name: Without Links AND Backlinks
+    filters:
+      and:
+        - "!file.backlinks"
+        - "!file.links"
+        - and:
+            - '!file.inFolder("Attachments")'
+            - '!file.inFolder("Bibliography")'
+            - '!file.inFolder("Outputs")'
+            - '!file.inFolder("Templates")'
+        - file.ext == "md"
+    order:
+      - file.name
+      - date
+    sort:
+      - property: file.backlinks
+        direction: ASC
+      - property: date
+        direction: DESC
+    columnSize:
+      file.name: 422
+      note.date: 143
+  - type: table
+    name: Without Backlinks
+    filters:
+      and:
+        - file.ext == "md"
+        - and:
+            - '!file.inFolder("Attachments")'
+            - '!file.inFolder("Bibliography")'
+            - '!file.inFolder("Outputs")'
+            - '!file.inFolder("Templates")'
+        - "!file.backlinks"
+    order:
+      - file.name
+      - date
+      - file.links
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: date
+        direction: DESC
+    columnSize:
+      file.links: 393
+    rowHeight: medium

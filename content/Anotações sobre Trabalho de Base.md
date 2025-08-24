@@ -1,6 +1,6 @@
 
 ---
-date: 2022-02-25
+date: "2022-02-25"
 tags:
   - literature
 draft: 'true'

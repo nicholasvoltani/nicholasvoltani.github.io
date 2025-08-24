@@ -3,6 +3,8 @@ date: 2021-08-26
 tags:
   - mathematics 
 ---
+up:: [[025 MOC Lógica de Primeira Ordem]]
+
 ## Definição: Satisfação/*Entailment*/Consequência Lógica
 Dada uma interpretação $\mathfrak{I}$ e uma *lookup table* $\mu$, dizemos que uma fórmula $\alpha$ é **satisfeita** na interpretação $\mathfrak{I}$ (e que escrevemos como $\mathfrak{I}, \mu \models \alpha$ segundo Levesque, e $\mathfrak{I} \models_\mu \alpha$ segundo Huth) de acordo com as seguintes fórmulas:
 - Dados termos $(t_1, \dots, t_n)$ e predicado $n$-ário $P$, então

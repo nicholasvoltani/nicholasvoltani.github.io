@@ -1,5 +1,5 @@
 ---
-date: " 2025-05-02"
+date: "2025-05-02"
 tags:
   - moc
   - philosophy/philosophy_of_science

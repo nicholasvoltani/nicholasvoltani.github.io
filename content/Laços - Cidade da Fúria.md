@@ -1,6 +1,6 @@
 ---
-date: 20250117
-tags: 
+date: 2025-01-17
+tags:
 draft: "true"
 aliases:
 ---

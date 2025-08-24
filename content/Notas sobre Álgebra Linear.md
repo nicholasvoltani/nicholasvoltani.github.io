@@ -6,6 +6,7 @@ tags:
   - []
 publish: "true"
 ---
+up:: [[index]]
 
 Anotações sobre Álgebra Linear que escrevi durante o curso de Álgebra Linear no IFUSP, em 2018.
 

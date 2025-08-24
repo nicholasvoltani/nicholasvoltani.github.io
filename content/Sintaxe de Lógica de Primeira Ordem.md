@@ -3,6 +3,8 @@ date: 2021-08-24
 tags:
   - mathematics 
 ---
+up:: [[025 MOC Lógica de Primeira Ordem]]
+
 # Sintaxe de Lógica de Primeira Ordem
 É composta tanto de símbolos lógicos quanto não-lógicos:
 - Símbolos lógicos (interpretação "fixa"): 

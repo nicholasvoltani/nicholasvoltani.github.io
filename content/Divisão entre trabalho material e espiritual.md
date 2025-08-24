@@ -7,7 +7,7 @@ tags:
 draft: 'true'
 ---
 # Divisão primitiva do trabalho, segundo Marx e Engels
-N'[[A Ideologia Alemã]], considera-se a divisão do trabalho como sendo oriunda naturalmente da cooperação dos indivíduos, inicialmente sexual e, eventualmente, por disposições naturais (e.g. força corporal), se torna divisão no trabalho.
+N'[[012 MOC Ideologia Alemã]], considera-se a divisão do trabalho como sendo oriunda naturalmente da cooperação dos indivíduos, inicialmente sexual e, eventualmente, por disposições naturais (e.g. força corporal), se torna divisão no trabalho.
 
 Essa divisão somente é vista como uma **cisão** de fato quando surge uma divisão entre trabalho **material** e trabalho **espiritual**. O trabalho espiritual, embora surja do próprio trabalho material, torna-se menos restrito à realidade material, podendo, dessa forma, lançar-se à "construção da **teoria** \[...\] pura". Um exemplo de trabalho espiritual é o surgimento de indivíduos especializados na previsão do tempo e das condições propícias ao plantio, em sociedades agrícolas, os quais não necessariamente *produzem algo*, mas contribuem para a agricultura (que acaba sendo, afinal, uma contribuição *material*).  
 

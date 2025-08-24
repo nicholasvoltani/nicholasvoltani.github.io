@@ -13,8 +13,8 @@ Os operadores cognitivos do pensamento complexo são:
 - [[Morin ─ Autoprodução|Autoprodução]]: "Os seres vivos produzem, **eles próprios**, os elementos que os constituem, e se autoorganizam por meio desse processo"
 - [[Morin ─ Operador Dialógico|Operador Dialógico]]: "Há contradições que não podem ser resolvidas. Isso significa que existem opostos que são ao mesmo tempo antagônicos e complementares."
 - [[Morin ─ Operador Hologramático|Operador Hologramático]]:  "As partes estão no todo, mas o todo também está nas partes"
-- [[Integração Sujeito-Objeto]]
-- [[Ecologia da Ação]]
+- Integração Sujeito-Objeto
+- Ecologia da Ação
 
 ---
 ### References

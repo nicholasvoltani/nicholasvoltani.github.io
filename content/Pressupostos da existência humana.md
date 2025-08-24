@@ -6,7 +6,7 @@ tags:
   - marxism
 ---
 # Pressupostos da existência humana, segundo Marx e Engels
-N'[[A Ideologia Alemã]], Marx e Engels elaboram que toda a existência humana possui quatro pressupostos (os quais não precisam ocorrer nessa dada ordem):
+N'[[012 MOC Ideologia Alemã]], Marx e Engels elaboram que toda a existência humana possui quatro pressupostos (os quais não precisam ocorrer nessa dada ordem):
 1. **Subsistência**: O homem precisa dos meios de produção com os quais possa estar **em condições de viver**, ou seja, de comida e bebida, moradia, vestimenta, etc. 
 	1. Com isso, se dá cabo ao **primeiro ato histórico**: a **produção dos meios** para a satisfação dessas necessidades, i.e., a produção da própria **vida material**.
 2. **Produção de novos interesses**: Após a satisfação de suas necessidades básicas, o homem produz para si **novas necessidades** a serem satisfeitas.

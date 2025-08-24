@@ -80,7 +80,7 @@ Barragens para mineração/agronegócio/criação de energia.
 
 ### Mineronegócio
 - Grandes jazidas e modelo de desenvolvimento 
-- Grande Carajás 
+- [[Serra dos Carajás (PA)]]
 - Garimpo (Serra Pelada, PA; Serra do Navio, AM)
 
 Ver o mineronegócio como forma de **democratização do acesso ao minério** é fundamental para o futuro; como é não-renovável, o que resta após sua coleta sempre é [[Ruptura Metabólica|devastação]], seja à natureza, seja ao povo local.
@@ -89,7 +89,7 @@ Ver o mineronegócio como forma de **democratização do acesso ao minério** é
 - **Controle do clima planetário**: florestas em pé servem de **grande regulador climático**, o que é disputado internacionalmente, por ser também uma **reserva de recursos naturais** 
 	- Reservas verdes são **comercializadas na Bolsa de Valores** (cŕeditos de carbono), e seus protagonistas sociais são vistos nos capitalistas verdes
 - **Redescoberta do Passado**: Encontrar formas de sociablidade homem-natureza **pré-coloniais** pode ser base para reconstruir o presente e produzir as relações no futuro.
-	- **Reencontro com a Identidade**: historicamente acumulada pelos [[Etnobotânica|diversos povos]].
+	- **Reencontro com a Identidade**: historicamente acumulada pelos diversos povos.
 - **Financeirização**: lógica de discutir os problemas ambientais e suas soluções atualmente estão pensadas dentro da lógica do mercado (que visa o lucro); não se pensa da autonomia e empoderamento de locais, nem dos desafios, e sim como metas estabelecidas por *stakeholders*, que esperam por lucros. 
 
 Para ter esse debate de maneira justa, devemos nos entender como **sujeitos planetários** no ponto de vista de nossa **existência**, mas **sujeitos diversos e locais** do ponto de vista de nossa **experiência humana** como sujeitos concretos e territorializados. 

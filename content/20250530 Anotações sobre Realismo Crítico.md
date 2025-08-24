@@ -1,5 +1,5 @@
 ---
-date: " 2025-05-30"
+date: "2025-05-30"
 tags:
   - philosophy
   - philosophy/philosophy_of_science

@@ -2,7 +2,6 @@
 date: 2024-07-02
 tags:
   - marxism
-  - to-be-elaborated 
 aliases: Mercadoria-dinheiro
 ---
 up:: [[Valor Equivalente]]

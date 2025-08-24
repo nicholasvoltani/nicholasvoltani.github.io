@@ -3,6 +3,8 @@ date: 2021-08-22
 tags:
   - mathematics 
 ---
+up:: [[025 MOC Lógica de Primeira Ordem]]
+
 # Hipótese de Representação de Conhecimento (Knowledge-Representation Hypothesis)
 De acordo com o filósofo Brian Smith, "qualquer processo inteligente mecanicamente corporificado" que contenha *representações simbólicas de conhecimento* devem possuir duas propriedades:
 1. Agentes de fora devem conseguir compreender os **símbolos** desse sistema como representando **proposições** (sob alguma lógica);

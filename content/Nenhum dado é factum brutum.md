@@ -11,7 +11,7 @@ aliases:
 
 Não importa o quão "despojada de comentário" seja um colhimento de dados, tal ato sempre possuirá alguma teoria ou método implícito. 
 
-Isso se dá devido à relação [[Hegel ─ Dialética|dialética]] sujeito-objeto: não existem *facti bruti*, aos quais incutimos significado; o fato de serem "dados", de serem ob-jetos para nós, já implica em que foram apreendidos por alguma teoria nossa, i.e. de que foram **abstraídos de seu contexto original** a fim de serem considerados "sob uma nova ótica".[^1]
+Isso se dá devido à relação dialética sujeito-objeto: não existem *facti bruti*, aos quais incutimos significado; o fato de serem "dados", de serem ob-jetos para nós, já implica em que foram apreendidos por alguma teoria nossa, i.e. de que foram **abstraídos de seu contexto original** a fim de serem considerados "sob uma nova ótica".[^1]
 
 23/07/2022: A realidade simplesmente **é**; ela não é palavras, ela não é números, portanto a atribuição destes para a qualificação da natureza já é algo que traz implícito um desenvolvimento histórico-filosófico e um aparato metodológico de apreensão da realidade (os gregos faziam-no de maneira distinta que os cientistas pós-revolução cartesiana passaram a fazer). 
 

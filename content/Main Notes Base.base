@@ -1,0 +1,42 @@
+filters:
+  and:
+    - '!file.inFolder("Attachments")'
+    - '!file.inFolder("Bibliography")'
+    - '!file.inFolder("Templates")'
+properties:
+  note.date:
+    displayName: Date
+  note.tags:
+    displayName: Tags
+views:
+  - type: table
+    name: Most Recent Notes
+    order:
+      - file.name
+      - date
+      - tags
+      - file.links
+    sort:
+      - property: date
+        direction: DESC
+    columnSize:
+      file.name: 237
+      note.date: 144
+      note.tags: 114
+      file.links: 285
+    rowHeight: medium
+  - type: table
+    name: To Be Elaborated Notes
+    filters:
+      and:
+        - file.hasTag("to-be-elaborated")
+    order:
+      - file.name
+      - date
+    sort:
+      - property: date
+        direction: DESC
+    columnSize:
+      file.name: 447
+      note.date: 144
+    rowHeight: medium

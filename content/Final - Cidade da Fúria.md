@@ -1,5 +1,5 @@
 ---
-date: " 2024-11-10"
+date: "2024-11-10"
 tags: 
 draft: "true"
 aliases:

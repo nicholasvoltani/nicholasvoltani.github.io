@@ -1,5 +1,5 @@
 ---
-date: " 2025-05-11"
+date: "2025-05-11"
 tags:
   - economics
 aliases:

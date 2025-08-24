@@ -6,6 +6,8 @@ draft: 'true'
 ---
 up:: [[index]]
 
+related:: [[067 MOC Ecological Economics]]
+
 ## Módulos
 0. [[202201291507 Curso PSOL Painel de Abertura]]
 1. [[202201301118 Curso PSOL - Ecossocialismo]]

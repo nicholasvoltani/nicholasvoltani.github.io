@@ -24,7 +24,7 @@ Através de argumentos "que nada tinham a ver com o 'consentimento' ou com as 'n
 ### Sobre a natureza da luta de classes
 > "[As classes trabalhadoras] precisam **libertar-se da tutela terminológica da burguesia** (isto é, de relações de dominação que se definem, na área da cultura, como se fossem parte do ar que respiramos ou 'simples palavras')" (p. 46-7)
 
-Ou seja, se faz necessário com que se quebre com a [[Hegemonia em Gramsci|hegemonia]] da classe dominante; isto se dá dialeticamente, ao devassar a **historicidade das relações de dominação** e, nesse processo, também a terminologia empregada/incentivada pelas classes dominantes. 
+Ou seja, se faz necessário com que se quebre com a hegemonia da classe dominante; isto se dá dialeticamente, ao devassar a **historicidade das relações de dominação** e, nesse processo, também a terminologia empregada/incentivada pelas classes dominantes. 
 
 ### Sobre a revolução dentro/fora da ordem capitalista
 > "A moral da história é óbvia. A revolução apenas como e enquanto _transformação estrutural da sociedade **capitalista**_ [i.e. dentro da ordem] representa uma fronteira da qual as classes trabalhadoras (e especialmente suas vanguardas) não poderão fugir sem consequências funestas" (p. 49)

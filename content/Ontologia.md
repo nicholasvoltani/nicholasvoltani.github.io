@@ -1,5 +1,5 @@
 ---
-date: " 2025-05-07"
+date: "2025-05-07"
 tags:
   - philosophy
 aliases: 

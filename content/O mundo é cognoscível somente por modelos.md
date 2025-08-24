@@ -17,4 +17,4 @@ Há aqui também a possibilidade de que, através de "honestidade intelectual" (
 ### References
 - O Mundo de Sofia
 
-[^1]: Aqui pressuponho [[Materialismo Histórico-Dialético]]: a veracidade de nossos modelos de mundo são comprováveis mediante sua comparação com a realidade.
+[^1]: Aqui pressuponho Materialismo Histórico-Dialético: a veracidade de nossos modelos de mundo são comprováveis mediante sua comparação com a realidade.

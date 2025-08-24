@@ -1,5 +1,5 @@
 ---
-date: " 2025-05-27"
+date: "2025-05-27"
 tags:
   - moc
   - economics

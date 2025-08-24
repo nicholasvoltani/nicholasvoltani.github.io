@@ -98,7 +98,7 @@ Se faz necessário necessário que
 
 ## Bioenergia
 - Fontes de Etanol/agrocombustível: milho, cana-de-açúcar
-- Fontes de Biomassa: eucalipto (**desertos verdes**!)
+- Fontes de Biomassa: eucalipto (**[[Desertos verdes]]**!)
 - Fontes de óleos vegetais: soja, dendê
 
 Note-se que a maioria das plantas envolvidas vêm de **[[Monocultura|monoculturas]]** e da concentração de terras, exploração de força de trabalho etc. 

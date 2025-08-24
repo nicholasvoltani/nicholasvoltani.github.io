@@ -1,5 +1,5 @@
 ---
-date: " 2024-07-03"
+date: "2024-07-03"
 tags:
   - mathematics
 aliases:

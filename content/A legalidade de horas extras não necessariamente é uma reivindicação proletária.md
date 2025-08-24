@@ -17,4 +17,3 @@ Tal reivindicação vinda da parte dos próprios capitalistas acaba relembrando 
 ---
 ### Referências
 - MARX, Karl. **O Capital-Livro 1: Crítica da economia política. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
-- [[O Capital, I ─ Cap 17, 18, 19; Sobre o salário]]

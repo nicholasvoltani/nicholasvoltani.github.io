@@ -1,5 +1,5 @@
 ---
-date: 20250120
+date: 2025-01-20
 tags:
   - deutsch
 ---
