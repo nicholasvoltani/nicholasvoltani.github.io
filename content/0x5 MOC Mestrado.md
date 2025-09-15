@@ -3,8 +3,10 @@ date: "2025-02-14"
 tags:
   - moc
 ---
-j
+
 up:: [[index]] // [[060 MOC Economia]] 
+
+# [[0x51 MOC Dissertação Mestrado]]
 
 # Primeiro semestre (1/4)
 ## Teoria Macroeconômica (B)
@@ -32,8 +34,8 @@ up:: [[index]] // [[060 MOC Economia]]
 ## Economia Política I
 - [[011a MOC Capital I]]
 
-## Economia Política dos Ciclos
-
+## [[068 MOC Economia Política dos Ciclos|Economia Política dos Ciclos]]
+- [[20250902 Anotações EconPolCiclos]]
 
 ---
 # Terceiro semestre (3/4)
@@ -41,7 +43,9 @@ up:: [[index]] // [[060 MOC Economia]]
 - [[011b MOC Capital II]]
 - [[011c MOC Capital III]]
 
-## [[064 MOC Estatística em Economia|Econometria]] (??)
+## [[064 MOC Estatística em Economia|Econometria]] (??) 
+
+## Metodologia das Ciências Econômicas (se Deus quiser)
 
 ---
 # Quarto semestre (4/4)

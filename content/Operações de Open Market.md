@@ -7,11 +7,11 @@ aliases:
 
 up:: [[Política Monetária]]
 
-Trata-se da compra/venda, pelo [[Banco Central]], de títulos da [[Dívida Pública]], do [[Tesouro Nacional]], para o público. O objetivo disso é de regular a quantidade de [[Base Monetária]] (em particular o [[Papel Moeda em Poder do Público]]), para indiretamente afetar a [[Taxa de Juros]] da economia.
+Trata-se da compra/venda, pelo [[Banco Central]], de títulos públicos. O objetivo disso é de regular a quantidade de [[Moeda]] em poder do público[^1], para indiretamente afetar a [[Taxa de Juros]] da economia.
 
-Quando o BaCen vende títulos públicos, ele efetivamente **contrai** a base monetária e, por conseguinte, os [[Meios de Pagamento]][^1], i.e. é uma [[Política Monetária Contracionista]].
+Quando o BaCen vende títulos públicos, ele efetivamente **contrai** a base monetária e, por conseguinte, os [[Meios de Pagamento]][^2], i.e. é uma [[Política Monetária Contracionista]].
 
-Quando o BaCen compra títulos públicos – de bancos privados –, ele está **expandindo** a base monetária (i.e. dinheiro em caixa de bancos privados)[^2], i.e. é uma [[Política Monetária Expansionista]].
+Quando o BaCen compra títulos públicos – de bancos privados –, ele está **expandindo** a base monetária (i.e. dinheiro em caixa de bancos privados)[^3], i.e. é uma [[Política Monetária Expansionista]].
 
 Note-se que, quando o governo está em [[Déficit Fiscal]], não necessariamente há uma expansão monetária: somente configura política fiscal expansionista **caso o Bacen esteja "monetizando o déficit público"**. Por isso é pertinente que o Banco Central seja autônomo do governo nacional.
 
@@ -19,5 +19,6 @@ Note-se que, quando o governo está em [[Déficit Fiscal]], não necessariamente
 ### References
 - [Oferta de moeda (Aula 2, parte 1) - YouTube](https://www.youtube.com/watch?v=j3iZ-PceVI0&list=PLAudUnJeNg4vWPm7Au0XhkoS58yHprEvN&index=3)
 
-[^1]: Diminuição de dinheiro líquido.
-[^2]: Vai acabar precisando emitir mais dinheiro no processo.
+[^1]: Provavelmente afetando [[Meios de Pagamento]], pois tal moeda entrará como [[Depósito à Vista|Depósitos à Vista]].
+[^2]: Diminuição de dinheiro líquido.
+[^3]: Vai acabar precisando emitir mais dinheiro no processo.

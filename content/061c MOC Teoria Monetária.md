@@ -7,19 +7,21 @@ tags:
 
 up:: [[061 MOC Macroeconomia]]
 
+# [[061c1 MOC Sistema Financeiro Nacional]]
 # Fundamentos
 - [[Preferência por Liquidez]]
+	- [[Crise de Liquidez]]
 - [[Banco Central]]
+- [[Reservas Compulsórias]]
+	- [[Papel-Moeda em Circulação]]
 - [[Base Monetária]] / M1
+	- [[Papel Moeda em Poder do Público]]
+	- [[Depósito à Vista]]
+- Quase-moedas:
 	- [[M2]]
 	- [[M3]]
 	- [[M4]]
-- [[Meios de Pagamento]]
-	- [[Papel Moeda em Poder do Público]]
-	- [[Depósito à Vista]]
-	- [[Reservas Compulsórias]]
-	- [[Multiplicador Bancário]]
-	- [[Crise de Liquidez]]
+- [[Multiplicador Bancário]]
 - [[Moeda Fiduciária]] (Emissão Inconversível)
 - [[Taxa de Juros]]
 	- [[A taxa de juros é o custo de oportunidade do dinheiro presente vis-à-vis dinheiro futuro]]
@@ -41,5 +43,5 @@ up:: [[061 MOC Macroeconomia]]
 
 ---
 ### References
-- [Economia Monetária - Moeda e Bancos | Aulas USP - YouTube](https://www.youtube.com/playlist?list=PLAudUnJeNg4vWPm7Au0XhkoS58yHprEvN)
+- [Economia Monetária - Moeda e Bancos | Aulas USP (João Sayad)](https://www.youtube.com/playlist?list=PLAudUnJeNg4vWPm7Au0XhkoS58yHprEvN)
 - GREMAUD, Amaury Patrick; VASCONCELLOS, Marco Antonio Sandoval de; TONETO JÚNIOR, Rudinei. **Economia brasileira contemporânea**. 2004. 7a edição.

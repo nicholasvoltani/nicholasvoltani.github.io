@@ -13,7 +13,7 @@ up:: [[090 MOC Languages]]
 > 
 > (...) Mit Schreiben kann ich alles ausdrücken, meine Gedanken, meine Ideale und meine Phantasien." (Anne Frank)
 
-![[Pasted image 20250301114937.png|500]]
+![[Pasted image 20250301114937.png|300]]
 Quelle: [Xwitter](https://x.com/deutschlernenx/status/1736999226083541099)
 # [[Meine Deutschstudien Ressourcen]]
 

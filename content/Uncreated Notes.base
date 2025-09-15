@@ -22,7 +22,7 @@ views:
       - file.name
     sort:
       - property: date
-        direction: ASC
+        direction: DESC
       - property: formula.Uncreated File
         direction: DESC
     columnSize:

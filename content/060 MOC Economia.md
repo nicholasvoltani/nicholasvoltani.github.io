@@ -6,6 +6,8 @@ tags:
 ---
 up:: [[index]]
 
+related:: [[0x5 MOC Mestrado]]
+
 # [[061 MOC Macroeconomia]]
 - [[061a MOC ANPEC Macroeconomia]]
 

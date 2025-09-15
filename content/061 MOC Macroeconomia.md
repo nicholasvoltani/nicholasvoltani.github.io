@@ -11,7 +11,7 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 # [[Análise de Dados da Economia Brasileira]]
 
 # [[061b MOC Contabilidade Nacional]]
-# [[061c MOC Teoria da Moeda]]
+# [[061c MOC Teoria Monetária]]
 
 ## Leis e Paradoxos
 - [[Lei de Say]]
@@ -44,8 +44,13 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 	- [[Equivalência Ricardiana]]
 	- [[Crowding Out]]
 - [[Política Monetária]]
+	- [[Operações de Redesconto]]
+	- [[Operações de Open Market]]
+	- [[Reservas Compulsórias]]
 	- [[Política Monetária Expansionista]]
 	- [[Política Monetária Contracionista]]
+	- Políticas não-convencionais (cf. [[Crise do Subprime (2007)]]):
+		- [[Quantitative Easing]]
 - [[Política Cambial]]
 	- [[Apreciação Cambial]]
 	- [[Desvalorização Cambial]]

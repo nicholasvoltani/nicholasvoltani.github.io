@@ -8,7 +8,7 @@ aliases:
   - Multiplicador de Meios de Pagamento
 ---
 
-up:: [[061c MOC Teoria da Moeda]]
+up:: [[061c MOC Teoria Monetária]]
 
 Através do sistema de reservas fracionárias dos bancos[^1], eles conseguem efetivamente criar mais [[Meios de Pagamento]] em uma economia.
 
@@ -21,9 +21,15 @@ $$
 $$
 O fator $\frac{1}{1-\alpha}$ é o chamado **multiplicador bancário**, ou **multiplicador monetário**.
 
+A fórmula usualmente empregada é
+$$
+m = \frac{1}{1-d(1-r)}
+$$
+vide abaixo.
+
 # Deduções alternativas
 ## [[Papel Moeda em Poder do Público]] como fração de depósitos à vista
-Para relacionar os meios de pagamento (ou, simplesmente, *moeda* $M$) com a [[Base Monetária]] $BM$, podemos operar com as seguintes hipóteses:
+Para relacionar os [[Meios de Pagamento]] (ou, simplesmente, *moeda* $MP$) com a [[Base Monetária]] $BM$, podemos operar com as seguintes hipóteses:
 $$
 \begin{cases}
 PPMP = \alpha DV \\
@@ -41,23 +47,24 @@ BM = (RC + RV) + PPMP
 $$
 temos então que
 $$
-\frac{M}{BM} = \frac{1+\alpha}{\alpha+ r}
+\frac{MP}{BM} = \frac{1+\alpha}{\alpha+ r}
 $$
 
 ## [[Depósito à Vista|Depósitos à Vista]] como fração de moeda
 Definindo $d$ como o percentual de [[Meios de Pagamento]] que são depositados à vista $DV = d \cdot M$[^2], podemos deduzir
 $$
 \begin{align}
-BM &= PPMG + DV + (1-\beta) DV  \\
-&= M - (1-r) d \cdot M \\
+BM &= PPMG (\pm DV) + RV + RC = MP - DV +  r \cdot DV  \\
+&= M + d \cdot(r - 1) MP \\ \\
+&= (1 - d \cdot (1-r)) MP
 \end{align}
 $$
 
 Portanto, temos que o multiplicador monetário também pode ser visto como
 $$
-\frac{BM}{M} = \frac{1}{1-d \cdot (1-r)}
+\frac{BM}{MP} = \frac{1}{1-d \cdot (1-r)}
 $$
-onde $\beta$ é o percentual de depósitos à vista que são guardados em reserva, e $d$ é o percentual total de moeda que está depositado à vista.
+onde $r$ é o percentual de depósitos à vista que são guardados em reserva, e $d$ é o percentual total de moeda que está depositado à vista.
 
 
 ---
@@ -66,4 +73,4 @@ onde $\beta$ é o percentual de depósitos à vista que são guardados em reserv
 - [Oferta de moeda (Aula 2, parte 1) - João Sayad](https://www.youtube.com/watch?v=j3iZ-PceVI0&list=PLAudUnJeNg4vWPm7Au0XhkoS58yHprEvN&index=3)
 
 [^1]: Reservando parte dos [[Depósito à Vista|Depósitos à Vista]](tanto em reservas próprias como [[Reservas Compulsórias]]) e emprestando o resto para outros bancos.
-[^2]: $DV = d \cdot M$, donde o [[Papel Moeda em Poder do Público]] é $PMPP = (1-d) M$.
+[^2]: $DV = d \cdot MP$, donde o [[Papel Moeda em Poder do Público]] é $PMPP = (1-d) MP$.

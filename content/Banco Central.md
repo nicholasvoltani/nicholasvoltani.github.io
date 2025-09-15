@@ -1,13 +1,14 @@
 ---
-date: "2024-08-05"
+date: 2024-08-05
 tags:
   - economics
 aliases:
+  - Bacen
 ---
 
-up:: [[061c MOC Teoria da Moeda]]
+up:: [[061c MOC Teoria Monetária]]
 
-O surgimento de um Banco Central possui várias motivações, uma das mais importantes sendo a mitigação de falências em cadeia de bancos privados devido a depósitos interbancários[^1]. Além disso, também é responsável por regular a quantidade de [[Base Monetária]] presente em dada economia, através de [[Política Monetária]].
+O surgimento de um Banco Central possui várias motivações, uma das mais importantes sendo a mitigação de falências em cadeia de bancos privados devido a depósitos interbancários[^1]. Além disso, também é responsável por regular a quantidade de [[Base Monetária]] presente em dada economia, através de [[Política Monetária]], assim como pela regulação do poder de compra do povo (i.e. controle da [[Inflação]]).
 
 As funções do Banco Central são:
 ## 1) Banco dos bancos
@@ -22,7 +23,7 @@ Ele é responsável por guardar parte do dinheiro dos bancos privados ([[Reserva
 É o banqueiro oficial do [[Tesouro Nacional]]: recebe depósitos do Tesouro e pode conceder-lhe empréstimos.
 
 ## 4) Banco emissor de moeda
-É o emissor oficial de papel moeda no país. Mesmo que [[O sistema bancário consegue multiplicar os meios de pagamento em uma economia, mas não sua base monetária]], o Banco Central é o único que pode, realmente, criar mais [[Base Monetária]].
+É o emissor oficial de papel moeda no país. Mesmo que [[O sistema bancário consegue multiplicar os meios de pagamento em uma economia, mas não sua base monetária]], o Banco Central é o único que pode, oficialmente, criar mais [[Base Monetária]].
 
 # Balancete do Banco Central
 

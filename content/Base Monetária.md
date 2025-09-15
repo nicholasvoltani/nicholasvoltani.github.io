@@ -10,13 +10,13 @@ up:: [[Banco Central]]
 
 > "A base monetária pode ser entendida como o dinheiro com poder de multiplicação. (...) corresponde a praticamente toda a moeda 'física' disponível (papel moeda e moeda metálica), exceto a que ficou retida no Caixa das Autoridades Monetárias." (LOPES, p. 64)
 
-A base monetária de uma economia é o tanto de [[Dinheiro]] **"real"** que esta economia possui. 
+A base monetária de uma economia é o tanto de [[Moeda]]  que o Banco Central tem (razoavelmente) sob seu controle. 
 
-Ela é a soma do [[Papel Moeda em Poder do Público]] mais o dinheiro em reserva nos **bancos** – reservas voluntárias de bancos comerciais e [[Reservas Compulsórias]] no Banco Central. 
+Ela é a soma do [[Papel-Moeda em Circulação]] mais o dinheiro em reserva nos **bancos** – reservas voluntárias de bancos comerciais e [[Reservas Compulsórias]] no Banco Central. 
 
 Formulaicamente:
 $$
-BM = \text{PapelMoedaPúblico} + \text{ReservasVol} + \text{ReservasComp}
+BM = \text{PapelMoedaCirculação} + \text{ReservasVol} + \text{ReservasComp}
 $$
 
 É esta quantidade que o [[Banco Central]] pode influenciar, através de [[Política Monetária|Políticas Monetárias]], através ou da alteração do percentual de compulsório de bancos ou de [[Operações de Open Market]].

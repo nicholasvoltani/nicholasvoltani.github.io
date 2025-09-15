@@ -8,9 +8,9 @@ aliases:
   - Emissões Inconversíveis
 ---
 
-up:: [[061c MOC Teoria da Moeda]]
+up:: [[061c MOC Teoria Monetária]]
 
-Uma moeda fiduciária trata-se de um "signo de [[Valor]]" **sem valor intrínseco**. É, portanto, uma moeda que serve *somente* como [[Meios de Pagamento]] (compra/venda de [[Mercadoria]]s, liquidação/saldação de dívidas), e **não** como mercadoria *per se*[^1].
+Uma moeda fiduciária trata-se de um "signo de [[Valor]]" **sem valor intrínseco**. É, portanto, uma moeda que serve *somente* como [[Meios de Pagamento]] (compra/venda de bens, liquidação/saldação de dívidas), e **não** como [[Mercadoria]] *per se*[^1].
 
 No tocante à emissão de moeda, é o oposto do [[Padrão-Ouro]], onde emite-se somente o que se possui em reservas metálicas ([[Dinheiro|Mercadoria-dinheiro]]).
 

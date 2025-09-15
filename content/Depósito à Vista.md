@@ -6,11 +6,11 @@ aliases:
   - Depósitos à Vista
 ---
 
-up:: [[061c MOC Teoria da Moeda]]
+up:: [[061c MOC Teoria Monetária]]
 
 São depósitos de [[Papel Moeda em Poder do Público]] com liquidez equivalente. 
 
-Distinguem-se de depósitos **a prazo**, e.g. CDBs[^1], em que o dinheiro só pode ser resgatado após um prazo predeterminado (geralmente acrescido de juros).
+Distinguem-se de depósitos **a prazo**, e.g. CDBs[^1], em que o dinheiro só pode ser resgatado após um prazo predeterminado (geralmente acrescido de juros). 
 
 ---
 ### References

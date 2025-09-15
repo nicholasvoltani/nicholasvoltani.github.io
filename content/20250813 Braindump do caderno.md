@@ -1,6 +1,7 @@
 ---
-date: "2025-08-13"
-tags: 
+date: 2025-08-13
+tags:
+  - daily
 draft: "true"
 aliases:
 ---

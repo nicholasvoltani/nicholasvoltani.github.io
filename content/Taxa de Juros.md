@@ -6,7 +6,7 @@ aliases:
   - Taxas de Juros
 ---
 
-up:: [[061c MOC Teoria da Moeda]]
+up:: [[061c MOC Teoria Monetária]]
 
 Taxas de juros medem quanto algum investimento renderá no futuro. Em outras palavras, medem o quanto vale a pena abdicar da liquidez do [[Dinheiro]] em favor de fazê-lo render. Dessa forma, [[A taxa de juros é o custo de oportunidade do dinheiro presente vis-à-vis dinheiro futuro]]; segundo Keynes, [[A taxa de juros é 'uma recompensa por desfazer-se de liquidez']].
 

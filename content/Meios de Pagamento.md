@@ -6,7 +6,7 @@ aliases:
   - M1
 ---
 
-up:: [[061c MOC Teoria da Moeda]]
+up:: [[061c MOC Teoria Monetária]]
 
 > "Os meios de pagamento consistem na totalidade dos haveres possuídos pelo setor não-bancário e que podem ser utilizados a qualquer momento, para a liquidação de qualquer dívida em moeda nacional. Ou seja, é o total de ativos de liquidez imediata do setor não-bancário." (LOPES, p. 65)
 

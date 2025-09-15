@@ -8,6 +8,17 @@ up:: [[011 MOC Capital]]
 related:: [[071a MOC Realismo Crítico]] // [[070 MOC Philosophy]]
 
 > "A economia política clássica chega muito próximo à verdadeira relação das coisas, porém sem formulá-la conscientemente. Ela não poderá fazê-lo enquanto estiver coberta com sua pele burguesa." (MARX, p. 612)
+
+---
+- [[Fichamento Capital I Cap 11 - Cooperação]]
+- [[Fichamento Capital I Cap 12 - Manufatura]]
+- [[Fichamento Capital I Cap 13 - Maquinaria e Grande Indústria]]
+- [[20250908 Anotações EconPol Cap 1]]
+	- [A importância da categoria valor de uso na teoria de Marx (Marcelo Carcanholo)](https://revistas.pucsp.br/rpe/article/download/11757/8478)
+	- [A origem social do valor: valor-de-uso e valor-de-troca numa perspectiva dialética (Gutemberg Miranda)](https://seer.ufu.br/index.php/primordium/issue/download/2233/470#page=57)
+
+---
+
 ## Tópicos
 - [[Mercadoria]]
 - [[Valor de Uso]]
@@ -56,14 +67,11 @@ related:: [[071a MOC Realismo Crítico]] // [[070 MOC Philosophy]]
 	- [[Tempo de Trabalho Socialmente Necessário]]
 - ~~[[O Capital, I ─ Cap 11, Cooperação]]~~
 	- [[Cooperação]]
-		- [[Fichamento Capital I Cap 11 - Cooperação]]
 - ~~[[O Capital, I ─ Cap 12, Divisão do Trabalho e Manufatura]]~~
 	- [[Manufatura]]
-		- [[Fichamento Capital I Cap 12 - Manufatura]]
 	- [[Divisão do Trabalho]]
 	- [[Surgimento da alienação]]
 - ~~[[O Capital, I ─ Cap 13, Maquinaria e Grande Indústria]]~~
-	- [[Fichamento Capital I Cap 13 - Maquinaria e Grande Indústria]]
 	- [[Maquinaria]]
 - [[Preço da Força de Trabalho]]
 - [[Trabalho Assalariado]] (mencionado em [[Economia Agroexportadora]])

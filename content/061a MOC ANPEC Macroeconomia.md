@@ -11,7 +11,7 @@ up:: [[061 MOC Macroeconomia]]
 - [[Deflator Implícito]]
 	- [[ANPEC Macroeconomia 09 2025]]
 
-# [[061c MOC Teoria da Moeda]]
+# [[061c MOC Teoria Monetária]]
 - [[Política Monetária|Políticas Monetárias]]
 	- [[ANPEC Macroeconomia 02 2024]]
 	- [[ANPEC Macroeconomia 02 2025]]
