@@ -60,7 +60,7 @@ Similarmente, pode-se comprar força de trabalho e os meios de trabalho necessá
 - MARX, Karl. **O Capital. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
 - [Leituras d'O Capital (UFPR) - Livro I](https://www.youtube.com/@leiturasdocapital/videos)
 
-[^1]: O enunciado da lei dos grandes números é garantido, formalmente, conforme $N \to \infty$. Na prática, não é preciso tanto (*por supuesto*!).
+[^1]: O enunciado da lei dos grandes números é garantido, formalmente, conforme $N \to \infty$. Na prática, não é preciso tanto (*por supuesto*!). **251020**: A lei dos grandes números é garantida para variáveis aleatórias **independentes**, o que é razoavelmente garantido pela produção *privada* de mercadorias.
 [^2]: Pois se empregarão mais meios de produção para abarcar a massa de trabalhadores em ação (?).
 [^3]: Devido a que os meios de produção não se restringirão a afetar somente um produto, mas vários simultaneamente (?).
 [^4]: Eu chamaria de uma quebra da [[Autonomia]] dos trabalhadores.

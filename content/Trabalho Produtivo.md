@@ -10,7 +10,7 @@ up:: [[011a MOC Capital I]]
 
 > "Só é produtivo o trabalhador que produz mais-valor para o capitalista ou serve à autovalorização do capital." (MARX, p. 578)
 
-A noção de trabalho produtivo está associada ao [[Processo de Produção Capitalista]], em que produz-se [[Mercadoria|Mercadorias]]. Conforme avança a [[Divisão do Trabalho]], o trabalhador produtivo não trata-se mais do *indivíduo*, mas do trabalhador *coletivo*.
+A noção de trabalho produtivo está associada ao [[Processo de Produção Capitalista]], em que produz-se [[Mercadoria|Mercadorias]]. Conforme avança a [[Divisão Social do Trabalho]], o trabalhador produtivo não trata-se mais do *indivíduo*, mas do trabalhador *coletivo*.
 > "O produto, que antes era o produto direto do produtor individual, transforma-se num produto social, no produto comum de um trabalhador coletivo, isto é, de um pessoal combinado de trabalho [*gemeinsame Produkt eines kombinierten Arbeitspersonal*], cujos membros se encontram a uma distância maior ou menor do manuseio do objeto do trabalho. (...) Para trabalhar produtivamente, já não é mais necessário fazê-lo com suas próprias mãos; basta, agora, ser um órgão do trabalhador coletivo, executar qualquer uma de suas subfunções." (MARX, p. 577; adendo meu)
 
 Tal caráter começa a apresentar-se concretamente a partir do desenvolvimento da [[Manufatura]]:

@@ -34,7 +34,7 @@ Entrementes, tal especificidade dos ofícios exige uma maior especificidade dos 
 # O trabalho total como sequência de processos parciais
 > "Ao combinar ofícios originalmente dispersos, tal manufatura reduz a separação espacial entre as fases particulares de produção do artigo. O tempo de sua passagem de um estágio para outro é reduzido, assim como o trabalho que medeia essa passagem." (MARX, p. 418)
 
-Ou seja, a manufatura se aproveita da cooperação[^2]. porém agora faz com que os trabalhos separados "se autonomize[m] mutuamente" (MARX, p. 419). É nesse sentido que se fala de [[Divisão do Trabalho]]; quem sabe seria melhor chamá-lo de "*separação* do trabalho".
+Ou seja, a manufatura se aproveita da cooperação[^2]. porém agora faz com que os trabalhos separados "se autonomize[m] mutuamente" (MARX, p. 419). É nesse sentido que se fala de [[Divisão Social do Trabalho]]; quem sabe seria melhor chamá-lo de "*separação* do trabalho".
 
 > "De uma sucessão *temporal*, os diversos processos graduais se convertem numa justaposição *espacial*.
 > (...) No resultado do trabalho de um está o [[Matéria-Prima|ponto de partida]] para o trabalho do outro. Assim, um trabalhador ocupa diretamente o outro." (MARX, p. 419; grifo meu)

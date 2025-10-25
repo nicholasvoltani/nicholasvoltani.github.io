@@ -7,7 +7,7 @@ aliases:
 
 up:: [[Supervisores do Sistema Financeiro Nacional]]
 
-A Superintendência de Seguros Privados é o órgão supervisor responsável por fazer valer as diretrizes ditadas pelo [[Conselho Nacional de Seguros Privados (CNSP)]]. Busca promover o bom funcionamento do mercado de (re)seguros privados, títulos de capitalização e previdência complementar *aberta*, buscando garantir sua liquidez e solvência.
+A Superintendência de Seguros Privados é o órgão supervisor responsável por fazer valer as diretrizes ditadas pelo [[Conselho Nacional de Seguros Privados (CNSP)]]. Busca promover o bom funcionamento do mercado de (re)seguros privados, títulos de [[Capitalização]] e [[Previdência]] complementar *aberta*, buscando garantir sua liquidez e solvência.
 
 
 ---

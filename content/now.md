@@ -13,6 +13,17 @@ up:: [[index]]
 
 # 2025
 
+## September 2025
+My Master's dissertation will be on a Marxist appraisal of the [[Postulado de Khazzoom-Brookes|Khazzoom-Brookes Postulate]]. So I'm focusing on that, and on my classes as well. 
+
+I also enrolled in a summer school on [Quantitative Ecology](https://serrapilheira.org/ano/formacao-em-ecologia-quantitativa-2026/), so we'll see how that goes. How far can interdisciplinarity go (as far as I'm concerned)?
+
+**Interesting content of the month**:
+- [The Fascinating Map of Fungi (Domain of Science)](https://www.youtube.com/watch?v=5FqFg-rjzPo)
+- [Calm Traffic Needs More Than Calm Driving (braintruffle)](https://www.youtube.com/watch?v=m74zazYPwkY) — mathematical modeling of traffic jams!
+- [This MINECRAFT CIVILIZATIONS server has no rules (Joyfuul)](https://www.youtube.com/watch?v=bIykGd02XLU)
+- [A chaotic guide to making stuff instead of doomscrolling (struthless)](https://www.youtube.com/watch?v=2n8W6CBxc64)
+
 ## August 2025
 Fumbling around on my Master's degree's theme. I settled on [[067 MOC Ecological Economics|Ecological Economics]], which is probably the main theme that I'll be dealing with for the foreseeable future (as far as my interest in Economics goes). 
 

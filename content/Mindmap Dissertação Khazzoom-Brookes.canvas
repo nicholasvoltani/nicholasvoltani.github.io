@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"1ea563ccd70e81d9","type":"text","text":"# [[Capital Variável]]","x":-561,"y":-213,"width":178,"height":80,"color":"3"},
+		{"id":"65a29dc27a5fdfb7","type":"text","text":"# [[Capital Constante]]","x":-294,"y":-213,"width":174,"height":80,"color":"3"},
+		{"id":"14f6d2a5098023ec","type":"text","text":"# Energia","x":-340,"y":-380,"width":150,"height":83,"color":"2"},
+		{"id":"ace80c934adbea9f","type":"text","text":"# [[Matéria-Prima|Matérias-Primas]]","x":-173,"y":-380,"width":168,"height":83,"color":"4"},
+		{"id":"53c75e7629ae3310","type":"text","text":"# [[Força de Trabalho]]","x":-561,"y":-380,"width":180,"height":83,"color":"4"},
+		{"id":"a60421f0a5eb62d1","type":"text","text":"# [[Capital Circulante]]","x":-561,"y":-560,"width":556,"height":80,"color":"6"},
+		{"id":"e14585b9555eb300","type":"text","text":"# Máquinas, edifícios etc.","x":20,"y":-380,"width":200,"height":83,"color":"4"},
+		{"id":"13cdbd28b0d3c3a0","type":"text","text":"# [[Capital Fixo]]","x":20,"y":-560,"width":250,"height":80,"color":"6"},
+		{"id":"689e57c0d258e005","type":"text","text":"# Produção\n# (Consumo Produtivo)","x":-430,"y":30,"width":240,"height":140,"color":"1"},
+		{"id":"b6981054abe2aa5e","type":"text","text":"# [[Consumo Agregado|Consumo]] (Improdutivo))","x":270,"y":30,"width":260,"height":140,"color":"5"},
+		{"id":"0cfd2e72eabd9421","x":-73,"y":320,"width":218,"height":86,"color":"2","type":"text","text":"# Energia Útil"}
+	],
+	"edges":[
+		{"id":"6e8aeb0877520d75","fromNode":"53c75e7629ae3310","fromSide":"bottom","toNode":"1ea563ccd70e81d9","toSide":"top"},
+		{"id":"5ec5962df69f138e","fromNode":"1ea563ccd70e81d9","fromSide":"bottom","toNode":"689e57c0d258e005","toSide":"top"},
+		{"id":"1da491fe15be1928","fromNode":"65a29dc27a5fdfb7","fromSide":"bottom","toNode":"689e57c0d258e005","toSide":"top"},
+		{"id":"a6bb60d9b44902f3","fromNode":"ace80c934adbea9f","fromSide":"bottom","toNode":"65a29dc27a5fdfb7","toSide":"right"},
+		{"id":"3ec1987971803533","fromNode":"e14585b9555eb300","fromSide":"bottom","toNode":"65a29dc27a5fdfb7","toSide":"right"},
+		{"id":"9fa469726d653738","fromNode":"14f6d2a5098023ec","fromSide":"bottom","toNode":"65a29dc27a5fdfb7","toSide":"top"},
+		{"id":"4c6aeaa8d6ab3e7d","fromNode":"a60421f0a5eb62d1","fromSide":"bottom","toNode":"53c75e7629ae3310","toSide":"top"},
+		{"id":"f52649007c5865e2","fromNode":"a60421f0a5eb62d1","fromSide":"bottom","toNode":"14f6d2a5098023ec","toSide":"top"},
+		{"id":"ff4cc8aacc479c8f","fromNode":"a60421f0a5eb62d1","fromSide":"bottom","toNode":"ace80c934adbea9f","toSide":"top"},
+		{"id":"35d3475c2c29d860","fromNode":"13cdbd28b0d3c3a0","fromSide":"bottom","toNode":"e14585b9555eb300","toSide":"top"},
+		{"id":"944a36d2615d8ea8","fromNode":"689e57c0d258e005","fromSide":"bottom","toNode":"0cfd2e72eabd9421","toSide":"left","label":"Primária -> Secundária"},
+		{"id":"8f893253b9805091","fromNode":"0cfd2e72eabd9421","fromSide":"right","toNode":"b6981054abe2aa5e","toSide":"bottom","label":"Distribuição"},
+		{"id":"1e654a41059a86ac","fromNode":"689e57c0d258e005","fromSide":"left","toNode":"a60421f0a5eb62d1","toSide":"left"},
+		{"id":"52f795b8b3a11321","fromNode":"689e57c0d258e005","fromSide":"right","toNode":"13cdbd28b0d3c3a0","toSide":"right"},
+		{"id":"359490994ddac789","fromNode":"0cfd2e72eabd9421","fromSide":"top","toNode":"689e57c0d258e005","toSide":"right"}
+	]
+}

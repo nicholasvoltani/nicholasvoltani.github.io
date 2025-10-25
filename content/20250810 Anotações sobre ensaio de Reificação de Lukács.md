@@ -33,7 +33,7 @@ Sobre o trabalho abstrato, escreve Lukács:
 
 Não é o processo de homens venderem sua capacidade de trabalho que os induziu a verem seu trabalho como abstrato, e sim o trabalho ser considerado abstrato, pelos capitalistas, que é pré-condição para o despojamento[^1] das terras comuns, *enclosures*, "liberação" dos trabalhadores, etc., i.e. para que indivíduos vendam suas capacidades como mercadoria. 
 
-Mais do que isso, não só vende sua capacidade de trabalho, como vende-a referente a trabalho *abstrato*, i.e. está à mercê do tipo de trabalho concreto de seu contratante. Historicamente, e logicamente, tal trabalho torna-se mais e mais simplificado, via [[Divisão do Trabalho]] ([[Manufatura]] e [[Maquinaria]]), ou, como diz Lukács, mais *racionalizado*, o que também permite que torne-se mais *calculável*, e seus resultados, mais *previsíveis*.
+Mais do que isso, não só vende sua capacidade de trabalho, como vende-a referente a trabalho *abstrato*, i.e. está à mercê do tipo de trabalho concreto de seu contratante. Historicamente, e logicamente, tal trabalho torna-se mais e mais simplificado, via [[Divisão Social do Trabalho]] ([[Manufatura]] e [[Maquinaria]]), ou, como diz Lukács, mais *racionalizado*, o que também permite que torne-se mais *calculável*, e seus resultados, mais *previsíveis*.
 
 Nesse ínterim, da generalização da forma-mercadoria, suas leis tornam-se "poderes intransponíveis" (p. 199) ao homem, tal qual leis da natureza, que ele pode empunhar, mas nunca *alterar*. ([[Fenômeno Emergente]])
 

@@ -23,7 +23,7 @@ Tal processo possui três fatores relevantes:
 > "No final do processo de trabalho [do homem], chega-se a um resultado que *já estava presente na representação do trabalhador* no início do processo, ou seja, um resultado que já existia *idealmente*" 
 > (MARX, p. 256)
 
-Embora animais também interajam com a natureza de forma a **criar** [[Valor de Uso|valores de uso]] para si próprios, eles (até onde sabemos) não o fazem de maneira **deliberada**: fazem-no de maneira instintiva (por instinto, ou feromônios etc), enquanto o homem trabalha **tendo em mente** o resultado final antes dele ser executado efetivamente.
+Embora animais também interajam com a natureza de forma a **criar** [[Valor de Uso|valores de uso]] para si próprios, eles (até onde sabemos) não o fazem de maneira **deliberada**: fazem-no de maneira instintiva (por instinto, ou feromônios etc), enquanto o homem trabalha **tendo em mente** o resultado final antes dele ser executado efetivamente. [[O trabalho humano é sempre direcionado a um fim idealizado]].
 
 ## O objeto do trabalho
 O objeto de trabalho advém da natureza, embora de maneiras diferentes: pode vir de maneira **i-mediata** (diretamente "retirado" da natureza, de uma árvore ou caverna etc.), ou de maneira **mediada**, caso no qual diz-se que tal objeto é uma [[Matéria-Prima]] (já foi "filtrada" pelo trabalho humano). 

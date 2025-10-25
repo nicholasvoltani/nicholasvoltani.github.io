@@ -7,7 +7,7 @@ aliases:
 
 up:: [[Supervisores do Sistema Financeiro Nacional]]
 
-A Superintendência Nacional de Previdência Complementar é responsável por fiscalizar e supervisionar atividades de previdência complementar **fechada**, as quais são desempenhadas por *entidades fechadas de previdência complementar*, também conhecidas como **fundos de pensão**. 
+A Superintendência Nacional de Previdência Complementar é responsável por fiscalizar e supervisionar atividades de [[Previdência]] complementar **fechada**, as quais são desempenhadas por *entidades fechadas de previdência complementar*, também conhecidas como **fundos de pensão**. 
 
 A Previc é diretamente vinculada ao **Ministério do Trabalho e Previdência**
 

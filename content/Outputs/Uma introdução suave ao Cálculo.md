@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[027 MOC Calculus]]
+up:: [[index]]
 
 Essa é uma apresentação que fiz para pessoas de Humanas como um primeiro contato ao Cálculo Diferencial e Integral, em fevereiro de 2024. Obviamente não possui todo o rigor de uma apresentação *matemática*, porém não é este seu propósito; serve como uma *apresentação* desta disciplina a pessoas que tendem a procurar a história/sociologia/filosofia/etc que permeiam as descobertas matemáticas, acanhando-se sempre de ver **a Matemática** de fato envolvida. Esta apresentação é, portanto, mais parecida com uma "terapia de choque" ─ porém num bom sentido (espero)!
 
@@ -98,7 +98,7 @@ A derivada de uma função linear
 $$
 f(t) = at + b
 $$
-com $a, b \in \R$, é
+com $a, b \in \mathbb{R}$, é
 $$
 \begin{align*}
 \frac{d f}{d t} &= \lim\limits_{\Delta t \to 0} \frac{a(t + \Delta t) + b - (at + b)}{\Delta t}\\
@@ -233,16 +233,16 @@ Pensar que as Ciências Exatas são mais suscetíveis ao pecado de serem enviesa
 
 ...ao que adicionam logo numa nota de rodapé com o experimento usual de tampar uma vela acesa com um copo, para verificar que ela se apaga depois de um tempo. "Notem, por fim, que uma sequência regular entre dois eventos (evento *A*: cobre-se a vela acesa com um copo; evento *B*: a chama cessa após um decurso de tempo) é, portanto, *criada pelo sujeito que conduz o experimento*, mas não aquilo cuja existência o experimento permite revelar: o oxigênio" (ibid., destaque no original).
 
-Ou seja, a ideia de um experimento é, em última instância, a determinação de *como alguma lei específica afeta algum dado fenômeno* — não de que o fenômeno estudado é afetado *exclusivamente* por esta lei! A experimentação nas ciências exatas sempre têm, implicitamente, a hipótese de totalidade concreta em que seus fenômenos de estudo jazem.
+Ou seja, a ideia de um experimento é, em última instância, a determinação de *como alguma [[Dimensão Real da Realidade|lei específica]] afeta algum dado [[Dimensão Efetiva da Realidade|fenômeno]]* — não de que o fenômeno estudado é afetado *exclusivamente* por esta lei! A experimentação nas ciências exatas sempre têm, implicitamente, a hipótese de totalidade concreta em que seus fenômenos de estudo jazem.
 
 ## 2) Ciência $\neq$ Tecnociência
-Em Ciências Humanas, parece-me que falar "da Ciência" assume um claro valor de juízo duplo: quando incluem-se nessa "Ciência", ela aparece como algo *bom*, variada e abrangente, interessante e até importante para a sociedade; quando excluem-se dela, ela torna-se ideológica, destrutiva, abreviam palavras e chamam-na diretamente de *capitalista*. 
+Em Ciências Humanas, parece-me que falar "da Ciência" assume um claro valor de juízo duplo: quando incluem-se nessa "Ciência", ela aparece como algo *bom*, variada e abrangente, interessante e até importante para a sociedade; quando excluem-se dela, ela torna-se ideológica, destrutiva, abreviam palavras e chamam-na diretamente de *capitalista*. Consideram que a Ciência é **exclusivamente** aquilo que legamos da aurora do Capital, financiada pelas (e para as) grandes navegações europeias. 
 
-Consideram que a Ciência é **exclusivamente** aquilo que legamos da aurora do Capital, financiada pelas (e para as) grandes navegações europeias. Conforme o tempo passa, e especialmente lendo "Discurso Filosófico da Acumulação Primitiva" (em particular a seção sobre Francis Bacon), admito que há um mérito nessa discussão; ela é, sim, pertinente.
+Conforme o tempo passa, e especialmente lendo o livro "*Discurso Filosófico da Acumulação Primitiva*" (em particular a seção sobre Francis Bacon), admito que há um mérito nessa discussão; ela é, sim, pertinente.
 
 **Porém**... eu sei muito bem quando alguém está fingindo saber de algo que eu sei melhor, e o discurso de quem é de Humanas e quer pagar que sabe de Exatas é muito pastelão. É algo que é incendiário sem propósito, é *edgy* só porque sim; mais me parece com começar uma briga sobre política em um churrasco em que todos estão conversando calmamente: essa discussão vai ser "útil" mesmo? *There's a time and place for everything...*
 
-O que cabe discernir é Ciência de **Tecno**ciência: Tecnociência é algo muito recente, e é **uma parte** da Ciência como um todo. Aristóteles fazia tecnociência? Eratóstenes fazia tecnociência? Parece anacrônico. E, no entanto, me parece que faziam algo mais parecido com Ciência: observavam fenômenos que possuíam alguma "periodicidade" ou "padrão", buscaram reproduzi-los de formas isoladas a fim de poder discernir o que lhes era pertinente do que lhes era contingente; em algum momento, e caso sua descrição dos problemas que abordavam fosse precisa e aderente o suficiente, chegariam a uma descrição dos fenômenos e de seus "porquês", tirariam-lhes o véu mágico que concede-se a tudo aquilo que não sabemos de onde provém, e inseririam tal fenômeno numa totalidade de fenômenos conhecidos do Homem, podendo até mesmo possuir interrelações com alguns outros destes fenômenos previamente conhecidos.
+O que cabe discernir é Ciência de **Tecno**ciência: Tecnociência é algo muito recente, e é **uma parte** da Ciência como um todo. Aristóteles fazia tecnociência? Eratóstenes fazia tecnociência? Parece anacrônico. E, no entanto, me parece que faziam algo mais parecido com Ciência: observavam fenômenos que possuíam alguma "periodicidade" ou "padrão", buscaram reproduzi-los de formas isoladas a fim de poder discernir o que lhes era pertinente do que lhes era contingente; em algum momento, e caso sua descrição dos problemas que abordavam fosse precisa e aderente o suficiente, chegariam a uma descrição dos fenômenos e de seus "porquês", tirariam-lhes o véu mágico que concede-se a tudo aquilo que não sabemos de onde vem, e inseririam tal fenômeno numa totalidade de fenômenos conhecidos do Homem, podendo até mesmo possuir interrelações com alguns outros destes fenômenos previamente conhecidos.
 
 Mas ora bolas, parece até que estou falando de Marx!
 > "Por isso, se eu começasse pela população [*num estudo de economia política*], esta seria uma representação caótica do todo e, por meio de uma determinação mais precisa, chegaria analiticamente a conceitos cada vez mais simples; do concreto representado [chegaria] a conceitos abstratos [Abstrakta] cada vez mais finos, até que tivesse chegado às determinações mais simples. Daí teria de dar início à viagem de retorno até que finalmente chegasse de novo à população [*objeto de estudo*], mas desta vez não como a representação caótica de um todo, mas como uma rica totalidade de muitas determinações e relações." (MARX, 2015, p. 77; destaques em itálico meus)
@@ -252,7 +252,7 @@ Dizer que as Ciências Exatas têm rabo preso com o Capital não é de todo ment
 
 Não venham dizer que o cara que estuda sobre [teoria de nós](https://pt.wikipedia.org/wiki/Teoria_dos_n%C3%B3s) também é lacaio do capital, ou que o cara que estuda gravitação quântica e teorias de *gauge*[^15] é um peão do capitalista que sabe o usufruto que terá dessa área de pesquisa – área esta, diga-se de passagem, na qual cientistas do mundo inteiro estão há décadas tentando fazer uma baita *Aufhebung* de duas teorias físicas extremamente sólidas e bem-comprovadas, que supostamente descrevem o mesmo mundo mas são tão, tão distantes uma da outra.
 
-No meu primeiro dia da semana de calouros, no curso de Engenharia Física na EEL-USP, nosso veterano perguntou "quanto de vocês queriam fazer Física mas fizeram engenharia pra agradar os pais?". Uma boa parte dos mais de 40 bixos levantou a mão. Ora, Física não tinha rabo preso com o Capital? Que houve?
+No meu primeiro dia da semana de calouros, no curso de Engenharia Física na EEL-USP, nosso veterano perguntou "quanto de vocês queriam fazer Física, mas fizeram engenharia pra agradar os pais?". Uma boa parte dos mais de 40 bixos levantou a mão. Ora, Física não tinha rabo preso com o Capital? Que houve?
 
 Quando transferi para a Física, claramente dava pra ver que o estudante médio de Física possui uma admiração enorme pelo mundo, de entendê-lo além da aparência caótica que ele apresenta a fim de penetrar "o garrido tumulto dos acontecimentos"[^16], de compreendê-lo profundamente a partir de primeiros princípios. E se tal brilho nos olhos perde-se com o tempo, ou esquece-se que ele foi uma motivação enorme outrora, devido às necessidades de pagar para viver e viver para pagar contas, então claro está que não é a totalidade das Ciências que são pau-mandado do Capital; o que pode-se afirmar é que podem ter sido *cooptadas* pelo Capital, pela promessa de dinheiro, segundo os ingênuos, e pela ameaça de morar na rua, segundo os realistas (afinal, se não pode contra eles, junte-se a eles). 
 

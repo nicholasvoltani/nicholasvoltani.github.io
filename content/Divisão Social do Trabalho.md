@@ -3,6 +3,7 @@ date: 2024-12-19
 tags:
   - marxism
 aliases:
+  - Divisão do Trabalho
 ---
 
 up:: [[011a MOC Capital I]]

@@ -34,7 +34,7 @@ Ou seja, tal relação de causalidade gasto-receita surge da própria assimetria
 ...por mais que seja *mais ou menos [[Aparência|aparentemente]]* autônomo com relação à renda, mas ainda assim o é, logicamente. "...gasta-se não “a renda”, mas *a partir* de um dado *poder de compra*, que tem relação parcial e indireta com a renda".
 
 A intermediação obrigatória do dinheiro, portanto, é condição **necessária** para o PDE, **mas não suficiente**, pois também pressupõem-se outros fatores concomitantes, 
-> "notadamente a [[Divisão do Trabalho|divisão social do trabalho]] e a ausência de uma coordenação consciente do processo de troca (que Marx denominou 'anarquia da produção')" (p. 23). 
+> "notadamente a [[Divisão Social do Trabalho|divisão social do trabalho]] e a ausência de uma coordenação consciente do processo de troca (que Marx denominou 'anarquia da produção')" (p. 23). 
 
 (Pois é justamente a divisão do trabalho que permite com que as trocas sempre se deem com relação a mercadorias — porque há quem as produza todas! Da mesma forma, elas são produzidas partindo de decisões *privadas* [isso é um fator relevante mesmo?].)
 

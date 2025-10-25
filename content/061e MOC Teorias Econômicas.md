@@ -17,7 +17,7 @@ related:: [[010 MOC Marxism]] // [[066 MOC História do Pensamento Econômico]]
 
 ## [[010 MOC Marxism]]
 
-## [[Marginalistas]]
+## Marginalistas
 
 ## [[Teoria Neoclássica]]
 
@@ -32,7 +32,6 @@ related:: [[010 MOC Marxism]] // [[066 MOC História do Pensamento Econômico]]
 	- Nova teoria quantitativa da moeda
 	- [[Curva de Phillips Aceleracionista]] (Phillips-Phelps / com Expectativas)
 - Abordagem monetária da [[Balanço de Pagamentos|Balança de Pagamentos]]
-- KYDLAND, Finn E.; PRESCOTT, Edward C. Rules Rather than Discretion: The Inconsistency of Optimal Plans. **Journal of Political Economy**, v. 85, n. 3, p. 473–491, jun. 1977.
 
 ### [[Teoria Quantitativa da Moeda]]
 - [HET: Monetarists](https://www.hetwebsite.net/het/schools/monetarist.htm)
@@ -52,6 +51,7 @@ related:: [[010 MOC Marxism]] // [[066 MOC História do Pensamento Econômico]]
 
 ---
 ### References
+- KYDLAND, Finn E.; PRESCOTT, Edward C. Rules Rather than Discretion: The Inconsistency of Optimal Plans. **Journal of Political Economy**, v. 85, n. 3, p. 473–491, jun. 1977.
 - SNOWDON, Brian; VANE, Howard R. **Modern macroeconomics: its origins, development and current state**. Edward Elgar Publishing, 2005.
 - [Schools of Thought (Institute for New Economic Thinking)](https://www.hetwebsite.net/het/thought.htm)
 - [História do Pensamento Econômico I - Ricardo Luís Chaves Feijó (FEA-RP)](https://www.youtube.com/playlist?list=PLdWLhtGZUW4FAzfQ6bzaOvcGZKyYXasiC)

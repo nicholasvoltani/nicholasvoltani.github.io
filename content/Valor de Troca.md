@@ -2,6 +2,8 @@
 date: 2021-07-04
 tags:
   - marxism
+aliases:
+  - Valores de Troca
 ---
 
 up:: [[011a MOC Capital I]]

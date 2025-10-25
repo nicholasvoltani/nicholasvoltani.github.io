@@ -23,7 +23,7 @@ tags:
 ## Característica principal da manufatura:  (introdução/aprofundamento da) *divisão do trabalho*
 Resultado final: gerar um **organismo de produção**, cujos órgãos são seres humanos
 
-### Definição: [[Divisão do Trabalho]] (Cf. Cap 1 da Riqueza das Nações de Smith)
+### Definição: [[Divisão Social do Trabalho]] (Cf. Cap 1 da Riqueza das Nações de Smith)
 Decomposição de uma atividade **complexa** em diversas atividades (mais) **simples**, de forma que estas possam ser realizadas de forma sistemática e quase ininterrupta por um trabalhador específico (o qual concentra seus esforços nessa única atividade, e desenvolve maior **destreza**/maestria nela, economizando tempo de trabalho). Por exemplo, a troca dos meios de produção empregados nas diferentes atividades constituintes de um mesmo ofício complexo acaba por ser um dispêndio improdutivo de tempo.
 
 ## O trabalhador parcial e sua ferramenta

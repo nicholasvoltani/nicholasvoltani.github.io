@@ -16,7 +16,14 @@ A quantidade de mercadoria-dinheiro que representa o valor de uma mercadoria é 
 
 [[A mercadoria-dinheiro é um fenômeno emergente]] que surge a partir do processo frequentemente reiterado de trocas.
 
-[[Mercadorias-dinheiro tendem a ser únicas, dentro de uma comunidade]]: É por ser um fenômeno sociohistoricamente emergente que a mercadoria-dinheiro tende a ser única: pois, caso haja mais de uma mercadoria-dinheiro (e.g. ouro e prata), então elas possuirão alguma proporcionalidade (de seus [[Valor de Troca|valores de troca]]) que tenderá a mudar conforme o tempo[^5], e a prioridade será de utilizar a mercadoria de maior valor[^6]. 
+Mercadorias-dinheiro tendem a ser únicas, dentro de uma comunidade: É por ser um fenômeno socio-historicamente emergente que a mercadoria-dinheiro tende a ser única: pois, caso haja mais de uma mercadoria-dinheiro (e.g. ouro e prata), então elas possuirão alguma proporcionalidade (de seus [[Valor de Troca|valores de troca]]) que tenderá a mudar conforme o tempo[^5], e a prioridade será de utilizar a mercadoria de maior valor[^6]. 
+
+# Funções do dinheiro
+> "Como medida dos valores e padrão dos preços, o ouro [mercadoria-dinheiro] desempenha dois papéis completamente distintos. Ele é medida de valor por ser a encarnação social do trabalho humano[,] e padrão de preços por ser um peso metálico estipulado. Como medida de valor, ele serve para transformar as diversas mercadorias em preços, em quantidades representadas de ouro; como padrão de preços, ele mede essas quantidades de ouro. Pela medida de valor se medem as mercadorias como valores; já pelo padrão de preços, ao contrário, quantidades de ouro se medem por determinada quantidade de ouro, e não o valor de uma quantidade de ouro pelo peso de outra quantidade. Para o padrão de preços é preciso que determinado peso de ouro seja fixado como unidade de medida." (MARX, 2017, p. 172-3)
+
+- [[Medida de Valor]]: o dinheiro torna-se a mercadoria permutável por todas as demais, aparentando conferir-lhes valor[^7]
+- [[Padrão de Preços]]: certa quantidade de dinheiro é estabelecida como medida de referência (p. ex. [£1 = 7.32g Au](https://en.wikipedia.org/wiki/Sovereign_(British_coin)))
+- 
 
 ---
 ### Referências
@@ -28,3 +35,4 @@ A quantidade de mercadoria-dinheiro que representa o valor de uma mercadoria é 
 [^4]: E.g. porventura encontrou-se uma mina cheia de ouro.
 [^5]: E, portanto, os preços das demais mercadorias (e.g. "preço-ouro" e "preço-prata") sempre serão passíveis de mudança não só devido às mudanças de modo de produção, mas também devido à mudança da proporcionalidade de valor entre as mercadorias-dinheiro.
 [^6]: Ou seja, aquela que for mais "rara", mais difícil de produzir socialmente.
+[^7]: [[Fetichismo do Dinheiro]].

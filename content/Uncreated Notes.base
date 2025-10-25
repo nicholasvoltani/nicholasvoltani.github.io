@@ -27,6 +27,6 @@ views:
         direction: DESC
     columnSize:
       formula.Uncreated File: 568
-      note.date: 425
+      note.date: 129
       file.name: 140
     rowHeight: medium

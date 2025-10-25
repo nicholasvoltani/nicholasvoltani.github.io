@@ -25,7 +25,7 @@ O reestabelecimento da tranquilidade da mente vem através de explicações ment
 **Método newtoniano**: os fenômenos [[Aparência|aparentes]][^1] são caóticos, aos quais *princípios* são criados mentalmente para estabelecer alguma ordem a eles — estabelecer uma ordem *no intelecto*, não pretendendo dizer que tal ordem é [[Dimensão Real da Realidade|real]]. 
 
 Ou seja, a observação de fenômenos no mundo real justifica a proposição de princípios teóricos, e tais fenômenos têm de ser formuladas de forma a que possam prever não só estes observados, mas também outros fenômenos — ou seja, faz com que tais observações "tornem-se" (possam ser vistos como) *consequências necessárias*. 
-- N'A Riqueza das Nações, Smith toma a *propensão à troca* como um princípio (aduzido da realidade observada em geral da troca entre seres humanos), que busca explicar a [[Divisão do Trabalho]] como resultado necessário
+- N'A Riqueza das Nações, Smith toma a *propensão à troca* como um princípio (aduzido da realidade observada em geral da troca entre seres humanos), que busca explicar a [[Divisão Social do Trabalho]] como resultado necessário
 	- Não coloca a explicação deste princípio como objetivo dessa obra (RN); é tomada como *postulado*/*axioma*. 
 
 Uma das premissas que Smith assume em sua obra é a de *indivíduos autointeressados*: não só por *egoísmo*, mas por um conjunto de paixões egoístas/altruístas (continuidade com seu professor, Francis Hutcheson, que assume legado intelectual de Locke). 
@@ -42,7 +42,7 @@ Discutindo valor, surge questão de suas componentes (distribuição): [[Salári
 
 ## Livro I
 ### Cap. 1
-[[Divisão do Trabalho]] como aumentador da força produtiva do trabalho. Há mais possibilidades de divisão do trabalho na [[Manufatura]] do que na agricultura, pelo fator sazonal desta 
+[[Divisão Social do Trabalho]] como aumentador da força produtiva do trabalho. Há mais possibilidades de divisão do trabalho na [[Manufatura]] do que na agricultura, pelo fator sazonal desta 
 última. 
 
 Fatores para maior capacidade de trabalho por divisão do trabalho:

@@ -2,7 +2,7 @@
 date: 2023-10-07
 tags:
   - physics
-alias: Work
+aliases: Work
 ---
 up:: [[031 MOC Classical Mechanics]]
 

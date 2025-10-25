@@ -16,6 +16,7 @@ related:: [[071a MOC Realismo Crítico]] // [[070 MOC Philosophy]]
 - [[20250908 Anotações EconPol Cap 1]]
 	- [A importância da categoria valor de uso na teoria de Marx (Marcelo Carcanholo)](https://revistas.pucsp.br/rpe/article/download/11757/8478)
 	- [A origem social do valor: valor-de-uso e valor-de-troca numa perspectiva dialética (Gutemberg Miranda)](https://seer.ufu.br/index.php/primordium/issue/download/2233/470#page=57)
+- [[20250915 Anotações EconPol]]
 
 ---
 
@@ -27,7 +28,14 @@ related:: [[071a MOC Realismo Crítico]] // [[070 MOC Philosophy]]
 	- [[O valor de uma mercadoria é um fenômeno emergente]]
 - [[Valor Relativo]]
 - [[Valor Equivalente]]
-- [[Fetichismo da Mercadoria]]
+	- [[Dinheiro]]
+		- [[Medida de Valor]]
+		- [[Padrão de Preços]]
+- [[Fetichismo]]
+	- [[Fetichismo da Mercadoria]]
+	- [[Fetichismo do Dinheiro]]
+- [[Forças Produtivas]]
+	- [[Forças produtivas não se restringem a fatores de produção]]
 - [[Ciclo M─D─M]]
 - [[Ciclo D─M─D]]
 - [[Ciclo D─M─D']]
@@ -69,12 +77,12 @@ related:: [[071a MOC Realismo Crítico]] // [[070 MOC Philosophy]]
 	- [[Cooperação]]
 - ~~[[O Capital, I ─ Cap 12, Divisão do Trabalho e Manufatura]]~~
 	- [[Manufatura]]
-	- [[Divisão do Trabalho]]
+	- [[Divisão Social do Trabalho]]
 	- [[Surgimento da alienação]]
 - ~~[[O Capital, I ─ Cap 13, Maquinaria e Grande Indústria]]~~
 	- [[Maquinaria]]
 - [[Preço da Força de Trabalho]]
-- [[Trabalho Assalariado]] (mencionado em [[Economia Agroexportadora]])
+- [[Trabalho Assalariado]]
 - [[Salário]]
 	- [[O salário como forma mistificada do valor da força de trabalho]]
 - [[Salário por Tempo]]

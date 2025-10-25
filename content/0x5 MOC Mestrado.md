@@ -37,6 +37,10 @@ up:: [[index]] // [[060 MOC Economia]]
 ## [[068 MOC Economia Política dos Ciclos|Economia Política dos Ciclos]]
 - [[20250902 Anotações EconPolCiclos]]
 
+# Seminários 1
+- [[Atividade 2 Seminários I]]
+- [[Atividade 4 Seminários 1]]
+
 ---
 # Terceiro semestre (3/4)
 ## Economia Política II
