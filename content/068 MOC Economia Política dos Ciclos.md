@@ -14,14 +14,11 @@ Este MOC foi criado em vista da disciplina de pós-graduação "Economia Políti
 ---
 
 # Conceitos gerais
-- [[Ciclo de Juglar]]
-- [[Ciclo de Kondratiev]]
 - [[Mercado de Fundos Emprestáveis]] (Loanable Funds)
 - [[Poupança Forçada]] (Wicksell)
 - [[Inovação (Schumpeter)]]: Choque exógeno ao fluxo circular de renda de um equilíbrio, visando obtenção de lucro individual (do "*empresário inovador*")
 - [[Destruição Criadora]] (Schumpeter): Redistribuição de capital de partes do fluxo circular de renda original, causada por uma inovação
 	- Relação com conceito de [[Concorrência (Marx)]]
-- 
 
 ---
 ### References

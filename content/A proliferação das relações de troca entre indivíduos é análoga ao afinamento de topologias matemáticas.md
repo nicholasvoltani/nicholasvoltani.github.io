@@ -24,5 +24,5 @@ Note-se que aqui, como em Lukács, salta aos olhos a arbitrariedade da analogia:
 - Lukács, G. “**A reificação e a consciência do proletariado**”. In: **História e Consciência de Classe**. Martins Fontes, 2003.
 - FOSTER, John Bellamy; CLARK, Brett. **Ecological imperialism: The curse of capitalism**. Socialist register, v. 40, 2004.
 
-[^1]: Não eram necessariamente mercadorias, pois não necessariamente eram objetos produzidos com o objetivo inicial de serem trocados. Um exemplo desse "o lixo de uns é o luxo de outros" é o uso do guano peruano nas *plantations* inglesas no século XIX (embora entre num contexto imperialista etc etc).
+[^1]: Não eram necessariamente mercadorias, pois não necessariamente eram objetos produzidos com o objetivo inicial de serem trocados. Um exemplo desse "o lixo de uns é o luxo de outros" é o uso do guano peruano nas *plantations* inglesas no século XIX (embora entre num contexto imperialista etc etc), cf. (Foster & Clark, 2004).
 [^2]: Esta é a chamada "topologia discreta", em que todos os pontos $x$ (ou melhor, todos os conjuntos individuais/"*singleton sets*" $\{x\}$) são também conjuntos abertos.

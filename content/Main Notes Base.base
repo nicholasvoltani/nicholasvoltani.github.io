@@ -40,3 +40,23 @@ views:
       file.name: 447
       note.date: 144
     rowHeight: medium
+  - type: table
+    name: Daily Notes
+    filters:
+      and:
+        - file.hasTag("daily")
+    order:
+      - file.name
+      - draft
+      - date
+      - file.backlinks
+      - file.links
+    sort:
+      - property: date
+        direction: DESC
+    rowHeight: medium
+    columnSize:
+      file.name: 264
+      note.date: 144
+      file.backlinks: 137
+      file.links: 285

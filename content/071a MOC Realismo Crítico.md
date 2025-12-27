@@ -37,4 +37,5 @@ related:: [[Trabalho HPE - Roy Bhaskar e o Realismo Crítico]]
 	- [[@Bhaskar1998]]
 - COLLIER, A. **Critical realism: an introduction to Roy Bhaskar’s philosophy**. Londres: Verso, 1994.
 	- [[@Collier1994]]
+- LAWSON, Tony. **Economics and reality**. Londres: Routledge, 1997.
 - [Introducing Critical Realism Workshops (Critical Realism Network)](https://www.youtube.com/playlist?list=PL8uTsTFMwRFEKCy-wwEsO6IIBZfR642WG)

@@ -19,5 +19,5 @@ Portanto, o valor (relativo) de uma mercadoria se manifesta no [[Valor de Uso]] 
 ### Referências
 - MARX, Karl. **O Capital-Livro 1: Crítica da economia política. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
 
-[^1]: Cf. [[Princípio da Troca de Equivalentes]], que não é óbvio/intuitivo para mim, mas deixemos Marx cozinhar. #to-be-elaborated 
+[^1]: Cf. [[Princípio da Troca de Equivalentes]].
 [^2]: Posto que, quantitativamente, ambas são mensuradas pela quantidade de [[Trabalho Abstrato]] em si depositadas.

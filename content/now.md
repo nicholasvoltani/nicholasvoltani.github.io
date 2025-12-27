@@ -12,11 +12,32 @@ up:: [[index]]
 > So a website with a link that says '**now**' goes to a page that tells you **what this person is focused on at this point in their life.** For short, we call it a 'now page'." (Derek Sivers, in [nownownow.com](https://nownownow.com/about))
 
 # 2025
+## November 2025
+Did some rehashing of old scribbles from my notebooks, trying to see whether they could turn into articles in the future. Aside from that, same old, same old.
 
+**Interesting content of the month**:
+- [49 Days ALONE at Sea: Solo Sailing the Pacific with No Engine \| EPISODE 1 \|@Sailing\_Songbird](https://www.youtube.com/watch?v=VgWXm6jtahY) and his other videos
+- Videos on Topological Data Analysis:
+	- [The Shape of Disaster - How Topological Data Analysis (TDA) Predicts Financial Crashes - Noah Bergam](https://www.youtube.com/watch?v=lTki5tP7Rqk&list=LL&index=5&pp=gAQBiAQB)
+		- Cites papers of Gidea, one of which was worth my reading: [GIDEA, Marian. Topological data analysis of critical transitions in financial networks. In: **International conference and school on network science**. Cham: Springer International Publishing, 2017. p. 47-59.](http://ndl.ethernet.edu.et/bitstream/123456789/15964/1/3rd%20International%20Winter%20School%20and%20Conference%20on%20Network%20Science.pdf#page=51)
+	- [Persistent Homology \| Introduction & Python Example Code - YouTube](https://www.youtube.com/watch?v=5ezFcy9CIWE&list=LL&index=3&pp=gAQBiAQB)
+	- [Foundations of Topological Data Analysis (Prof Ghrist Math)](https://www.youtube.com/playlist?list=PL8erL0pXF3JaR4no7ivppQ5zwhq2QnzzQ) — simple and clean explanations and animations!
+
+
+
+## October 2025
+I started learning about [[034 MOC Atmospheric Physics|atmospheric physics]], out of curiosity — very interesting!
+
+**Interesting content of the month**:
+- [3 Games / 3 Hours / 3 Cursed Computers (Jacob Geller)](https://www.youtube.com/watch?v=0zxQ9YAzy00&list=LL&index=17&pp=gAQBiAQB)
+- [Fantasies of Nuremberg (Jacob Geller)](https://www.youtube.com/watch?v=n9Ay5tzHIBU)
+- [A Sphere is a Loop of Loops (Visualizing Homotopy Groups) (Dennis Sweeney)](https://www.youtube.com/watch?v=CxGtAuJdjYI)
+- [What Do You Mean "Almost" Everywhere?! // \#SoME4 (A Little Bit Puzzled)](https://www.youtube.com/watch?v=aDPEItdo9wQ)
+- [The fascinating link between Topology and Politics: an introduction to TDA. (The Underlying Math)](https://www.youtube.com/watch?v=KhHDfbwALX8)
 ## September 2025
 My Master's dissertation will be on a Marxist appraisal of the [[Postulado de Khazzoom-Brookes|Khazzoom-Brookes Postulate]]. So I'm focusing on that, and on my classes as well. 
 
-I also enrolled in a summer school on [Quantitative Ecology](https://serrapilheira.org/ano/formacao-em-ecologia-quantitativa-2026/), so we'll see how that goes. How far can interdisciplinarity go (as far as I'm concerned)?
+I also enrolled in a summer school on [Quantitative Ecology](https://serrapilheira.org/ano/formacao-em-ecologia-quantitativa-2026/), so we'll see how that goes. How far can interdisciplinarity go (as far as I'm concerned)? \[05/12/25: I actually got approved, but chose not to move forward with the application. I just want my peaceful holidays...\]
 
 **Interesting content of the month**:
 - [The Fascinating Map of Fungi (Domain of Science)](https://www.youtube.com/watch?v=5FqFg-rjzPo)
@@ -70,7 +91,9 @@ I also created an [are.na channel](https://www.are.na/nicholas-voltani/thank-god
 
 
 ## April 2025
-Basically focused on my Master's. **A lot** of reading to do, and not enough time/energy for it. A lot of activity in [[060 MOC Economia]] and [[011b MOC Capital II]]. Also got rejected from the Santa Fe Institute's 2025 Complexity Global School application. Oh joy!
+Basically focused on my Master's. **A lot** of reading to do, and not enough time/energy for it. A lot of activity in [[060 MOC Economia]] and [[011b MOC Capital II]]. 
+
+Also got rejected from the Santa Fe Institute's 2025 Complexity Global School application. Oh joy!
 
 **Interesting content of the month**:
 - [How oyster beds can rebuild New York harbor \| WILD HOPE (Nature on PBS)](https://www.youtube.com/watch?v=YD7LlpKGEnY)
@@ -82,7 +105,7 @@ Basically focused on my Master's. **A lot** of reading to do, and not enough tim
 - [How philanthropists are destroying African farms (It's Complicated/The Guardian)](https://www.youtube.com/watch?v=KO3-xkVACgE) (color me surprised...)
 - [Serj Tankian Eats His Last Meal (Mythical Kitchen)](https://www.youtube.com/watch?v=Mo5JVuW4_qk)
 - [Existential Crisis in Class (WhatsItLike)](https://www.youtube.com/watch?v=NESBtODxNVA)
-> - [How To Use Zotero In Obsidian To Simplify Research 📚 + Research Rabbit (Wanderloots)](https://www.youtube.com/watch?v=ScXGpZRZ7Ck) **GAMECHANGER!!!** Will try to implement it in my own workflow.
+- [How To Use Zotero In Obsidian To Simplify Research 📚 + Research Rabbit (Wanderloots)](https://www.youtube.com/watch?v=ScXGpZRZ7Ck) **GAMECHANGER!!!** Will try to implement it in my own workflow.
 - [The Manipulator's Sneaky Math to Beat Chaos (Braintruffle)](https://www.youtube.com/watch?v=-jF9gW2r_bk)
 
 ## March 2025
@@ -107,7 +130,7 @@ I also got back to Catalan, ever since I found a [Marxist magazine in Catalan](h
 ## February 2025
 The anxiety of waiting for the Master's scholarship, while barely receiving any notifications, is killing me. Also dealing with the stress of finding a minimally-humane place to move into.
 
-I'll also be applying for Santa Fe Institute's [2025 Complexity Global School for Emerging Political Economies](https://www.santafe.edu/info/2025-complexity-global-school/overview?passKey=5e453325-48ec-415b-b96d-ff3c7ee42931), taking place in Bogotá, Colombia. Let's see how *that* goes...
+I'll also be applying for Santa Fe Institute's [2025 Complexity Global School for Emerging Political Economies](https://www.santafe.edu/info/2025-complexity-global-school/overview?passKey=5e453325-48ec-415b-b96d-ff3c7ee42931), taking place in Bogotá, Colombia. Let's see how *that* goes... \[05/12/25: Guess *how* that went.\]
 
 **Interesting content of the month**:
 - [TF2: You Will (Not) Play (Zesty Jesus)](https://www.youtube.com/watch?v=JNxg5stxlhk) — To see one of my favorite games of all time be mangled to such a state, to see a 4-hour documentary on the process of its murder, in the name of profit and a hubris of recreating a game against its own will and soul... it's heartbreaking.
@@ -120,9 +143,11 @@ I'll also be applying for Santa Fe Institute's [2025 Complexity Global School fo
 - [Brett Scott on why we should advocate for cash money](https://www.youtube.com/watch?v=pPyER72nFcw): because it brings back (some) agency back to consumers, instead of putting them at the sheer mercy of the banking system and their services
 	- Highly recommend Brett Scott's Substack as well, [Altered States of Monetary Consciousness](https://www.asomo.co/) 
 ## January 2025
-I've begun studying German — again! Hope this time it works! I have a lot of content now to immerse myself in it though, so hope it helps. I also have a clearer goal in mind: I have to reach B2 until my PhD, if I want to do it in Germany (they require B2), but I want/feel like I can reach it in 2025, with enough immersion and perseverance. I also plan on a Winterkurs in the beginning of 2026 (requires B1, which is more feasible). My progress will be somewhere linked to [[091 MOC Deutsch]]. 
+I've begun studying German — again! Hope this time it works! I have a lot of content now to immerse myself in it though, so hope it helps. I also have a clearer goal in mind: I have to reach B2 until my PhD, if I want to do it in Germany (they require B2), but I want/feel like I can reach it in 2025, with enough immersion and perseverance. My progress will be somewhere linked to [[091 MOC Deutsch]].  
 
-I also intend on writing 50 posts in Substack until the end of the year. Let's see how it goes...
+I also plan on a Winterkurs in the beginning of 2026 (requires B1, which is more feasible). \[05/12/25: The lovelies at DAAD canceled it and some other programs of 2026 mere days after the German ballots were up — [**three days, to be exact**](https://www.daad.de/en/press-releases/konsolidierungsprogramm/). Oh well, wonder what happened!\]
+
+I also intend on writing 50 posts in Substack until the end of the year. Let's see how it goes... \[05/12/25: Obviously this didn't pan out.\]
 
 **Interesting content of the month**:
 - [Exposing the Honey Influencer Scam - MegaLag](https://youtu.be/vc4yL3YTwWk?si=TRLj0BwpBRyMn-NJ) — a **scandal**!!!

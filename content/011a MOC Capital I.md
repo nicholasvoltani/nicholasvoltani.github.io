@@ -10,6 +10,7 @@ related:: [[071a MOC Realismo Crítico]] // [[070 MOC Philosophy]]
 > "A economia política clássica chega muito próximo à verdadeira relação das coisas, porém sem formulá-la conscientemente. Ela não poderá fazê-lo enquanto estiver coberta com sua pele burguesa." (MARX, p. 612)
 
 ---
+# Anotações
 - [[Fichamento Capital I Cap 11 - Cooperação]]
 - [[Fichamento Capital I Cap 12 - Manufatura]]
 - [[Fichamento Capital I Cap 13 - Maquinaria e Grande Indústria]]
@@ -17,6 +18,8 @@ related:: [[071a MOC Realismo Crítico]] // [[070 MOC Philosophy]]
 	- [A importância da categoria valor de uso na teoria de Marx (Marcelo Carcanholo)](https://revistas.pucsp.br/rpe/article/download/11757/8478)
 	- [A origem social do valor: valor-de-uso e valor-de-troca numa perspectiva dialética (Gutemberg Miranda)](https://seer.ufu.br/index.php/primordium/issue/download/2233/470#page=57)
 - [[20250915 Anotações EconPol]]
+- [[20251123 Anotações sobre taxa de mais-valor, intensidade etc]]
+- [[20251129 Anotações sobre trabalho em Marx e Lukács]]
 
 ---
 

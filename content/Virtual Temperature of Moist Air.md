@@ -10,9 +10,10 @@ up:: [[034 MOC Atmospheric Physics]]
 
 Given a parcel of moist air, its virtual temperature is the temperature that "would be" required for it to behave as an ideal gas, with dry air's specific constant $R_{d}$. Given a(n effective) temperature $T$ (and consequent pressure $p$), it's given as
 $$
-T_{v} \coloneqq \frac{1}{T}\left( 1 - (1-\epsilon) \frac{p_{w}}{p} \right)
+T_{v} \coloneqq \frac{1}{\left( 1 - (1-\epsilon) \frac{p_{w}}{p} \right)} T
 $$
 
+# Proof
 Given the [[Ideal Gas Law]] for dry air[^1]
 $$
 p_{d} = \rho_{d} R_{d} T
@@ -34,24 +35,24 @@ Substituting for the respective ideal gas laws, for a given temperature $T$:
 $$
 \rho = \frac{1}{T}\left( \frac{p_{d}}{R_{d}} + \underbrace{ p_{w} \frac{\epsilon}{R_{d}} }_{ = \frac{p_{w}}{R_{w}} } \right)
 $$
-Due to Dalton's [[Partial Pressure|partial pressures]] law, we have that 
+Due to Dalton's partial pressure law, we have that 
 $$
 p = p_{d} + p_{w}
 $$
 and, thus, isolating variables with dry air's constant, we have
 $$
-\rho = \frac{p}{R_{d}} \underbrace{ \frac{1}{T}\left( 1 - (1-\epsilon) \frac{p_{w}}{p} \right) }_{ \coloneqq T_{v} }
+\rho = \frac{p}{R_{d}} \underbrace{ \frac{1}{T}\left( 1 - (1-\epsilon) \frac{p_{w}}{p} \right) }_{ \coloneqq \frac{1}{T_{v}}}
 $$
 $T_{v}$ is called the *virtual temperature* of air, i.e. the temperature that air "*should have*" to behave itself as an ideal gas[^2].
 
 # Sanity check
 If the air is too saturated with water vapor, we have that $p \to p_{w}$, and thus
 $$
-\begin{align}
+\begin{align*}
 \rho &= \frac{p_{w}}{R_{d}} \frac{1}{T} (1 - (1-\epsilon)) \\
 &= \frac{p_{w}}{T} \frac{\epsilon}{R_{d}} \\
 &= \frac{p_{w}}{T} \frac{1}{R_{w}}
-\end{align}
+\end{align*}
 $$
 and thus the water vapor's gas law is recovered.
 

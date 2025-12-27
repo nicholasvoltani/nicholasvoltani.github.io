@@ -14,7 +14,7 @@ Pode-se falar de ciclos no tocante à sua **regularidade**:
 - Regularidade *fraca*: há alternância entre picos e vales, mas não há periodicidade
 - Regularidade *forte*: há alternância *periódica* entre picos e vales
 
-Há evidência empírica de [[Ciclo de Juglar|Ciclos de Juglar]] (6-12 anos) e [[Ciclo de Kondratiev|Ciclos de Kondratiev]] ($\sim 50$ anos) — portanto, há necessidade de explicação teórica deles! 
+Há evidência empírica de ciclos de Juglar (6-12 anos) e ciclos de Kondratiev ($\sim 50$ anos) — portanto, há necessidade de explicação teórica deles! 
 
 É, porém, discutível da própria existência dos ciclos *per se*. São um fenômeno *endógeno*, ou puramente acumulações de eventos *exógenos*? 
 > "O ponto em questão não é se a economia tende a flutuar ao invés de se comportar regular e harmonicamente, mas se flutuações são *cíclicas*, isto é, se se comportam de acordo com um padrão estável e identificável. Flutuações podem ser a manifestação da dificuldade de uma economia de mercado em sustentar um comportamento agregado coerente intertemporalmente ou pode se dever a uma adaptação defasada a choques aleatórios. [...] A existência de ciclos é obviamente uma questão empírica, mas uma teoria que pretenda justificar rigorosamente um *processo* cíclico não pode admitir interrupções ou depender da renovação eventual de choques exógenos que pudessem levar a um modo ondular de adaptação." (DE CARVALHO, 1988, p. 745)
