@@ -1,5 +1,5 @@
 ---
-date: "2026-02-09"
+date: 2026-02-09
 tags:
   - economics
 aliases:
@@ -62,9 +62,74 @@ related:: [[Possíveis exercícios para listas de Microeconomia]]
 	2) 
 
 
+---
+# Lista 1 nova
+### Exercício 1.1
+Demonstre que, a partir de uma relação de ordem $\succeq$ em um espaço $X$, é possível definir uma relação $\sim$ que
+$$
+\forall x, y \in X: x \sim y \iff (x \succeq y)\,  \text{ \& }  \, (y \succeq x)
+$$
+(Tradução: "Para todo $x$ e $y$ pertencentes a $X$[^1], vale que $x \sim y$ se, e somente se, valer que $x \succeq y$ e também  $y \succeq x$.)
+
+Essa relação $\sim$ satisfaz as propriedades:
+1. **Reflexividade**: $\forall x \in X, x \sim x$
+2. **Comutatividade**: $\forall x, y \in X, x \sim y \iff y \sim x$
+3. **Transitividade**: $\forall x, y, z \in X, x \sim y \land y \sim z \implies x \sim z$
+
+Por satisfazer estas propriedades, $\sim$ é dita uma *relação de equivalência*.[^2]
+
+### Exercício 1.2
+Dada uma relação de equivalência $\sim$ sobre algum conjunto (não-vazio) $X$, então, para cada $x \in X$, define-se sua *classe de equivalência* $[x]$ como
+$$
+[x] \coloneqq \{y \in X: y \sim x\}
+$$
+
+Ou seja, é o conjunto de elementos em $X$ que são equivalentes (sob $\sim$) a $x$ (note que $x \in [x]$). 
+
+Demonstre que classes de equivalência são **disjuntas**: se há algum elemento em comum entre duas classes de equivalência $[x]$ e $[y]$, então elas são a mesma classe de equivalência. Dito de outra forma: se $x \nsim y$ (ou seja, que **não** seja verdade que $x \sim y$), então não haverá interseção entre suas classes de equivalência, e, portanto $[x] \neq [y]$. 
+
+A importância deste exercício é que, dada uma relação de preferência racional $\succeq$ sobre algum espaço de cestas de bens $X$, é possível definir uma relação de equivalência $\sim$ — uma "relação de indiferença" entre cestas de $X$. As *curvas de indiferença* são, portanto, classes de equivalência sob esta relação de equivalência induzida por esta preferência. Segue do resultado acima, portanto, que *curvas de indiferença diferentes não se cruzam*!
+### Exercício 1.3
+Uma função monotônica $f: (X, \succeq_{X}) \to (Y, \succeq_{Y})$ é definida como uma função que preserva relações de ordem. Ou seja, se temos $x \succeq_{X} y$ em $X$, então $f(x) \succeq_{Y} f(y)$ em $Y$. Em matematiquês:
+$$
+\forall x, y \in X: x \succeq_{X} y \implies f(x) \succeq_{Y} f(y)
+$$
+
+Mostre que relações de equivalência (induzidas por alguma relação de ordem) são também preservadas por $f$: se $x \sim y$, então $f(x) \sim f(y)$. 
+
+Isso quer dizer que, embora "os valores mudem" por conta da função $f$, *o formato das curvas de indiferença permanecem os mesmos*. 
+
+**Obs**: É comum se dizer que funções monotônicas são "funções não-decrescentes", e que funções *estritamente* monotônicas são "funções *estritamente* crescentes". Isso, porém, segue da definição de acima[^3]: funções monotônicas em geral preservam $\succeq$ — pode ser, por exemplo, que $x \succ_{X} y$ **e** $\mathbf{x \nsim_{X} y}$, mas $f(x) \succeq_{Y} f(y)$, ou até $f(x) \sim_{Y} f(y)$ — e, portanto, são "não-decrescentes"; funções *estritamente* monotônicas preservam somente $\succ$ — se $x \succ_{X} y$, então garante-se que $f(x) \succ_{Y} f(y)$ — e, portanto, são funções estritamente crescentes.
+
+### Exercício 1.4: 1.6 antiga
+
+### Exercício 1.5: 
+
+### Exercício 1.5: exercício 1.3 da lista antiga
+
+
+
+# Lista 2 nova
+
+
+# Lista 3 nova
+
+
+# Lista 4 nova
+
+
+# Lista 5 nova
+
+
+# Lista 6 nova
+
 
 
 
 ---
 ### Referências
 - 
+
+[^1]: Note que $\forall$ é um "A" invertido, que em inglês se lê "*for **a**ll*".
+[^2]: Note que a relação de igualdade $x=y$ satisfaz essas propriedades. Relações de equivalência são mais gerais, e menos restritivas, do que relações de igualdade.
+[^3]: Usualmente também assume-se que o domínio da função $f$ seja *totalmente* ordenado, que é o caso de $\mathbb{R}$: todos os elementos são comparáveis entre si sob a relação de ordem. Mas isso é mero pedantismo: se dois elementos $x, y \in X$ não fossem comparáveis sob relação de ordem, então não haveria nada para ser preservado por $f$, e tudo se passaria como se nada tivesse se passado!
