@@ -18,7 +18,7 @@ A_{ij} \equiv A_{i \to j}
 $$
 then the in-degree of a node $i$ is denoted as
 $$
-deg^-(i) = \sum\limits_{j} A_{ji} \equiv \sumlim_{j} A_{j \to i}
+deg^-(i) = \sum\limits_{j} A_{ji} \equiv \sum\limits_{j} A_{j \to i}
 $$
 Much care is due to this definition, as it relies entirely on the convention of the Adjacency Matrix $A$.
 

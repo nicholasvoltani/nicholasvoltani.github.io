@@ -36,6 +36,13 @@ O papel do homem, nesse ínterim, torna-se de "*vigiar a máquina com os olhos e
 # Não é do trabalho que a máquina surge, mas do meio de trabalho
 > "Do ponto de vista da divisão manufatureira do trabalho, a tecelagem não é um trabalho simples, mas, antes, um complexo trabalho artesanal, de modo que o tear mecânico é uma máquina que executa operações muito variadas. É absolutamente falsa a concepção de que a maquinaria moderna se apropria originalmente de operações que a divisão manufatureira do trabalho havia simplificado. As operações de fiar e tecer foram, durante o período da manufatura, diversificadas em novas espécies, e suas ferramentas foram aperfeiçoadas e diversificadas, mas o processo de trabalho em si não foi de modo nenhum dividido, mantendo seu caráter artesanal. Não é do trabalho que a máquina surge, mas do meio de trabalho." (MARX, p. 452, nota de rodapé 100)
 
+31/12/2025: Ou seja, a máquina depende da divisão do trabalho, da qual especializam-se e multiplicam-se os meios de trabalho, as ferramentas específicas de processos específicos. Isso mesmo Smith já fala, no primeiro capítulo de *Wealth of Nations*:
+> "...the invention of all those machines by which labour is so much facilitated and abridged, seems to have been originally owing to the division of labour. Men are much more likely to discover easier and readier methods of attaining any object, when the whole attention of their minds is directed towards that single object, than when it is dissipated among a great variety of things. But in consequence of the division of labour, the whole of every man’s attention comes naturally to be directed towards some one very simple object. It is naturally to be expected, therefore, that some one or other of those who are employed in each particular branch of labour should soon find out easier and readier methods of performing their own particular work, wherever the nature of it admits of such improvement." (Smith, cf. [An Inquiry Into the Nature and Causes of the Wealth of Nations (Cannan ed.), vol. 1 \| Online Library of Liberty](https://oll.libertyfund.org/titles/smith-an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-cannan-ed-vol-1))
+
+E, conforme Babbage,
+> "Perhaps the most important principle on which the economy of a manufacturer depends, is the division of labour amongst the persons who perform the work . . . The division of labour suggests the contrivance of tools and machinery to execute its processes . . . *When each process has been reduced to the use of some simple tool, the union of all these tools, actuated by one moving power, constitutes a machine*." (Babbage *apud* Pasquinelli, p. 62; grifo meu)
+
+
 # A divisão do trabalho de máquinas
 Com a [[Maquinaria]], o processo de trabalho adquire uma 'rigidez' com relação à [[Divisão Social do Trabalho]], referente aos '*men in the middle*': 
 > "Se o trabalho [manufatureiro] é adaptado ao processo, este último também foi previamente adaptado ao trabalhador. Esse princípio subjetivo da divisão [do trabalho] deixa de existir na produção mecanizada." (MARX, p. 454)
@@ -262,6 +269,7 @@ Também cf. [[A exploração brasileira 'até o sabugo' é um resquício colonia
 - MARX, Karl; ENGELS, Friedrich. **A ideologia alemã: crítica da mais recente filosofia alemã em seus representantes Feuerbach, B. Bauer e Stirner, e do socialismo alemão em seus diferentes profetas**. Boitempo editorial, 2015.
 - GALEANO, Eduardo. **As veias abertas da América Latina**. L&PM Editores, 2010.
 - [Estou Me Guardando Para Quando O Carnaval Chegar (Longa-metragem, 2019)](https://www.youtube.com/watch?v=TNlizB_nWkg&pp=ygUrZXN0b3UgbWUgZ3VhcmRhbmRvIHF1YW5kbyBvIGNhcm5hdmFsIGNoZWdhcg%3D%3D)
+- PASQUINELLI, Matteo. **The eye of the master: a social history of artificial intelligence**. London; New York: Verso, 2023.
 
 [^1]: "Se-movente", que move a si própria.
 [^2]: Em certo processo de produção *específico*, por mais que os tempos atuais queiram emancipar-se da particularidade ao falar de Inteligências Artificiais Gerais. 

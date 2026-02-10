@@ -26,7 +26,7 @@ $$
 $$
 onde $\epsilon_{lw}$ é a [[Elasticidade de Renda da Demanda|Elasticidade-Renda da Demanda]]. 
 
-Vetorialmente, temos[^2]
+Vetorialmente, temos[^1]
 $$
 \nabla_{w} x = \frac{x}{w}
 $$
@@ -62,7 +62,7 @@ com inclinações $\frac{ \partial x_{i} }{ \partial w } = \frac{\alpha_{i}}{p_{
 # Exercício 5
 ![[Pasted image 20250424135832.png|500]]
 
-Dados os bens $x$ e $h$[^1], onde $x$ possui preço $p$ e o tempo de trabalho possui salário $s$, temos que a restrição orçamentária é de que
+Dados os bens $x$ e $h$[^2], onde $x$ possui preço $p$ e o tempo de trabalho possui salário $s$, temos que a restrição orçamentária é de que
 $$
 \underbrace{ p\cdot x }_{ \text{Consumo de bens} } \leq \underbrace{ (24-h)\cdot s }_{ \text{Salário} }
 $$
@@ -80,5 +80,5 @@ Fonte: VARIAN, p. 175.
 ### References
 - VARIAN, Hal R. **Intermediate microeconomics: a modern approach**. 9 ed. W. W. Norton, 2014.
 
-[^1]: O termo para o tempo de trabalho, que é $l \equiv 24 - h$ é "tecnicamente" chamado de "*mal*". Além disso, evidentemente, $0 \leq h \leq 24$.
-	[^2]: I.e. [[Efeito Renda]]. 
+[^1]: I.e. [[Efeito Renda]]. 
+[^2]: O termo para o tempo de trabalho, que é $l \equiv 24 - h$ é "tecnicamente" chamado de "*mal*". Além disso, evidentemente, $0 \leq h \leq 24$.

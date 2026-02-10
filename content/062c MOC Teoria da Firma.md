@@ -66,7 +66,11 @@ Ou seja, o problema de minimização de custo é equivalente ao problema de maxi
 	- [[A produção ótima ocorre quando o lucro marginal é 0]]
 - [[Lema de Hotelling]]
 
-Supondo *netputs* $y \in Y \subseteq \mathbb{R}^L$ (positivos para produtos, negativos para insumos), e dado um vetor de seus respectivos preços $p \gg 0$, temos que o *lucro* da firma é dado por $\braket{ p | y }$. 
+Supondo *netputs* $y \in Y \subseteq \mathbb{R}^L$ (positivos para produtos, negativos para insumos), e dado um vetor de seus respectivos preços $p \gg 0$, temos que o *lucro* da firma é dado por 
+$$
+\braket{ p | y } \coloneqq \sum\limits_{i} p_{i} y_{i}
+$$
+
 
 O problema da maximização do lucro se traduz em
 $$
@@ -92,13 +96,13 @@ Das primeiras equações, tem-se que a taxa marginal de substituição técnica 
 $$
 - \frac{F_{i}(y^{*})}{F_{k}(y^{*})} \eqqcolon MTST_{ik}(y^{*}) = - \frac{p_{i}}{p_{k}}
 $$
-Assumindo que $Y$ possui somente *um* produto ($y$), e $L$ insumos ($z$) — i.e. a função de produção é da forma $f: \mathbb{R}^{L} \to \mathbb{R}$ —, a maximização traz
+Assumindo que $Y$ possui somente *um* produto ($y$), e $L$ insumos ($z$) — i.e. a função de produção é da forma $F: \mathbb{R}^{L} \to \mathbb{R}$ —, a maximização traz
 $$
-\max\limits_{z\geq 0} p \,f(z) - \braket{ w | z } 
+\max\limits_{z\geq 0} p \,F(z) - \braket{ w | z } 
 $$
 cujas condições de primeira ordem (de solução interior) são
 $$
-\nabla f(z^{*}) = \frac{w}{p}
+\nabla F(z^{*}) = \frac{w}{p}
 $$
 (e $z^* \gg 0$.) Dessa forma, temos que as taxas marginais de substituição técnica (do produto) com relação a certos insumos são iguais às razões dos preços *destes respectivos insumos*.
 

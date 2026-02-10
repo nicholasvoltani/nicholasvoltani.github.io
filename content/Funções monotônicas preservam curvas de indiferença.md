@@ -4,7 +4,7 @@ tags:
   - economics
 aliases:
 ---
-
+e
 up:: [[Função Utilidade]]
 
 ![[Pasted image 20240807124555.png]]

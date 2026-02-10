@@ -47,9 +47,11 @@ up:: [[index]] // [[060 MOC Economia]]
 - [[011b MOC Capital II]]
 - [[011c MOC Capital III]]
 
-## [[064 MOC Estatística em Economia|Econometria]] (??) 
+## Leituras da *Ontologia do Ser Social* (Lukács)
+[[013 MOC Lukács]]
 
-## Metodologia das Ciências Econômicas (se Deus quiser)
+## Estágio-docência: Microeconomia da pós
+[[Esquema Listas Microeconomia]]
 
 ---
 # Quarto semestre (4/4)

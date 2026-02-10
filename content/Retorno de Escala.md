@@ -1,8 +1,9 @@
 ---
-date: "2024-12-05"
+date: 2024-12-05
 tags:
   - economics
 aliases:
+  - Retornos de Escala
 ---
 
 up:: [[061 MOC Macroeconomia]], [[062 MOC Microeconomia]]

@@ -29,6 +29,7 @@ Há uma dupla ótica da composição do [[Capital]]
 - Ponto de vista do **valor**: composição-valor, que "à medida que é **determinada por sua composição técnica** e **espelha suas modificações**" é chamada de [[Composição Orgânica do Capital|composição orgânica do capital]]. 
 	- Essa é a composição do capital que convém analisar
 
+
 ## Duas óticas da composição do capital
 $$
 \begin{align}
@@ -36,6 +37,13 @@ $$
 &= \frac{c}{v} \equiv \texttt{Composição Orgânica}\\ 
 \end{align}
 $$
+
+\[03/01/2026: Incorreto-ish. A composição técnica é, de fato, a composição material do capital, e a [[Composição de Valor do Capital]] é o reflexo desta em [[Valor]]. A **conjunção de ambas** é chamada de composição orgânica.
+
+> "Entre ambas [composição técnica e composição de valor] existe uma estreita correlação. Para expressá-la, chamo a composição de valor do capital, **porquanto é determinada pela composição técnica do capital e reflete suas modificações**, de composição orgânica do capital. Onde se fala simplesmente de composição do capital, entenda-se sempre sua composição orgânica." (Marx, p. 689)
+
+\]
+
 ## O efeito da acumulação sobre a força de trabalho
 A [[Mais-Valor|mais-valia]] reinvestida a cada ciclo de produção do capital divide-se em *meios de produção* e *força de trabalho* conforme as **condições técnicas vigentes**, i.e. conforme a necessidade de força humana para por em movimento os meios de produção, i.e., **conforme a composição orgânica do capital**. 
 
@@ -130,8 +138,8 @@ Note-se que tal contingente é uma consequência da acumulação do capital, mas
 ## Tendências de Concentração e Centralização de Capitais
 ![[Pasted image 20220507195407.png]]
 
-- **Concentração de capitais**: crescimento do capital **individual**, com base no mais-valor gerado por eles próprios, i.e. com base na acumulação de capital (ao longo de seus ciclos de produção)
-- **Centralização de capitais**: crescimento do capital por meio da **concorrência e do crédito** (**fusão/aquisição de capitais**)
+- **[[Concentração de Capital]]**: crescimento do capital **individual**, com base no mais-valor gerado por eles próprios, i.e. com base na acumulação de capital (ao longo de seus ciclos de produção)
+- **[[Centralização de Capital]]**: crescimento do capital por meio da **concorrência e do crédito** (**fusão/aquisição de capitais**)
 - **Crises**: podem ter diversas origens (produtiva ou financeira), resulta na **falência de capitais individuais menos eficientes**, que são absorvidos por outros capitais (no "topo do jogo") via fusão/aquisição
 	- Com essas fusões/aquisições, ocorrem **saltos de produtividade** (pelo **aumento da composição do capital**), o que acaba resultando no **desemprego** da força de trabalho, i.e. no **aumento do exército industrial de reserva**
 
@@ -161,3 +169,4 @@ Parcela da população trabalhadora em situação de **extrema pobreza**:
 ---
 ### Referências
 - **O Capital, Livro I**, Karl Marx.
+- MARX, Karl. **O Capital: crítica da economia política - Livro I: o processo de produção do capital**. 2. ed. São Paulo: Boitempo, 2017.

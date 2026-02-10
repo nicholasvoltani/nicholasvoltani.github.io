@@ -36,4 +36,4 @@ Quando trata-se de problemas envolvendo [[Dinheiro]], utilizamos uma função ut
 ---
 ### References
 - MAS-COLELL, Andreu; WHINSTON, Michael Dennis; GREEN, Jerry R. **Microeconomic theory**. New York: Oxford University Press, 1995.
-- - [Iniciação Científica: Introdução à Economia Matemática (2022) - IMPA (Campo Elias)](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTjttEZI1t-7aVeFuMYkZuI)
+- [Iniciação Científica: Introdução à Economia Matemática (2022) - IMPA (Campo Elias)](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTjttEZI1t-7aVeFuMYkZuI)

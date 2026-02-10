@@ -1,8 +1,9 @@
 ---
-date: "2024-08-07"
+date: 2024-08-07
 tags:
   - economics
 aliases:
+  - Curvas de Engel
 ---
 
 up:: [[062b MOC Teoria do Consumidor]]

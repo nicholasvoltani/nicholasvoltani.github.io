@@ -26,7 +26,7 @@ As consequências lógicas de uma ontologia empirista decorrem de seu enclausura
 # A apologética capitalista e sua ontologia implícita
 Cf. (MEDEIROS, 2013a)...
 
-- Realismo empírico
+- [[Realismo Empírico]]
 - Ciência instrumental
 - Imutabilidade e naturalidade do status quo
 - Atomismo social
@@ -61,7 +61,7 @@ A consideração que o capital concede à crise climática ~~(para dizer sobre u
 E não só quanto à faceta ambiental. A questão social (e/ou socioambiental) também é vista como se estivesse detrás de uma vitrine de loja: distante ao toque, mas não da carteira. É uma pena que o mundo gire em função do trabalho escravo no Sudeste Asiático, mas, já que já estão ali, por que não desfrutarmos? A possibilidade de mudança de condições de opressão que, "pelo bem ou pelo mal", também são úteis e rentáveis ao resto do mundo é recebida não só com cansaço — "*there is no alternative*", "*so it goes*" etc —, como também, e principalmente, de forma reativa, na defensiva — "então você é contra o progresso/desenvolvimento?", "então devemos voltar a ser pobres?", etc[^9].
 
 Aqui também entra o [[Racismo Ambiental]], até mesmo em causas "nobres" como a erradicação da dengue através do desenvolvimento de mosquitos geneticamente modificados: 
-> "Hence, although it promotes itself as a very innovative strategy, the RIDL [Release of Insects Carrying a Dominant Lethal gene] transgenic insect technique follows a deep-rooted logic that focuses on the mosquito, rather than analyzing and improving social conditions, health care or medical interventions. This is obvious in the Brazilian case. The town of Juazeiro in the Northeast state of Bahia – the chosen location to experiment this cutting edge technology – does not have running water supply." (REIS-CASTRO, HENDRICKX, 2013 p. 124)
+> "Hence, although it promotes itself as a very innovative strategy, the RIDL [Release of Insects carrying a Dominant Lethal gene] transgenic insect technique follows a deep-rooted logic that focuses on the mosquito, rather than analyzing and improving social conditions, health care or medical interventions. This is obvious in the Brazilian case. The town of Juazeiro in the Northeast state of Bahia – the chosen location to experiment this cutting edge technology – does not have running water supply." (REIS-CASTRO, HENDRICKX, 2013 p. 124)
 
 Mosquitos esses que são propriedade... europeia: "*All the transgenic insects released in the environment are a product of the British company Oxitec – the Oxford Insect Technologies, a spin-off company from Oxford University. [...] Up to now [circa 2013], mosquitoes have been released in the Cayman Islands, in Malaysia, and in Brazil.*", (Ibid., p. 119) — destaque-se que fala-se destes insetos como *produtos* (como os autores o reafirmam ao longo do texto)! E, no fim das contas, mesmo esses *produtos* tinham uma vida mais confortável do que seus servos humanos: 
 

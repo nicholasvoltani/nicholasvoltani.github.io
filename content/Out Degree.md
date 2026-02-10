@@ -18,7 +18,7 @@ A_{ij} \equiv A_{i \to j}
 $$
 then the out-degree of a node $i$ is denoted as
 $$
-deg^+(i) = \sum\limits_{j} A_{ij} \equiv \sumlim_{j} A_{i \to j}
+deg^+(i) = \sum\limits_{j} A_{ij} \equiv \sum\limits_{j} A_{i \to j}
 $$
 Much care is due to this definition, as it relies entirely on the convention of the Adjacency Matrix $A$.
 

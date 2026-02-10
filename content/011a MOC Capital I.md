@@ -94,16 +94,19 @@ related:: [[071a MOC Realismo Crítico]] // [[070 MOC Philosophy]]
 - [[A legalidade de horas extras não necessariamente é uma reivindicação proletária]]
 - [[O Capital, I ─ Cap 21, 22 ─ Sobre a reprodução do capital]]
 	- [[Reprodução Simples do Capital]]
-	- [[Reprodução Ampliada do Capital (Transformação de Mais-Valor em Capital)]]
+	- [[Reprodução Ampliada do Capital]]
 	- [[Conversão das 'leis de propriedade' em 'leis de apropriação' do Capital]]
 - [[O Capital, I ─ Cap 23 - A Lei Geral da Acumulação Capitalista]]
-	- [[Composição Técnica do Capital]]
-	- [[Composição Orgânica do Capital]]
+	- [[Composição Técnica do Capital]] // [[Composição de Valor do Capital]]
+		- [[Composição Orgânica do Capital]]
+	- [[Lei Geral da Acumulação Capitalista]]
+		- [[A acumulação de capital afeta a demanda por força de trabalho e, portanto, induz a variação dos salários]]
+	- [[Concentração de Capital]]
+	- [[Centralização de Capital]]
+	- [[Concorrência (Marx)]]
 	- [[Exército Industrial de Reserva (Sobrepopulação Relativa)]]
-
 
 ## Referências
 - MARX, Karl. **O Capital. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
 - [Leituras d'O Capital (UFPR) - Livro I](https://www.youtube.com/@leiturasdocapital/videos)
-- DE ARAUJO, Paulo Henrique Furtado. Dissolução dos laços sociais mediados pelo valor: crise estrutural da sociedade do capital e o fim do seu processo civilizatório. **Revista da Sociedade Brasileira de Economia Política**, p. 133-166, 2024.
 - MEDEIROS, João Leonardo; BARRETO, Eduardo Sá (Org.). **Para que leiam O capital: interpretações sobre o Livro I**. São Paulo, Usina Editorial, 2021.

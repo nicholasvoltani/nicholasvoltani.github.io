@@ -8,7 +8,7 @@ aliases:
 ---
 Given a random variable $X$ with probability distribution $P$, its entropy is given by
 $$
-H(X) \equiv -\sumlim_x P(x) \log P(x)
+H(X) \equiv -\sum\limits_x P(x) \log P(x)
 $$
 
 Due to the [[Mutual Information]] definition, one can say that the entropy is a measure of **self-information** of $X$.
