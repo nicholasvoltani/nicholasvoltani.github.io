@@ -27,7 +27,7 @@ related:: [[Possíveis exercícios para listas de Microeconomia]]
 2) Cálculos de [[Demanda Marshalliana|Demanda Walrasiana]] (dado $w$), [[Demanda Hicksiana]] (dado $\tilde{u}$) — uso de [[Identidade de Roy]] e [[Lema de Shephard]]
 	1) [[Utilidade quase-linear]]
 	2) [[Função de Cobb-Douglas]] geral (cf. [[Possíveis exercícios para listas de Microeconomia#Cobb-Douglas para $L$ bens]])
-	3) [[Função de Utilidade CES]] — difícil! Cf. [[Lista 2 Microeconomia - 1.2025#Demandas walrasianas da CES]]3
+	3) [[Função de Utilidade CES]] — difícil! Cf. [[Lista 2 Microeconomia - 1.2025#Demandas walrasianas da CES]]
 3) Exemplo de [[Equação de Slutsky]]
 	1) Talvez caso geral de [[Matriz de Slutsky]] (ao menos $2$ bens, elasticidade-cruzada $\neq 0$)
 
@@ -39,19 +39,20 @@ related:: [[Possíveis exercícios para listas de Microeconomia]]
 	1) $\tilde{u}(w) = \ln w$ — convexo/[[Aversão ao Risco|Avesso ao Risco]] ($\tilde{u}'' < 0$)
 	2) Exemplo de utilidade *risk-loving*?
 	3) Função utilidade CARA / Função utilidade CRRA?
-4)  [[Desconto Exponencial]] e coerência dinâmica
-5) [[Desconto Hiperbólico]] e possibilidade de inversão de preferências intertemporalmente
 # Lista 4: Comportamental & [[062c MOC Teoria da Firma]]
-1) Utilidade Fehr-Schmidt...? $U_{i} = \pi_{i} - \delta_i \max(\pi_{j}-\pi_{i}, 0) - \alpha_{i} \max(\pi_{i}-\pi_{j}, 0)$ 
-2) [[Função Produção]] $F$ com [[Retorno de Escala|Retornos de Escala]] não-decrescentes $\implies$ [[Função Lucro]] é $\leq 0$ (produção inviável) ou $\to \infty$ (produção extrema)
+2)  [[Desconto Exponencial]] e coerência dinâmica
+3) [[Desconto Hiperbólico]] e possibilidade de inversão de preferências intertemporalmente
+4) Utilidade Fehr-Schmidt...? $U_{i} = \pi_{i} - \delta_i \max(\pi_{j}-\pi_{i}, 0) - \alpha_{i} \max(\pi_{i}-\pi_{j}, 0)$ 
+5) [[Função Produção]] $F$ com [[Retorno de Escala|Retornos de Escala]] não-decrescentes $\implies$ [[Função Lucro]] é $\leq 0$ (produção inviável) ou $\to \infty$ (produção extrema)
 	1) (**Cf. Slide 8:41**) Em regimes de produção baixa, $F$ tem retornos de escala "menos decrescentes", induzindo produção mais acelerada do que em níveis maiores (REs mais decrescentes) — *parece análogo* ao crescimento populacional parecer geométrico em regimes em que população é muito menor que *carrying capacity* $K$, e que desacelera quando está na mesma ordem que $K$ 
-3) $F$ homogênea de grau $1$ $\iff$ [[Retorno de Escala|Retornos de Escala]] constantes
+6) $F$ homogênea de grau $1$ $\iff$ [[Retorno de Escala|Retornos de Escala]] constantes
 	1) Analogia com [[Função Utilidade|Utilidade]] homogênea de grau $1$ $\iff$ [[Curva de Engel]] constante
 
 # Lista 5: [[062c MOC Teoria da Firma]]
 1) "Consumidor da própria firma"
 2) Casos [[Sunk Cost]] 
-3) Maximização de [[Função Lucro|Lucro]] / Minimização de [[Função Custo|Custos]]
+3) Maximização de [[Função Lucro|Lucro]] / Minimização de [[Função Custo|Custos]] 
+	1) Produção Cobb-Douglas
 
 # Lista 6: Equilíbrio Parcial & Equilíbrio Geral [[062e MOC Teoria do Bem-Estar]]
 1) [[Ótimo de Pareto]] & [[Equilíbrio Walrasiano]] (ou Marshalliano)
@@ -59,7 +60,6 @@ related:: [[Possíveis exercícios para listas de Microeconomia]]
 3) Exemplos de [[Caixa de Edgeworth]]
 4) [[Falha de Mercado|Falhas de Mercado]]
 	1) [[Externalidade|Externalidades]]
-	2) 
 
 
 ---
@@ -101,11 +101,11 @@ Isso quer dizer que, embora "os valores mudem" por conta da função $f$, *o for
 
 **Obs**: É comum se dizer que funções monotônicas são "funções não-decrescentes", e que funções *estritamente* monotônicas são "funções *estritamente* crescentes". Isso, porém, segue da definição de acima[^3]: funções monotônicas em geral preservam $\succeq$ — pode ser, por exemplo, que $x \succ_{X} y$ **e** $\mathbf{x \nsim_{X} y}$, mas $f(x) \succeq_{Y} f(y)$, ou até $f(x) \sim_{Y} f(y)$ — e, portanto, são "não-decrescentes"; funções *estritamente* monotônicas preservam somente $\succ$ — se $x \succ_{X} y$, então garante-se que $f(x) \succ_{Y} f(y)$ — e, portanto, são funções estritamente crescentes.
 
-### Exercício 1.4: 1.6 antiga
+### Exercício 1.4: 1.6 antiga (ordem saciável em $\mathbb{R}^2$)
 
 ### Exercício 1.5: 
 
-### Exercício 1.5: exercício 1.3 da lista antiga
+### Exercício 1.5: exercício 1.3 da lista antiga (homogeneidade grau 1 e curva de Engel)
 
 
 

@@ -72,7 +72,10 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
 	  Plugin.HardLineBreaks(),
-	  Plugin.Latex()
+	  Plugin.Latex(),
+    Plugin.Citations({
+      "csl": "https://raw.githubusercontent.com/citation-style-language/styles/refs/heads/master/associacao-brasileira-de-normas-tecnicas.csl"
+    })
     ],
     filters: [
 		Plugin.RemoveDrafts()

@@ -1,5 +1,5 @@
 ---
-date: "2025-10-10"
+date: 2025-10-10
 tags:
   - marxism
 aliases:
@@ -24,7 +24,7 @@ As consequências lógicas de uma ontologia empirista decorrem de seu enclausura
 É neste contexto todo que elucida-se melhor onde o ESG insere-se juntamente às contradições do mundo capitalista, e como seus anseios (porventura genuínos) de mudança sustentável são afogados por sua alma indelevelmente capitalista.
 
 # A apologética capitalista e sua ontologia implícita
-Cf. (MEDEIROS, 2013a)...
+Cf. @Medeiros2013
 
 - [[Realismo Empírico]]
 - Ciência instrumental
