@@ -13,7 +13,7 @@ up:: [[011b MOC Capital II]]
 
 É a [[Forma]] que o [[Capital Industrial]] assume quando precisa assumir a função da [[Forma-Dinheiro]], i.e. comprar mercadorias. Formalmente se escreveria pelos símbolos $D-M$.
 
-Somente é capital-dinheiro quando busca comprar [[Meios de Produção]] e [[Força de Trabalho]], i.e. mercadorias para *consumo produtivo*, em cujo caso já se transforma em [[Capital Produtivo]] (latente enquanto não for "posto em marcha"). 
+Somente é capital-dinheiro quando busca comprar [[meios de produção]] e [[Força de Trabalho]], i.e. mercadorias para *consumo produtivo*, em cujo caso já se transforma em [[Capital Produtivo]] (latente enquanto não for "posto em marcha"). 
 
 Ao mesmo tempo, só é capital dinheiro (em movimento) se tiver vindo da venda de alguma [[Mercadoria]] (i.e. ter [[Capital-Mercadoria]] como pressuposto).[^1]
 

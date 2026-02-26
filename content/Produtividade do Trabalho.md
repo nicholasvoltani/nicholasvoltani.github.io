@@ -17,7 +17,7 @@ A produtividade do trabalho requerido para a produção de [[Mercadoria|Mercador
 
 Ou seja, diz respeito à capacidade produtiva de cada trabalhador envolvido, sua *produtividade*: quanto maior ela for, tanto mais um só trabalhador será capaz de cumprir no processo produtivo[^1].
 
-Com o aumento da produtividade do trabalho, o  [[Capital]] adiantado $c+v$ diminui — para um dado nível de produção —, aumentando, portanto, o [[Tempo Excedente de Trabalho]] envolvido. Há, portanto, uma mudança na proporção do tempo de trabalho. 
+Com o aumento da produtividade do trabalho, o  [[capital]] adiantado $c+v$ diminui — para um dado nível de produção —, aumentando, portanto, o [[Tempo Excedente de Trabalho]] envolvido. Há, portanto, uma mudança na proporção do tempo de trabalho. 
 
 Caso haja um aumento de produtividade de um capital individual *vis-à-vis* o nível médio de produtividade[^2], ele torna-se capaz de aferir [[Mais-Valor Adicional]].
 
@@ -28,5 +28,5 @@ Há uma relação intrínseca com a [[Composição Orgânica do Capital]] $\frac
 - MARX, Karl. **O Capital: crítica da economia política - Livro I: o processo de produção do capital**. 2. ed. São Paulo: Boitempo, 2017.
 - SÁ BARRETO, Eduardo. Fundamentos para a crítica ecológica do capitalismo no Livro I de O Capital (ou: esse não é mais um texto sobre ruptura metabólica). _In_: MEDEIROS, João Leonardo; SÁ BARRETO, Eduardo (Orgs.). **Para que leiam O capital: interpretações sobre o Livro I**. São Paulo: Usina Editorial, 2021.
 
-[^1]: No que tange à geração de \[[[Mais-Valor|mais-]]][[Valor]].
+[^1]: No que tange à geração de \[[[Mais-Valor|mais-]]][[valor]].
 [^2]: Quanto à produção de alguma dada mercadoria.

@@ -18,7 +18,7 @@ Portanto, o "empreendedor" terá a quantidade
 $$
 (A - A_{1}) + G
 $$
-ao final do processo de produção: $A$ do que produziu, $A_{1}$ do que precisou comprar para sua produção ([[Meios de Produção]]), e $G$ do que restou em estoque ([[Acumulação de Estoques]]), tanto do que *ainda não foi utilizado para produzir*, quanto o que foi produzido mas *ainda não vendido*.
+ao final do processo de produção: $A$ do que produziu, $A_{1}$ do que precisou comprar para sua produção ([[meios de produção]]), e $G$ do que restou em estoque ([[Acumulação de Estoques]]), tanto do que *ainda não foi utilizado para produzir*, quanto o que foi produzido mas *ainda não vendido*.
 
 > "Here “$G$” is essentially what he could sell his capital, fixed and working, for at the end of the period" (FERGUSON, 2013, p. 2)
 

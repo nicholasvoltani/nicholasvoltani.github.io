@@ -45,7 +45,7 @@ Versianni & Versianni: há momentos de **desvalorização** do café, nos quais 
 
 Logo, há momentos de ampliação da **capacidade produtiva**, e momentos de ampliação da **produção em si**, correlacionados com os ciclos econômicos do café. 
 
-**Década de 60** (FHC, J. S. Martins): condições sociais da industrialização são divisão do trabalho e urbanização, mercado consumidor, e, obviamente, [[Trabalho Assalariado]].
+**Década de 60** (FHC, J. S. Martins): condições sociais da industrialização são divisão do trabalho e urbanização, mercado consumidor, e, obviamente, [[trabalho assalariado]].
 
 **Década de 70** (JMC Mello, S Silva): pré-condições de formação do capitalismo: mercado de trabalho, formação da burguesia, origem do capital.
 

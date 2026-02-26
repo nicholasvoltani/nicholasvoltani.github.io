@@ -1,14 +1,14 @@
 ---
-date: "2025-05-07"
+date: 2025-05-07
 tags:
   - philosophy
   - philosophy/philosophy_of_science
   - philosophy/critical_realism
 aliases:
-  - Empírica
-  - Empírico
-  - Empíricas
-  - Empíricos
+  - empírica
+  - empírico
+  - empíricas
+  - empíricos
 ---
 
 up:: [[071a MOC Realismo Crítico]]

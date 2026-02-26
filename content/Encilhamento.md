@@ -7,7 +7,7 @@ aliases:
 
 up:: [[063 MOC Economia Brasileira]]
 
-Foi o fenômeno especulativo ocorrido no começo da República Velha, após a [[Lei Bancária (1890)]] de Rui Barbosa, a qual incentivou [[Moeda Fiduciária|Emissões Inconversíveis]] de moeda. Foi uma das tentativas de estancar as periódicas *crises de [[Preço Numerário|Numerário]]* do final do Império, devido à prevalência do [[Trabalho Assalariado]].
+Foi o fenômeno especulativo ocorrido no começo da República Velha, após a [[Lei Bancária (1890)]] de Rui Barbosa, a qual incentivou [[Moeda Fiduciária|Emissões Inconversíveis]] de moeda. Foi uma das tentativas de estancar as periódicas *crises de [[Preço Numerário|Numerário]]* do final do Império, devido à prevalência do [[trabalho assalariado]].
 
 Houve um surgimento enorme de empresas, tanto reais quanto fictícias, a fim de aproveitar-se do crédito facilitado. Para o bem ou para o mal, houveram indústrias que tiveram suas raízes nesse momento de euforia comercial.
 

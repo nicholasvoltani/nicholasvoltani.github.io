@@ -7,11 +7,11 @@ aliases:
 
 up:: [[011a MOC Capital I]]
 
-O [[Salário por peça]] "não é senão uma forma modificada de [[Salário por Tempo|salário por tempo]]", em que aparece-se que "o [[Valor de Uso|valor de uso]] vendido pelo trabalhador *não é função de sua força de trabalho*, trabalho vivo, *mas trabalho já objetivado no produto*", e de que o preço das [[Mercadoria|Mercadorias]] produzidas não depende da fração $\frac{v}{FT}$, de [[Valor]] produzido que distribui-se sobre o tempo da [[Jornada de Trabalho]], "mas pela *capacidade de produção do produtor*" (MARX, p. 621; grifo meu).
+O [[Salário por peça]] "não é senão uma forma modificada de [[Salário por Tempo|salário por tempo]]", em que aparece-se que "o [[Valor de Uso|valor de uso]] vendido pelo trabalhador *não é função de sua força de trabalho*, trabalho vivo, *mas trabalho já objetivado no produto*", e de que o preço das [[Mercadoria|Mercadorias]] produzidas não depende da fração $\frac{v}{FT}$, de [[valor]] produzido que distribui-se sobre o tempo da [[Jornada de Trabalho]], "mas pela *capacidade de produção do produtor*" (MARX, p. 621; grifo meu).
 
 > "No salário por tempo, o trabalho se mede por sua *duração imediata*; no salário por peça, pela *quantidade de produtos* em que o trabalho se condensa *durante um tempo determinado*" (MARX, p. 623; grifo meu)
 
-No fim das contas, o salário por peça é uma forma mais mistificada, mas ainda assim derivada, do salário por tempo, o qual é, por sua vez, uma forma mistificada da relação de [[Valor]] e de [[Trabalho Assalariado]].
+No fim das contas, o salário por peça é uma forma mais mistificada, mas ainda assim derivada, do salário por tempo, o qual é, por sua vez, uma forma mistificada da relação de [[valor]] e de [[trabalho assalariado]].
 
 # Exploração do trabalhador por trabalhador
 > "A prática nos permite estabelecer a quantidade média de produto de 1 hora de trabalho" (MARX, p. 623)

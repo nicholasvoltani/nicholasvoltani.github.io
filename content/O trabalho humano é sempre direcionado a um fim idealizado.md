@@ -11,7 +11,7 @@ up:: [[Trabalho]]
 
 O que distingue o trabalho humano do trabalho animal é justamente a efetivação real de algum objeto idealmente representado. 
 
-Porém, [[O modo de produção capitalista separa o trabalhador do propósito do trabalho que ele realiza]]: justamente pelo [[Processo de Produção Capitalista]] consistir no capitalista adquirir [[Meios de Produção]] – dentre os quais [[Força de Trabalho]] – e "colidi-los entre si" (como compostos químicos) para a produção de [[Mercadoria|Mercadorias]]. 
+Porém, [[O modo de produção capitalista separa o trabalhador do propósito do trabalho que ele realiza]]: justamente pelo [[processo de produção capitalista]] consistir no capitalista adquirir [[meios de produção]] – dentre os quais [[Força de Trabalho]] – e "colidi-los entre si" (como compostos químicos) para a produção de [[Mercadoria|Mercadorias]]. 
 
 ---
 ### Referências

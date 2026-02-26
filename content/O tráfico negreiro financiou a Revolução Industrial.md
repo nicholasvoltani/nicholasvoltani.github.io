@@ -10,7 +10,7 @@ O comércio de escravos, no século XVII e principalmente no XVIII, era dominado
 
 Afinal, a [[Ciclo colonial da cana-de-açúcar|produção açucareira]] na América Latina era composta essencialmente de mão-de-obra escrava: [[Mercadoria|mercadorias]] vindas do outro lado do Oceano, com "tempo de obsolescência" bem limitado (devido não só às condições de trabalho, mas às chagas ─ físicas, psicológicas ─ advindas da travessia do Oceano em navios negreiros).
 
-Como a expansão do [[Capital]] requer o financiamento de novas empreitadas[^1], acabou sendo uma consequência natural que, nos primórdios da Revolução Industrial, os principais mercadores negreiros da Inglaterra fossem os principais financiadores de James Watt e de outros inventores ingleses.
+Como a expansão do [[capital]] requer o financiamento de novas empreitadas[^1], acabou sendo uma consequência natural que, nos primórdios da Revolução Industrial, os principais mercadores negreiros da Inglaterra fossem os principais financiadores de James Watt e de outros inventores ingleses.
 
 Também consoante a expansão do capital sob a [[Revolução Industrial]], a maior expansão de mercadorias tinha de ser suprida pela maior demanda de seus produtos ─ o que pressupunha a universalização da [[Forma-Mercadoria]], também afetando a [[Força de Trabalho]] destinada aos trabalhos coloniais: *hence* os incentivos antiescravistas impulsionados **pela própria Inglaterra** no século XIX.[^2] É por isso que [[O fim do tráfico negreiro busca a universalização do trabalho assalariado]].
 

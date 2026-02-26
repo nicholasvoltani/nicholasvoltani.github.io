@@ -35,7 +35,7 @@ child:: [[063a MOC ANPEC Economia Brasileira]]
 # Primeira República – República Velha (1889 - 1930)
 - [[Economia Agroexportadora]]
 	- Tavares: "crescimento para fora"
-- [[Trabalho Assalariado]]
+- [[trabalho assalariado]]
 	- [[O trabalho assalariado alavancou o mercado interno brasileiro]]
 - Furtado: [[Tendência ao Desequilíbrio Externo]]
 - [[Desvalorização Cambial]]

@@ -25,6 +25,7 @@ Category Theory has been half-jokingly called "abstract nonsense" for quite a wh
 	- [[A terminal object is isomorphic to an initial object if there is a morphism from T to I]]
 - [[Zero Object]]
 - [[Product (Category)]]
+- [[Limit (Category)]]
 - [[Colimit]]
 - [[Yoneda Lemma]]
 - [[Sheaf]]

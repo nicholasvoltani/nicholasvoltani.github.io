@@ -13,6 +13,7 @@ up:: [[020 MOC Mathematics]]
 		- [[Every distributive and limited lattice has unique complements]]
 	- [[Complemented Lattice]]
 - [[Boolean Algebra]]
+- [[Heyting Algebra]]
 
 ## Group Theory
 - [[Group (Mathematics)]]

@@ -28,7 +28,7 @@ Livro foi BEM recomendado também, já tinha vontade de comprá-lo!! [Ensaios fi
 # Forma de valor simples
 ![[Pasted image 20240730193905.png]]
 
-[[Valor Relativo]] é um papel ativo: o [[Valor]] de uma [[Mercadoria]] só pode ser expresso **sensivelmente**, e como o valor não é sensível, ele precisa fazê-lo materialmente – e o faz através de outras mercadorias.
+[[Valor Relativo]] é um papel ativo: o [[valor]] de uma [[Mercadoria]] só pode ser expresso **sensivelmente**, e como o valor não é sensível, ele precisa fazê-lo materialmente – e o faz através de outras mercadorias.
 
 Na equiparação dos valores, equiparam-se os trabalhos contidos; da comparação dos abstratos, comparam-se os particulares.
 

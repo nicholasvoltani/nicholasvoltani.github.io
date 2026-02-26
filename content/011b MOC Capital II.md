@@ -10,7 +10,7 @@ related:: [[011a MOC Capital I]] // [[070 MOC Philosophy]]
 
 **Disclaimer**: Nestas notas, opto por utilizar o termo *capital-dinheiro* invés de "capital monetário" (cf. edição da Boitempo), seguindo o prof. Marcelo Carcanholo, devido não só por ser uma tradução mais fidedigna (*Geldkapital*), como devido à definição posterior de [[Capital Monetário]] por Hilderding, uma **outra** categoria *altogether*.
 
-# Seção I: As metamorfoses do [[Capital]] e seu ciclo
+# Seção I: As metamorfoses do [[capital]] e seu ciclo
 - [[Capital Industrial]]
 	- [[O capital só pode efetivar-se através de seu constante mudar de formas]]
 - [[Capital-Dinheiro]]

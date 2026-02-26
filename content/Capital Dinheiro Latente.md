@@ -13,7 +13,7 @@ up:: [[Capital-Dinheiro]]
 > "O fundo de acumulação de dinheiro é já a existência [*Dasein*] de capital [dinheiro] latente; portanto, a transformação de dinheiro em capital [dinheiro]." (MARX, p. 164) 
 
 
-Como a [[Reprodução Ampliada do Capital]] depende da [[Composição Orgânica do Capital]], i.e. da proporção necessária de variação de [[Capital Variável]] para dada variação de [[Capital Constante]], e de como tais variações *nem sempre são contínuas, mas discretas*, faz-se necessário que hajam ampliações de produção espaçadas entre si, entre as quais acumula-se o "capital" (recursos/[[Dinheiro]]) necessário para, de fato, ampliar a [[Processo de Produção Capitalista|produção]] (e, portanto, a magnitude deste [[Capital Industrial]]). 
+Como a [[Reprodução Ampliada do Capital]] depende da [[Composição Orgânica do Capital]], i.e. da proporção necessária de variação de [[Capital Variável]] para dada variação de [[Capital Constante]], e de como tais variações *nem sempre são contínuas, mas discretas*, faz-se necessário que hajam ampliações de produção espaçadas entre si, entre as quais acumula-se o "capital" (recursos/[[Dinheiro]]) necessário para, de fato, ampliar a [[processo de produção capitalista|produção]] (e, portanto, a magnitude deste [[Capital Industrial]]). 
 
 A acumulação de dinheiro necessária para tais ampliações são chamadas de capital dinheiro *latente*[^1], *in potentia*. Também é chamado de *fundo de acumulação*. 
 

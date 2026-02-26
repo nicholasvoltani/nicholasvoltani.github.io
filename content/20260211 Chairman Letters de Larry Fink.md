@@ -6,7 +6,7 @@ draft: "false"
 aliases:
 ---
 
-up:: [[Artigo sobre ESG]]
+up:: [[Artigo sobre ESG]] // [[099 MOC Rascunhos|099 MOC Anotações]]
 
 # Contagem de termos 'woke' das Chairman Letters de Larry Fink
 ## "ESG"
@@ -114,7 +114,8 @@ Só encheção de linguiça:
 Há uma concentração explícita sobre a discussão de "problemas sociais e ambientais" no final dos anos 2010, em particular mediante a crise instaurada pela pandemia em 2020. 
 
 O problema do ESG não é sua motivação de tornar o mundo mais sustentável, e sim seu instinto de associar o que "deve ser feito" com o que "traz bons retornos financeiros". Não é o redirecionamento de recursos financeiros e de capital para atividades mais sustentáveis o que é criticado por uma visão anticapitalista, e sim que estas atividades tenham de fazer sua própria existência caber adequadamente em portfólios de lá e de acolá, que o fardo mais leve da sobrevivência daqueles que delas dependem sejam, antes de tudo, um galardão que mais pese nos bolsos de seus honoráveis patronos.
-l
+
+
 
 
 ---

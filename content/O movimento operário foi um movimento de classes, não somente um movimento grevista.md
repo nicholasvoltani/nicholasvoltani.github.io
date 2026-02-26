@@ -15,7 +15,7 @@ up::
 
 O movimento operário que surge no século XIX, em meio ao avanço da [[Revolução Industrial]], não consistia puramente nos movimentos de revolta contra as condições deploráveis de vida, nem somente de greves ─ embora manifestasse tais características e manifestações.
 
-O que caracteriza o movimento operário é sua [[Conscientização de Classe]]: a noção de que a sociedade que surgia na época consistia essencialmente naqueles que possuíam os [[Meios de Produção]] e aqueles totalmente despojados desses meios de vida, sendo forçados a vender sua [[Força de Trabalho]] para sobreviver. 
+O que caracteriza o movimento operário é sua [[Conscientização de Classe]]: a noção de que a sociedade que surgia na época consistia essencialmente naqueles que possuíam os [[meios de produção]] e aqueles totalmente despojados desses meios de vida, sendo forçados a vender sua [[Força de Trabalho]] para sobreviver. 
 
 ---
 ### References

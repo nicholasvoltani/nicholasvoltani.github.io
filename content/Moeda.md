@@ -18,4 +18,4 @@ Chama-se de moeda um tipo de ativo ([[061c1 MOC Sistema Financeiro Nacional|fina
 - [[Moeda Fiduciária]]: não possui lastro algum, portanto não sendo uma mercadoria (*stricto sensu*)
 - [[Moeda Escritural]]: consiste na mera *representação* de moeda, consistindo no *saldo em conta corrente* em [[Banco Comercial|Bancos Comerciais]]
 
-[^1]: Tem *alguma* relação com a noção de [[Valor]] em Marx, mas é sutil.
+[^1]: Tem *alguma* relação com a noção de [[valor]] em Marx, mas é sutil.

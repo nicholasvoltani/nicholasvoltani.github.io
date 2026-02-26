@@ -38,7 +38,7 @@ Incide **IOF**: Imposto sobre *Operações Financeiras*.
 Pagamentos antecipados devem permitir **deságio**: restante de parcelas a amortizar não terão incidência original de juros, e sim dependerão de sistema de amortização (e.g. [[Sistema Price de Amortização]]). 
 
 # Crédito Rural
-[[Banco Central]] autoriza operação de alguns [[Operadores do Sistema Financeiro Nacional]] a conceder crédito rural, como Banco do Brasil, Banco do Nordeste, Banco da Amazônia, etc. (Beneficiam, em particular, o [[Agronegócio]].)
+[[Banco Central]] autoriza operação de alguns [[Operadores do Sistema Financeiro Nacional]] a conceder crédito rural, como Banco do Brasil, Banco do Nordeste, Banco da Amazônia, etc. (Beneficiam, em particular, o [[agronegócio]].)
 
 Suas modalidades são:
 1) **Investimento**: para [[Formação Bruta do Capital Fixo]] (a jusante da produção)

@@ -18,4 +18,4 @@ Nesse ínterim, seus "músculos, nervos, cérebro, etc" e tempo são passíveis 
 ### Referências
 - MARX, Karl. **O capital-Livro 1: Crítica da economia política. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
 
-[^1]: Inclusive, o próprio propósito do [[Processo de Produção Capitalista]] é de empregar a força de trabalho para além do [[Tempo de Trabalho Socialmente Necessário]], para geração de [[Mais-Valor]].
+[^1]: Inclusive, o próprio propósito do [[processo de produção capitalista]] é de empregar a força de trabalho para além do [[Tempo de Trabalho Socialmente Necessário]], para geração de [[Mais-Valor]].

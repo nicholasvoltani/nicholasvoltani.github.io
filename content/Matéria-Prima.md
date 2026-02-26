@@ -13,7 +13,7 @@ aliases:
 
 Matéria-prima é o produto de um trabalho de tal forma que ele possa ser reutilizado em um trabalho posterior, constituindo o **corpo material** do objeto deste trabalho posterior. Tal produto pode, ou não, ter sido produzido **exclusivamente** para ser utilizado em uma atividade posterior; no caso em que ele é criado expressamente para ser empregado em um trabalho posterior, ele é chamado de **produto intermediário**.
 
-Um mesmo objeto pode servir como matéria-prima para **processos de trabalho qualitativamente distintos** (e.g. cereal pode servir tanto como insumo do cervejeiro quanto para alimentar o gado), assim como um mesmo objeto pode servir tanto de matéria-prima como de [[Meios de Produção]] (e.g. gado que *possui/gera* carne e *produz* esterco).
+Um mesmo objeto pode servir como matéria-prima para **processos de trabalho qualitativamente distintos** (e.g. cereal pode servir tanto como insumo do cervejeiro quanto para alimentar o gado), assim como um mesmo objeto pode servir tanto de matéria-prima como de [[meios de produção]] (e.g. gado que *possui/gera* carne e *produz* esterco).
 
 ---
 ### Referências

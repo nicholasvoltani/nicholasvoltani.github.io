@@ -9,7 +9,7 @@ up:: [[Mais-Valor]]
 
 > "Ao mais-valor obtido pelo prolongamento da jornada de trabalho chamo de mais-valor absoluto; ao mais-valor que, ao contrário, deriva da redução do tempo de trabalho necessário e da correspondente alteração na proporção entre as duas partes da jornada de trabalho chamo de mais-valor relativo." (MARX, p. 390)
 
-Trata-se do mais-valor obtido através da mudança da proporção entre [[Tempo Excedente de Trabalho]] e [[Tempo de Trabalho Socialmente Necessário]], numa [[Jornada de Trabalho]] constante, ocorrida devido a inovações tecnológicas no [[Processo de Produção Capitalista|Modo de Produção Capitalista]]. 
+Trata-se do mais-valor obtido através da mudança da proporção entre [[Tempo Excedente de Trabalho]] e [[Tempo de Trabalho Socialmente Necessário]], numa [[Jornada de Trabalho]] constante, ocorrida devido a inovações tecnológicas no [[processo de produção capitalista|Modo de Produção Capitalista]]. 
 
 Marx distingue entre o mais-valor obtido pelo capitalista *individual* e pela *classe capitalista* como um todo:
 - O [[Mais-Valor Adicional]] obtido pelo capitalista individual ocorre devido à produção aumentada que ele obtém através de alterações técnicas/tecnológicas em seu processo particular de produção, *ceteris paribus* no trabalho socialmente necessário desta [[Mercadoria]]

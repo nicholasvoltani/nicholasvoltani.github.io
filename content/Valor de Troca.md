@@ -14,7 +14,7 @@ up:: [[011a MOC Capital I]]
 
 O valor de troca de uma mercadoria advém de sua comparação com outras mercadorias, e das relações de proporcionalidade que as equiparam: $x$ gramas de trigo podem ser trocados por $y$ gramas de seda, e por aí vai para outras mercadorias. 
 
-Como tais comparações equiparam [[Valor de Uso|valores de uso]] qualitativamente diferentes, Marx infere que haja alguma quantidade substancial[^1] da qual estas proporções de mercadorias compartilhem, a qual **abstrai** dos caráteres úteis de mercadorias quaisquer. Tal quantidade comum é justamente a quantidade de [[Trabalho Abstrato]] empregado para a confecção dos valores de uso referidos, e é, então, chamada de **[[Valor|valor]]**: ela quantifica o [[Tempo de Trabalho Socialmente Necessário]], de puro dispêndio de energia humana necessária (em média) para a produção de dado valor de uso. 
+Como tais comparações equiparam [[Valor de Uso|valores de uso]] qualitativamente diferentes, Marx infere que haja alguma quantidade substancial[^1] da qual estas proporções de mercadorias compartilhem, a qual **abstrai** dos caráteres úteis de mercadorias quaisquer. Tal quantidade comum é justamente a quantidade de [[Trabalho Abstrato]] empregado para a confecção dos valores de uso referidos, e é, então, chamada de **[[valor|valor]]**: ela quantifica o [[Tempo de Trabalho Socialmente Necessário]], de puro dispêndio de energia humana necessária (em média) para a produção de dado valor de uso. 
 
 Portanto, o valor de troca de uma mercadoria é uma medida meramente formal, derivada de algo mais fundamental: **ser produto do trabalho humano**.
 

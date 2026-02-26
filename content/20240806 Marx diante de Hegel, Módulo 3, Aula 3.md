@@ -13,7 +13,7 @@ Problematização do termo "abstração real".
 # 3) Seria o Capital o Espírito (Geist) hegeliano?
 ![[Pasted image 20240806191720.png]]
 
-O capital é descrito como "substância automovente" ([[Valor]] que se valoriza), age como um sujeito.
+O capital é descrito como "substância automovente" ([[valor]] que se valoriza), age como um sujeito.
 
 # "Abstração real" em Marx
 ![[Pasted image 20240806192032.png]]

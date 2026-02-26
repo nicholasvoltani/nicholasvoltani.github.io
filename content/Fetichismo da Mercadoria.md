@@ -16,7 +16,7 @@ up:: [[011a MOC Capital I]] // [[Fetichismo]]
 > "[No mundo religioso], os produtos do cérebro humano parecem dotados de vida própria, como figuras independentes que travam relação umas com as outras e com os homens. Assim se apresentam, no mundo das mercadorias, os produtos da mão humana. A isso eu chamo de fetichismo, que se cola aos produtos do trabalho tão logo eles são produzidos como mercadorias e que, por isso, é inseparável da produção de mercadorias." (Ibid., p. 148; grifo meu)
 
 O fetichismo da mercadoria, como Marx o define, consiste no caráter misterioso que as [[Mercadoria|Mercadorias]], "coisas óbvias, triviais" à primeira vista, assumem enquanto [[Forma-Mercadoria]], ou seja, 
-- que possuem uma substância própria — [[Valor]]
+- que possuem uma substância própria — [[valor]]
 - com grandeza definida — [[Tempo de Trabalho Socialmente Necessário]] à sua produção
 - e, portanto, possuem um vínculo "intrínseco" com as demais mercadorias — [[Valor de Troca]]
 
@@ -47,7 +47,7 @@ O caráter apartado que os valores das mercadorias assumem quanto ao trabalho de
 
 
 %% 
-O fetichismo da mercadoria consiste na atribuição de [[Valor|valor]] como um atributo natural, "trivial", a [[Valor de Uso|valores de uso]]. Tal caráter das [[Mercadoria|Mercadorias]] somente aparecem comumente numa sociedade desenvolvida plenamente (no capitalismo), ou seja, quando as mercadorias são produzidas justamente para serem vendidas (i.e. ). 
+O fetichismo da mercadoria consiste na atribuição de [[valor|valor]] como um atributo natural, "trivial", a [[Valor de Uso|valores de uso]]. Tal caráter das [[Mercadoria|Mercadorias]] somente aparecem comumente numa sociedade desenvolvida plenamente (no capitalismo), ou seja, quando as mercadorias são produzidas justamente para serem vendidas (i.e. ). 
 
 Tal fenômeno é uma manifestação da noção de [[Fetichismo]] em geral, em que características sociais (i.e. de relações *humanas*) [[Aparência|aparecem]] como atributos objetivos de *coisas*.
 
@@ -79,4 +79,4 @@ Tal forma fetichista desdobra-se, dialeticamente, no [[Fetichismo do Dinheiro]]:
 - **Marxismo e psicanálise: o mito do egoísmo inato**, Eleutério F. S. Prado: https://outraspalavras.net/alemdamercadoria/marxismo-e-psicanalise-o-mito-do-egoismo-inato/?utm_source=pocket_mylist
 
 [^1]: [[Alienação do Trabalho]]. 
-[^2]: [[Processo de Produção Capitalista|Modo de Produção Capitalista]]. 
+[^2]: [[processo de produção capitalista|Modo de Produção Capitalista]]. 

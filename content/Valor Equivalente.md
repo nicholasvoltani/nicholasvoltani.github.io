@@ -3,7 +3,7 @@ date: 2024-06-05
 tags:
   - marxism
 ---
-up:: [[Valor]]
+up:: [[valor]]
 
 ![[diagram-20240605 1.svg]]
 

@@ -11,11 +11,11 @@ up:: [[011b MOC Capital II]]
 
 Formalmente, o ciclo do capital-dinheiro pode ser simplificadamente visto como o [[Ciclo D─M─D']], em que "mistifica-se" que o [[Mais-Valor]] surge da *produção*, parecendo surgir puramente da *circulação*.[^1]
 
-Ao destacar a presença da [[Processo de Produção Capitalista|produção]], o ciclo pode ser escrito como
+Ao destacar a presença da [[processo de produção capitalista|produção]], o ciclo pode ser escrito como
 $$
 D-M\Big\lt^{FT}_{Mp} \dots P \dots M' - D'
 $$
-onde destaca-se que há uma relação dialética entre *circulação* e *produção*: para que haja circulação de [[Capital]], deve haver produção, a qual "nega" a circulação, interrompe-a; para que haja produção, deve haver circulação (de [[Meios de Produção]] e [[Força de Trabalho]]), a qual interrompe o processo de produção, nega-o. 
+onde destaca-se que há uma relação dialética entre *circulação* e *produção*: para que haja circulação de [[capital]], deve haver produção, a qual "nega" a circulação, interrompe-a; para que haja produção, deve haver circulação (de [[meios de produção]] e [[Força de Trabalho]]), a qual interrompe o processo de produção, nega-o. 
 
 Neste ciclo específico do [[Capital Industrial]], a produção *aparece* como mera mediadora dos dois polos da circulação: a compra $D-M$, e a venda $M'-D'$, em que o processo $M-M'$ é associado à própria circulação[^2]. 
 > "O processo de produção *aparece* apenas como inevitável elo intermediário, um mal necessário ao ato de fazer dinheiro." (MARX, p. 135)

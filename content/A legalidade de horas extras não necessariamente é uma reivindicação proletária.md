@@ -12,7 +12,7 @@ O pagamento de horas extras de trabalho não só é uma reivindicação dos trab
 ## Paralelos com *Tragedy of the Commons*
 Tal reivindicação vinda da parte dos próprios capitalistas acaba relembrando o exemplo de Teoria dos Jogos, de *Tragedy of the Commons*, onde a melhor estratégia seria a de que todos os capitalistas não forçassem seus trabalhadores a trabalhar (tantas) horas extras ─ não por moralismo, e sim por melhor conservação e reprodução de sua força de trabalho ─, mas que aqueles que **deviate** dessa estratégia são muito mais recompensados: tanto pela maior extração de mais-valor, quanto pela "falta" de concorrência, posto que os outros capitalistas estão "abstendo-se" de agir de acordo. Dessa forma, faz-se necessário alguma **ação legal**, a fim de que se desincentive (monetariamente) tal desvio da estratégia de "abdicação geral".
 
-240630: É literalmente uma discussão sobre estratégias dominantes, e a alteração de suas "funções utilidade" mediante, principalmente, aparatos legislativos.
+240630: É literalmente uma discussão sobre [[Estratégia Dominada|Estratégias Dominantes]], e a alteração de suas "funções utilidade" mediante, principalmente, aparatos legislativos.
 
 ---
 ### Referências

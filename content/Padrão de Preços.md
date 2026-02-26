@@ -11,7 +11,7 @@ up:: [[Dinheiro]]
 
 Dada a função de [[Medida de Valor]] da mercadoria-dinheiro $D$, com o tempo estabelece-se algum *padrão de medida* de $D$. Não é à toa, portanto, que moedas metálicas têm nomes de *unidades de pesos*.
 
-Por exemplo, 1 libra esterlina (£1) contém [7.32 gramas de ouro puro](https://en.wikipedia.org/wiki/Sovereign_(British_coin)). Ou seja, se $x$ unidades de uma mercadoria $M$ [[Valor|valem]] $d$ gramas de ouro, então valem £$\frac{d}{7.32}$ libras.[^1]
+Por exemplo, 1 libra esterlina (£1) contém [7.32 gramas de ouro puro](https://en.wikipedia.org/wiki/Sovereign_(British_coin)). Ou seja, se $x$ unidades de uma mercadoria $M$ [[valor|valem]] $d$ gramas de ouro, então valem £$\frac{d}{7.32}$ libras.[^1]
 
 Ou seja, pelo padrão de preços "quantidades de ouro se medem por determinada quantidade de ouro", ou melhor, por determinada quantidade *oficial*. Eventualmente, porém, esses padrões desvinculam-se das divisões "materiais" com as quais poderiam, porventura, coincidir originalmente.[^2]
 

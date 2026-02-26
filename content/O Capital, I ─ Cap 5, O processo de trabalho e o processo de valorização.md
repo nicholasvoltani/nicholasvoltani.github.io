@@ -5,10 +5,10 @@ tags:
   - marxism
 ---
 # O Capital, I ─ Cap 5, O processo de trabalho e o processo de valorização
-## O [[Processo de Produção Capitalista]]
+## O [[processo de produção capitalista]]
 O processo de produção no modo de produção capitalista possui duas formas opostas:
 * O processo de trabalho, que gera [[Valor de Uso]]
-* O processo de valorização, que gera [[Valor]] e [[Mais-Valor]]
+* O processo de valorização, que gera [[valor]] e [[Mais-Valor]]
 
 ## Paralelos entre relação dialética da mercadoria com a relação dialética do trabalho
 > "Assim como a própria mercadoria é **unidade de valor de uso e valor**, seu processo de produção tem de ser a **unidade de processo de trabalho e o processo de formação de valor**." (p. 263)
@@ -21,7 +21,7 @@ Tal processo diz respeito a uma forma **específica** do [[Trabalho|trabalho hum
 
 Seus elementos característicos são 
 * o **sujeito** que realiza o trabalho
-* os **instrumentos** empregados nesse trabalho ([[Meios de Produção]])
+* os **instrumentos** empregados nesse trabalho ([[meios de produção]])
 * o **objeto** sobre o qual se trabalha
 
 #### Os instrumentos do trabalho
@@ -60,7 +60,7 @@ Portanto, o valor da [[Mercadoria]] produzida pela Força de Trabalho tem seu va
 * \+ valor da força de trabalho
 * \+ mais-valor
 
-## Transformação do dinheiro em [[Capital]]
+## Transformação do dinheiro em [[capital]]
 > "Esse ciclo inteiro, a transformação [do] dinheiro em capital, ocorre no **interior** da esfera da circulação, porque é determinado pela **compra da força de trabalho** no mercado. Mas ocorre **fora** da circulação, pois esta [a esfera da circulação] apenas dá início ao processo de valorização, que tem lugar na esfera da **produção**." (p. 271)
 
 ## O que é caracterizado como [[Tempo de Trabalho Socialmente Necessário]]

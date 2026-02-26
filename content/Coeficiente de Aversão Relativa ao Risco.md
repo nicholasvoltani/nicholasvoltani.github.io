@@ -12,14 +12,14 @@ Dada uma [[Utilidade de Bernoulli]] $u(\cdot)$, defina-se (para dada riqueza $x$
 As derivadas parciais de $\tilde{u}(t)$ são
 $$
 \begin{cases}
-\frac{ \partial \tilde{u}(t)}{ \partial t } = x u'(tx) \\
-\frac{ \partial^{2} \tilde{u}(t) }{ \partial^{2} t } = x^{2} u''(tx) 
+\frac{ d \tilde{u}(t)}{ d t } = x u'(tx) \\
+\frac{ d^{2} \tilde{u}(t) }{ d^{2} t } = x^{2} u''(tx) 
 \end{cases}
 $$
 
 Fazendo um análogo do coeficiente de Arrow-Pratt para $\tilde{u}$ — avaliado em $t=1$, pois interessa analisar variações *em torno de $x$* —, chegamos ao coeficiente de aversão relativa ao risco:
 $$
-r_{R}(x, u) \coloneqq -\frac{\frac{ \partial^{2} \tilde{u}(t=1) }{ \partial^{2} t }}{\frac{ \partial \tilde{u}(t=1)}{ \partial t }} = - x \frac{u''(x)}{u'(x)} = x \, r_A(x,u)
+r_{R}(x, u) \coloneqq -\frac{\frac{ d^{2} \tilde{u}(t=1) }{ d^{2} t }}{\frac{ d \tilde{u}(t=1)}{ d t }} = - x \frac{u''(x)}{u'(x)} = x \, r_A(x,u)
 $$
 
 ---

@@ -18,7 +18,7 @@ Ou seja, o caráter *natural* das coisas possui momento ontológico sobre seu ca
 
 > "O valor de uso se efetiva apenas no uso ou no consumo. Os valores de uso formam o conteúdo material [*stofflichen Inhalt*] da riqueza, qualquer que seja a forma social desta. Na forma de sociedade que iremos analisar, eles constituem, ao mesmo tempo, os suportes materiais [*stofflichen Träger*] do valor de troca." (Ibid.)
 
-Ou seja, os valores de uso são os suportes do [[Valor]], **não seus corpos-mercadoria**!! Não é a materialidade em que o valor de uso está "apoiado sobre" que constitui o "suporte material" do valor, e sim o próprio valor de uso, a própria utilidade. Dessa forma, **ambos são algo puramente social**!
+Ou seja, os valores de uso são os suportes do [[valor]], **não seus corpos-mercadoria**!! Não é a materialidade em que o valor de uso está "apoiado sobre" que constitui o "suporte material" do valor, e sim o próprio valor de uso, a própria utilidade. Dessa forma, **ambos são algo puramente social**!
 
 > "Questionar a existência do valor só porque a sua forma é incapaz de expressá-lo adequadamente eqüivale a questionar a existência de fenômenos só porque não conseguimos enxergá-los, ou seja, questionar a existência da essência por causa das limitações explicativas da aparência." (CARCANHOLO, 1998, p. 21)
 

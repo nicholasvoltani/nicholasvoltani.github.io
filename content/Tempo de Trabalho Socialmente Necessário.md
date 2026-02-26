@@ -9,7 +9,7 @@ up:: [[011a MOC Capital I]]
 
 > "Tempo de trabalho socialmente necessário é aquele requerido para produzir um valor de uso sob as *condições normais* para uma dada sociedade e com o grau *médio* de destreza e intensidade do trabalho." (MARX, p. 117; grifo meu)
 
-O tempo de trabalho socialmente necessário é a quantidade de tempo médio para a produção de uma dada mercadoria: ou seja, é uma medição do [[Trabalho Abstrato]] médio necessário (em uma dada sociedade) para gerá-la. Portanto, é a medida do [[Valor]] de uma [[Mercadoria]] – inclusive da própria [[Força de Trabalho]] ([[Valor da Força de Trabalho]]).
+O tempo de trabalho socialmente necessário é a quantidade de tempo médio para a produção de uma dada mercadoria: ou seja, é uma medição do [[Trabalho Abstrato]] médio necessário (em uma dada sociedade) para gerá-la. Portanto, é a medida do [[valor]] de uma [[Mercadoria]] – inclusive da própria [[Força de Trabalho]] ([[Valor da Força de Trabalho]]).
 
 É justamente por ser uma quantidade que abstrai das características qualitativas do trabalho gerador de determinada mercadoria que esta quantidade pode ser comparável entre diferentes mercadorias – e, portanto, é por isso que diferentes mercadorias podem confrontar-se através de seus [[Valor de Troca|valores de troca]].
 

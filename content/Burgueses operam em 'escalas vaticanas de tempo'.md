@@ -9,7 +9,7 @@ draft: true
 
 up:: 
 
-Ideia de que burgueses, pessoas detentoras de [[Meios de Produção]] (quaisquer que sejam), pensam em escalas de tempo muito mais dilatadas do que o indivíduo comum: pensam em como suas propriedades perdurarão por anos e décadas, invés de semanas e meses, como o pobre coitado assalariado médio.
+Ideia de que burgueses, pessoas detentoras de [[meios de produção]] (quaisquer que sejam), pensam em escalas de tempo muito mais dilatadas do que o indivíduo comum: pensam em como suas propriedades perdurarão por anos e décadas, invés de semanas e meses, como o pobre coitado assalariado médio.
 
 ---
 ### Referências

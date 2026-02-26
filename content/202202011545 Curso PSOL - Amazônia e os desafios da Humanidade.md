@@ -39,7 +39,7 @@ Premissas:
  Características da produção amazônida
  - Sistema de produção anacrônico: possui fases distintas do capitalismo amalgamadas entre si
 	 - **Acumulação primitiva** (século XVII): colonização, advinda do roubo e saque dos recursos naturais, através da **violência**; somente através da morte se produz o saque
-		 - Própria do [[Agronegócio]], o qual se sustenta através da violência contra comunidades indígenas e/ou indigenistas
+		 - Própria do [[agronegócio]], o qual se sustenta através da violência contra comunidades indígenas e/ou indigenistas
 	 - **Capitalismo mercantil/industrial** (século XVIII): manufatura e produção artesanal de [[Mercadoria|mercadorias]]; **servidão rural**, escravismo e comércio
 		 - Exemplo da **Zona Franca de Manaus**, a qual serve como mera plataforma de montagem com baixa tributação; mão-de-obra quase sem direitos trabalhistas e sem futuro
 		 - **Projeto Jari**: fábrica às margens do Rio Jari, cuja atividade era extração e produção de madeira destinada à fabricação de **celulose**

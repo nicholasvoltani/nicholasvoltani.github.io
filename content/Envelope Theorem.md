@@ -32,15 +32,15 @@ $$
 
 Logo, temos que a variação da função $f$ **otimizada** com relação à variável $\alpha$ se dá através do lagrangiano otimizado[^4].
 
-Podemos analisar as derivadas de $\mathcal{L}$ com relação a $\alpha$, para depois avaliarmos em seu ponto ótimo $x^*(\alpha)$. Como $\mathcal{L}$ foi maximizada com relação a $x$ e $\lambda$, não há problema nessa comutação, ou seja,
+Podemos analisar as derivadas de $\mathcal{L}$ com relação a $\alpha$, para depois avaliarmos em seu ponto ótimo $x^*(\alpha)$. Como $\mathcal{L}$ foi maximizada com relação a $x$ e $\lambda$ (e não com relação a $\alpha$!), pode-se intercambiar a derivada do lagrangiano otimizado com relação a $\alpha$ \& a derivada do lagrangiano geral com relação a $\alpha$, avaliado no ponto ótimo. Ou seja,
 $$
 \frac{d \mathcal{L}^*}{d\alpha} = \frac{ \partial \mathcal{L}(x=x^*(\alpha), \alpha) }{ \partial \alpha } =  \frac{ \partial \mathcal{L(x, \alpha)} }{ \partial \alpha }\Bigg|_{x^*(\alpha)} 
 $$
 
 Expandindo $\frac{ \partial \mathcal{L} }{ \partial \alpha }$, temos
 $$
-\begin{align*}
-\frac{df^*}{d\alpha} = 
+\begin{align*} 
+\frac{d\mathcal{L}^*}{d\alpha} \equiv  \frac{df^*}{d\alpha} = 
 \frac{ \partial \mathcal{L} }{ \partial \alpha }\Bigg|_{x^*(\alpha)} &= 
 \left[ \frac{ \partial f }{ \partial x } \frac{ \partial x }{ \partial \alpha } \right]_{x^*} + 
 \left[ \frac{ \partial f }{ \partial \alpha } \right]_{x^*}  + 

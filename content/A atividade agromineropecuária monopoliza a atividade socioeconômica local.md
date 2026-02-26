@@ -4,7 +4,7 @@ tags:
   - evergreen
   - mini-essay
 ---
-Grandes agentes tanto do mineronegócio quanto do [[Agronegócio]] em si são responsáveis por fazer a vida completa de cidades inteiras girarem em torno de seus interesses, exercendo influência socioeconômica e política. 
+Grandes agentes tanto do mineronegócio quanto do [[agronegócio]] em si são responsáveis por fazer a vida completa de cidades inteiras girarem em torno de seus interesses, exercendo influência socioeconômica e política. 
 
 ## Monopólio do comércio e da mão-de-obra
 Monopolizam a atividade econômica local, empregando o máximo de [[Força de Trabalho]] que consegue para si, assim como influencia o Estado em quais obras de infraestrutura aprovar, leis, tráfico de influência para aquisição facilitada de terras... e impunidade quanto a crimes ambientais, como Vale e Samarco. 

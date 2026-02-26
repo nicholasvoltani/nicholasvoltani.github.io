@@ -74,6 +74,7 @@ const config: QuartzConfig = {
 	  Plugin.HardLineBreaks(),
 	  Plugin.Latex(),
     Plugin.Citations({
+      "linkCitations": true,
       "csl": "https://raw.githubusercontent.com/citation-style-language/styles/refs/heads/master/associacao-brasileira-de-normas-tecnicas.csl"
     })
     ],

@@ -1,12 +1,13 @@
 ---
-date: "2025-11-15"
+date: 2025-11-15
 tags:
   - daily
+  - to-be-elaborated
 draft: "false"
 aliases:
 ---
 
-up:: 
+up:: [[099 MOC Rascunhos|099 MOC Anotações]]
 
 # ESG como artifício retórico e hegemônico — [[Artigo sobre ESG]]
 Dessa forma, ESG é mais uma manifestação dessa ''pasteurização'' que o capitalismo perpetra. ([[O capitalismo mercadorifica ímpetos antissistêmicos]]; [[ESG é uma versão meramente formal de sustentabilidade]]). Como a "cheia do mainstream" (POSSAS, 1997) parece fazer na economia, como os fenômenos de *récuperation*[^1].
@@ -16,9 +17,11 @@ No fim das contas, parece estar a par da noção de [[Realismo Capitalista]] (ca
 ## Relação com o caráter revolucionário da Ciência & realismo empírico
 Todo agir humano, por ser finalístico por essência[^3], pressupõe algum conhecimento do funcionamento dos objetos de seu trabalho. 
 
-> "Se, de um lado, o agir humano não pode dispensar o conhecimento correto das causas materiais sobre e com as quais ele opera e, de outro, tem por objetivo provar esse conhecimento, então ela [a ciência] possui a capacidade de facultar uma prática que efetivamente amplie o grau de liberdade humana", através da melhor possibilidade de domínio de alguma faceta do mundo. Essa capacidade da ciência de conferir aos seres humanos um domínio mais amplo sobre o mundo, natural e social, é em si o seu conteúdo emancipatório." (MEDEIROS, p. 101)
+[[A ciência tem um caráter inerentemente emancipatório]]
 
-O avanço do [[Capital]] estabelece, contraditória porém imanentemente, uma hipotrofia do caráter revolucionário da Ciência. Contraditoriamente, pois o capital requer que a técnica e a tecnologia sejam o mais e eficientes possível[^2] para obter sucesso em valorizar-se; imanentemente, pois a própria [[Ontologia]] que a sociedade capitalista pressupõe implicitamente é um [[Realismo Empírico]], em que o mundo é totalmente saturado pelos fenômenos [[Dimensão Empírica da Realidade|Empíricos]], havendo, portanto, uma naturalização e concreteza nas estruturas que já existem, em que a ciência assume um caráter instrumental, empunhada e brandida pelo capital e seus interesses. 
+> "Se, de um lado, o agir humano não pode dispensar o conhecimento correto das causas materiais sobre e com as quais ele opera e, de outro, tem por objetivo provar esse conhecimento, então ela [a ciência] possui a capacidade de facultar uma prática que efetivamente amplie o grau de liberdade humana, através da melhor possibilidade de domínio de alguma faceta do mundo. Essa capacidade da ciência de conferir aos seres humanos um domínio mais amplo sobre o mundo, natural e social, é em si o seu conteúdo emancipatório." (MEDEIROS, p. 101)
+
+O avanço do [[capital]] estabelece, contraditória porém imanentemente, uma hipotrofia do caráter revolucionário da Ciência. Contraditoriamente, pois o capital requer que a técnica e a tecnologia sejam o mais e eficientes possível[^2] para obter sucesso em valorizar-se; imanentemente, pois a própria [[Ontologia]] que a sociedade capitalista pressupõe implicitamente é um [[realismo empírico]], em que o mundo é totalmente saturado pelos fenômenos [[Dimensão Empírica da Realidade|Empíricos]], havendo, portanto, uma naturalização e concreteza nas estruturas que já existem, em que a ciência assume um caráter instrumental, empunhada e brandida pelo capital e seus interesses. 
 
 ## Realismo empírico $\implies$ Atomismo social
 > "O atomismo social, para expressá-lo sinteticamente, nada mais é do que a concepção do mundo do realismo empírico. Em outras palavras, considerar que a realidade social seja exaurida pelos fenômenos empíricos é equivalente a admitir que esta realidade é constituída exclusivamente por indivíduos e suas ações, *já que estas são as únicas coisas efetivamente empíricas existentes na sociedade*." (MEDEIROS, p. 122-3; grifo no original)

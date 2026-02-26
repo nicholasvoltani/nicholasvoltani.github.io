@@ -6,7 +6,7 @@ tags:
 aliases:
 ---
 
-up:: [[011b MOC Capital II]] // [[Capital]]
+up:: [[011b MOC Capital II]] // [[capital]]
 
 <!-- https://q.uiver.app/#q=WzAsMyxbMSwwLCJLRCJdLFsyLDIsIktQIl0sWzAsMiwiS00iXSxbMCwxLCJcXHRleHR7Q29tcHJhfSIsMSx7ImN1cnZlIjotMn1dLFsxLDIsIlxcdGV4dHtQcm9kdcOnw6NvfSIsMSx7ImN1cnZlIjotMn1dLFsyLDAsIlxcdGV4dHtWZW5kYX0iLDEseyJjdXJ2ZSI6LTJ9XV0= --> <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsMyxbMSwwLCJLRCJdLFsyLDIsIktQIl0sWzAsMiwiS00iXSxbMCwxLCJcXHRleHR7Q29tcHJhfSIsMSx7ImN1cnZlIjotMn1dLFsxLDIsIlxcdGV4dHtQcm9kdcOnw6NvfSIsMSx7ImN1cnZlIjotMn1dLFsyLDAsIlxcdGV4dHtWZW5kYX0iLDEseyJjdXJ2ZSI6LTJ9XV0=&embed" width="300" height="300" style="border-radius: 8px; border: none;"></iframe>
 
@@ -14,9 +14,9 @@ up:: [[011b MOC Capital II]] // [[Capital]]
 > 
 > "A circulação de mercadorias lhe serve [ao capital], no primeiro estágio, para que [o capital] assuma a forma sob a qual pode funcionar como capital produtivo; no segundo estágio, para eliminar a função de mercadoria na qual o capital não pode renovar seu ciclo e, ao mesmo tempo, para lhe dar a possibilidade de separar seu próprio ciclo de capital da circulação do mais-valor por ele criado." (Ibid., p. 138)
 
-Para que o [[Capital]] consiga efetivar seu [[Conteúdo]] de extrair cada vez mais [[Mais-Valor]], ele precisa estar *em movimento*, o que quer dizer que precisa estar constantemente mudando de [[Forma|Formas]].
+Para que o [[capital]] consiga efetivar seu [[Conteúdo]] de extrair cada vez mais [[Mais-Valor]], ele precisa estar *em movimento*, o que quer dizer que precisa estar constantemente mudando de [[Forma|Formas]].
 
-Assume a forma de [[Capital-Dinheiro]] para que possa adquirir (na circulação) [[Meios de Produção]] e [[Força de Trabalho]], [[Mercadoria|Mercadorias]] necessárias para a produção, i.e. sai da esfera da circulação; neste fazer, assume a forma de [[Capital Produtivo]], no qual [[Valor de Uso|usufrui produtivamente]] de suas mercadorias e produz mercadorias "prenhes de mais-valor", que precisam ser *vendidas* para que aproprie-se dele; neste fazer, assume a forma de [[Capital-Mercadoria]], que requer que a mercadoria produzida seja vendida, para que seu (mais-)[[Valor]] seja efetivado — na [[Forma-Dinheiro]], pronta para ser reinvestida[^1]. E o ciclo continua enquanto puder. 
+Assume a forma de [[Capital-Dinheiro]] para que possa adquirir (na circulação) [[meios de produção]] e [[Força de Trabalho]], [[Mercadoria|Mercadorias]] necessárias para a produção, i.e. sai da esfera da circulação; neste fazer, assume a forma de [[Capital Produtivo]], no qual [[Valor de Uso|usufrui produtivamente]] de suas mercadorias e produz mercadorias "prenhes de mais-valor", que precisam ser *vendidas* para que aproprie-se dele; neste fazer, assume a forma de [[Capital-Mercadoria]], que requer que a mercadoria produzida seja vendida, para que seu (mais-)[[valor]] seja efetivado — na [[Forma-Dinheiro]], pronta para ser reinvestida[^1]. E o ciclo continua enquanto puder. 
 
 Enquanto estiver em movimento, é capital. Quando não estiver em movimento, não é capital; é capital *latente*.
 > "O ciclo do capital só se desenrola normalmente enquanto suas distintas fases se sucedem sem interrupção[^3]. Se o capital estaciona na segunda fase $D-M$, o capital [dinheiro] se enrijece como tesouro; se estaciona na fase da produção, tem-se, de um lado, que os meios de produção restam desprovidos de qualquer função, e, de outro, que a força de trabalho permanece ociosa[^2]; se estaciona na última fase $M'-D'$, as mercadorias não vendidas e acumuladas bloqueiam o fluxo da circulação." (MARX, 2014, p. 132)

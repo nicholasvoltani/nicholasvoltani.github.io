@@ -9,7 +9,7 @@ aliases:
 
 up:: [[011a MOC Capital I]]
 
-related:: [[Trabalho Assalariado]]
+related:: [[trabalho assalariado]]
 
 > "A forma-salário extingue, portanto, todo vestígio da divisão da jornada de trabalho em trabalho necessário e mais-trabalho, em trabalho pago e trabalho não pago. Todo trabalho *aparece* como trabalho pago." (MARX, p. 610)
 

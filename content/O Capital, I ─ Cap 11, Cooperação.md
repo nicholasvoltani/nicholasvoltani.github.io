@@ -29,11 +29,11 @@ nos quais Marx dá uma contextualização histórica do surgimento do processo d
 ## Definição: [[Cooperação]]
 > "Forma de trabalho em que **muitos trabalham planejadamente**, lado a lado e **conjuntamente**, no **mesmo processo de produção**, ou em processos de produção **diferentes, mas conexos**, chama-se cooperação" (p. 400; menciona Destutt de Tracy)
 
-Não é uma característica capitalista, estando presente há milênios nas obras da humanidade. Porém, no capitalismo, significa a reunião de trabalhadores num mesmo espaço, **para utilizar os mesmos [[Meios de Produção]] (de algum capitalista que os emprega)**. 
+Não é uma característica capitalista, estando presente há milênios nas obras da humanidade. Porém, no capitalismo, significa a reunião de trabalhadores num mesmo espaço, **para utilizar os mesmos [[meios de produção]] (de algum capitalista que os emprega)**. 
 
-No começo, porém, não há tanta modificação no **processo de [[Trabalho]] em si**; inicialmente, artesãos trabalham entre si, salvo o compartilhamento dos meios de produção (que não lhes pertencem). Inicialmente, portanto, Marx diz que é o início da **subordinação *formal*** do trabalho ao [[Capital]].  Somente há uma "subordinação **real**" do trabalho ao capital quando...?
+No começo, porém, não há tanta modificação no **processo de [[Trabalho]] em si**; inicialmente, artesãos trabalham entre si, salvo o compartilhamento dos meios de produção (que não lhes pertencem). Inicialmente, portanto, Marx diz que é o início da **subordinação *formal*** do trabalho ao [[capital]].  Somente há uma "subordinação **real**" do trabalho ao capital quando...?
 
-## Efeitos da cooperação sobre o [[Valor]] das [[Mercadoria|mercadorias]]
+## Efeitos da cooperação sobre o [[valor]] das [[Mercadoria|mercadorias]]
 1) Torna a [[Força de Trabalho]] **mais potente**; **reduz o [[Tempo de Trabalho Socialmente Necessário|tempo de trabalho necessário]]** (pelo aumento da **produtividade** do trabalho); portanto, **reduz o valor da mercadoria**. A força de trabalho se torna mais potente sem nada custar a mais para o capitalista^[Realmente? Pois desconhecidos não se dispõem a trabalhar conjuntamente sem algum custo...]
    O trabalho se torna mais potente quando:
 	1.1) O trabalho **individual** se transforma em **trabalho social médio**; o mero **contato social entre trabalhadores** (trabalho em equipe) promove a **emulação**; é uma espécie de "mimetismo" dos trabalhadores uns pelos outros...? 

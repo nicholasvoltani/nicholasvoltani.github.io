@@ -2,6 +2,7 @@
 date: 2025-08-13
 tags:
   - daily
+  - to-be-elaborated
 draft: "true"
 aliases:
 ---

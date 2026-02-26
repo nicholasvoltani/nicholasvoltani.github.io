@@ -7,7 +7,7 @@ aliases:
 
 up:: [[Mercadoria]]
 
-Toda mercadoria é, necessariamente, [[Valor de Uso]] e [[Valor]]. Contudo, não pode manifestar ambas características simultaneamente.
+Toda mercadoria é, necessariamente, [[Valor de Uso]] e [[valor]]. Contudo, não pode manifestar ambas características simultaneamente.
 
 Quando é usufruída enquanto valor de uso, não está sendo passível de ser trocadas com outras, portanto negando esta característica.
 

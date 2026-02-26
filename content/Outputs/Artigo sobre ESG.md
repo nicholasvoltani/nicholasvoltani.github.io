@@ -24,9 +24,13 @@ As consequências lógicas de uma ontologia empirista decorrem de seu enclausura
 É neste contexto todo que elucida-se melhor onde o ESG insere-se juntamente às contradições do mundo capitalista, e como seus anseios (porventura genuínos) de mudança sustentável são afogados por sua alma indelevelmente capitalista.
 
 # A apologética capitalista e sua ontologia implícita
-Cf. @Medeiros2013
+Cf. [@Medeiros2013] [@Lucas1995, p. 30-40; @Medeiros2016, p. 35] 
 
-- [[Realismo Empírico]]
+@Medeiros2016[p. 35]
+
+[@Medeiros2016, p. 35]
+
+- [[realismo empírico]]
 - Ciência instrumental
 - Imutabilidade e naturalidade do status quo
 - Atomismo social
@@ -54,7 +58,7 @@ Não é à toa que fundos verdes são tão recheados de ativos armamentícios ==
 
 
 # A (insustentável) adaptabilidade do homem
-Já tive o desprazer de ver uma "ilustríssima" palestrante dissertar, em suas palestras semanais sobre ESG, em que ela, mui conhecedora de filosofia da ciência, disse — em meio ao ceticismo que rondava a COP 27 sobre a assertividade da meta de +1.5ºC de temperatura global pós-revolução industrial — que "*acreditava* que alcançaríamos 1.5ºC". Não bastasse sua esperança e evidente rechaço da [[Falácia Epistêmica]][^7], também professou seus conhecimentos geológicos, dizendo que "a Terra já aguentou 5 extinções em massa" e "sempre saiu mais fértil delas", então, se estamos em uma extinção em massa agora, e a Terra já vai fazer o dela e sair mais fértil disso... então façamos o nosso, oras! *Onde há riscos, há oportunidade*. A necessidade é a mãe da invenção, e por sorte também é a mãe dos lucros.
+Já tive o desprazer de ver uma "ilustríssima" palestrante dissertar, em suas palestras semanais sobre ESG, em que ela, mui conhecedora de filosofia da ciência, disse — em meio ao ceticismo que rondava a COP 27 sobre a assertividade da meta de +1.5ºC de temperatura global pós-revolução industrial — que "*acreditava* que alcançaríamos 1.5ºC". Não bastasse sua esperança e evidente rechaço da [[falácia epistêmica]][^7], também professou seus conhecimentos geológicos, dizendo que "a Terra já aguentou 5 extinções em massa" e "sempre saiu mais fértil delas", então, se estamos em uma extinção em massa agora, e a Terra já vai fazer o dela e sair mais fértil disso... então façamos o nosso, oras! *Onde há riscos, há oportunidade*. A necessidade é a mãe da invenção, e por sorte também é a mãe dos lucros.
 
 A consideração que o capital concede à crise climática ~~(para dizer sobre uma letra do ESG apenas)~~ não tem como ser senão *passiva*: tudo que lhes foge ao alcance financeiro torna-se mera pré-condição de seus *valuations*, e tudo que foge do horizonte de maturidade de seus ativos não lhes diz respeito em absoluto — *après moi, le déluge*! O capital não se importa com estimativas soltas de como o mundo estará em 2100, e sim em como ele estará daqui a alguns poucos anos — e, ironicamente, a janela temporal de sua paciência em reaver seus investimentos tem se estreitado ao longo das décadas justamente devido à crise climática.
 
@@ -78,7 +82,7 @@ Não é à toa, portanto, que o discurso de *adaptabilidade* — e sinônimos pr
 
 Evidentemente há uma questão de [[Falácia da Composição]] aqui: o comprometimento individual não garante que haja um comprometimento coletivo. Assim como dizer que "a humanidade" é a principal causadora da atual crise climática não implica que todos os seres humanos tenham a mesma parcela de culpa, a ação meramente individual não muda o fato de que a crise climática é causada social e sistematicamente — oposto a individual e contingentemente —, não meramente pela sociedade, mas pela sociedade *capitalista* em particular. 
 
-Uma das maiores tragédias do [[Processo de Produção Capitalista|Modo de Produção Capitalista]] é que a concorrência impele o [[Capital Constante|Capital]] individual à ação mais conveniente para si e detrimental para os demais, ao mesmo tempo que "socializa as perdas" e as responsabilidades pelas ditas "[[Externalidade|externalidades]]"; por mais que a crise climática seja causada pelo *capitalismo* como totalidade, ela certamente é mais atribuível aos grandes conglomerados financeiros e — como mais recentemente tornou-se a nova *auri sacra fames* — a sede por água e a fome por eletricidade dos *data centers*, do que do estadunidense médio (que não é o mais austero consumidor, diga-se de passagem!).
+Uma das maiores tragédias do [[processo de produção capitalista|Modo de Produção Capitalista]] é que a concorrência impele o [[Capital Constante|Capital]] individual à ação mais conveniente para si e detrimental para os demais, ao mesmo tempo que "socializa as perdas" e as responsabilidades pelas ditas "[[Externalidade|externalidades]]"; por mais que a crise climática seja causada pelo *capitalismo* como totalidade, ela certamente é mais atribuível aos grandes conglomerados financeiros e — como mais recentemente tornou-se a nova *auri sacra fames* — a sede por água e a fome por eletricidade dos *data centers*, do que do estadunidense médio (que não é o mais austero consumidor, diga-se de passagem!).
 
 Para o investidor, o mundo não consiste em mais do que dados e dashboards que informam sua alocação de capital; para o capital, são só negócios, alguns mais lucrativos, outros menos, alguns mais voláteis, outros menos. De certa forma, o pensamento liberal está certo quando diz que o livre-mercado trouxe a liberdade, a igualdade e a fraternidade. Afinal, quantos honrados investidores que famintamente abstêm-se hoje de financiar o genocídio em Gaza não suspirarão de alívio quando seu dinheiro puder, *finalmente*, içar suas âncoras ante a "valorosíssima" reconstrução que Israel "humildemente" edificará sobre os escombros da Palestina! Afinal de contas, poucas coisas no meio corporativo dão o mesmo gozo do que clamar seu merecido galardão sob o clamor de trombetas... mesmo que uma delas eventualmente abra um abismo sob seus pés.[^11] 
 

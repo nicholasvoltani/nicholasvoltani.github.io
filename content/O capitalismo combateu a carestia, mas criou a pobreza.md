@@ -6,7 +6,7 @@ tags:
 aliases:
 ---
 
-up:: [[Processo de Produção Capitalista]]
+up:: [[processo de produção capitalista]]
 
 ![[116446.jpg]]
 
@@ -18,7 +18,7 @@ Geralmente vemos como rico o estereótipo do Tio Patinhas, com um cofre abarrota
 
 Neste sentido cotidiano, *pobre* é aquele que não possui posses, nem de bens nem de trabalho alheio – pior ainda quando não possui nem ao menos o *próprio* trabalho, quando até mesmo esta vitalidade intrínseca não mais lhe é pertencente, quando nem seu tempo é seu, quando os propósitos pelos quais labuta não são mais seus. Mais do que apenas não possuir o produto de seu próprio trabalho, [[A alienação do trabalho se trata sobre propósitos alheios ao trabalhador]].
 
-> "Temos de reconhecer que nosso trabalhador sai do [[Processo de Produção Capitalista|processo de produção]] diferente de quando nele entrou. No mercado, ele, que possui a mercadoria [[Força de Trabalho|força de trabalho]], defronta-se com outros possuidores de mercadorias: um possuidor de mercadoria diante de outros possuidores de mercadorias. O contrato pelo qual vende sua força de trabalho ao capitalista prova – por assim dizer, põe o preto no branco – que ele dispõe livremente de si mesmo. Fechado o negócio, porém, descobre-se que ele não era 'nenhum livre agente', que o tempo de que livremente dispõe para vender sua força de trabalho é o tempo em que é forçado a vendê-la, que, na verdade, seu parasita não o deixará 'enquanto houver um músculo, um nervo, uma gota de sangue para explorar'." (MARX, p. 373)
+> "Temos de reconhecer que nosso trabalhador sai do [[processo de produção capitalista|processo de produção]] diferente de quando nele entrou. No mercado, ele, que possui a mercadoria [[Força de Trabalho|força de trabalho]], defronta-se com outros possuidores de mercadorias: um possuidor de mercadoria diante de outros possuidores de mercadorias. O contrato pelo qual vende sua força de trabalho ao capitalista prova – por assim dizer, põe o preto no branco – que ele dispõe livremente de si mesmo. Fechado o negócio, porém, descobre-se que ele não era 'nenhum livre agente', que o tempo de que livremente dispõe para vender sua força de trabalho é o tempo em que é forçado a vendê-la, que, na verdade, seu parasita não o deixará 'enquanto houver um músculo, um nervo, uma gota de sangue para explorar'." (MARX, p. 373)
 
 A pobreza é uma criação capitalista, mesmo que a carestia tenha sido algo bem conhecido da humanidade há eras. Quando se argumenta que o capitalismo "acabou com a pobreza", isto é falso, mas por motivos sutis: a *carestia* tornou-se, em geral, menos rampante, isso é verdade, mas nem por isso nos sentimos, portanto, "*ricos*"; nos sentimos menos sedentos, menos hipocondríacos, mas nem por isso nos sentimos *saudáveis*. 
 

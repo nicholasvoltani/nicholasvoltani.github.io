@@ -65,7 +65,7 @@ Dessa forma, a produção emancipou-se do 'conteúdo' e até da forma humana/art
 # Maquinaria não gera valor, assim como qualquer capital constante
 Máquinas fazem parte do [[Capital Constante]], ou seja, "não cria valor nenhum, mas transfere seu próprio valor ao produto, para cuja produção ela serve" (MARX, p. 460), ainda que transfira-o parceladamente ([[Depreciação]]). 
 
-Porém, diferente dos [[Meios de Produção|Meios de Trabalho]] previamente empregados no modo de produção capitalista, agora passa-se a ter um instrumento que possui uma durabilidade maior, e, portanto, transfere cada vez menos [[Valor]] a produtos. No limite, transferiria $v \to 0$ de valor, assim como meios naturais (água, terra, etc) não possuem valor imediatamente[^4]. 
+Porém, diferente dos [[meios de produção|Meios de Trabalho]] previamente empregados no modo de produção capitalista, agora passa-se a ter um instrumento que possui uma durabilidade maior, e, portanto, transfere cada vez menos [[valor]] a produtos. No limite, transferiria $v \to 0$ de valor, assim como meios naturais (água, terra, etc) não possuem valor imediatamente[^4]. 
 
 > "Dada a proporção em que a maquinaria transfere valor ao produto, a grandeza dessa parcela de valor depende da própria grandeza de valor da maquinaria. Quanto menos trabalho ela contém em si, tanto menor é o valor que agrega ao produto. Quanto menos valor transfere, mais produtiva ela é e mais seu serviço se aproxima daquele prestado pelas forças naturais." (MARX, p. 463)
 
@@ -88,7 +88,7 @@ Dessa forma, já se discute sobre o elefante branco na sala: o aumento do [[Dese
 ## i) Flexibilização da força de trabalho necessária
 Na época d'O Capital, mulheres e crianças podiam substituir a força de trabalho masculina quando a necessidade se apresentasse. Ao invés de empregar somente os pais de família, passa a ser possível empregar *toda a família*. Pode até ser que os preços das forças de trabalho da família inteira custem, agora, mais do que somente do pai de família, mas agora **há mais [[Jornada de Trabalho|jornadas de trabalho]] passíveis de mais-trabalho**, portanto há um saldo líquido positivo de [[Mais-Valor]] extraído.
 
-A aparência de "vender *livremente* força de trabalho" se desfaz no momento em que crianças passam a ser efetivamente vendidas por seus responsáveis (i.e. como escravos alugados). Ou seja, as condições *objetivas* de exploração do trabalho tornam-se condições também *subjetivas* de exploração dos *sujeitos do trabalho* e seus próximos – i.e. da sociedade em geral. Tudo o que era sagrado – família, religião, costumes, feriados e *sabbaths* – é dessecrado em prol da submissão aos interesses do [[Capital]]. Em particular o desenvolvimento – ou melhor, *lack thereof* – intelectual das massas e das crianças, logo acostumadas à nova hegemonia vigente. 
+A aparência de "vender *livremente* força de trabalho" se desfaz no momento em que crianças passam a ser efetivamente vendidas por seus responsáveis (i.e. como escravos alugados). Ou seja, as condições *objetivas* de exploração do trabalho tornam-se condições também *subjetivas* de exploração dos *sujeitos do trabalho* e seus próximos – i.e. da sociedade em geral. Tudo o que era sagrado – família, religião, costumes, feriados e *sabbaths* – é dessecrado em prol da submissão aos interesses do [[capital]]. Em particular o desenvolvimento – ou melhor, *lack thereof* – intelectual das massas e das crianças, logo acostumadas à nova hegemonia vigente. 
 
 ## ii) Prolongamento da jornada de trabalho
 Uma máquina é tão mais produtiva quanto mais produtos ela produz *num dado período de tempo*. O período de tempo (em particular no século XIX) era dado pela *jornada de trabalho*, i.e. de ter algum "gerente humano" monitorando o trabalho da máquina. Idealmente, ela seria empregada ininterruptamente até sua [[Depreciação]] total, a fim de gerar [[Mais-Valor]] na menor quantidade de tempo possível; é realmente uma noção de "lucro" a curto prazo, pois – por exemplo, idealmente – seu output em 16h de uso diários por 7 anos seria o mesmo que em 8h diárias por 15 anos (MARX, p. 476-7).
@@ -98,7 +98,7 @@ Contudo, há fatores de desgaste que "demandam" que a máquina produza tão ráp
 
 É justamente essa comparação – de valores a mercado – que induz uma depreciação a mais da máquina, i.e. uma efetiva redução no restante do valor de troca que ela pode efetivar em produtos, antes do capitalista considerá-la fisicamente obsoleta. Ou seja, *ela torna-se obsoleta mais rápido*, diminuindo seu tempo de depreciação efetivo. Aqui já ilustra-se um princípio de [[Obsolescência Programada]].
 
-O primeiro emprego de uma máquina em algum setor da indústria[^8] permite que se produza mais que as condições normais, de forma que se torna possível vender *abaixo* do [[Valor]] "social"/normal, mas ainda vender *acima do valor efetivamente objetivado*, como[^9]
+O primeiro emprego de uma máquina em algum setor da indústria[^8] permite que se produza mais que as condições normais, de forma que se torna possível vender *abaixo* do [[valor]] "social"/normal, mas ainda vender *acima do valor efetivamente objetivado*, como[^9]
 $$
 v_{individual} < {\color{green} v_{vendido}} < v_{normal}\,
 $$
@@ -167,7 +167,7 @@ As contradições que vêm do emprego das máquinas advêm do emprego *capitalis
 # O "transbordamento" da aplicação da maquinaria em um setor industrial
 > "Assim, com a expansão do sistema fabril num ramo industrial, aumenta inicialmente a produção em outros ramos que lhe fornecem seus meios de produção." (MARX, p. 515)
 
-A "liberação" dos trabalhadores no setor em que a maquinaria infiltrou-se gera [[Força de Trabalho]] excedente para outros ramos industriais, em particular para aqueles que atendem este setor recém-mecanizado – em particular pelo sua necessidade maior de consumo de [[Meios de Produção]] e [[Matéria-Prima]]. Eventualmente, é empregado para a própria produção *de máquinas*. Ou seja, não só o trabalhador foi substituído pela máquina, como agora produz mais máquinas que substituirão mais trabalhadores!
+A "liberação" dos trabalhadores no setor em que a maquinaria infiltrou-se gera [[Força de Trabalho]] excedente para outros ramos industriais, em particular para aqueles que atendem este setor recém-mecanizado – em particular pelo sua necessidade maior de consumo de [[meios de produção]] e [[Matéria-Prima]]. Eventualmente, é empregado para a própria produção *de máquinas*. Ou seja, não só o trabalhador foi substituído pela máquina, como agora produz mais máquinas que substituirão mais trabalhadores!
 
 > "À medida que a indústria mecanizada, com um número de trabalhadores relativamente menor, fornece uma massa cada vez maior de matérias-primas, produtos semiacabados, instrumentos de trabalho etc., a elaboração dessas matérias-primas e produtos intermediários se divide em inúmeras subespécies e incrementa, assim, a diversidade dos ramos da produção social. A indústria mecanizada impulsiona a divisão social do trabalho muito mais do que a manufatura, pois amplia em grau incomparavelmente maior a força produtiva dos setores de que se apodera." (MARX, p. 516)
 

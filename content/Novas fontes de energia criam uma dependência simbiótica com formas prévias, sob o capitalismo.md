@@ -8,7 +8,7 @@ aliases:
 
 up:: [[060 MOC Economia]]
 
-Sob o [[Processo de Produção Capitalista|Modo de Produção Capitalista]], o surgimento de novas formas de energia podem até alterar a composição **relativa** de consumo de formas prévias de energia, mas **instigam o uso absoluto maior** (YORK & BELL, 2019). 
+Sob o [[processo de produção capitalista|Modo de Produção Capitalista]], o surgimento de novas formas de energia podem até alterar a composição **relativa** de consumo de formas prévias de energia, mas **instigam o uso absoluto maior** (YORK & BELL, 2019). 
 
 Isso é análogo ao aumento da [[Jornada de Trabalho]] devido à [[Maquinaria]]: é justamente devido à maior produtividade de trabalho que torna-se mister **empregar [[Força de Trabalho]] o máximo tempo que for possível**.[^1]
 

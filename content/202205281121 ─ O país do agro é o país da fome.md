@@ -51,7 +51,7 @@ Porém, já deste nível conseguimos ter uma visão cristalina sobre o agronegó
 > Ele quer produzir não só um valor de uso, mas uma **mercadoria**;
 > não só valor de uso, mas valor, e não só valor, mas também **mais-valor**." (O Capital I, p. 263; grifo meu)
 
-Neste processo, podemos ver vários níveis^[Podemos ver, por exemplo, a oposição entre os trabalhadores que trabalham nas empresas que produzem agrotóxicos, opostos ao capital da indústria química, embora esse nível não seja particularmente pertinente à nossa discussão. Faz-se necessário escolher algum "nível" a partir do qual começar a discussão, cuja "distância" do problema em questão ajude a ilustrá-lo melhor, invés de nos deixar com a pergunta "tá, mas por que começar *daí* e não *de lá*?".] dessa oposição. 
+Neste processo, podemos ver vários níveis[^1] dessa oposição. 
 
 As influências disruptivas do agronegócio sobre a infraestrutura social de cidades e regiões inteiras, centralizando a atividade econômica inteira destas em torno de *suas* atividades, empregam a força de trabalho local em
 - plantio de *commodities* (soja, milho, trigo, etc.), seja envolvendo trabalho "braçal" (manejando tratores/colheitadeiras, atuando como jagunços de latifundiários... etc.) ou "espiritual"/"mental" (agrônomos, engenheiros, meteorologistas, analistas de dados etc.^[E a produção cultural que lhe dê sustentação, a versão midiática hegemônica de "agro é pop", etc.])
@@ -157,3 +157,5 @@ Série investigativa "**Muito Além da Porteira**", do podcast *Prato Cheio* (do
 - [*What is Solarpunk?* (Andrewism)](https://www.youtube.com/watch?v=hHI61GHNGJM)
 - [*A Quick Guide to Permablitzing* (Andrewism)](https://www.youtube.com/watch?v=lFDm7JLze5g)
 - [*How we can Make Solarpunk a Reality* (Andrewism & Our Changing Climate)](https://www.youtube.com/watch?v=u-JvyfZVkIM)
+
+[^1]: Podemos ver, por exemplo, a oposição entre os trabalhadores que trabalham nas empresas que produzem agrotóxicos, opostos ao capital da indústria química, embora esse nível não seja particularmente pertinente à nossa discussão. Faz-se necessário escolher algum "nível" a partir do qual começar a discussão, cuja "distância" do problema em questão ajude a ilustrá-lo melhor, invés de nos deixar com a pergunta "tá, mas por que começar *daí* e não *de lá*?".

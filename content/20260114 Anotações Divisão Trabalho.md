@@ -1,7 +1,8 @@
 ---
-date: "2026-01-14"
+date: 2026-01-14
 tags:
   - daily
+  - to-be-elaborated
 draft: "false"
 aliases:
 ---
@@ -36,7 +37,7 @@ up:: [[099 MOC Rascunhos|099 MOC Anotações]]
 ## O avanço da divisão do trabalho permite a separação trabalho-energia
 > “Malm has argued, understandably, that the rise of the industrial mode of production was propelled by a stable and versatile form of energy, which was found in coal after the use of waterpower. But according to him, coal contributed to the acceleration of industrial capitalism not just because of its energetic potential, but because its physical properties, such as lightness, homogeneity, and measurability, matched perfectly the new abstract dimensions of capital. Steam engines replaced water mills not because coal was cheaper and more abundant than water, but because it provided a more stable flow of power than rainfalls and allowed factories to move close to urban areas, where the working class was living at the time. Malm has registered in this way the energetic rationale for the slow emergence of fossil capitalism out of the manufacturing age. It took roughly forty years for the steam engine to be adopted in the place of the water mill: if coal came to be used across the full spectrum of production, it was because it was the most adequate source of *abstract energy*, where ‘abstract’ means easily computable in terms of cost, transport, stock, performance, and social organisation.” (Pasquinelli, 2023, p. 122-3)
 
-Com o avanço do [[Processo de Produção Capitalista|Modo de Produção Capitalista]], chega um momento em que os trabalhadores não possuem braços suficientes para o ritmo demandado pelo [[Capital]]. Faz-se necessário, então, que suas [[Meios de Produção|ferramentas]] tornem-se mais que "extensões de seus membros"[^1], e que ajam como genuínos órgãos extras. 
+Com o avanço do [[processo de produção capitalista|Modo de Produção Capitalista]], chega um momento em que os trabalhadores não possuem braços suficientes para o ritmo demandado pelo [[capital]]. Faz-se necessário, então, que suas [[meios de produção|ferramentas]] tornem-se mais que "extensões de seus membros"[^1], e que ajam como genuínos órgãos extras. 
 
 Com o tempo, tais órgãos tornam-se tão hábeis que suas contrapartes de carne e osso tornam-se-lhes detrimentais, sendo estas últimas passíveis de amputação. Passado essa "descamação", o corpo que resta não precisa mais de pão e circo para funcionar, e sim de óleo e alavancas; o que antes chamava-se de "meios de subsistência" agora é *combustível*; a energia química dos alimentos, que antes era digerido implicitamente pelo metabolismo humano, agora é energia química do carvão e gasolina, explicitamente combustada. Assim como as mercadorias "não podem ir por si mesmas ao mercado"[^2], as máquinas não conseguem se alimentar por conta própria, não podem ir ao mercado para abastecerem-se a si mesmas.
 
@@ -55,7 +56,7 @@ Energia é *potentia*, ao menos quando se fala dela abstratamente, seja *ante fe
 
 É análogo à [[Força de Trabalho]]: quando *in potentia*, ela é amorfa e geral, enquanto *in actu* ela é bem delimitada e particular; só é passível de cálculo quando "abstratificada", mas, quando tal, "não tem cor nem cheiro", pois, quando está em ação, não há mais espaço para "e se"s: o planejamento só ocorre antes da guerra, e durante ela há espaço somente para pequenos reajustes táticos, ou seja, potencialidades ainda não efetivadas e que, por o serem, ainda são passíveis de cálculo antes de sua efetivação. 
 
-É justamente neste sentido que tanto a força de trabalho quanto [[Meios de Produção]], e "energia", são passíveis de serem vistos pelo [[Capital]] como *insumos*, formas distintas de seu próprio "corpo-capital", [[Fatores de Produção]]. Daqui, é um pulo de pensar energia como um fator de produção *tout court*!
+É justamente neste sentido que tanto a força de trabalho quanto [[meios de produção]], e "energia", são passíveis de serem vistos pelo [[capital]] como *insumos*, formas distintas de seu próprio "corpo-capital", [[Fatores de Produção]]. Daqui, é um pulo de pensar energia como um fator de produção *tout court*!
 
 
 

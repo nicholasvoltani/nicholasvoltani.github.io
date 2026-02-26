@@ -12,9 +12,9 @@ up:: [[Trabalho]]
 
 O trabalho abstrato é a abstração do [[Trabalho]] de toda sua característica [[Trabalho Útil|útil]]/concreta. Ou seja, trata-se do que há em comum em *todos* os trabalhos (produtores de [[Mercadoria|Mercadorias]]).
 
-Tal abstração é a [[Essência]] do seu [[Valor]] das mercadorias, i.e. do fator em comum que permite que elas sejam comparáveis e, logo, trocáveis entre si.
+Tal abstração é a [[Essência]] do seu [[valor]] das mercadorias, i.e. do fator em comum que permite que elas sejam comparáveis e, logo, trocáveis entre si.
 
-Esta característica do trabalho é própria do [[Processo de Produção Capitalista|Modo de Produção Capitalista]], em que a [[Forma-Mercadoria]] generaliza-se. A abstração do trabalho é uma *abstração real*, no sentido em que é *o próprio processo de trocas* que "engendra" esta abstração, ao efetivar a comparação entre diversos produtos de trabalho humano.  
+Esta característica do trabalho é própria do [[processo de produção capitalista|Modo de Produção Capitalista]], em que a [[Forma-Mercadoria]] generaliza-se. A abstração do trabalho é uma *abstração real*, no sentido em que é *o próprio processo de trocas* que "engendra" esta abstração, ao efetivar a comparação entre diversos produtos de trabalho humano.  
 
 > "Os homens não relacionam entre si seus produtos do trabalho como valores por considerarem essas coisas meros invólucros materiais de trabalho humano de mesmo tipo.
 > Ao contrário. Porque equiparam entre si seus produtos de diferentes tipos na troca (como valores), eles **equiparam entre si seus diferentes trabalhos como trabalho humano \[abstrato\]**.

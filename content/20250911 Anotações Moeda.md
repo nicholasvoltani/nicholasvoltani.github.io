@@ -28,7 +28,7 @@ Seus atributos são:
 - **Homogeneidade**
 
 # Tipos de moeda
-[[Dinheiro|Moeda-Mercadoria]]: é um [[Valor de Uso]], além de ser moeda (i.e. [[Valor]]).
+[[Dinheiro|Moeda-Mercadoria]]: é um [[Valor de Uso]], além de ser moeda (i.e. [[valor]]).
 
 [[Padrão-Ouro]]: moeda pode ser trocada por ouro *a taxa fixa*. Tal moeda equivale a um certificado, possui um *lastro* (justamente, em ouro). (I.e. moeda *conversível*).
 

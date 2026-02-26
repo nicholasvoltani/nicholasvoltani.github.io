@@ -33,6 +33,6 @@ Macroscopicamente, temos também que [[A renda agregada é igual à despesa agre
 - [edisciplinas.usp.br/pluginfile.php/5660693/mod\_resource/content/0/Capítulo 3 - O mercado de bens.pdf](https://edisciplinas.usp.br/pluginfile.php/5660693/mod_resource/content/0/Cap%C3%ADtulo%203%20-%20O%20mercado%20de%20bens.pdf)
 
 [^1]: Demanda/consumo dos indivíduos (p. ex. alimentos, transporte).
-[^2]: Demanda/consumo das empresas/[[Capital]] (p. ex. maquinário).
+[^2]: Demanda/consumo das empresas/[[capital]] (p. ex. maquinário).
 [^3]: Demanda/consumo do governo (p. ex. ônibus/contratações de motoristas).
 [^4]: Demanda/consumo efetivo do exterior ([[Exportações]]ções (Macroeconomia)]]).

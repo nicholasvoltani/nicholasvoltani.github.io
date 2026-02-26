@@ -11,7 +11,7 @@ up:: [[Processo de Troca de Mercadorias]]
 
 Dentro do ciclo mais simples, o [[Ciclo M─D─M]], uma [[Mercadoria]] $M$ é vendida por [[Dinheiro]] $D$, o qual logo é utilizado para comprar outra mercadoria $M'$[^1]. 
 
-Focando somente neste indivíduo do ciclo, temos que sua mercadoria inicial possui algum [[Valor]][^2], que é o *sine qua non*[^3] da troca entre $M$ e $D$. Possuindo ambos o mesmo valor, temos que este portador possui a mesma "coisa" mas em formas distintas: a mercadoria $M$ aparece-lhe como um [[Valor de Uso]] (ou melhor, um valor de uso *a outrem*, não a si próprio, senão não a venderia), e o dinheiro $D$, que consegue ao vendê-la, nada mais é do que a própria mercadoria "transmutada"[^4] em algo amorfo, abstrato, indistinto de outras [[Dinheiro|Mercadorias-dinheiro]]. Ou seja, sua mercadoria assume a [[Forma-Dinheiro]].
+Focando somente neste indivíduo do ciclo, temos que sua mercadoria inicial possui algum [[valor]][^2], que é o *sine qua non*[^3] da troca entre $M$ e $D$. Possuindo ambos o mesmo valor, temos que este portador possui a mesma "coisa" mas em formas distintas: a mercadoria $M$ aparece-lhe como um [[Valor de Uso]] (ou melhor, um valor de uso *a outrem*, não a si próprio, senão não a venderia), e o dinheiro $D$, que consegue ao vendê-la, nada mais é do que a própria mercadoria "transmutada"[^4] em algo amorfo, abstrato, indistinto de outras [[Dinheiro|Mercadorias-dinheiro]]. Ou seja, sua mercadoria assume a [[Forma-Dinheiro]].
 
 ---
 ### Referências

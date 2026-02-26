@@ -12,7 +12,7 @@ related:: [[066 MOC História do Pensamento Econômico]] // [[071 MOC Teoria do 
 ## Dimensões transitiva e intransitiva da realidade
 Apresentação de [[Objetos Transitivos do Conhecimento]] e [[Objetos Intransitivos da Ciência]] como os fundamentos de uma teoria científica, contrapondo-os às metodologias científicas em voga na época, as quais enviesavam-se ao extremo no tocante a estas dimensões científicas — idealismo e [[Positivismo]], respectivamente. (BHASKAR, 1978)
 
-Bhaskar também expõe o conceito de [[Falácia Epistêmica]], em que se mistifica o caráter ontológico da ciência em epistemologias.
+Bhaskar também expõe o conceito de [[falácia epistêmica]], em que se mistifica o caráter ontológico da ciência em epistemologias.
 
 > "Enquanto as estruturas naturais (intransitivo natural) não são permeadas pelas teorias produzidas pelos cientistas naturais (transitivo), as teorias, científicas ou não, constituem o que é a sociedade. Nesse sentido, as estruturas sociais (intransitivo social) são permeáveis às teorias elaboradas pelos sujeitos (transitivo). O estabelecimento da intransitividade do objeto social permite uma objetividade à ciência social análoga à verificada na ciência natural. Contudo, esse é um resultado que não pode ser postulado *a priori* (...)" (CAVALCANTE, p. 288)
 

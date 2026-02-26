@@ -3,13 +3,13 @@ date: 2024-06-05
 tags:
   - marxism
 ---
-up:: [[Valor]]
+up:: [[valor]]
 
 ![[diagram-20240605 1.svg]]
 
 > "Por meio da relação de valor, a forma *natural* da mercadoria $B$ se converte na forma *de valor* da mercadoria $A$, ou o corpo da mercadoria $B$ se converte no *espelho do valor* da mercadoria $A$. Ao relacionar-se com a mercadoria $B$ como corpo de valor, como materialização de trabalho humano, a mercadoria $A$ transforma o valor de uso de $B$ em material de sua própria expressão de valor. *O valor da mercadoria $A$, assim expresso no valor de uso da mercadoria $B$, possui a forma do valor relativo*." (MARX, p. 129-30; grifo meu)
 
-Tendo em vista que [[Só pode haver troca com relação a mercadorias diferentes]], quando duas [[Mercadoria|Mercadorias]] $A$ e $B$ "confrontam-se", através de uma [[Processo de Troca de Mercadorias|Relação de Troca]], pressupõe-se que ambas são iguais referente a seus [[Valor|Valores]].[^1] 
+Tendo em vista que [[Só pode haver troca com relação a mercadorias diferentes]], quando duas [[Mercadoria|Mercadorias]] $A$ e $B$ "confrontam-se", através de uma [[Processo de Troca de Mercadorias|Relação de Troca]], pressupõe-se que ambas são iguais referente a seus [[valor|Valores]].[^1] 
 
 Pelo mero ato de confrontarem-se em uma relação de troca, uma age como um "espelho" da outra: fixando-nos sobre a mercadoria $A$, uma quantidade $x$ da mercadoria $A$ "vale" tanto quanto uma quantidade $y$ da mercadoria $B$; ou seja, seu chamado *valor relativo* mede-se através de $B$, e $B$ age como um "permutável"/[[Valor Equivalente]] de $A$.
 

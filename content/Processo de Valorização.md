@@ -4,7 +4,7 @@ tags:
   - marxism
 ---
 
-up:: [[Processo de Produção Capitalista]]
+up:: [[processo de produção capitalista]]
 
 > "Ora, se compararmos o processo de formação de valor [de uma mercadoria] com o processo de valorização, veremos que este último não é mais do que o processo de formação de valor *que se estende para além de certo ponto*. Se não ultrapassa o ponto em que o valor da força de trabalho pago pelo capital é substituído por um novo equivalente, ele é simplesmente um processo de formação de valor. Se ultrapassa esse ponto, ele se torna processo de valorização." (MARX, p. 271)
 

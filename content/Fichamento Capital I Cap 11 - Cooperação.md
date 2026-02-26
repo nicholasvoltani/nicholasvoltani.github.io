@@ -9,10 +9,10 @@ up:: [[011a MOC Capital I]]
 
 A [[Lei Fraca dos Grandes Números]] garante a existência de uma "[[Força de Trabalho]] média", ou melhor, do [[Valor da Força de Trabalho|valor (socialmente necessário, médio) da força de trabalho]], devido a esta média só existir "*como média de diferentes grandezas individuais da mesma espécie*" (MARX, p. 397). Naturalmente, tal fenômeno se torna "tangível" conforme $N$ (quantidade de trabalhadores envolvidos) aumenta[^1].
 
-O emprego simultâneo de vários trabalhadores permite algumas reduções de custos/[[Meios de Produção]] (e.g. aluguel do local de trabalho).
+O emprego simultâneo de vários trabalhadores permite algumas reduções de custos/[[meios de produção]] (e.g. aluguel do local de trabalho).
 > "Meios de produção consumidos em comum transferem uma parte menor de seu valor ao produto individual, em parte porque o valor total que transferem é simultaneamente repartido por uma massa maior de produtos, e em parte porque, em comparação com meios de produção isolados, entram no processo de produção com um valor certamente maior em termos absolutos[^2], porém relativamente menor quando se considera seu raio de ação[^3]." (MARX, p. 399-400)
 
-Ou seja, mesmo quando os trabalhadores não colaboram explicitamente durante seus [[Processo de Trabalho|processos de trabalho]], ainda há tal "ganho", como p. ex. um galpão em que se trabalham unidades independentes de produção, sendo de utilidade para o [[Processo de Produção Capitalista]]. Note-se que, aqui, começa a ruptura com os processos "naturais-espontâneos" do trabalho artesanal[^4], posto que começa-se o processo em que o [[Capital]] dita o local de produção dos trabalhadores sob seu domínio.
+Ou seja, mesmo quando os trabalhadores não colaboram explicitamente durante seus [[Processo de Trabalho|processos de trabalho]], ainda há tal "ganho", como p. ex. um galpão em que se trabalham unidades independentes de produção, sendo de utilidade para o [[processo de produção capitalista]]. Note-se que, aqui, começa a ruptura com os processos "naturais-espontâneos" do trabalho artesanal[^4], posto que começa-se o processo em que o [[capital]] dita o local de produção dos trabalhadores sob seu domínio.
 
 # Definição de [[Cooperação]]
 > "A forma de trabalho em que muitos indivíduos trabalham de modo planejado, uns ao lado dos outros e em conjunto, no *mesmo* processo de produção ou em processos de produção *diferentes porém conexos*, chama-se cooperação." (MARX, p. 400; grifo meu)
@@ -29,7 +29,7 @@ O processo de cooperação permite:
 # As condições históricas para a cooperação, sob o capitalismo
 > "A concentração de grandes quantidades de meios de produção nas mãos de capitalistas individuais é, pois, a condição material para a cooperação de trabalhadores *assalariados*, e a extensão da cooperação, ou a escala da produção, depende do grau dessa concentração." (MARX, p. 405; grifo meu)
 
-A propriedade privada dos meios de produção é condição necessária da cooperação do [[Trabalho Assalariado]], cujos trabalhadores são postos para trabalhar conjuntamente *por um propósito que não lhes pertence*. Certamente é nesse contexto que os *Enclosures* entram, pois não só ocorrem como concentração dos [[Meios de Produção]], como simultaneamente geram trabalhadores "livres"[^6] para força de trabalho.
+A propriedade privada dos meios de produção é condição necessária da cooperação do [[trabalho assalariado]], cujos trabalhadores são postos para trabalhar conjuntamente *por um propósito que não lhes pertence*. Certamente é nesse contexto que os *Enclosures* entram, pois não só ocorrem como concentração dos [[meios de produção]], como simultaneamente geram trabalhadores "livres"[^6] para força de trabalho.
 
 > "Do mesmo modo, o comando do capitalista sobre o trabalho parecia inicialmente ser apenas uma decorrência formal do fato de o trabalhador trabalhar não para si, mas para o capitalista e, portanto, sob o capitalista. Com a cooperação de muitos trabalhadores assalariados, o comando do capital se converte num requisito para a consecução do próprio processo de trabalho, numa verdadeira condição da produção. O comando do capitalista no campo de produção torna-se agora tão imprescindível quanto o comando do general no campo de batalha." (MARX, p. 406)
 

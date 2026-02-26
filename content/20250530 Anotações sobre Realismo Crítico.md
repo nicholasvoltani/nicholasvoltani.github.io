@@ -54,12 +54,12 @@ Crítica ao *actualism*: [[Dimensão Real da Realidade]]
 
 ---
 # Conversa com Bianca Bonente
-[[Valor]] é uma categoria que somente se mostra *ao comparar com outras* (i.e. [[Valor de Troca]]): ou seja, embora ela seja, em si, não-[[Dimensão Empírica da Realidade|Empírica]] ([[Dimensão Efetiva da Realidade]]), sua comparação o é. É análogo ao peso dos objetos.
+[[valor]] é uma categoria que somente se mostra *ao comparar com outras* (i.e. [[Valor de Troca]]): ou seja, embora ela seja, em si, não-[[Dimensão Empírica da Realidade|Empírica]] ([[Dimensão Efetiva da Realidade]]), sua comparação o é. É análogo ao peso dos objetos.
 (Com certeza há uma passagem n'O Capital I, Cap. 1, sobre isso.)
 
 A categoria [[Dinheiro]] advém como o *Aufhebung* da contradição entre [[Valor de Uso]] e [[Valor de Troca]], no interior da [[Mercadoria]]: o caráter "mais fundamental" ("menos emergente") do valor de uso 'expulsa' o valor de troca para uma mercadoria em particular (dinheiro). Tudo isso se dá no contexto da **circulação** (mais aparente).
 
-Enquanto a produção possui uma "prioridade ontológica" no tocante ao consumo — num [[Processo de Produção Capitalista|Modo de Produção Capitalista]] —, ambos mediam-se *bajo* **circulação**. Sob circulação, predomina a [[Aparência]] de *igualdade*.
+Enquanto a produção possui uma "prioridade ontológica" no tocante ao consumo — num [[processo de produção capitalista|Modo de Produção Capitalista]] —, ambos mediam-se *bajo* **circulação**. Sob circulação, predomina a [[Aparência]] de *igualdade*.
 
 [[Classe Social|Classes Sociais]] também são categorias que não são empíricas, porém *efetivas* — **reais**. Há, ontologicamente, uma separação dos trabalhadores dos meios de produção; há, ontologicamente, **estranhamento**.
 

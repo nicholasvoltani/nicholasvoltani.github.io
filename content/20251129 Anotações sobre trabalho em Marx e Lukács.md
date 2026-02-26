@@ -14,7 +14,7 @@ up:: [[011a MOC Capital I]] // [[013 MOC Lukács]]
 ## Atividade humana como pôr teleológico
 O [[Trabalho]] consiste, primeiramente, na *idealização de alguma finalidade*, a qual o [[Processo de Trabalho]] busca efetivar. 
 
-Para isso, não basta idealizar somente a finalidade, como também os *meios* para alcançá-la. Nisso, faz-se necessário um *conhecimento prévio* não só dos materiais ([[Matéria-Prima]]) empregados, como também dos [[Meios de Produção]] envolvidos no processo. Este conhecimento[^1] é tão adequado quanto mais "fidedigno" a seu objeto[^2] ele for, ou, como Duayer coloca, quanto mais "desantropomorfizado" este conhecimento for.[^3]
+Para isso, não basta idealizar somente a finalidade, como também os *meios* para alcançá-la. Nisso, faz-se necessário um *conhecimento prévio* não só dos materiais ([[Matéria-Prima]]) empregados, como também dos [[meios de produção]] envolvidos no processo. Este conhecimento[^1] é tão adequado quanto mais "fidedigno" a seu objeto[^2] ele for, ou, como Duayer coloca, quanto mais "desantropomorfizado" este conhecimento for.[^3]
 
 Neste fazer, fazem-se **escolhas** dentre diversas possibilidades no mundo — ou seja, há uma forma de *valoração*, tanto do material/objeto do trabalho, quanto do processo com que ele é empregado. Dentre as possíveis alternativas — e elas são alternativas porquanto a ação *poderia efetivamente ter se dado de outra forma* —, forma-se um *juízo de valor* (?), através da experiência, de qual processo é o mais "adequado"/"aderente" ao alcance de dado fim. Portanto, a noção de "valor", enquanto valoração de alternativas como "mais adequadas" e "menos adequadas", é um pressuposto da ação humana.[^4]
 
@@ -33,7 +33,7 @@ Altera não só seu caráter enquanto indivíduo humano (durante o processo de t
 
 Nesse ínterim, a própria ciência, "cuja gênese pode ser remetida aos trabalhos mais rudimentares, é o momento de investigação dos meios progressivamente autonomizados em relação às finalidades dos processos de trabalho particulares"; portanto, passa a ter como finalidade "a verdade, ou seja, o conhecimento mais adequado possível da realidade em si mesma" (Ibid. p. 128)
 
-Nesse sentido, o conhecimento do [[Processo de Produção Capitalista|Modo de Produção Capitalista]] é necessidade para que se o supere; de vê-lo como histórico, de entender suas legalidades necessárias, suas limitações -- ante ao quê? Parece faltar o **fim** que buscamos, e referente ao qual contrastamos o "funcionamento" (e compreensão) do capitalismo... Para mim está claro: o objetivo do homem é ser o *bastião da vida*, e, no tocante a isso, o capitalismo opõe-se violentamente.
+Nesse sentido, o conhecimento do [[processo de produção capitalista|Modo de Produção Capitalista]] é necessidade para que se o supere; de vê-lo como histórico, de entender suas legalidades necessárias, suas limitações -- ante ao quê? Parece faltar o **fim** que buscamos, e referente ao qual contrastamos o "funcionamento" (e compreensão) do capitalismo... Para mim está claro: o objetivo do homem é ser o *bastião da vida*, e, no tocante a isso, o capitalismo opõe-se violentamente.
 
 ---
 ### Referências

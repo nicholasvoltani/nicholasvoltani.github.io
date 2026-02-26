@@ -11,7 +11,7 @@ up:: [[011a MOC Capital I]]
 
 As forças produtivas de uma sociedade representam suas capacidades técnico-tecnológicas de produção[^1]. Dessa forma, [[Forças produtivas não se restringem a fatores de produção]], pois consideram também características "subjetivas" como organização[^2] e [[Divisão Social do Trabalho]] etc.
 
-Representam, portanto, a "facilidade" *lato sensu* de produção, i.e. do [[Tempo de Trabalho Socialmente Necessário]] à produção de [[Valor de Uso|Valores de Uso]]. No que tange ao [[Processo de Produção Capitalista|Modo de Produção Capitalista]] em específico, diz respeito também, portanto, à grandeza do [[Valor]][^3] das [[Mercadoria|Mercadorias]]. 
+Representam, portanto, a "facilidade" *lato sensu* de produção, i.e. do [[Tempo de Trabalho Socialmente Necessário]] à produção de [[Valor de Uso|Valores de Uso]]. No que tange ao [[processo de produção capitalista|Modo de Produção Capitalista]] em específico, diz respeito também, portanto, à grandeza do [[valor]][^3] das [[Mercadoria|Mercadorias]]. 
 
 ---
 ### Referências

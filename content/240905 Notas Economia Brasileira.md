@@ -7,7 +7,7 @@ tags:
 up:: [[063 MOC Economia Brasileira]]
 
 # Debate entre papelistas e metalistas
-Papel-moeda = papel cujo lastro está refletido em ouro. Mas todo o papel-moeda precisa estar refletido no lastro efetivamente existente? Não, caso haja confiança no agente emissor das notas – caso contrário há crise de confiança, e ninguém vai querer essas notas, vão querer recipientes mais concretos de [[Valor]].
+Papel-moeda = papel cujo lastro está refletido em ouro. Mas todo o papel-moeda precisa estar refletido no lastro efetivamente existente? Não, caso haja confiança no agente emissor das notas – caso contrário há crise de confiança, e ninguém vai querer essas notas, vão querer recipientes mais concretos de [[valor]].
 
 [[Bulionismo]]: o valor da moeda tem origem no metal[^1].
 

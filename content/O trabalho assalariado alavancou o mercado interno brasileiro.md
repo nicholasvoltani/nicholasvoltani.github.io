@@ -12,7 +12,7 @@ up:: [[063 MOC Economia Brasileira]]
 
 Durante o período escravista, muita pouca coisa do consumo dos trabalhadores – escravos – era comprada de fora da unidade produtora[^1]: muito era/tinha que ser feito pelos próprios escravos. 
 
-Com a introdução do [[Trabalho Assalariado]] (e.g. imigrantes a princípio), há uma parte bem maior do [[Consumo Agregado|Consumo]] que ele passa a **comprar** de outrem, não mais 100% produzido dentro de sua propriedade – ou seja, há uma especialização envolvida, da parte de quem ele comprou[^2]! 
+Com a introdução do [[trabalho assalariado]] (e.g. imigrantes a princípio), há uma parte bem maior do [[Consumo Agregado|Consumo]] que ele passa a **comprar** de outrem, não mais 100% produzido dentro de sua propriedade – ou seja, há uma especialização envolvida, da parte de quem ele comprou[^2]! 
 
 Ou seja, surge uma [[Vantagem Comparada]] de pequenos empresários e donos de terras: surgia um mercado muito mais propício para eles do que o mercado altamente competitivo dos grandes latifundiários[^3]. 
 

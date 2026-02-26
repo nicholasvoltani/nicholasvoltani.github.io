@@ -60,7 +60,7 @@ Evitar o "**romantismo**" dos povos minoritários: é um processo de **desumaniz
 ## Violências sofridas pelas populações afetadas
 - **Perda da renda** e aumento de **dependência** monetária e de políticas públicas estatais/de empresas
 	- Quando há um processo de devastação de territórios, se cria uma dependência das populações afetadas (para suprir suas necessidades que eram satisfeitas nos territórios)
-	- Por exemplo: empreendimentos do [[Agronegócio]], turismo, [[202202071624 Curso PSOL - Mineração|mineração]]
+	- Por exemplo: empreendimentos do [[agronegócio]], turismo, [[202202071624 Curso PSOL - Mineração|mineração]]
 - Afeta **autonomia comunitária** e **[[Soberania Alimentar|soberania alimentar]]**
 	- Em particular no agronegócio, pela intoxicação dos solos, por exemplo
 - Agravamento da **saúde coletiva** física e psicológica

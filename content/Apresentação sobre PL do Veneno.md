@@ -13,7 +13,7 @@ No dia 09 de fevereiro de 2022, foi aprovado o **Projeto de lei nº 6.299/2002**
 *  O controle da autorização de novos agrotóxicos deixa de ser feito pelo Ministério da Saúde, Anvisa^[Agência Nacional de Vigilância Sanitária], Ministério do Meio Ambiente e Ibama, e começa a ser comandado pelo **MAPA**^[Ministério da Agricultura, Pecuária e Abastecimento]. 
 	* Os órgãos anteriormente responsáveis podem até emitir pareceres e alertas de risco, mas o parecer final é dado diretamente pelo MAPA. 
 * Alterar o termo "agrotóxicos" por 
-	* **"pesticidas"** ("conforme" a tendência [[Agronegócio|mundial]] de chamá-los de *pesticides*) quando aplicados em plantações
+	* **"pesticidas"** ("conforme" a tendência [[agronegócio|mundial]] de chamá-los de *pesticides*) quando aplicados em plantações
 	*  **"produtos de controle ambiental"** quando aplicados em florestas e ambientes hídricos
 * Estimula prazos mais rápidos para registros de agrotóxicos por órgãos federais (até dois anos)
 	* Quando não houver manifestação conclusiva dentro do prazo estipulado de sua verificação, ele recebe uma **autorização temporária** 

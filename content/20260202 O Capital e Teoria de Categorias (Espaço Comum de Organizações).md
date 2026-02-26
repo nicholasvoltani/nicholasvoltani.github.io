@@ -50,8 +50,8 @@ E.g.: money can only see what is equal to it **in value** and what isn't. Capita
 
 E.g. 2: the [[Processo de Trabalho|labor process]] can be seen differently:
 1) A worker sees things changing and being created
-2) [[Dinheiro|Money]] sees [[Valor|value]] coming in and coming out greater
-3) [[Capital]] sees [[Capital Constante|constant]] and [[Capital Variável|variable capital]] combining into [[Mercadoria|commodities]] 
+2) [[Dinheiro|Money]] sees [[valor|value]] coming in and coming out greater
+3) [[capital]] sees [[Capital Constante|constant]] and [[Capital Variável|variable capital]] combining into [[Mercadoria|commodities]] 
 
 Fetichism and light example: to understand why light appears with different wavelengths is to understand **why different retinas see them differently**. Using a microscope allows for a more thorough analysis of the phenomenon of light, but not on why it differently **appears to us**! A fetichistic understanding is to try to understand this difference **within the very phenomenon** (?). 
 
@@ -76,7 +76,7 @@ So they start **beyond assuming** that commodities are all comparable, and retri
 Mentions of categorical terms:
 - Kernel
 - Stability
-- Limit (Category)
+- [[Limit (Category)]]
 - Kernel Stability
 
 Commodities are produced **such that they are comparable to other things (commodities)**! A "defective" product is one that is **not** like the other products within a same production process. 
@@ -88,7 +88,7 @@ A *use value of something* is the "intersection" of its **use** and the **use va
 Evaluating $e$ from some domain $D$ towards a space of values $T$, $D \overset{e}\to T$. Coming back through $e^o$, as in a [[Preimage of Function]], the composition $e;e^o$ yields "bigger" elements — somehow **dialectics** arises here!
 
 ---
-For [[Capital]] to be a consistent value relation, it either
+For [[capital]] to be a consistent value relation, it either
 - Breaks its own logic, and only sees equivalence
 - Breaks equivalence somehow
 

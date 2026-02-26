@@ -4,7 +4,7 @@ tags:
   - evergreen
   - marxism
 aliases:
-  - Valores
+  - valores
 ---
 
 up:: [[011a MOC Capital I]]
@@ -16,7 +16,7 @@ up:: [[011a MOC Capital I]]
 > Conhecemos sua *medida de grandeza*: ela é o *tempo de trabalho*.
 > Resta analisar sua *forma*, que fixa o *valor* precisamente como *valor de troca*." (nota de rodapé em MARX, p. 118; grifo meu)
 
-O que caracteriza toda [[Mercadoria]] no [[Processo de Produção Capitalista|Modo de Produção Capitalista]] é que ela, além de ser [[Valor de Uso]], necessariamente é intercambiada com outras. Ou seja, toda mercadoria possui [[Valor de Troca]] — porém, esta característica não lhe é *imanente*, e sim *contingente*, dependente, *exteriormente*, das demais mercadorias.
+O que caracteriza toda [[Mercadoria]] no [[processo de produção capitalista|Modo de Produção Capitalista]] é que ela, além de ser [[Valor de Uso]], necessariamente é intercambiada com outras. Ou seja, toda mercadoria possui [[Valor de Troca]] — porém, esta característica não lhe é *imanente*, e sim *contingente*, dependente, *exteriormente*, das demais mercadorias.
 
 # Essência do valor: Trabalho abstrato
 O fato de que toda mercadoria — no modo de produção capitalista — é intercambiável com todas as demais requer que elas possuam algum **fator em comum**, que permita que sejam comparáveis. Este fator comum — a [[Essência]] do valor — é o [[Trabalho]] nelas despendido; mais especificamente, é o [[Trabalho Abstrato]] (i.e. uma medida de **puro dispêndio de cérebro, músculo, nervos etc**) que é o fator em comum que permite que as torna comparáveis.

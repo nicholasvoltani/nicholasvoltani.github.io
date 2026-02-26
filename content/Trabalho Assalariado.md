@@ -3,14 +3,14 @@ date: 2025-01-05
 tags:
   - marxism
 aliases:
-  - Trabalhador Assalariado
+  - trabalhador assalariado
 ---
 
 up:: [[Salário]]
 
 > "A forma-salário extingue, portanto, todo vestígio da divisão da jornada de trabalho em trabalho necessário e mais-trabalho, em trabalho pago e trabalho não pago. Todo trabalho *aparece* como trabalho pago." (MARX, p. 610)
 
-É a forma que o [[Trabalho]] assume sob o [[Processo de Produção Capitalista|Modo de Produção Capitalista]]. Os trabalhadores vendem sua [[Força de Trabalho]][^1] ao capitalista, a fim de que possam [[Dinheiro|comprar]] seus meios de subsistência.
+É a forma que o [[Trabalho]] assume sob o [[processo de produção capitalista|Modo de Produção Capitalista]]. Os trabalhadores vendem sua [[Força de Trabalho]][^1] ao capitalista, a fim de que possam [[Dinheiro|comprar]] seus meios de subsistência.
 
 Sob esta forma de trabalho, oculta-se a diferenciação da [[Jornada de Trabalho]] em [[Tempo de Trabalho Socialmente Necessário]] e [[Tempo Excedente de Trabalho]]; ou seja, oculta-se que há trabalho não pago fornecido ao capitalista, *aparecendo* ao trabalhador (e mesmo ao capitalista) como se todo seu tempo fosse remunerado[^2], inclusive devido ao fato de que "o dinheiro realiza, porém *a posteriori*, o valor ou o preço [da força de trabalho]" (MARX, p. 611)[^4]. 
 

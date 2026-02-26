@@ -9,7 +9,7 @@ tags:
 > "Na forma M─D─M, a mesma peça monetária muda **duas vezes** de lugar. O processo inteiro, que começa com o **recebimento de dinheiro em troca de mercadoria** [M─D], conclui-se com o **dispêndio de dinheiro por mercadoria** [D─M].
 > (...) O ciclo M─D─M parte do extremo de uma mercadoria e conclui-se com o extremo de outra mercadoria, que **abandona a circulação** e ingressa no **consumo**, (...) [o qual] é seu fim último." (MARX, 2013, p. 225-6; grifo meu)
 
-Trata-se da venda (M─D) de uma [[Mercadoria]], e da compra posterior (D─M') de outra mercadoria[^1] pelo mesmo [[Valor]]. 
+Trata-se da venda (M─D) de uma [[Mercadoria]], e da compra posterior (D─M') de outra mercadoria[^1] pelo mesmo [[valor]]. 
 
 Ou seja, o ciclo M–D–M efetivamente trata-se (para o indivíduo que o reproduz) da troca de uma mercadoria sem uso por uma mercadoria que lhe seja [[Valor de Uso|útil]], e da troca de mãos do [[Dinheiro]] $D$.
 

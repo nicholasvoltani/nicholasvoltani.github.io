@@ -40,7 +40,7 @@ Para os mercantilistas, o aumento da moeda em circulação induzia o crescimento
 # Mistificação econômica
 > "O processo de produção _aparece_ apenas como inevitável elo intermediário, um mal necessário ao ato de fazer dinheiro." (MARX, p. 135)
 
-No livro II d'O Capital, Marx elabora sobre o [[Ciclo do Capital-Dinheiro]], que cria a mistificação [[Ciclo D─M─D']], "comprar [*importar*] para vender [*exportar*] mais caro", como sendo a forma de criação de [[Valor]]. Ou seja, a *circulação* de [[Mercadoria|Mercadorias]] gera [[Mais-Valor]], e a *produção* delas é meramente auxiliar a este processo, meramente serve para "mudar seu [[Valor de Uso]]" para o gosto de seus clientes do exterior. 
+No livro II d'O Capital, Marx elabora sobre o [[Ciclo do Capital-Dinheiro]], que cria a mistificação [[Ciclo D─M─D']], "comprar [*importar*] para vender [*exportar*] mais caro", como sendo a forma de criação de [[valor]]. Ou seja, a *circulação* de [[Mercadoria|Mercadorias]] gera [[Mais-Valor]], e a *produção* delas é meramente auxiliar a este processo, meramente serve para "mudar seu [[Valor de Uso]]" para o gosto de seus clientes do exterior. 
 
 Além disso, *ao menos na aparência*, o processo de [[Substituição das Importações]] também assume essa hipótese, embora eu creia ser possível argumentar que sua motivação é outra, *ao menos no que me concerne*: àqueles que digam que se deve substituir importações *para auxiliar nos [[Termos de Troca]]* (motivação genuinamente capitalista), realmente, o argumento se assemelha à hipótese mercantilista; porém, também pode-se argumentar que se deve substituir importações como uma forma política de se diminuir dependência tecnológica (portanto, política) do exterior[^8]. 
 
@@ -53,7 +53,7 @@ Além disso, *ao menos na aparência*, o processo de [[Substituição das Import
 - [Mercantilismo II - Ricardo Luís Chaves Feijó (FEA-RP)](https://www.youtube.com/watch?v=ucQAykhwPso)
 
 [^1]: [[Ciclo colonial do ouro]].
-[^2]: Precursora do [[Processo de Produção Capitalista]].
+[^2]: Precursora do [[processo de produção capitalista]].
 [^3]: Demandava-se que houvessem restrições de exportações de matérias-primas importantes ao processo de produção interno (p. ex. lã na Inglaterra, produção têxtil): "the import of raw materials, which were considered useful to the national industries, was not to be obstructed, while the export of important raw materials such as wool should be forbidden" (SCREPANTI et ZAMAGNI, p. 35).
 [^4]: I.e. [[Valor da Força de Trabalho]]. 
 [^5]: [[Acumulação Primitiva do Capital]].

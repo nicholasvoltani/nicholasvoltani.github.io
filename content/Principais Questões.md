@@ -7,7 +7,7 @@ aliases:
 
 up:: [[index]]
 
-- O que diabos são [[Meios de Produção]]!? O que **não** são meios de produção?
+- O que diabos são [[meios de produção]]!? O que **não** são meios de produção?
 - O que diabos é Dialética??
 	- O que diabos é **contradição**? Contradição lógica vs contradição real?
 		- Pode ser interessante: **Beyond the Limits of Thought**, Graham Priest

@@ -16,10 +16,19 @@ x_{l}(p, \alpha w) = \alpha x_{l}(p,w)
 $$
 (homogênea de grau 1 no tocante à [[Restrição Orçamentária|Renda]], para dado bem $l$).
 
-Derivando com relação a $\alpha$ e tomando $\alpha=1$ ao final, temos
+Derivando com relação a $\alpha$, temos
+$$
+\begin{align}
+\frac{ \partial x_{l}(p, \alpha w) }{ \partial (\alpha w) } \frac{ \partial \alpha w }{ \partial \alpha } &= x_{l}(p, w) \\
+\frac{ \partial x_{l}(p, \alpha w) }{ \partial (\alpha w) } w &= x_{l}(p, w)
+\end{align}
+$$
+
+
+Tomando $\alpha=1$ ao final, temos
 $$
 \begin{align*}
-\frac{ \partial x_{l} }{ \partial w } w &= x_{l} \\
+\frac{ \partial x_{l}(p, w) }{ \partial w } w &= x_{l} \\
 \therefore \frac{ \partial x_{l} }{ \partial w } \frac{w}{x_{l}} \equiv \epsilon_{lw} &= 1
 
 \end{align*}

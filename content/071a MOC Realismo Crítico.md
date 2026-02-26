@@ -24,7 +24,7 @@ related:: [[Trabalho HPE - Roy Bhaskar e o Realismo Crítico]]
 - [[Objetos Intransitivos da Ciência]]
 - [[Lei de Tendência]]
 	- [[Lei Causal]]
-- [[Falácia Epistêmica]]
+- [[falácia epistêmica]]
 - [[Modelo Transformacional da Atividade Social]]
 
 

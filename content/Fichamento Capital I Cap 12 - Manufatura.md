@@ -29,7 +29,7 @@ Ou seja, a "virtuosidade" é adquirida pelo trabalhador, mas não lhe pertence, 
 
 > "A diferenciação dos instrumentos de trabalho, por meio da qual instrumentos do mesmo tipo assumem formas particulares e fixas para cada aplicação útil particular, e sua especialização, que faz com que cada um desses instrumentos especiais só funcione em toda plenitude nas mãos de trabalhadores parciais específicos, caracterizam a manufatura." (MARX, p. 416)
 
-Entrementes, tal especificidade dos ofícios exige uma maior especificidade dos [[Meios de Produção|Meios de Trabalho]] empregados, em particular o emprego daqueles que aumentem a eficiência do ofício. Este é o fundamento que permite o advento da [[Maquinaria]] eventualmente: a concatenação do emprego de ferramentas específicas, empunhados sem a mão humana.
+Entrementes, tal especificidade dos ofícios exige uma maior especificidade dos [[meios de produção|Meios de Trabalho]] empregados, em particular o emprego daqueles que aumentem a eficiência do ofício. Este é o fundamento que permite o advento da [[Maquinaria]] eventualmente: a concatenação do emprego de ferramentas específicas, empunhados sem a mão humana.
 
 # O trabalho total como sequência de processos parciais
 > "Ao combinar ofícios originalmente dispersos, tal manufatura reduz a separação espacial entre as fases particulares de produção do artigo. O tempo de sua passagem de um estágio para outro é reduzido, assim como o trabalho que medeia essa passagem." (MARX, p. 418)

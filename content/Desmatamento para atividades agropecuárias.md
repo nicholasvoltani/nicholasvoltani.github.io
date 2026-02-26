@@ -7,7 +7,7 @@ tags:
 up:: 
 ![[Pasted image 20221115150548.png|450]]
 
-Desmatamento é o ato de destruir florestas pelo fim último de usar essas terras para atividades econômicas, em geral para plantações de [[Monocultura]] e/ou para criação de gado ─ ou seja, em geral é perpetrado pelo [[Agronegócio]] (em particular pelos atores agropecuário). 
+Desmatamento é o ato de destruir florestas pelo fim último de usar essas terras para atividades econômicas, em geral para plantações de [[Monocultura]] e/ou para criação de gado ─ ou seja, em geral é perpetrado pelo [[agronegócio]] (em particular pelos atores agropecuário). 
 
 Possui uma relação próxima com o [[Desmatamento para ocupação urbana]]. Durante a época dos Bandeirantes, o desmatamento tinha essa função dupla, enquanto atualmente a ocupação ocorre justamente em prol da expansão da atividade agropecuária (vide como [[A atividade agromineropecuária monopoliza a atividade socioeconômica local]]).
 

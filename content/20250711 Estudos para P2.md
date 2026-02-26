@@ -27,7 +27,7 @@ Note que isso vale *para o próprio indíviduo*, valendo como corolário para o 
 (Pois, a cada compra corresponde uma venda, e vice-versa.)
 
 Ou seja, tal relação de causalidade gasto-receita surge da própria assimetria da [[Dinheiro]] e da [[Mercadoria]]! 
-(Eu diria que, portanto, e ao contrário do que diz Possas, *tem* de ser em uma sociedade de [[Processo de Produção Capitalista|Modo de Produção Capitalista]], pois é nele que **se produz com o propósito de vender**, pressuposto deste argumento.)
+(Eu diria que, portanto, e ao contrário do que diz Possas, *tem* de ser em uma sociedade de [[processo de produção capitalista|Modo de Produção Capitalista]], pois é nele que **se produz com o propósito de vender**, pressuposto deste argumento.)
 
 > "(iv) *Não* é preciso relacionar o PDE — e, em conseqüência, a refutação da lei de Say — com a função consumo, e em particular com a suposição de Keynes de uma propensão marginal a consumir menor que um. A existência mesma de uma função consumo da renda é inteiramente irrelevante para a validade do PDE. Quem é (ou não) gasto não é a *renda* (um *fluxo*) cuja *única* relação necessária com o gasto é a de ser *determinada* por ele; mas o *poder* de compra (um estoque), que pode ser mais ou menos influenciado pela renda prévia (dependendo principalmente do nível de riqueza de cada agente considerado), mas certamente pode ser afetado por diversas outras variáveis, especialmente o *crédito*. Nesse sentido, e de um ponto de vista puramente lógico, *todo gasto é autônomo* em relação à renda prévia — inclusive o consumo." (Id., p. 22)
 
@@ -248,4 +248,4 @@ Dessa forma, os cálculos são empunhados pelos espíritos animais do investidor
 
 [^1]: O que é questionável, mediante mudanças de comportamento de consumo de hoje em dia, presença de crédito a famílias (e endividamentos que vemos), etc.
 [^2]: Creio que é uma tradução ruim, pois se trata de um rendimento *deste capital*, não de renda que é produzida pelo processo de produção em geral. Eu traduziria mais literalmente, como *rendimento prospectivo*, pois há a noção de *pro-spectar*, de olhar *adiante*.
-[^3]: Que são os verdadeiros criadores de [[Valor]]...
+[^3]: Que são os verdadeiros criadores de [[valor]]...

@@ -17,7 +17,7 @@ Essencialmente parte do princípio de que o atendimento às necessidades da gera
 
 No relatório Brundtland, há a asserção de que "um mundo em que a pobreza é endêmica sempre será propenso a catástrofes ecológicas ou de outros tipos". Mas no tocante às catástrofes ambientais causadas pelo homem, suas chances são maiores de ocorrerem **justamente em locais mais pobres** (i.e. [[Racismo Ambiental]]). 
 
-Dessa forma, não é como se a pobreza fosse geradora de catástrofes e exploração ecológica/ambiental, mas bem pelo contrário: a exploração ecológica/ambiental engendra a pobreza, justamente por ser um processo de acumulação do [[Capital]].
+Dessa forma, não é como se a pobreza fosse geradora de catástrofes e exploração ecológica/ambiental, mas bem pelo contrário: a exploração ecológica/ambiental engendra a pobreza, justamente por ser um processo de acumulação do [[capital]].
 
 ---
 ### Referências

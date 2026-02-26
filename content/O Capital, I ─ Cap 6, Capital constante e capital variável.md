@@ -5,7 +5,7 @@ tags:
   - marxism
 ---
 # O Capital, I ─ Cap 6, Capital constante e capital variável
-## Definição de [[Capital]]
+## Definição de [[capital]]
 > "não é uma coisa, mas uma **relação de produção definida**"
 
 e, em particular, de uma época específica: a do modo de produção capitalista/burguês. 
@@ -31,7 +31,7 @@ Portanto, é a parte do capital que "é valor que se valoriza".
 
 *Paralelo entre a forma de manifestação do capital sob o processo de **trabalho** e sob o processo de **valorização**.*
 
-## Componentes do [[Valor]] da [[Mercadoria]]
+## Componentes do [[valor]] da [[Mercadoria]]
 > "Por meio da adição meramente **quantitativa** de trabalho, um **valor novo** é adicionado; por meio da **qualidade** do trabalho adicionado, os **valores antigos** dos meios de produção **são conservados no produto**. Esse efeito duplo do mesmo trabalho, decorrência de seu [[Caráter duplo do trabalho|caráter duplo]], pode ser detectado em vários fenômenos." (p. 278)
 1. **Transferência** do valor dos **meios de produção constituintes**
 2. Criação do valor pela força de trabalho
@@ -44,13 +44,13 @@ $$
 
 > "O valor, se desconsiderarmos sua expressão meramente simbólica nos signos de valor, existe apenas num [[Valor de Uso]], numa coisa. (...) Por isso, a perda do valor de uso implica a perda do valor. Com a perda de seu valor de uso, os meios de produção não perdem, ao mesmo tempo, seu valor, uma vez que, **por meio do processo de trabalho**, eles só perdem a figura **originária** de seu valor de uso para, **no produto**, ganhar a figura de **outro valor de uso** ." (p. 280)
 
-Pela ação do [[Trabalho]] **vivo**, o qual **consome** [[Meios de Produção]] ─ portadores de trabalho morto (já despendido) ─, a [[Força de Trabalho]] "vivifica" este trabalho, gerando um novo valor de uso; ou melhor, metamorfoseia a forma de manifestação (qualitativa) desse valor, em um valor de uso novo.
+Pela ação do [[Trabalho]] **vivo**, o qual **consome** [[meios de produção]] ─ portadores de trabalho morto (já despendido) ─, a [[Força de Trabalho]] "vivifica" este trabalho, gerando um novo valor de uso; ou melhor, metamorfoseia a forma de manifestação (qualitativa) desse valor, em um valor de uso novo.
 
 > "Disso se segue que, no [[Processo de Trabalho]], o valor do meio de produção só se transfere ao produto na medida em que o meio de produção, juntamente com seu valor de uso **independente**^[Exemplo de tintas que perdem seu valor de uso **independente**, mas fazem-se aparecer no produto final.], perde também seu [[Valor de Troca]]. Ele **só cede ao produto o valor que perde** como meio de produção." (idem)
 
 Os meios de produção **não-duráveis** são ditos serem **[[Capital Circulante]]**, posto que somente através de sua "transfiguração" de forma , do meio de produção original ao produto final,  transferem-se valor ao novo produto.
 
-Porém, outros meios de produção podem transferir parte de seu valor enquanto conservam suas corporeidades: os **[[Meios de Produção]]** o fazem. Tanto máquinas quanto ambientes de trabalho, barris, etc. transferem valor ao produto final, mas "continuam a existir separados dos produtos que eles mesmos ajudaram a criar". Consoante o discutido acima, tais elementos somente cedem o valor **que perdem enquanto empregados no processo de produção**. Tal valor transferido por tais meios de produção são chamados por Marx de **[[Depreciação|depreciação]]**, e é a maneira pela qual a máquina, mesmo sendo empregada em sua totalidade no processo de trabalho, entra "de modo apenas fracionado como elemento da formação de valor".
+Porém, outros meios de produção podem transferir parte de seu valor enquanto conservam suas corporeidades: os **[[meios de produção]]** o fazem. Tanto máquinas quanto ambientes de trabalho, barris, etc. transferem valor ao produto final, mas "continuam a existir separados dos produtos que eles mesmos ajudaram a criar". Consoante o discutido acima, tais elementos somente cedem o valor **que perdem enquanto empregados no processo de produção**. Tal valor transferido por tais meios de produção são chamados por Marx de **[[Depreciação|depreciação]]**, e é a maneira pela qual a máquina, mesmo sendo empregada em sua totalidade no processo de trabalho, entra "de modo apenas fracionado como elemento da formação de valor".
 
 Os meios de trabalho, ou meios de produção **duráveis**, são ditos serem **[[Capital Fixo]]**, pois preservam sua forma original enquanto transferem parte de seu valor constituinte ao produto final. 
 

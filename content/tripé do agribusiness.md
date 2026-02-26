@@ -18,4 +18,4 @@ Visto sob uma perspectiva marxista, pode-se dizer que condizem com
 
 ---
 ### Referências
-- **Formação Política do Agronegócio**, Caio Pompeia, Ed. Elefante.
+POMPEIA, Caio. **Formação política do agronegócio**. São Paulo: Editora Elefante, 2021.

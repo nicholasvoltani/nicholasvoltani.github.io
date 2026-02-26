@@ -30,4 +30,4 @@ Portanto, quando as taxas de juros estão em baixa, há um incentivo para invest
 - [Lecture 6: IS-LM, continued - MIT OpenCourseWare (Ricardo Caballero, 2023)](https://youtu.be/gYgARXwnZTk?si=33frng1nUPc6tOBg)
 - [Lecture 7: An Extended IS-LM Model - MIT OpenCourseWare (Ricardo Caballero, 2023)](https://youtu.be/fkiWQZPOHXk?si=RFVFkBqkRwuSf0el)
 
-[^1]: Um bom exemplo é a questão do [[Agronegócio]]: máquinas agrícolas não são baratas!
+[^1]: Um bom exemplo é a questão do [[agronegócio]]: máquinas agrícolas não são baratas!

@@ -10,7 +10,7 @@ up:: [[Valor Equivalente]]
 
 ![[Representação de valor por dinheiro.svg]]
 
-A mercadoria-dinheiro é uma [[Mercadoria]] específica que, historicamente, assume o papel de *representar* o [[Valor]] das demais mercadorias: é a mercadoria que – *dentro do contexto de troca de mercadorias* – abdica de seu [[Valor de Uso]] a fim de ser o **equivalente universal**[^1] das demais mercadorias[^2]. 
+A mercadoria-dinheiro é uma [[Mercadoria]] específica que, historicamente, assume o papel de *representar* o [[valor]] das demais mercadorias: é a mercadoria que – *dentro do contexto de troca de mercadorias* – abdica de seu [[Valor de Uso]] a fim de ser o **equivalente universal**[^1] das demais mercadorias[^2]. 
 
 A quantidade de mercadoria-dinheiro que representa o valor de uma mercadoria é dito ser o **preço** desta mercadoria. Claro está que o preço da mercadoria é passível de mudar não só devido à variação do valor da mercadoria representada[^3], mas também devido à variação do valor da própria mercadoria-dinheiro: caso o valor do ouro diminua[^4], o preço das demais mercadorias tenderá a subir (*ceteris paribus*).
 

@@ -13,9 +13,9 @@ up:: [[011a MOC Capital I]]
 
 A mercadoria [[Aparência|aparece]] como nada mais que um objeto externo que *satisfaz necessidades humanas* tanto "*do estômago quanto da imaginação*", tanto direta (e.g. meio de subsistência) quanto indiretamente (e.g. meio de produção). 
 
-Toda mercadoria possui tanto um [[Valor de Uso|valor de uso]] (ou seja, sua utilização específica) quanto [[Valor]][^1], sendo uma [[Toda mercadoria é uma unidade dialética valor-valor de uso|unidade dialética valor-valor de uso]]. 
+Toda mercadoria possui tanto um [[Valor de Uso|valor de uso]] (ou seja, sua utilização específica) quanto [[valor]][^1], sendo uma [[Toda mercadoria é uma unidade dialética valor-valor de uso|unidade dialética valor-valor de uso]]. 
 
-Como [[Todo valor é um valor de uso, mas nem todo valor de uso é um valor]], embora toda mercadoria sirva para a satisfação de necessidades humanas (i.e. é valor de uso), nem toda coisa que satisfaz necessidades humanas pode ser considerada mercadoria: somente o é **quando ela é criada para ser trocada**, o que é o caso universal no [[Processo de Produção Capitalista|Modo de Produção Capitalista]].
+Como [[Todo valor é um valor de uso, mas nem todo valor de uso é um valor]], embora toda mercadoria sirva para a satisfação de necessidades humanas (i.e. é valor de uso), nem toda coisa que satisfaz necessidades humanas pode ser considerada mercadoria: somente o é **quando ela é criada para ser trocada**, o que é o caso universal no [[processo de produção capitalista|Modo de Produção Capitalista]].
 
 ---
 ### References

@@ -10,7 +10,7 @@ up:: [[099 MOC Rascunhos|099 MOC Anotações]]
 
 The analysis through Category Theory aims to bridge the "space of organizations" with the "space of capital". 
 
-Why is the [[Aparência|appearance]] of capitalism what it is? Why do we see [[Processo de Troca de Mercadorias|exchanges]] as depending on *prices*, not [[Valor|value]]? Because we're talking about **property** (laws, rights, ...) and how it operates.[^1] 
+Why is the [[Aparência|appearance]] of capitalism what it is? Why do we see [[Processo de Troca de Mercadorias|exchanges]] as depending on *prices*, not [[valor|value]]? Because we're talking about **property** (laws, rights, ...) and how it operates.[^1] 
 
 ```tikz
 \usepackage{tikz-cd}
@@ -39,7 +39,7 @@ C \arrow[r, "h;f"']                                             & D
 ```
 
 # Recap
-Given a domain $D$ of objects, we say there is an exchangeability function $e: D \times D \to T$ which evaluates the "similarity" between two "commodities" in $D$, which is given in a Heyting algebra. 
+Given a domain $D$ of objects, we say there is an exchangeability function $e: D \times D \to T$ which evaluates the "similarity" between two "commodities" in $D$, which is given in a [[Heyting Algebra]]. 
 
 [Mentions **William Lawvere**'s work on Dialectical Logic!] 
 

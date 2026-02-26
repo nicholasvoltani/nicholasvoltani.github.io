@@ -8,7 +8,7 @@ aliases:
 
 up:: [[011a MOC Capital I]]
 
-# Fatores que alteram relação [[Valor]]-[[Mais-Valor]]
+# Fatores que alteram relação [[valor]]-[[Mais-Valor]]
 -  [[Intensidade do Trabalho]]
 - [[Valor da Força de Trabalho]]
 - [[Produtividade do Trabalho]]

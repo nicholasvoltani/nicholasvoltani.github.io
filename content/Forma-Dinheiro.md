@@ -13,7 +13,7 @@ Dentro do ciclo mais simples, o [[Ciclo M─D─M]], uma [[Mercadoria]] $M$ é v
 
 Dentro do contexto da troca de [[Mercadoria]]s, uma certa mercadoria $M$ assume sua forma-dinheiro quando ela é vendida, ou seja, quando ela não é útil a seu produto mas é [[Valor de Uso]] a outra pessoa, disposta a comprá-la. 
 
-Nesse contexto, as características imediatamente particulares e qualitativas da mercadoria dão espaço ao caráter indistinto e abstrato da quantidade respectiva de [[Dinheiro]] que está representada em seu [[Valor]][^2].
+Nesse contexto, as características imediatamente particulares e qualitativas da mercadoria dão espaço ao caráter indistinto e abstrato da quantidade respectiva de [[Dinheiro]] que está representada em seu [[valor]][^2].
 
 Enquanto nesta forma-dinheiro, este "valor cristalizado" é passível de ser lançado novamente ao mercado, a fim de metamorfosear-se em algum outro objeto de uso particular que seja útil a seu portador. "*Se por um lado [o dinheiro] representa mercadoria vendida, por outro representa mercadorias compráveis*" (MARX, p. 184).
 

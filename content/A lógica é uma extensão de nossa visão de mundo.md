@@ -6,7 +6,7 @@ tags:
 ---
 up:: [[O mundo é cognoscível somente por modelos]]
 
-Assim como o [[Meios de Produção]] são algo que o indivíduo emprega como uma extensão de seus órgãos físicos, a lógica/razão é uma extensão de nossa visão de mundo. 
+Assim como o [[meios de produção]] são algo que o indivíduo emprega como uma extensão de seus órgãos físicos, a lógica/razão é uma extensão de nossa visão de mundo. 
 
 Há a noção de incognoscibilidade do mundo em Kant ─ não sei se ele elabora sobre uma incognoscibilidade **imediata** do mundo (pelos sentidos físicos) ou se é uma incognoscibilidade **absoluta**. Mas sinto que, ao menos quanto à primeira, a lógica serve de muleta para a limitação de nossos sentidos ─ afinal, ninguém nunca viu (nem provavelmente verá) um buraco negro "de longe", e não obstante isso sabemos um tanto de coisas sobre sua natureza.
 

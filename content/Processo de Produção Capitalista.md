@@ -4,7 +4,7 @@ tags:
   - evergreen
   - marxism
 aliases:
-  - Modo de Produção Capitalista
+  - modo de produção capitalista
 ---
 
 up:: [[011a MOC Capital I]]
@@ -20,7 +20,7 @@ up:: [[011a MOC Capital I]]
 > não só valor de uso, mas valor,
 > e não só valor, mas também *mais-valor*." (MARX, p. 263; grifo meu)
 
-O processo de produção capitalista busca a produção de [[Mercadoria|mercadorias]]: ou seja, busca a produção de [[Valor de Uso|valores de uso]] **tão somente porquanto** eles sejam os "suportes" do [[Valor|valor]]. Trata-se, em última instância, na produção sempre aumentada[^4] de [[Mais-Valor]].
+O processo de produção capitalista busca a produção de [[Mercadoria|mercadorias]]: ou seja, busca a produção de [[Valor de Uso|valores de uso]] **tão somente porquanto** eles sejam os "suportes" do [[valor|valor]]. Trata-se, em última instância, na produção sempre aumentada[^4] de [[Mais-Valor]].
 
 Tal processo incorpora em si o que Marx chama de [[Processo de Trabalho]] e [[Processo de Valorização]]: enquanto o primeiro efetua a produção de valores de uso[^3], o segundo se caracteriza pela produção de [[Mais-Valor]].
 
@@ -35,5 +35,5 @@ Entrementes, como a produção de valor (e de mais-valor) se trata de *tempo de 
 
 [^1]: Pois [[Todo valor é um valor de uso, mas nem todo valor de uso é um valor]].
 [^2]: Porque (pensando em termos cotidianos de preço) é uma [[Estratégia Dominada|Estratégia Dominante]] vender um produto por um preço abaixo de seus competidores/preço médio, e uma estratégia domin*ada*, vendê-los por um preço acima da média de mercado (ignorando diferenças qualitativas de produtos).
-[^3]: E, dentro do contexto de produção capitalista, gera o próprio valor da mercadoria (ao menos sob [[Princípio da Troca de Equivalentes]]), i.e. valor dos [[Meios de Produção]] e [[Força de Trabalho]] empregados.
+[^3]: E, dentro do contexto de produção capitalista, gera o próprio valor da mercadoria (ao menos sob [[Princípio da Troca de Equivalentes]]), i.e. valor dos [[meios de produção]] e [[Força de Trabalho]] empregados.
 [^4]: [[Reprodução Ampliada do Capital]].

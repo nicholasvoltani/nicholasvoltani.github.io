@@ -15,10 +15,10 @@ Note-se que tal manipulação da natureza, sendo sempre "[[Pensamentos sobre alq
 
 [[O trabalho humano é sempre direcionado a um fim idealizado]], e nesse sentido diferencia-se do trabalho realizado por outros seres vivos, que agem por "instinto"/"ímpeto".
 
-Quando visto embutido no [[Processo de Produção Capitalista]], compõe o [[Processo de Trabalho]], gerador de valores de uso.
+Quando visto embutido no [[processo de produção capitalista]], compõe o [[Processo de Trabalho]], gerador de valores de uso.
 
 ## O trabalho no sistema capitalista
-No sistema capitalista, o trabalho torna-se cada vez mais um produtor de [[Valor|valores]], produzindo [[Mercadoria|mercadorias]] meramente para vender, invés de produzi-las pensando em satisfazer necessidades materiais[^2].
+No sistema capitalista, o trabalho torna-se cada vez mais um produtor de [[valor|valores]], produzindo [[Mercadoria|mercadorias]] meramente para vender, invés de produzi-las pensando em satisfazer necessidades materiais[^2].
 
 Quando a divisão do trabalho não é feita de forma racional, mas sim de forma "*natural*" (como "força da natureza"), o trabalho aparecerá ao homem como uma [[Surgimento da alienação|força estranha]], como algo sobre o qual não possui poder, e que pode até mesmo "guiá-lo arbitrariamente". 
 
@@ -28,7 +28,7 @@ Adendo 24/05/2025:
 > 
 > Labour, then, in the physical world, is always and solely employed in putting objects in motion; the properties of matter, the laws of nature, do the rest. The skill and ingenuity of human beings are chiefly exercised in discovering movements, practicable by their powers, and capable of bringing about the effects which they desire. But, while movement is the only effect which man can immediately and directly produce by his muscles, it is not necessary that he should produce directly by them all the movements which he requires. (...)" (MILL, Book I, Ch. I, §2)
 
-Já em Mill há a noção de que, não só o trabalho é algo que advém do *comando de forças naturais pelo homem*, como que o avanço desse comando se dá de forma a facilitar seu esforço ([[Meios de Produção|Meios de Trabalho]]). No extremo, é o princípio da [[Maquinaria]] e além.
+Já em Mill há a noção de que, não só o trabalho é algo que advém do *comando de forças naturais pelo homem*, como que o avanço desse comando se dá de forma a facilitar seu esforço ([[meios de produção|Meios de Trabalho]]). No extremo, é o princípio da [[Maquinaria]] e além.
 
 
 ---

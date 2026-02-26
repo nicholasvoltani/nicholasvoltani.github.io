@@ -9,7 +9,7 @@ tags:
 
 A exploração do Brasil colônia[^1] se fez sempre de maneira predatória: explorando ao máximo os recursos disponíveis, [[Os ciclos do Brasil colônia foram ditados pelo mercado europeu|sempre de acordo com o mercado europeu]], e abandonando a empreitada conforme ou os recursos naturais ou a demanda externa se extinguissem.
 
-Vemos resquícios disso até hoje nas principais atividades econômicas do Brasil, em particular do [[Agronegócio]]: a expansão da fronteira agrícola é um reflexo do exaurimento dos solos (e das águas) do Sul de outrora.
+Vemos resquícios disso até hoje nas principais atividades econômicas do Brasil, em particular do [[agronegócio]]: a expansão da fronteira agrícola é um reflexo do exaurimento dos solos (e das águas) do Sul de outrora.
 
 
 ---

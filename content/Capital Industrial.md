@@ -5,13 +5,13 @@ tags:
 aliases:
 ---
 
-up:: [[011b MOC Capital II]] // [[Capital]]
+up:: [[011b MOC Capital II]] // [[capital]]
 
 <!-- https://q.uiver.app/#q=WzAsNyxbNSwwLCJEIl0sWzYsMSwiTSJdLFs1LDIsIlAiXSxbNCwxLCJNJyJdLFsxLDEsIlxcaHBoYW50b217YX0iXSxbOSwxLCJcXGhwaGFudG9te2F9Il0sWzAsMSwiXFxocGhhbnRvbXthfSJdLFswLDEsIiIsMSx7ImN1cnZlIjotMn1dLFsxLDIsIlxcZG90cyIsMyx7ImN1cnZlIjotMiwic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoibm9uZSJ9LCJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzIsMywiXFxkb3RzIiwzLHsiY3VydmUiOi0yLCJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJub25lIn0sImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbMywwLCIiLDEseyJjdXJ2ZSI6LTJ9XSxbNCw1LCJcXHRleHR7Q2lyY3VsYcOnw6NvfSIsMCx7ImxhYmVsX3Bvc2l0aW9uIjo5MCwic3R5bGUiOnsiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dLFs2LDUsIlxcdGV4dHtQcm9kdcOnw6NvfSIsMix7ImxhYmVsX3Bvc2l0aW9uIjo5MCwic3R5bGUiOnsiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dXQ== --> <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNyxbNSwwLCJEIl0sWzYsMSwiTSJdLFs1LDIsIlAiXSxbNCwxLCJNJyJdLFsxLDEsIlxcaHBoYW50b217YX0iXSxbOSwxLCJcXGhwaGFudG9te2F9Il0sWzAsMSwiXFxocGhhbnRvbXthfSJdLFswLDEsIiIsMSx7ImN1cnZlIjotMn1dLFsxLDIsIlxcZG90cyIsMyx7ImN1cnZlIjotMiwic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoibm9uZSJ9LCJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzIsMywiXFxkb3RzIiwzLHsiY3VydmUiOi0yLCJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJub25lIn0sImhlYWQiOnsibmFtZSI6Im5vbmUifX19XSxbMywwLCIiLDEseyJjdXJ2ZSI6LTJ9XSxbNCw1LCJcXHRleHR7Q2lyY3VsYcOnw6NvfSIsMCx7ImxhYmVsX3Bvc2l0aW9uIjo5MCwic3R5bGUiOnsiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dLFs2LDUsIlxcdGV4dHtQcm9kdcOnw6NvfSIsMix7ImxhYmVsX3Bvc2l0aW9uIjo5MCwic3R5bGUiOnsiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dXQ==&embed" width="400" height="200" style="border-radius: 8px; border: none;"></iframe>
 
 > "As duas formas que o valor de capital assume no interior de seus estágios de circulçaão são a de *capital [dinheiro]* e *capital-mercadoria*; sua forma própria ao estágio da produção é a de *capital produtivo*. O capital, que no percurso de seu ciclo total assume e abandona de novo essas formas, cumprindo em cada uma delas sua função correspondente, é o *capital industrial* — industrial, aqui, no sentido de que ele abrange todo ramo de produção explorado de modo capitalista." (MARX, p. 131)
 
-O capital industrial trata-se do movimento que o [[Capital]] assume no tocante à produção/efetivação de [[Mais-Valor]], ou seja, em seu processo consecutivo de produção-circulação de [[Mercadoria|Mercadorias]]. 
+O capital industrial trata-se do movimento que o [[capital]] assume no tocante à produção/efetivação de [[Mais-Valor]], ou seja, em seu processo consecutivo de produção-circulação de [[Mercadoria|Mercadorias]]. 
 
 <!-- https://q.uiver.app/#q=WzAsMyxbMSwwLCJLRCJdLFsyLDIsIktQIl0sWzAsMiwiS00iXSxbMCwxLCJcXHRleHR7Q29tcHJhfSIsMSx7ImN1cnZlIjotMn1dLFsxLDIsIlxcdGV4dHtQcm9kdcOnw6NvfSIsMSx7ImN1cnZlIjotMn1dLFsyLDAsIlxcdGV4dHtWZW5kYX0iLDEseyJjdXJ2ZSI6LTJ9XV0= --> <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsMyxbMSwwLCJLRCJdLFsyLDIsIktQIl0sWzAsMiwiS00iXSxbMCwxLCJcXHRleHR7Q29tcHJhfSIsMSx7ImN1cnZlIjotMn1dLFsxLDIsIlxcdGV4dHtQcm9kdcOnw6NvfSIsMSx7ImN1cnZlIjotMn1dLFsyLDAsIlxcdGV4dHtWZW5kYX0iLDEseyJjdXJ2ZSI6LTJ9XV0=&embed" width="300" height="300" style="border-radius: 8px; border: none;"></iframe>
 

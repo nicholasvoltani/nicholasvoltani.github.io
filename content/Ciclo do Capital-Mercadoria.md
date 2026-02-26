@@ -16,7 +16,7 @@ $$
 M' - D' - M \dots P \dots M'
 $$
 
-Por esta forma, pode-se ver que o ponto de partida de algum [[Capital]] individual ($M'$) também pode ser o ponto intermediário ($D'-M$) de *outro* capital (e vice-versa): o $Mp$ comprado por um é o $M'$ produzido por outro, e o $M'$ final deste primeiro pode ser o primeiro $M$ de algum outro capital, etc.. 
+Por esta forma, pode-se ver que o ponto de partida de algum [[capital]] individual ($M'$) também pode ser o ponto intermediário ($D'-M$) de *outro* capital (e vice-versa): o $Mp$ comprado por um é o $M'$ produzido por outro, e o $M'$ final deste primeiro pode ser o primeiro $M$ de algum outro capital, etc.. 
 
 Ou seja, o ciclo do capital mercadoria desvenda a **interdependência entre [[Capital Industrial|capitais industriais]]**, não de forma contingente, mas de forma **necessária**.
 

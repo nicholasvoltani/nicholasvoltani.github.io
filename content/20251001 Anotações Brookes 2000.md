@@ -18,7 +18,7 @@ Tipos de eficiência energética:
 > - raising the engineering effciency of conversion of fuels to useful heat or work.
 > - increasing the effectiveness of the associated energy service by, for example, higher standards of insulation." (p. 356)
 
-Isso é uma forma de diminuição do [[Valor]]? Posto que se trata das condições (normais) de **produção** de energia (**útil**). Pode até ser uma forma de aumento de eficiência *econômica*, mas vejo como sendo um efeito *indireto*, ainda mais pelo comentário logo em seguida:
+Isso é uma forma de diminuição do [[valor]]? Posto que se trata das condições (normais) de **produção** de energia (**útil**). Pode até ser uma forma de aumento de eficiência *econômica*, mas vejo como sendo um efeito *indireto*, ainda mais pelo comentário logo em seguida:
 > "These two categories may be considered collectively as examples of action to lower the *cost* of the energy input to a given energy service or of raising the level of the service obtainable from a given energy *input cost*." (grifo meu)
 
 (Portanto vendo, ao menos, pelo [[Preço de Custo]], que ainda está atrelado à configuração de valor da energia produzida.)

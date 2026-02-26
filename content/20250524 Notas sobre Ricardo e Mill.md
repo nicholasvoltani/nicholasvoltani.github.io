@@ -7,7 +7,7 @@ aliases:
 
 up:: [[061e MOC Teorias Econômicas]]
 
-Após Smith, problemas dos "economistas clássicos" gira em torno do [[Valor]], de como surgem os preços.
+Após Smith, problemas dos "economistas clássicos" gira em torno do [[valor]], de como surgem os preços.
 
 - Preços relativos (termos reais) a serem explicados pelo *valor-trabalho* (ampliada e aprimorada de Smith)
 - Preços absolutos (nominais/monetários) a serem explicados pela *moeda*

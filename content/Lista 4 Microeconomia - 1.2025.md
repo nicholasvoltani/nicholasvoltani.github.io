@@ -45,7 +45,7 @@ $$
 \begin{cases}
 P(C) = P(E \land I) &= P(E \mid I) \cdot P(I) \\
 P(D) = P(\lnot E \mid I) &= P(\lnot E \mid I) \cdot P(I) \\
-P(B) = P(E \land I) &= P(E \mid I) \cdot P(\lnot I) \\
+P(B) = P(E \land \lnot I) &= P(E \mid \lnot I) \cdot P(\lnot I) \\
 P(A) = P(\lnot E \land \lnot I) &= P(\lnot E \mid \lnot I) \cdot P(\lnot I)
 \end{cases}
 $$
@@ -75,7 +75,7 @@ P(D) = 0.0005
 \end{cases}
 $$
 
-As respectivas utilidades esperadas são simplesmente $\sum \limits_{i} P(X_{i}) U(X_{i})$. Deseja-se saber em quais casos se preferiria uma invés da outra; sem perda de generalidade, calculemos o caso de que se prefere (a loteria) $I$ ante (à loteria) $II$. Ou seja, $U(I) > U(II)$. Em números:
+As respectivas utilidades esperadas são simplesmente $\sum \limits_{i} P(X_{i}) \, U(X_{i})$. Deseja-se saber em quais casos se preferiria uma invés da outra; sem perda de generalidade, calculemos o caso de que se prefere (a loteria) $I$ ante (à loteria) $II$. Ou seja, $U(I) > U(II)$. Em números:
 $$
 \begin{align}
 0.891 + 0.099 p + 0.0009 q &> 0.8415 + 0.1485p + 0.0095 q \\
@@ -168,7 +168,7 @@ $$
 $$
 Reorganizando, temos
 $$
-(\pi \lambda - \pi q - q + \cancel{ \pi q }) u' = \underbrace{ (\pi\lambda - q) }_{ < 0 } \underbrace{ u' }_{ \geq 0 } < 0
+(\pi \lambda - \cancel{ \pi q } - q + \cancel{ \pi q }) u' = \underbrace{ (\pi\lambda - q) }_{ < 0 } \underbrace{ u' }_{ \geq 0 } < 0
 $$
 Pelos critérios de Kuhn-Tucker, só se satisfaz a desigualdade estrita se $\alpha^{*} = 0$ — absurdo. Portanto, temos de ter que $\alpha^{*} \neq \frac{D}{\lambda}$.
 

@@ -20,11 +20,11 @@ tags:
 		- Pauperismo
 
 ## Composição do Capital
-Para iniciar/dar continuidade ao seu [[Processo de Produção Capitalista|processo de produção]], o capitalista deve comprar
+Para iniciar/dar continuidade ao seu [[processo de produção capitalista|processo de produção]], o capitalista deve comprar
 - [[Força de Trabalho]] ([[Capital Variável]])
-- [[Meios de Produção]] ([[Capital Constante]])
+- [[meios de produção]] ([[Capital Constante]])
 
-Há uma dupla ótica da composição do [[Capital]]
+Há uma dupla ótica da composição do [[capital]]
 - Ponto de vista da **matéria**: [[Composição Técnica do Capital|composição técnica do capital]], pois é a composição física da massa de meios de produção com a massa de trabalho que deve colocá-la em movimento
 - Ponto de vista do **valor**: composição-valor, que "à medida que é **determinada por sua composição técnica** e **espelha suas modificações**" é chamada de [[Composição Orgânica do Capital|composição orgânica do capital]]. 
 	- Essa é a composição do capital que convém analisar
@@ -38,7 +38,7 @@ $$
 \end{align}
 $$
 
-\[03/01/2026: Incorreto-ish. A composição técnica é, de fato, a composição material do capital, e a [[Composição de Valor do Capital]] é o reflexo desta em [[Valor]]. A **conjunção de ambas** é chamada de composição orgânica.
+\[03/01/2026: Incorreto-ish. A composição técnica é, de fato, a composição material do capital, e a [[Composição de Valor do Capital]] é o reflexo desta em [[valor]]. A **conjunção de ambas** é chamada de composição orgânica.
 
 > "Entre ambas [composição técnica e composição de valor] existe uma estreita correlação. Para expressá-la, chamo a composição de valor do capital, **porquanto é determinada pela composição técnica do capital e reflete suas modificações**, de composição orgânica do capital. Onde se fala simplesmente de composição do capital, entenda-se sempre sua composição orgânica." (Marx, p. 689)
 

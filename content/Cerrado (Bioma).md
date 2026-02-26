@@ -45,7 +45,7 @@ O bioma do cerrado abriga a nascente de rios de várias bacias hidrográficas, d
 
 Atualmente resta somente cerca de 20% do bioma do Cerrado original devido ao [[Desmatamento para atividades agropecuárias]]; isso, aliado à alta biodiversidade do bioma, torna-o um [[Hotspot de Biodiversidade]].
 
-Tal [[Desmatamento para atividades agropecuárias]] se dá principalmente devido ao [[Agronegócio]] (pra variar).
+Tal [[Desmatamento para atividades agropecuárias]] se dá principalmente devido ao [[agronegócio]] (pra variar).
 
 ---
 ### Referências
