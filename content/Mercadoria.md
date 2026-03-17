@@ -4,7 +4,8 @@ tags:
   - evergreen
   - marxism
 aliases:
-  - Mercadorias
+  - mercadorias
+  - mercadoria
 ---
 
 up:: [[011a MOC Capital I]]

@@ -5,6 +5,7 @@ tags:
   - marxism
 aliases:
   - modo de produção capitalista
+  - produção capitalista
 ---
 
 up:: [[011a MOC Capital I]]

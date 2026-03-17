@@ -9,4 +9,3 @@ up::
 
 ---
 ### Referências
-- 

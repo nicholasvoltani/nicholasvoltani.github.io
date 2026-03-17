@@ -4,7 +4,8 @@ tags:
   - evergreen
   - marxism
 aliases:
-  - Valores de Uso
+  - valores de uso
+  - valor de uso
 ---
 
 up:: [[011a MOC Capital I]]

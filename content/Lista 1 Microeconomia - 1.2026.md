@@ -47,7 +47,7 @@ Ou seja, caso uma relação de preferências seja representável por uma funçã
 ## Relações de ordem e preferências racionais
 
 (**Exercício 1.1**) Demonstre que, a partir de uma relação de ordem $\succeq$ em um espaço $X$, é possível definir uma relação $\sim$ que
-$$x
+$$
 \forall x, y \in X: x \sim y \iff (x \succeq y)\,  \land  \, (y \succeq x)
 $$
 (Tradução: "Para todo $x$ e $y$ pertencentes a $X$, vale que $x \sim y$ se, e somente se, valer que $x \succeq y$ e também  $y \succeq x$.)

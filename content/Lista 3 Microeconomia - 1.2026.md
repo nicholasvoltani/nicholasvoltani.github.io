@@ -39,12 +39,12 @@ h_{i}(\vec{p}, \bar{u}) = -\frac{\frac{ \partial v }{ \partial p_{i} }}{\frac{ \
 $$
 Tome muito cuidado! A demanda compensada é uma função de $\vec{p}$ **e de $\mathbf{\bar{u}}$**, **não de $\mathbf{w}$**!! Ou seja, caso apareça algum $w$, utilize algum dos resultados demonstrados anteriormente que seja função de $\vec{p}$ e $\bar{u}$ para ressubstitui-lo.[^2]
 
-4) A equação de Slutsky tem a forma $\frac{ \partial x^*_{i} }{ \partial p_{i} } = \frac{ \partial h_{i} }{ \partial p_{i} } - x^*_{i} \frac{ \partial x_{i}^*) }{ \partial w }$ para cada bem $i$. Calcule cada um dos termos, e confirme que a equação é válida.
+4) A equação de Slutsky tem a forma $\frac{ \partial x^*_{i} }{ \partial p_{i} } = \frac{ \partial h_{i} }{ \partial p_{i} } - x^*_{i} \frac{ \partial x_{i}^* }{ \partial w }$ para cada bem $i$. Calcule cada um dos termos, e confirme que a equação é válida.
 
 
 
 
-## Ex 2 (Mas-Collell et al, exercício 6.B.4)
+## Ex 2 [@Mas-Colell1995, exercício 6.B.4]
 
 O propósito desse exercício é ilustrar como a teoria da utilidade esperada nos permite tomar decisões consistentes ao lidar com probabilidades extremamente pequenas ao considerar probabilidades relativamente grandes. Suponha que uma agência de segurança esteja pensando em estabelecer um critério sob o qual uma área propensa à inundação deveria ser evacuada. A probabilidade de inundação é de $1\%$. Há quatro resultados possíveis:
 
@@ -146,7 +146,7 @@ $$
 $II$ é preferível a $I$ ao inverter a desigualdade. (E ambos são equivalentes quando é uma igualdade.)
 
 
-## Exercício 2 - Mas-Collell et al, Exemplo 6.C.1
+## Exercício 2 - [@Mas-Colell1995, exemplo 6.C.1]
 Considere um tomador de decisão estritamente avesso ao risco que tenha uma riqueza inicial de $w$, mas que corra o risco de perder $D$ dólares. A probabilidade de perda é $\pi$.[^5] É possível, entretanto, que o tomador de decisão adquira um seguro. Uma unidade de seguro custa $q$ dólares e paga $1$ dólar se a perda ocorrer. Assim, se $\alpha$ unidades de seguro forem compradas, o patrimônio do indivíduo será $w-\alpha q$, se não houver sinistro[^6] e $w-\alpha q-D+\alpha$ se o sinistro ocorrer. Observe, para fins de discussão posterior, que a riqueza esperada do tomador de decisão é então $w - \pi D + \alpha (\pi - q)$. O problema do tomador de decisão é escolher o nível ótimo de $\alpha$. Seu problema de maximização de utilidade é
 $$
 \max\limits_{\alpha \geq 0}  \,(1-\pi) \, u(w-\alpha q) + \pi u(w-\alpha q - D + \alpha )
