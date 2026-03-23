@@ -35,6 +35,6 @@ Entrementes, como a produção de valor (e de mais-valor) se trata de *tempo de 
 - [[O Capital, I ─ Cap 5, O processo de trabalho e o processo de valorização]]
 
 [^1]: Pois [[Todo valor é um valor de uso, mas nem todo valor de uso é um valor]].
-[^2]: Porque (pensando em termos cotidianos de preço) é uma [[Estratégia Dominada|Estratégia Dominante]] vender um produto por um preço abaixo de seus competidores/preço médio, e uma estratégia domin*ada*, vendê-los por um preço acima da média de mercado (ignorando diferenças qualitativas de produtos).
+[^2]: Porque (pensando em termos cotidianos de preço) é uma [[Estratégia Dominada|Estratégia Dominante]] vender um produto por um preço abaixo de seus competidores/preço médio, e uma estratégia domin*ada*, vendê-los por um preço acima da média de mercado (ignorando diferenças qualitativas de produtos). (**20260318**: É mais profundo que isso! Buscar valor maior que o despendido é a própria definição do capital: **processo** em que o valor se valoriza; o capitalista é somente sua personificação.)
 [^3]: E, dentro do contexto de produção capitalista, gera o próprio valor da mercadoria (ao menos sob [[Princípio da Troca de Equivalentes]]), i.e. valor dos [[meios de produção]] e [[Força de Trabalho]] empregados.
 [^4]: [[Reprodução Ampliada do Capital]].
