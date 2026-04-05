@@ -6,6 +6,7 @@ tags:
 aliases:
   - modo de produção capitalista
   - produção capitalista
+  - processo de produção
 ---
 
 up:: [[011a MOC Capital I]]

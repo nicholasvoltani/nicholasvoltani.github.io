@@ -12,6 +12,9 @@ up:: [[0x5 MOC Mestrado]] // [[010 MOC Marxism]] // [[071a MOC Realismo Crítico
 ## Anotações
 - [[20250928 Anotações Brookes 1990]]
 - [[20251001 Anotações Brookes 2000]]
+- [[20260223 Anotações sobre The Eye of the Master]]
+- [[20260304 Conversa Eduardo]]
+
 ---
 
 

@@ -10,7 +10,7 @@ up:: [[Escola Novo-Keynesiana]]
 > "Rotemberg and Woodford (1991) suggest that desired mark-ups over marginal cost fall during a boom because it becomes increasingly difficult to maintain oligopolistic collusion; that is, industries become more competitive in periods of high economic activity. During recessions implicit collusion increases, leading to a countercyclical mark-up that acts as a real rigidity, magnifying the impact on nominal rigidity of relatively small menu costs (D. Romer, 2001)." (SNOWDON & VANE, p. 380)
 
 - **Soft market**: "desired mark-ups over marginal cost fall during a boom because (...) **industries become more competitive in periods of high economic activity**"
-- **Hard market**: "**During recessions implicit collusion increases**, leading to a countercyclical mark-up that acts as a real rigidity" — no caso de seguros, um aumento generalizado de [[Markup]], i.e. [[Prêmio de Risco]] 
+- **Hard market**: "**During recessions implicit collusion increases**, leading to a countercyclical mark-up that acts as a real rigidity" — no caso de seguros, um aumento generalizado de [[Markup]], i.e. [[Probability Premium]] 
 
 ---
 ### References

@@ -27,8 +27,6 @@ $$
 
 (Relembrando que $h(p, \bar{u}) = x(p, e(p, \bar{u}))$, relacionando com a [[Demanda Marshalliana|Demanda Walrasiana]].)
 
-
-
 ---
 ### References
 - [Roy's identity - Wikipedia](https://en.wikipedia.org/wiki/Roy%27s_identity)

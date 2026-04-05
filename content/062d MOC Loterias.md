@@ -16,7 +16,7 @@ related:: [[062b MOC Teoria do Consumidor]]
 - [[Utilidade de Bernoulli]]
 - [[Aversão ao Risco]]
 - [[Equivalente Certo]]
-- [[Prêmio de Risco]]
+- [[Probability Premium]]
 - [[Coeficiente de Arrow-Pratt]] (Aversão absoluta ao risco)
 - [[Coeficiente de Aversão Relativa ao Risco]]
 - [[Modelo CAPM]]

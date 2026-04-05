@@ -9,4 +9,4 @@ up::
 
 ---
 ### Referências
-- MARX, Karl. **O Capital: Crítica da economia política. Livro 2: O processo de circulação do capital**. Boitempo Editorial, 2014.
+MARX, Karl. **O Capital: Crítica da economia política. Livro 2: O processo de circulação do capital**. Boitempo Editorial, 2014.

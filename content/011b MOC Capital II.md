@@ -8,7 +8,7 @@ up:: [[011 MOC Capital]]
 
 related:: [[011a MOC Capital I]] // [[070 MOC Philosophy]]
 
-**Disclaimer**: Nestas notas, opto por utilizar o termo *capital-dinheiro* invés de "capital monetário" (cf. edição da Boitempo), seguindo o prof. Marcelo Carcanholo, devido não só por ser uma tradução mais fidedigna (*Geldkapital*), como devido à definição posterior de [[Capital Monetário]] por Hilderding, uma **outra** categoria *altogether*.
+**Disclaimer**: Nestas notas, opto por utilizar o termo *capital-dinheiro* invés de "capital monetário" (cf. edição da Boitempo), seguindo o prof. Marcelo Carcanholo, devido a ser uma tradução mais fidedigna (*Geldkapital*).
 
 # Seção I: As metamorfoses do [[capital]] e seu ciclo
 - [[Capital Industrial]]
@@ -24,11 +24,10 @@ related:: [[011a MOC Capital I]] // [[070 MOC Philosophy]]
 	- [[Ciclo do Capital-Mercadoria]]
 
 # Seção II: A rotação do capital
-- [[Rotação do Capital]]
 - [[Tempo de Circulação do Capital Industrial]]
-	- [[Tempo de Rotação do Capital]]
-- [[Tempo de Produção do Capital Industrial]]
-- [[Número de Rotações]]
+	- [[Tempo de Produção do Capital Industrial]]
+	- [[Tempo de Circulação de Mercadorias]]
+- [[Tempo de Rotação do Capital]]
 - [[Taxa Anual de Mais-Valor]]
 	- Num nível mais abstrato/menos concreto: [[Taxa de mais-valor]]
 - [[Massa Anual de Mais-Valor]]
@@ -40,6 +39,7 @@ related:: [[011a MOC Capital I]] // [[070 MOC Philosophy]]
 - [[Capital Circulante]]
 
 # Seção III: A reprodução e a circulação do capital social total
+- [[Esquemas de Reprodução do Capital]]
 
 
 ---

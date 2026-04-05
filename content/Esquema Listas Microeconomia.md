@@ -34,7 +34,7 @@ related:: [[Possíveis exercícios para listas de Microeconomia]]
 # Lista 3: Indeterminação ([[062d MOC Loterias]])
 1) [[Lista 4 Microeconomia - 1.2025#Utilidades esperadas e gestão de desastres]]
 2) [[Lista 4 Microeconomia - 1.2025#Exemplo de seguros]] — [[Utilidade de Bernoulli]]
-	1) [[Equivalente Certo]] &  [[Prêmio de Risco]]
+	1) [[Equivalente Certo]] &  [[Probability Premium]]
 3) Casos de [[Coeficiente de Arrow-Pratt]] e [[Coeficiente de Aversão Relativa ao Risco]]
 	1) $\tilde{u}(w) = \ln w$ — convexo/[[Aversão ao Risco|Avesso ao Risco]] ($\tilde{u}'' < 0$)
 	2) Exemplo de utilidade *risk-loving*?

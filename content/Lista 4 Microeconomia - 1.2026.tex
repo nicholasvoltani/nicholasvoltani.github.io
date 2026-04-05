@@ -1,0 +1,107 @@
+\documentclass[12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+\usepackage{setspace}
+\onehalfspacing
+
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{mathtools}
+
+\numberwithin{equation}{section}
+
+\theoremstyle{plain}
+\newtheorem{theorem}{Teorema}[section]
+\newtheorem{proposition}[theorem]{Proposição}
+\newtheorem{lemma}[theorem]{Lema}
+\newtheorem{corollary}[theorem]{Corolário}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definição}
+\newtheorem{example}[theorem]{Exemplo}
+\newtheorem{exercise}{Exercício}[section]
+
+\theoremstyle{remark}
+\newtheorem*{remark}{Observação}
+
+\usepackage{hyperref}
+\usepackage{csquotes}
+
+\usepackage[
+    backend=biber,
+    style=authoryear,
+    maxcitenames=2
+]{biblatex}
+
+\addbibresource{/mnt/c/Users/nicho/Documents/nicholasvoltani.github.io/bibliography.bib}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\pref}{\succeq}
+\newcommand{\strictpref}{\succ}
+\newcommand{\indiff}{\sim}
+
+% ------------------------------------------------
+% Title (fill manually)
+% ------------------------------------------------
+\title{}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\begin{longtable}[]{@{}l@{}}
+\toprule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+date: ``2026-03-30'' \\
+tags: \\
+- economics \\
+aliases: \\
+\end{longtable}
+
+\hypertarget{exercuxedcios}{%
+\section{Exercícios}\label{exercuxedcios}}
+
+\begin{exercise}
+Mostre que o Equivalente Certo de uma função utilidade exponencial
+\(u(x) = - e^{-ax}\) assume a forma de uma \textit{média harmônica
+ponderada}, ao se escrever \(x_i = \ln \frac{\tilde{x_{i}}}{a}\):
+\[
+C(L, a) = \frac{1}{a} \ln \left( \frac{1}{\sum \limits_{i} p_{i} x_{i}^{-1}} \right)
+\]
+
+\end{exercise}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  Mostre que o equivalente certo de uma função utilidade isoelástica \(u(x) = \frac{x^{1-\rho}-1}{1-\rho}\) assume a forma de uma \textit{\((1-\rho)\)-norma ponderada}, i.e.~
+  \[
+  C(L, \rho) = \left( \sum \limits_{i} p_{i} x_{i}^{1-\rho} \right)^{1/(1-\rho)}
+  \]
+\end{enumerate}
+
+\[
+\begin{align}
+\frac{ \partial x^{1-\rho} }{ \partial \rho } &=  \\
+&= \frac{ \partial  }{ \partial \rho } e^{\ln (x^{1-\rho})}  \\
+&= \frac{ \partial  }{ \partial \rho } e^{(1-\rho) \ln x}   \\
+&= \frac{ \partial  }{ \partial \rho } e^{-\rho \ln x} \\
+&= -\ln x \, e^{-\rho \ln x}  \\
+&= -\ln x e^{\ln x^{-\rho}} \\
+&=\ln x \, x^{-\rho}
+\end{align}
+\]
+
+\printbibliography
+
+\end{document}

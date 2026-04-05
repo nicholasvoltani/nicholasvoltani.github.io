@@ -143,7 +143,13 @@ $$
 $$
 
 Para a utilidade linear, $\xi_{12} \to - \infty$; para Cobb-Douglas, $\xi_{12} \to -1$; e para Leontief, $\xi_{12} \to 0$. 
+$$
+\begin{align}
+\frac{ \partial u }{ \partial x } \frac{ \partial c }{ \partial \epsilon } = \frac{1}{2} \frac{ \partial u }{ \partial x_{+} } - \frac{1}{2} \frac{ \partial u }{ \partial x_{-} }  \\
+\frac{ \partial^{2}u }{ \partial x^{2} } \cancel{ \left( \frac{ \partial c }{ \partial \epsilon } \right)^{2} } + \frac{ \partial u }{ \partial x } \frac{ \partial c^{2} }{ \partial \epsilon^{2} } = \frac{1}{2} \frac{ \partial^{2}u }{ \partial x^{2} } + \frac{1}{2}\frac{ \partial^{2} u }{ \partial x^{2} }  \\
 
+\end{align}
+$$
 
 
 ---

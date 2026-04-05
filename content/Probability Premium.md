@@ -18,7 +18,8 @@ Ou seja, é o reajuste de probabilidades que o agente racional demandaria para a
 
 Um agente [[Aversão ao Risco|avesso ao risco]] demandaria uma probabilidade *maior* para o ganho $x+\epsilon$ do que $\frac{1}{2}$ (prêmio de risco positivo); um agente neutro ao risco tem $\pi=0$ para qualquer $\epsilon$; um agente amante ao risco aceitaria até mesmo probabilidades maiores *de ganhar menos*, i.e. $x-\epsilon$ (prêmio de risco é negativo).
 
+
 ---
 ### References
 - MAS-COLELL, Andreu; WHINSTON, Michael Dennis; GREEN, Jerry R. **Microeconomic theory**. New York: Oxford University Press, 1995.
-- - [Iniciação Científica: Introdução à Economia Matemática (2022) - IMPA (Campo Elias)](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTjttEZI1t-7aVeFuMYkZuI)
+- [Iniciação Científica: Introdução à Economia Matemática (2022) - IMPA (Campo Elias)](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTjttEZI1t-7aVeFuMYkZuI)

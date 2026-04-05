@@ -3,6 +3,8 @@ date: 2022-02-28
 tags:
   - evergreen
   - marxism
+aliases:
+  - circulação simples
 ---
 <!-- https://q.uiver.app/#q=WzAsNSxbMiwwLCJYIl0sWzAsMiwiUCJdLFs0LDIsIlAnIl0sWzEsMSwiKEkpIl0sWzMsMSwiKElJKSJdLFswLDIsIk0iLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzAsNjAsNjBdfSxbMCw2MCw2MCwxXV0sWzIsMCwiRCIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMTIwLDYwLDYwXX0sWzEyMCw2MCw2MCwxXV0sWzAsMSwiRCIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMTIwLDYwLDYwXX0sWzEyMCw2MCw2MCwxXV0sWzEsMCwiTSIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMCw2MCw2MF19LFswLDYwLDYwLDFdXV0= --> <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNSxbMiwwLCJYIl0sWzAsMiwiUCJdLFs0LDIsIlAnIl0sWzEsMSwiKEkpIl0sWzMsMSwiKElJKSJdLFswLDIsIk0iLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzAsNjAsNjBdfSxbMCw2MCw2MCwxXV0sWzIsMCwiRCIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMTIwLDYwLDYwXX0sWzEyMCw2MCw2MCwxXV0sWzAsMSwiRCIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMTIwLDYwLDYwXX0sWzEyMCw2MCw2MCwxXV0sWzEsMCwiTSIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMCw2MCw2MF19LFswLDYwLDYwLDFdXV0=&embed" width="688" height="432" style="border-radius: 8px; border: none;"></iframe>
 
