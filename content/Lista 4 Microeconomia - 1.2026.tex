@@ -66,40 +66,249 @@ tags: \\
 aliases: \\
 \end{longtable}
 
+\hypertarget{conceitos-introdutuxf3rios}{%
+\section{Conceitos introdutórios}\label{conceitos-introdutuxf3rios}}
+
+\hypertarget{loterias}{%
+\subsection{Loterias}\label{loterias}}
+
+\begin{definition}
+
+\end{definition}
+
+\hypertarget{teoria-da-firma}{%
+\subsection{Teoria da firma}\label{teoria-da-firma}}
+
+\begin{definition}
+O equivalente certo de um tomador de risco é a quantidade monetária
+não-aleatória com a qual ele obtém utilidade igual à sua
+\textit{utilidade média}.
+
+Dada uma loteria \(L\) e uma utilidade de Bernoulli \(u(\cdot)\), o
+equivalente certo (ou equivalente de certeza) \(c(L, u)\) é o valor
+(monetário) \textit{com probabilidade \(100\%\) de ser recebido} que faz
+com que a utilidade de Bernoulli se iguale à Utilidade de von
+Neumann-Morgenstern \(U(\cdot)\) da loteria \(L\),
+i.e.~\(U(L)\).\footnote{\textcite{Cowell2004}, p.~188 comenta sobre a
+  confusão que ambas estas utilidades --- utilidade ``de Bernoulli''
+  (cf. \textcite{Mas-Colell1995}, p.~184) e utilidade de von
+  Neumann-Morgenstern --- podem suscitar: ``Here we encounter a
+  terminologically awkward corner. We should not really call \(u\)
+  {[}''utilidade de Bernoulli''{]} `the utility function' because the
+  whole expression {[}utilidade de von Neumann-Morgenstern,
+  \(U(L) = \sum \limits_{k} p_{k} u_{k}\){]} is the person's utility; so
+  \(u\) is sometimes known as the individual's \textit{cardinal utility
+  function} or \textit{felicity function}; arguably neither term is a
+  particularly happy choice of words.''.}
+
+Formalmente, temos que, para uma loteria \((p_{1}, \dots, p_{n})\)
+relacionada às utilidades (de Bernoulli)
+\((u_{1} \coloneqq u(x_{1}), \dots, u_{n}:= u(x_{n}))\), a definição do
+equivalente certo segue a forma
+\[
+u(c(L, u)) = \sum \limits_{k} p_{k} u_{k} = U(L)
+\]
+
+Pensando em termos de gráficos: \(c\) é o valor (não-aleatório,
+``\textit{certo}'') com o qual o indivíduo alcança a utilidade média
+(dadas as suas possibilidades \(u_{1},\dots, u_{n}\)). Intuitivamente,
+pensaríamos que este ponto seria
+\[
+c = \sum \limits_{i=1}^{n} p_{i} x_{i}
+\]
+i.e.~o valor esperado dentre as possibilidades \(x_{i}\). Este caso,
+porém, é o que se chama de ``indiferente ao risco''. Indivíduos que têm
+\textit{aversão} ao risco, por outro lado, preferem um valor
+\textit{menor, porém certo}, para evitar a aleatoriedade; eles se
+dispõem a receber um valor menor, contanto que não se indisponham a
+``recebíveis'' incertos. \textit{Mutatis mutandis} para indivíduos
+\textit{amantes} ao risco: eles precisam ser pagos valores certos
+\textit{maiores} para que se abstenham do risco.
+
+!445 Fonte: \textcite{Cowell2004}, p.~191. Na figura, os possíveis
+acontecimentos são \(x_{\color{red} Red}, x_{\color{blue} Blue}\)
+(implicitamente com probabilidades respectivas
+\(p_{\color{red} Red}, p_{\color{blue} Blue}\)), \(\mathcal{E}x\) é o
+valor esperado dos acontecimentos \(x\) (i.e.~\(\sum p_{i}x_{i}\)), e
+\(\xi\) é o equivalente certo para este indivíduo. Note-se que, como
+\(\xi < \mathcal{E}x\), este indivíduo é \textit{avesso} ao risco; isso
+também é notável por sua utilidade \textit{côncava}
+(\(u^{\prime\prime}<0\)).
+\end{definition}
+
+\begin{definition}
+Dado um indivíduo com um equivalente certo \(c(L, u)\) e cujos possíveis
+acontecimentos \(x_{1},\dots,x_{n}\) (com resp. probabillidades
+\(p_{1},\dots,p_{n}\)) tenham valor esperado
+\[
+\left<x\right> \coloneqq \sum \limits_{i=1}^{n} p_{i} x_{i}
+\]
+define-se seu \textit{prêmio de risco} como
+\(\left< x \right> - c(L,u)\)
+\parencite[, p. 191]{Cowell2004}.\footnote{Note-se que esta definição
+  \textbf{não} é a mesma que \textcite{Mas-Colell1995} faz: MWG definem
+  o que chamaram de ``\textit{probability premium}'' (definição
+  \textbf{6.C.2 (ii)}, p.~186), mas não o \textit{risk premium}
+  \textit{per se}.}
+
+Para indivíduos indiferentes ao risco, ele é \(= 0\); para os avessos ao
+risco, é \(>0\); para os amantes ao risco, é \(<0\).
+\end{definition}
+
 \hypertarget{exercuxedcios}{%
 \section{Exercícios}\label{exercuxedcios}}
 
 \begin{exercise}
-Mostre que o Equivalente Certo de uma função utilidade exponencial
+Mostre que o equivalente certo de uma função utilidade exponencial
 \(u(x) = - e^{-ax}\) assume a forma de uma \textit{média harmônica
 ponderada}, ao se escrever \(x_i = \ln \frac{\tilde{x_{i}}}{a}\):
 \[
-C(L, a) = \frac{1}{a} \ln \left( \frac{1}{\sum \limits_{i} p_{i} x_{i}^{-1}} \right)
+C(L, a) = \frac{1}{a} \ln \left( \frac{1}{\sum \limits_{i} p_{i} \tilde{x}_{i}^{-1}} \right)
 \]
 
 \end{exercise}
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi})}
-\setcounter{enumi}{1}
-\tightlist
-\item
-  Mostre que o equivalente certo de uma função utilidade isoelástica \(u(x) = \frac{x^{1-\rho}-1}{1-\rho}\) assume a forma de uma \textit{\((1-\rho)\)-norma ponderada}, i.e.~
-  \[
-  C(L, \rho) = \left( \sum \limits_{i} p_{i} x_{i}^{1-\rho} \right)^{1/(1-\rho)}
-  \]
-\end{enumerate}
+\begin{exercise}
+Mostre que o equivalente certo de uma função utilidade isoelástica
+\(u(x) = \frac{x^{1-\rho}-1}{1-\rho}\) assume a forma de uma
+\textit{\((1-\rho)\)-norma ponderada}, i.e.~
+\[
+   C(L, \rho) = \left( \sum \limits_{i} p_{i} x_{i}^{1-\rho} \right)^{1/(1-\rho)}
+   \]
+
+\end{exercise}
+
+\begin{exercise}
+Mostre que o equivalente certo de uma função utilidade logarítmica
+\(u(x) = \ln x\) tem a forma de uma média geométrica ponderada
+\[
+C(L) = \prod \limits_{i=1}^{n} x_{i}^{p_{i}}
+\]
+
+\end{exercise}
+
+\begin{exercise}
+\parencite[, p. 135-6]{Mas-Colell1995} Seja \(F(x)\) uma função produção
+com retornos de escala \textit{não-decrescentes}. Ou seja,
+\[
+\forall \alpha \in \mathbb{R}: F(\alpha x) \geq \alpha F(x)
+\]
+Prove que, dados preços \(p\), o seu lucro \(\pi(p)\) ou tende a
+\(\infty\) ou \(\pi(p) \leq 0\).
+\end{exercise}
+
+\hypertarget{resoluuxe7uxf5es}{%
+\section{Resoluções}\label{resoluuxe7uxf5es}}
+
+\begin{exercise}
+Dada uma loteria \(L = (p_{1},\dots,p_{n})\) de possíveis resultados
+\(x=(x_{1},\dots,x_{n})\), o equivalente certo \(C(L, u)\) é a
+quantidade monetária que garante a utilidade média (i.e.~utilidade de
+von Neumann-Morgenstern). Como a utilidade \(u(x) = - e^{-ax}\) é
+definida pelo coeficiente \(a\), podemos escrever \(C(L, u) = C(L, a)\).
+
+Portanto,
+\[
+\begin{align*}
+\cancel{ - }e^{-aC} &= \sum \limits_{i=1}^{n} p_{i} (\cancel{ - }e^{-ax_{i}}) \\
+&= \sum \limits_{i=1}^{n} p_{i} e^{-ax_{i}}
+\end{align*}
+\]
+Isolando \(C\), temos
+\[
+\begin{align*}
+C(L, a) &= -\frac{1}{a} \ln\left( \sum \limits_{i=1}^{n}p_{i} e^{-ax_{i}} \right) \\
+&= \frac{1}{a}\ln \left( \frac{1}{\left( \sum \limits_{i=1}^{n}p_{i} e^{-ax_{i}} \right)} \right)
+\end{align*}
+\]
+Defina-se, a fins de simplificação, variáveis auxiliares
+\(\tilde{x}_{i}\) tais que
+\[
+x_{i} = \frac{1}{a} \ln \tilde{x}_{i} \iff \tilde{x}_{i}^{-1} = e^{-ax_{i}}
+\]
+Dessa forma, temos que \$\$ \begin{align*}
+C(L, a) &= \frac{1}{a}  \ln \left( \frac{1}{\left( \sum \limits_{i=1}^{n}p_{i} \frac{1}{\tilde{x}_{i}} \right)} \right) 
+
+\end{align*} \$\$
+
+Fazendo o mesmo para \(C\), i.e.~\(C = \frac{1}{a}\ln \tilde{C}\), temos
+\$\$ \begin{align*}
+\tilde{C} &= \frac{1}{\left( \sum \limits_{i=1}^{n}p_{i} \frac{1}{\tilde{x}_{i}} \right)}  \\
+&= \frac{\sum \limits_{i=1}^{n} p_{i}}{\left( \sum \limits_{i=1}^{n}p_{i} \frac{1}{\tilde{x}_{i}} \right)} 
+
+\end{align*} \$\$
+
+Ou seja, é possível escrever o equivalente certo de uma utilidade
+exponencial como uma média \textit{harmônica ponderada}.
+
+A fins de \textit{sanity check}: suponhamos que algum dos \(x_{i}\)'s
+tende a \(0\)\footnote{Em verdade: consideremos \(x_{i}\) se aproximando
+  de \(0\). Não queremos tomar o limite formal
+  \(\lim\limits_{x\to_{0}}\) neste caso.} --- \textit{mas não sua
+probabilidade} \(p_i\) ---, ou seja, é um caso que tende à perda máxima
+do indivíduo com uma probabilidade não-nula.
+
+Teremos, portanto, que, neste caso extremo,
+\[
+C \to \frac{1}{a}  \ln \left( \frac{x_{i}}{p_{i}}\right) 
+\]
+
+Ou seja, o equivalente certo torna-se (muito mais) dependente deste caso
+extremo: o quanto se desejará pagar para evitar a aleatoriedade desta
+loteria será contingente
+\end{exercise}
+
+\begin{exercise}
+Com a utilidade \(u(x) = \frac{x^{1-\rho}-1}{1-\rho}\), temos que
+\(C(L, u) = C(L, \rho)\), obtido da seguinte forma:
+\[
+\begin{align*}
+\frac{C^{1-\rho}-\cancel{ 1 }}{\cancel{ 1-\rho }} &= \sum \limits_{i=1}^{n} p_{i} \frac{x_{i}^{1-\rho}-\cancel{ 1 }}{\cancel{ 1-\rho }} \\
+\end{align*}
+\]
+
+Isolando \(C\), temos
+\[
+C(L, \rho) = \left( \sum \limits_{i=1}^{n} p_{i} x_{i}^{1-\rho} \right)^{1/(1-\rho)}
+\]
+
+Ou seja, o equivalente certo de uma utilidade isoelástica é uma
+\href{https://en.wikipedia.org/wiki/Norm_(mathematics)\#p-norm}{p-norma}\footnote{É
+  uma \(p\)-norma \textit{de facto} assumindo-se que \(x_{i}>0\).} ---
+no caso, uma \((1-\rho)\)-norma --- \textbf{ponderada} (!!!).
+\end{exercise}
+
+\begin{exercise}
 
 \[
-\begin{align}
-\frac{ \partial x^{1-\rho} }{ \partial \rho } &=  \\
-&= \frac{ \partial  }{ \partial \rho } e^{\ln (x^{1-\rho})}  \\
-&= \frac{ \partial  }{ \partial \rho } e^{(1-\rho) \ln x}   \\
-&= \frac{ \partial  }{ \partial \rho } e^{-\rho \ln x} \\
-&= -\ln x \, e^{-\rho \ln x}  \\
-&= -\ln x e^{\ln x^{-\rho}} \\
-&=\ln x \, x^{-\rho}
-\end{align}
+\begin{align*}
+\ln C &= \sum \limits_{i=1}^{n} p_{i} \ln x_{i} \\
+&= \sum \limits_{i=1}^{n} \ln x_{i}^{p_{i}} \\
+&= \ln \left( \prod \limits_{i=1}^{n} x_{i}^{p_{i}} \right)
+\end{align*}
+\]
+
+Portanto,
+\[
+\begin{align*}
+C &= \prod \limits_{i=1}^{n} x_{i}^{p_{i}} \\
+&= \left( \prod \limits_{i=1}^{n} x_{i}^{p_{i}} \right)^{1/\sum \limits_{i}p_{i}}
+\end{align*}
+\]
+
+Ou seja, o equivalente certo de uma utilidade logarítmica é uma média
+geométrica \textit{ponderada}. Note-se que, aqui, não é uma média
+\textit{aritmética}, ou seja, estamos falando de variações
+\textit{multiplicativas} de riqueza, muito propício p.~ex. em contextos
+financeiros.
+\end{exercise}
+
+\begin{exercise}
+
+\end{exercise}
+
+\[
+\phi\left( \frac{1}{t}z + \left( 1-\frac{1}{z} \right)z^{\prime} \right) 
 \]
 
 \printbibliography

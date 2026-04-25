@@ -9,7 +9,19 @@ up:: [[0x5 MOC Mestrado]] // [[062 MOC Microeconomia]]
 
 related:: [[Possíveis exercícios para listas de Microeconomia]]
 
+# [[Lista 1 Microeconomia - 1.2026]]
 
+# [[Lista 2 Microeconomia - 1.2026]]
+
+# [[Lista 3 Microeconomia - 1.2026]]
+
+# [[Lista 4 Microeconomia - 1.2026]]
+
+# [[Lista 5 Microeconomia - 1.2026]]
+
+# [[Lista 6 Microeconomia - 1.2026]]
+
+---
 # Lista 1 ([[062b MOC Teoria do Consumidor]]): [[Preferências do Consumidor]]
 1) [[Equivalence Relation|Relações de Equivalência]] induzida por [[Partially Ordered Set|Relações de Ordem]] & [[Equivalence Class]] = [[Curva de Indiferença|Curvas de Indiferença]]
 2) [[Demanda Marshalliana|Demanda Walrasiana]] homogênea de grau $1$ possui [[Elasticidade de Renda da Demanda|Elasticidade-Renda da Demanda]] $\epsilon_{kw} = 1$ para todo bem $k$ <-> [[Curva de Engel|Curvas de Engel]] são retas
@@ -60,18 +72,3 @@ related:: [[Possíveis exercícios para listas de Microeconomia]]
 3) Exemplos de [[Caixa de Edgeworth]]
 4) [[Falha de Mercado|Falhas de Mercado]]
 	1) [[Externalidade|Externalidades]]
-
-
----
-# [[Lista 1 Microeconomia - 1.2026]]
-
-# [[Lista 2 Microeconomia - 1.2026]]
-
-# [[Lista 3 Microeconomia - 1.2026]]
-
-# Lista 4 nova
-
-# Lista 5 nova
-
-# Lista 6 nova
-

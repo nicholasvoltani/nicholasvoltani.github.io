@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 
-up:: [[Curva de Indiferença]]
+up:: [[062b MOC Teoria do Consumidor]]
 
 ![[Pasted image 20240806154330.png]]
 

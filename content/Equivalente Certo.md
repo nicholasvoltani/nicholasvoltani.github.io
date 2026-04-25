@@ -11,6 +11,8 @@ up:: [[062d MOC Loterias]]
 ![[Pasted image 20250623174839.png|600]]
 Fonte: MAS-COLELL et al., p. 187.
 
+O equivalente certo de um tomador de risco é a quantidade monetária não-aleatória com a qual ele obtém utilidade igual à sua *utilidade média*.
+
 Dada uma [[Loteria (Microeconomia)|Loteria]] $F$[^1] e uma [[Utilidade de Bernoulli]] $u(\cdot)$, o equivalente certo (ou equivalente de certeza) $c(F, u)$ é o valor[^2] *com probabilidade $100\%$ de ser recebido* que faz com que a utilidade de Bernoulli se iguale à [[Utilidade de von Neumann-Morgenstern]] da loteria $F$, i.e. $U(F)$.
 
 Matematicamente:

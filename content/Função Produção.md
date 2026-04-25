@@ -1,8 +1,9 @@
 ---
-date: "2024-08-15"
+date: 2024-08-15
 tags:
   - economics
 aliases:
+  - função produção
 ---
 
 up:: [[061 MOC Macroeconomia]], [[062 MOC Microeconomia]] 

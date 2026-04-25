@@ -20,9 +20,10 @@ up:: [[0x5 MOC Mestrado]] // [[010 MOC Marxism]] // [[071a MOC Realismo Crítico
 
 O tema da minha dissertação de mestrado se trata sobre o [[Postulado de Khazzoom-Brookes]]/[[Paradoxo de Jevons]] e uma crítica marxista deste conceito.
 
+# [[0x51a Revisão de Literatura Rebound-Backfire Effect]]
 
 
-
+%%
 # Excalidraw Data
 
 ## Text Elements

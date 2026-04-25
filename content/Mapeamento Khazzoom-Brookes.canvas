@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"d96c67c315726b91","type":"text","text":"[@Khazzoom1980] \n\n\n[[Elasticidade de Preço da Demanda|Elasticidade-Preço da Demanda]] $\\neq 0$ faz com que [[Eficiência (Marx)|eficiência]] energética maior $\\implies$ queda de \"preço implícito\" da energia $\\implies$ pressão maior de demanda por energia (i.e. além da demanda prévia) $\\implies$ [[Efeito Rebound]]","x":-360,"y":-180,"width":420,"height":220,"color":"2"},
+		{"id":"49a852eb92021b6e","type":"text","text":"[@Brookes1990]\n\nAumento de eficiência de um recurso é \"o mesmo\" que uma queda em seu \"**preço implícito**\": uma quantidade menor (i.e. um dispêndio menor, *ceteris paribus*) representa o mesmo produto que antes. \n\nCrítica à [[Falácia da Composição]]: efeitos microeconômicos de maior eficiência não necessariamente convertem-se em menor uso macroeconomicamente. \nAdemais, crítica à hipótese implícita que a queda do \"preço implícito da energia\" não afeta o nível de atividade dependente de energia, portanto concluindo que haverá consumo menor de energia.","x":100,"y":-180,"width":540,"height":220,"color":"1"}
+	],
+	"edges":[]
+}

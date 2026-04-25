@@ -8,7 +8,7 @@ aliases:
 
 up:: [[062d MOC Loterias]]
 
-Uma função $U: \mathcal{L} \to \mathbb{R}$ sobre o espaço de [[Loteria (Microeconomia)|Loterias]] possui a *forma de utilidade esperada* se existe algum $u\coloneqq (u_{1}, \dots, u_{n}) \in \mathbb{R}^n$ tal que
+Uma função $U: \mathcal{L} \to \mathbb{R}$ sobre o espaço de [[Loteria (Microeconomia)|Loterias]] possui a *forma de utilidade esperada* se existe algum[^1] $u\coloneqq (u_{1}, \dots, u_{n}) \in \mathbb{R}^n$ tal que
 $$
 \begin{align*}
 \forall \, L \coloneqq (p_{1}, \dots, p_{n}) \in \mathcal{L}: U(L) &= \braket{ L | u } \\
@@ -30,3 +30,5 @@ Ou seja, $\mathcal{L}$ torna-se o espaço de **funções cumulativas de distribu
 ---
 ### References
 - MAS-COLELL, Andreu; WHINSTON, Michael Dennis; GREEN, Jerry R. **Microeconomic theory**. New York: Oxford University Press, 1995.
+
+[^1]: @Cowell2004, pp. 188-9 a chama de "*felicity function*" ou "*cardinal utility function*" (embora reconheça que não é dos melhores nomes, mas é o que temos).

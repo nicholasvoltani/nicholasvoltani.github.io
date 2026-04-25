@@ -28,7 +28,7 @@ Pelo Envelope Theorem, temos que
 $$
 \nabla_{w}C = \frac{ \partial \mathcal{L}^* }{ \partial w }(w, q) = \frac{ \partial \mathcal{L}^* }{ \partial w }(z^*(w, q), w, q) = z^*(w, q)
 $$
-onde $z^*(w, q)$ é a demanda (condicional) por fatores de produção.
+onde $z^*(w, q)$ é a [[Demanda Condicional]] por fatores de produção.
 
 ---
 ### References
