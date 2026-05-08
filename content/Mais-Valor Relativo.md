@@ -12,7 +12,7 @@ up:: [[Mais-Valor]]
 Trata-se do mais-valor obtido através da mudança da proporção entre [[Tempo Excedente de Trabalho]] e [[Tempo de Trabalho Socialmente Necessário]], numa [[Jornada de Trabalho]] constante, ocorrida devido a inovações tecnológicas no [[processo de produção capitalista|Modo de Produção Capitalista]]. 
 
 Marx distingue entre o mais-valor obtido pelo capitalista *individual* e pela *classe capitalista* como um todo:
-- O [[Mais-Valor Adicional]] obtido pelo capitalista individual ocorre devido à produção aumentada que ele obtém através de alterações técnicas/tecnológicas em seu processo particular de produção, *ceteris paribus* no trabalho socialmente necessário desta [[Mercadoria]]
+- O [[Mais-Valor Extra]] obtido pelo capitalista individual ocorre devido à produção aumentada que ele obtém através de alterações técnicas/tecnológicas em seu processo particular de produção, *ceteris paribus* no trabalho socialmente necessário desta [[Mercadoria]]
 - O *mais-valor relativo* obtido pela classe capitalista como um todo é obtido quando o [[Valor da Força de Trabalho]] em si é diminuído devido a tais inovações tecnológicas, portanto induzindo um ganho generalizado de mais-valor a todos os processos de produção
 
 O próprio ímpeto do capitalista individual em obter este mais-valor extra privadamente induz com que o processo de inovação eventualmente alcance a produção dos meios de subsistência[^1] da [[Força de Trabalho]], i.e. que a inovação se generalize ao processo de produção como um todo. Quando isto ocorre, tal ganho não é mais algo de um capitalista em particular, mas de toda a sociedade, induzindo inovações ulteriores a fim de obter mais-valor extra, etc.

@@ -7,7 +7,7 @@ draft: "false"
 aliases:
 ---
 
-up:: [[099 MOC Rascunhos|099 MOC Anotações]]
+up:: [[099 MOC Rascunhos|099 MOC Anotações]] // [[0x5 MOC Mestrado]]
 
 # Definições prévias
 ## *Machinery Question*
@@ -64,9 +64,9 @@ Energia é *potentia*, ao menos quando se fala dela abstratamente, seja *ante fe
 # *Gesamtarbeit*, "microtarefas" e inteligência artificial
 > "The industrial age was also the moment of the *originary accumulation of technical intelligence* as the dispossession of knowledge from labour. AI is today the continuation of the same process: it is a systematic mechanisation and capitalisation of collective knowledge into new apparatuses, into the datasets, algorithms, and statistical models of machine learning, among other techniques. Ultimately, it is not difficult to imagine AI as a late avatar of the collective worker, the *Gesamtarbeiter* that was for Marx the main actor of industrial production." (Pasquinelli, 2023, p. 94)
 
-O ponto nevrálgico da atomização dos produtos do trabalho vem da absoluta divisão do trabalho, que culmina no atual esforço deliberado — e, neste sentido, [[Trabalho]], por ter [[Pôr Teleológico]] — de bilhões de indivíduos ao redor do mundo, seja em inócuos CAPTCHAs, seja na moderação de conteúdos explícitos de redes sociais ou na validação de modelos de *machine learning*.
+O ponto nevrálgico da atomização dos produtos do trabalho vem da absoluta divisão do trabalho, que culmina no atual esforço deliberado — e, neste sentido, [[Trabalho]], por ter [[Pôr Teleológico]] — de bilhões de indivíduos ao redor do mundo, seja em inócuos CAPTCHAs, seja na moderação de conteúdos explícitos de redes sociais ou na validação de modelos de *machine learning*.[^5]
 
-É tanto mais suspeito que estas "microtarefas" também exerçam alienação sobre seus executores: marcar todas as imagens que contêm pontes serve para quê? Serve a um modelo de câmeras de monitoramento? De veículos de direção autônoma? De drones de guerra? Nunca sabe-se seus propósitos, e, em verdade, sequer importa, pois o minúsculo incômodo do indivíduo que cumpre tais "testes" será esquecido em segundos. Junta-se, portanto, o conveniente ao desejado, pois o ínfimo fardo a muitos torna-se um assombroso resultado em seu agregado[^5], algo que cientistas da computação há mais de 15 anos veriam como um *pipe dream*, particularmente antes das competições de *machine learning* dos anos 2010.[^6]
+É tanto mais suspeito que estas "microtarefas" também exerçam alienação sobre seus executores: marcar todas as imagens que contêm pontes serve para quê? Serve a um modelo de câmeras de monitoramento? De veículos de direção autônoma? De drones de guerra? Nunca sabe-se seus propósitos, e, em verdade, sequer importa, pois o minúsculo incômodo do indivíduo que cumpre tais "testes" será esquecido em segundos. Junta-se, portanto, o conveniente ao desejado, pois o ínfimo fardo a muitos torna-se um assombroso resultado em seu agregado[^6], algo que cientistas da computação há mais de 15 anos veriam como um *pipe dream*, particularmente antes das competições de *machine learning* dos anos 2010.[^7]
 
 O trabalho, agora, é o mais pulverizado que já foi na história: Newton enxergara tão longe porque estava sobre os ombros de gigantes, e a inteligência artificial torna-se tão capaz em suas tarefas quanto maiores forem as dunas de trabalho pulverizado sobre as quais ela assenta-se.
 
@@ -84,5 +84,6 @@ O trabalho, agora, é o mais pulverizado que já foi na história: Newton enxerg
 [^2]: (Marx, 2017, p. 159).
 [^3]: Citação de Marx de como o capital permite a quebra do "conservadorismo" da tradição acrítica de trabalho, que ossificou os ofícios de sociedades, mistificou com religião etc etc. Cap. Maquinaria, *circa* p. 557, cf. [[Fichamento Capital I Cap 13 - Maquinaria e Grande Indústria]].
 [^4]: E, hoje em dia, do algoritmo e da "tão falada IA" — "o que quer que isso seja", murmura o capitalista para si próprio, enquanto conta cédulas de dinheiro com as mãos.
-[^5]: *Mutatis mutandis* quanto ao [[Tempo Excedente de Trabalho]]: "...tal circunstância é, certamente, uma grande vantagem ao comprador [capitalista], mas de modo algum uma injustiça para com o vendedor [trabalhador]." (Marx, 2017, p. 270).
-[^6]: Como a [ImageNet Large Scale Visual Recognition Challenge](https://www.image-net.org/challenges/LSVRC/) (2010-2017). Note-se que [Attention Is All You Need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf), que inaugurou o paradigma dos *transformers* (e.g. ChatGP**T**), é de 2017!
+[^5]: 260506: Há toda a controvérsia de se "produzir dados é trabalho produtivo ou não". Que certamente há *atividade* humana neste fazer, de fato há´, nem que indiretamente. Mas a questão de se "dados têm valor ou não" são outros quinhentos... Não arrisco nada aqui.
+[^6]: *Mutatis mutandis* quanto ao [[Tempo Excedente de Trabalho]]: "...tal circunstância é, certamente, uma grande vantagem ao comprador [capitalista], mas de modo algum uma injustiça para com o vendedor [trabalhador]." (Marx, 2017, p. 270).
+[^7]: Como a [ImageNet Large Scale Visual Recognition Challenge](https://www.image-net.org/challenges/LSVRC/) (2010-2017). Note-se que [Attention Is All You Need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf), que inaugurou o paradigma dos *transformers* (e.g. ChatGP**T**), é de 2017!

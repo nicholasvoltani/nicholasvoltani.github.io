@@ -3,7 +3,6 @@ date: 2021-08-26
 tags:
   - mathematics 
 ---
-$\newcommand{\I}{\mathcal{I}}$
 # Definição: Interpretação
 Uma interpretação é uma dupla $\mathfrak{I} = \left< D, \mathcal{I} \right>$, onde
 - $D \neq \emptyset$ é o **domínio do discurso**;
@@ -11,28 +10,28 @@ Uma interpretação é uma dupla $\mathfrak{I} = \left< D, \mathcal{I} \right>$,
 ## Interpretação de funções n-árias
 Dada uma **função** $n$-ária $f$, 
 $$
-\I[f]: \bigtimes\limits_{i=1}^n D \to D
+\mathcal{I}[f]: \bigtimes\limits_{i=1}^n D \to D
 $$ 
-Por exemplo, a função unária `bestFriend` induz, via $\I$, um mapa $D \to D$, que supostamente mapeia pessoas aos seus melhores amigos *sob esta interpretação*. 
+Por exemplo, a função unária `bestFriend` induz, via $\mathcal{I}$, um mapa $D \to D$, que supostamente mapeia pessoas aos seus melhores amigos *sob esta interpretação*. 
 
 Outro exemplo: uma interpretação da função (símbolo não-lógico) 1-ária `successor` nos números naturais induziria uma função (matemática)
 $$
-\I(\text{successor}): n \mapsto n+1
+\mathcal{I}(\text{successor}): n \mapsto n+1
 $$
 
 ## Interpretação de predicados n-ários
 Dado um **predicado** $n$-ário $P$, 
 $$
-\I[P] \subset D^n
+\mathcal{I}[P] \subset D^n
 $$ 
-Por exemplo, o predicado `Dog` induz, via $\I$, um subconjunto de $D$, supostamente o subconjunto de cachorros *sob esta interpretação*! 
+Por exemplo, o predicado `Dog` induz, via $\mathcal{I}$, um subconjunto de $D$, supostamente o subconjunto de cachorros *sob esta interpretação*! 
 
 Outro exemplo: a interpretação do predicado (símbolo não-lógico) 2-ário `SuccessorOf` nos números naturais induziria um conjunto do tipo
 $$
-\I(\text{SuccessorOf}) = \{(1,0), (2,1), (3,2), (4,3), \dots\} \subseteq D^2
+\mathcal{I}(\text{SuccessorOf}) = \{(1,0), (2,1), (3,2), (4,3), \dots\} \subseteq D^2
 $$
 
-Equivalentemente, $\I$ induz uma função característica 
+Equivalentemente, $\mathcal{I}$ induz uma função característica 
 $$
 \chi_P: \bigtimes\limits_{i=1}^n D \to \{0, 1\}
 $$ sobre o domínio $D$, que supostamente "julga" se algum $d \in D$ "é um cachorro ou não" *sob esta interpretação*.

@@ -6,7 +6,7 @@ draft: "false"
 aliases:
 ---
 
-up:: [[099 MOC Rascunhos|099 MOC Anotações]]
+up:: [[099 MOC Rascunhos|099 MOC Anotações]] // [[0x5 MOC Mestrado]]
 
 # A invenção de máquinas depende do conhecimento da função/trabalho que ela substitui
 

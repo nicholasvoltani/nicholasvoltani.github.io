@@ -8,11 +8,11 @@ aliases:
 
 up:: [[Tempo de Circulação do Capital Industrial]]
 
-> "O ciclo do capital, não como fenômeno isolado, mas como processo periódico, chama-se rotação [*Umschlag*]. A duração dessa rotação é dada pela soma de seu tempo de produção [*Produktionszeit*] e seu tempo de curso [*Umlaufszeit*] Tal soma constitui o tempo de rotação [*Umschlagszeit*] do capital. Esta mede, assim, o intervalo entre um período cíclico do valor de capital inteiro e o período seguinte; a periodicidade no processo de vida do capital, ou, em outras palavras, o tempo de renovação, a repetição do processo de valorização e de produção do mesmo valor de capital." [@Marx2014, p. 237, adendos meus]
+> "O ciclo do capital, não como fenômeno isolado, mas como processo periódico, chama-se rotação [*Umschlag*]. A duração dessa rotação é dada pela soma de seu tempo de produção [*Produktionszeit*] e seu tempo de curso [*Umlaufszeit*]. Tal soma constitui o tempo de rotação [*Umschlagszeit*] do capital. Esta mede, assim, o intervalo entre um período cíclico do valor de capital inteiro e o período seguinte; a periodicidade no processo de vida do capital, ou, em outras palavras, o tempo de renovação, a repetição do processo de valorização e de produção do mesmo valor de capital." [@Marx2014, p. 237, adendos meus]
 
 > "Para o capitalista, o tempo de rotação de seu capital é o tempo durante o qual ele tem de desembolsar seu capital a fim de valorizá-lo e recuperá-lo em sua forma original." [@Marx2014, p. 238] 
 
-O tempo de rotação de um [[capital]] é o período de tempo em que ele repõe seu [[valor]] inicial. 
+O tempo de rotação de um [[capital]] é o período de tempo em que ele repõe seu [[valor]] inicialmente **adiantado**. 
 
 É o mesmo que o [[Tempo de Circulação do Capital Industrial]], porém em um nível mais concreto, pois estamos falando de ser uma reposição não só *do capital*, como *do valor* deste capital. 
 
@@ -22,6 +22,10 @@ O tempo de rotação de um [[capital]] é o período de tempo em que ele repõe 
 O [[Ciclo do Capital-Dinheiro]] permite com que se veja "a influência da rotação sobre a formação de [[Mais-Valor|mais-valor]]", e o [[Ciclo do Capital Produtivo]] "de sua influência sobre a formação do *produto*" [@Marx2014, p. 236].
 
 O [[Ciclo do Capital-Mercadoria]], ao contrário, mistifica a rotação de um capital individual, ao imiscuir seu processo com o de outros capitais. #to-be-elaborated 
+
+# Produção de mais-valor
+A cada rotação, um capital repõe seu capital **adiantado**. Suas componentes, porém, têm temporalidades diferentes em que são consumidas pelo capital. Aqueles que são totalmente consumidos em uma rotação são [[Capital Circulante]], e os que não o são, são [[Capital Fixo]]. Tais categorias, claro, são somente plausíveis no que tange ao [[Capital Produtivo]]. 
+
 
 
 ---

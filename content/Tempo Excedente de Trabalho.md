@@ -12,7 +12,10 @@ O período de tempo da [[Jornada de Trabalho]] que é trabalhado além do [[Temp
 
 A característica do [[processo de produção capitalista]] é de que é necessário que haja ao menos *algum* tempo excedente de trabalho no qual ele emprega força de trabalho, senão ele se restringirá[^1] a pagar o próprio valor da força de trabalho.
 
+
 Há formas diferentes em que o capitalista busca aumentar o tempo excedente de trabalho: ou aumentando a própria jornada de trabalho em si, por conseguinte aumentando o tempo excedente, gerando [[Mais-Valor Absoluto]]; ou aumentando a proporção do tempo excedente com relação ao tempo necessário em uma jornada fixa, gerando [[Mais-Valor Relativo]].
+
+
 
 ---
 ### Referências

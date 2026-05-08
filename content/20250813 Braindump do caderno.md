@@ -72,7 +72,7 @@ Talvez surjam fenômenos emergentes da interação entre agentes, interações e
 
 ---
 # 22/04/2025: Sobre eficiência
-(Há anotações no caderno anterior sobre esse capítulo do Eduardo, **anotar e linkar depois**)
+(Há anotações no caderno anterior sobre esse capítulo do Eduardo, **anotar e linkar depois** #to-be-elaborated )
 
 A própria noção de máquinas mais eficientes — menos *inputs* para dado *output* [?] — já traz em si a dificuldade do discurso de sustentabilidade. Se, p. ex., uma máquina de petróleo tem tempo médio de vida de 30 anos, então seu tempo de emprego será 30 anos ([[Tempo de Rotação do Capital]]); ou seja, usá-la por menos que isso se trata de *deixar de ganhar lucro*.
 

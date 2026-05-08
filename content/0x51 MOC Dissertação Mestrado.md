@@ -9,6 +9,10 @@ excalidraw-plugin: parsed
 
 up:: [[0x5 MOC Mestrado]] // [[010 MOC Marxism]] // [[071a MOC Realismo Crítico]] // [[099 MOC Rascunhos|099 MOC Anotações]]
 
+> "*Quanto mais cresce a força produtiva do trabalho, tanto mais se pode reduzir a jornada de trabalho, e, quanto mais se reduz a jornada de trabalho, tanto mais pode crescer a intensidade do trabalho.* Considerada socialmente, a produtividade do trabalho cresce também com sua economia. Esta implica não apenas que se economizem os meios de produção, *mas também que se evite todo trabalho inútil*. Ao mesmo tempo que o modo de produção capitalista impõe a economia em cada empresa *individual*, seu sistema anárquico de concorrência gera o desperdício mais desenfreado dos meios de produção e das forças de trabalho *sociais*, além de inúmeras funções *atualmente indispensáveis*, mas *em si mesmas supérfluas*.
+> 
+> Dadas a intensidade e a força produtiva do trabalho, a parte da jornada social de trabalho necessária para a produção material será tanto mais curta e, portanto, tanto mais longa a parcela de tempo disponível para a livre atividade intelectual e social dos indivíduos[,] quanto mais equitativamente o trabalho for distribuído entre todos os membros capazes da sociedade e quanto menos uma camada social puder esquivar-se da necessidade natural do trabalho, lançando-a sobre os ombros de outra camada. O limite absoluto para a redução da jornada de trabalho é, nesse sentido, a generalização do trabalho. Na sociedade capitalista, produz-se tempo livre para uma classe transformando todo o tempo de vida das massas em tempo de trabalho." [@Marx2017a, p. 597, grifo meu]
+
 ## Anotações
 - [[20250928 Anotações Brookes 1990]]
 - [[20251001 Anotações Brookes 2000]]

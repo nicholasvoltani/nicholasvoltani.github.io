@@ -7,7 +7,7 @@ aliases:
 
 up:: [[011a MOC Capital I]]
 
-> "Do mesmo modo como, para a compreensão do valor em geral, é indispensável entendê-lo como mero coágulo de tempo de trabalho, como simples trabalho objetivado, para a compreensão do mais-valor é igualmente indispensável entendê-lo como mero coágulo de tempo de trabalho excedente, como simples mais-trabalho objetivado." (MARX, p. 293)
+> "Do mesmo modo como, para a compreensão do valor em geral, é indispensável entendê-lo como mero coágulo de tempo de trabalho, como simples trabalho objetivado, para a compreensão do mais-valor é igualmente indispensável entendê-lo como mero coágulo de tempo de trabalho *excedente*, como simples *mais-trabalho* objetivado." [@Marx2017, p. 293, grifo meu]
 
 Enquanto o [[Valor da Força de Trabalho]] é o [[valor]] gerado durante o [[Tempo de Trabalho Socialmente Necessário]] no [[processo de produção capitalista|Modo de Produção Capitalista]], o mais-valor é o valor gerado durante o [[Tempo Excedente de Trabalho]]. 
 
@@ -24,4 +24,4 @@ Os limites físicos e socio-políticos ao mero aumento da jornada de trabalho in
 ### Referências
 - MARX, Karl. **O Capital. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
 
-[^1]: Salvo pagamento de horas extras, que certamente também não ressarcem completamente o tempo extra trabalhado.
+[^1]: Salvo pagamento de horas extras, que certamente também não ressarcem completamente o tempo extra trabalhado. **260503**: Não no nível concreto de pagamento de *salário*, que já mistifica as trocas de valor. [[A forma-salário mistifica a relação de valor do trabalho assalariado]].

@@ -145,14 +145,14 @@ q = f(\bar{K},L) &= \bar{K}^{\alpha} L^{\beta} \\
 \end{align*}
 $$
 
-Não há "minimização de custo" aqui, pois o estoque fixo de capital $\bar{K}$ e a isoquanta $f(\bar{K},L) = q$ determinam o nível $L$ demandado.
+Não há "minimização de custo" aqui, pois o estoque fixo de capital $\bar{K}$ e a isoquanta $f(\bar{K},L) = q$ determinam o nível $L$ demandado: despende-se $L^{*}$ de trabalho para $\bar{K}$ de capital, proporção esta ditada pela função produção $f$.
 
-A função custo no curto prazo é
+ A função custo no curto prazo é
 $$
-C(\bar{K},L^{*}) = r\bar{K} + w \bar{K}^{\alpha/\beta} q^{1/\beta}
+C(\bar{K},L^{*}) = \underbrace{ r\bar{K} }_{ \text{Custo fixo } c_{f} } + \underbrace{ w \bar{K}^{\alpha/\beta} q^{1/\beta} }_{ \text{Custo variável } c_{v}(q) }
 $$
 
-*Longo prazo*: O problema de minimização do custo $rK + wL$, dado um nível de produção $f(K,L) = K^{\alpha}L^{\beta} = q$, é resolvido pela otimização do lagrangiano
+*Longo prazo*: O problema de minimização do custo $rK + wL$, dado um nível de produção $q=f(K,L) = K^{\alpha}L^{\beta}$, é resolvido pela otimização do lagrangiano
 $$
 \mathcal{L}(K, L, \lambda) = rK+wL - \lambda (K^{\alpha}L^{\beta} - q)
 $$
@@ -160,13 +160,13 @@ $$
 A otimização de $\mathcal{L}$ traz
 $$
 \begin{cases}
-\frac{ \partial \mathcal{L} }{ \partial K } = r - \alpha \lambda K^{\alpha-1} L^{\beta} &= 0 \\
- \frac{ \partial \mathcal{L} }{ \partial L } = w - \beta \lambda K^{\alpha}L^{\beta-1} &= 0 \\
- \frac{ \partial \mathcal{L} }{ \partial \lambda } = K^{\alpha}L^{\beta} - q &= 0
+\frac{ \partial \mathcal{L} }{ \partial K } &= 0 \implies r = \alpha \lambda K^{\alpha-1} L^{\beta} \\
+ \frac{ \partial \mathcal{L} }{ \partial L } &=0 \implies w = \beta \lambda K^{\alpha}L^{\beta-1} \\
+ \frac{ \partial \mathcal{L} }{ \partial \lambda } &=0 \implies q = K^{\alpha}L^{\beta}
 \end{cases}
 $$
 
-Dividindo a primeira equação pela segunda[^4], temos
+Dividindo a primeira equação pela segunda, temos
 $$
 L^{*} = \frac{r}{w} \frac{\beta}{\alpha} K^{*}
 $$
@@ -200,6 +200,9 @@ C(r,w,q) &= q^{1/\alpha+\beta} \left( \frac{r^{(\alpha+\cancel{ \beta })/\alpha+
 
 \end{align*}
 $$
+
+Note que não há nenhum termo de custo fixo, pois, *no longo prazo*, mesmo o fator de produção $K$ também é passível de ser variado (no que tange à produção de $q$).
+
 :::
 
 
@@ -207,5 +210,4 @@ $$
 [^1]: Não raro, autores de Microeconomia empregam a letra $w_{i}$ como o custo do insumo $i$, como um análogo ao **w**age/preço da força de trabalho. Escolhemos utilizar aqui a letra $p_{i}$ de preços/*prices* para não confundir com o uso comum da letra $w$ para restrições orçamentárias — letra a qual, diga-se de passagem, também não faz sentido, sendo comum usar-se as letras $m$ (*money*) ou $I$ (*income*). Mas enfim... **são só letras!** 
 [^2]: Demandas estas que, sob o problema de minimização do dispêndio, são [[Demanda Hicksiana|Demandas Hicksianas]].
 [^3]: Citando o honorável professor João Carlos Alves Barata — autor das enciclopédicas [Notas (de Física Matemática) do Barata](https://denebola.if.usp.br/~jbarata/Notas_de_aula/capitulos.html) —, é bom "fazer estas contas ao menos uma vez na vida".
-[^4]: Sem dividir por zero, evidentemente.
-[^5]: Caso vá checar no Varian, ele utiliza $p$ para o resultado *bom* e $1-p$ para o resultado *ruim*. Caso haja algum erro aqui, com certeza se deu devido a esta alteração aqui.
+[^4]: Caso vá checar no Varian, ele utiliza $p$ para o resultado *bom* e $1-p$ para o resultado *ruim*. Caso haja algum erro aqui, com certeza se deu devido a esta alteração aqui.

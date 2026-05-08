@@ -17,11 +17,14 @@ que é um mapa indo do (**conjunto das variáveis da linguagem**) até o (**dom�
 
 ## Definição: Denotação de Termos
 Dada uma interpretação $\mathfrak{I}$ e uma *lookup table* $\mu$, definimos a *denotação de termos* $t$ como 
+
 $$
 ||t||_{\mathfrak{I}, \mu}
-$$ como
+$$
+como
 - Caso $t$ seja uma **variável**, só aplicamos a função $\mu$: $||t||_{\mathfrak{I}, \mu} = \mu[t]$
 - Dados **termos** $t_1, \dots t_n$ e um símbolo de **função** $n$-ária $f$, então
+
 $$
 ||f(t_1, \dots, t_n)||_{\mathfrak{I}, \mu} = \mathcal{I}[f](||t_1||, \dots, ||t_n||)
 $$
@@ -29,7 +32,7 @@ $$
 Note-se que tais termos denotados serão sempre elementos do **domínio de discurso** $D$.
 
 ## Definição: Satisfação/*Entailment*/Consequência Lógica
-Dada uma interpretação $\mathfrak{I}$ e uma *lookup table* $\mu$, dizemos que uma fórmula $\alpha$ é **satisfeita** na interpretação $\mathfrak{I}$ (e que escrevemos como $\mathfrak{I}, \mu \models \alpha$ segundo Levesque, e $\mathfrak{I} \models_\mu \alpha$ segundo Huth) de acordo com as seguintes regras:
+Dada uma interpretação $\mathfrak{I}$ e uma *lookup table* $\mu$, dizemos que uma fórmula $\alpha$ é **satisfeita** na interpretação $\mathfrak{I}$ — e que escrevemos como $\mathfrak{I}, \mu \models \alpha$ segundo Levesque, e $\mathfrak{I} \models_\mu \alpha$ segundo Huth — de acordo com as seguintes regras:
 - Dados termos $(t_1, \dots, t_n)$ e predicado $n$-ário $P$, então
 $$
 \mathfrak{I}, \mu \models P(t_1, \dots, t_n) \iff (||t_1||, \dots, ||t_n||) \in \mathcal{I}[P]

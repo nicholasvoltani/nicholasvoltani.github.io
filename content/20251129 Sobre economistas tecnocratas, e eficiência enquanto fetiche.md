@@ -45,8 +45,6 @@ Como tantas coisas, a verdade está mais no meio. É claro que todos apreciam um
 
 Mas perceba-se que não é meramente por sua eficiência que eles são mais úteis, e sim de que eles conseguem ser mais úteis ao serem mais eficientes. É difícil de ser tão empolgados com a eficiência sem precedentes da bomba atômica, ou, mais recentemente, da cornucópia maldita que aflige Gaza. Um tecnocrata pode se regozijar com que um ataque de drones seja capaz de derrubar edifícios inteiros remotamente, ou de que fuzis de um modelo X não sobreaqueçam tanto quanto os de modelo Y; devemos nós também sentir o prazer da otimização de tais artefatos nefastos?
 
-$\overset{ \alpha_{1} \to 0^+ }{ \to }$
-
 ---
 ### Referências
 - GEORGESCU-ROEGEN, Nicholas. **The entropy law and the economic process**. Cambridge (Mass.) London: Harvard University Press, 1971.

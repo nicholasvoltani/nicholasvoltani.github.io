@@ -17,6 +17,8 @@ para $i = 1, 2$.
 
 Estes valores produzidos podem ser vistos como a *oferta* destes setores, pois são valores que advieram de [[processo de produção capitalista|processos de produção]].
 
+Marx faz este exercício não para mostrar que o [[capital]] efetiva *market clearing*, e sim o contrário: que é **extremamente improvável** que tais condições de equilíbrio de oferta/demanda efetivem-se. Ainda mais tendo-se em vista a "anarquia da produção" e a [[Concorrência (Marx)|concorrência]]. Mais do que isso: em contextos de reprodução ampliada, caso *um* capital expanda sua reprodução, para que *possa* haver equilíbrio, **os demais capitais têm de acompanhá-lo**!! Já aqui se entrevê que não faz sentido um "[[Decrescimento]] sob o capitalismo"!! 
+
 # [[Reprodução Simples do Capital|Reprodução simples]]
 Assume-se aqui que o [[Mais-Valor]] $m$ é totalmente consumido de forma improdutiva. Dessa forma, ele será totalmente consumido com bens do setor $2$ ([[Ciclo M─D─M|circulação simples]]).
 ## Equilíbrio quanto aos meios de produção

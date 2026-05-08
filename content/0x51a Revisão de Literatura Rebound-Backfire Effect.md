@@ -20,7 +20,7 @@ up:: [[0x51 MOC Dissertação Mestrado]]
 	- KHAZZOOM, J. Daniel. Energy Saving Resulting from the Adoption of More Efficient Appliances. **The Energy Journal**, v. 8, n. 4, p. 85–89, 1 maio 1987.
 - **Brookes**
 	- BROOKES, Leonard G. Energy Efficiency and The Greenhouse Effect. **Energy & Environment**, v. 1, n. 4, p. 318–333, 1 dez. 1990.
-	- BROOKES, Len. The greenhouse effect: the fallacies in the energy efficiency solution. **Energy Policy**, v. 18, n. 2, p. 199–201, mar. 1990.
+	- BROOKES, Leonard G. The greenhouse effect: the fallacies in the energy efficiency solution. **Energy Policy**, v. 18, n. 2, p. 199–201, mar. 1990.
 	- BROOKES, Leonard G. Energy efficiency fallacies revisited. **Energy Policy**, v. 28, n. 6, p. 355–366, 1 jun. 2000.
 - **Saunders**
 	- SAUNDERS, Harry D. The Khazzoom-Brookes Postulate and Neoclassical Growth. **The Energy Journal**, v. 13, n. 4, p. 131–148, 1 maio 1992.

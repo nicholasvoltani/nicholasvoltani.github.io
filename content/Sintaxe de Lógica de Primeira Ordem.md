@@ -33,9 +33,9 @@ O conjunto de *fórmulas (bem-definidas)* é o **conjunto mínimo** que satisfaz
 
 ## Definição: Escopo de Variáveis
 $$
-\begin{align}
+\begin{align*}
 \forall y. P\underbrace{(x)}_{\text{livre}} \land \exists \underbrace{x. [P(x) \lor Q(x)]}_{\text{Bound}}
-\end{align}
+\end{align*}
 $$
 
 ## Definição: Sentença

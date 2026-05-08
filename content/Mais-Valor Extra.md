@@ -3,7 +3,6 @@ date: 2025-11-23
 tags:
   - marxism
 aliases:
-  - Mais-Valor Extra
 ---
 
 up:: [[Mais-Valor]] 

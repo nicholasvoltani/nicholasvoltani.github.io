@@ -10,7 +10,8 @@ related:: [[0x5 MOC Mestrado]]
 
 ---
 # Anotações
-- [[20251129 Sobre economistas tecnocratas, e eficiência enquanto fetiche]]
+%%- [[20251129 Sobre economistas tecnocratas, e eficiência enquanto fetiche]]
+%%
 
 ---
 
