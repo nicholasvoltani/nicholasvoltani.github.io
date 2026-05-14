@@ -14,7 +14,7 @@ Dizer que um processo ser "mais eficiente" que outro é dizer que ele "faz mais 
 
 Um exemplo vísivel é o ganho de eficiência termodinâmica de motores na Revolução Industrial, no qual tornava-se possível uma produção maior de [[Mercadoria|mercadorias]] com um consumo menor de carvão. 
 
-Ganhos de eficiência viabilizam aumentos de intensidade do trabalho e, portanto, viabilizam obtenção de [[Mais-Valor Absoluto]]. 
+Ganhos de eficiência viabilizam aumentos de [[Intensidade do Trabalho]] e, portanto, viabilizam obtenção de [[Mais-Valor Absoluto]]. 
 
 ---
 ### Referências

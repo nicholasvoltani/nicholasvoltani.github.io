@@ -12,6 +12,7 @@ Dada uma **função** $n$-ária $f$,
 $$
 \mathcal{I}[f]: \bigtimes\limits_{i=1}^n D \to D
 $$ 
+
 Por exemplo, a função unária `bestFriend` induz, via $\mathcal{I}$, um mapa $D \to D$, que supostamente mapeia pessoas aos seus melhores amigos *sob esta interpretação*. 
 
 Outro exemplo: uma interpretação da função (símbolo não-lógico) 1-ária `successor` nos números naturais induziria uma função (matemática)
