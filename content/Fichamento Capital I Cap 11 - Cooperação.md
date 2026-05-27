@@ -33,7 +33,7 @@ A propriedade privada dos meios de produção é condição necessária da coope
 
 > "Do mesmo modo, o comando do capitalista sobre o trabalho parecia inicialmente ser apenas uma decorrência formal do fato de o trabalhador trabalhar não para si, mas para o capitalista e, portanto, sob o capitalista. Com a cooperação de muitos trabalhadores assalariados, o comando do capital se converte num requisito para a consecução do próprio processo de trabalho, numa verdadeira condição da produção. O comando do capitalista no campo de produção torna-se agora tão imprescindível quanto o comando do general no campo de batalha." (MARX, p. 406)
 
-Justamente por agregar uma quantidade maior (mais "*unyieldy*") de força de trabalho, que possui livre-arbítrio (muito ao desgosto do capitalista) e sente que seu trabalho não lhe diz respeito[^7], faz-se necessário o comando, via *soft/hard power*. 
+Justamente por agregar uma quantidade maior (mais "*unyieldy*") de força de trabalho, que possui livre-arbítrio (muito ao desgosto do capitalista) e sente que seu trabalho não lhe diz respeito[^7], faz-se necessário o comando, via *soft/hard power*. ~
 
 O objetivo da cooperação de vários trabalhadores (sob o regime capitalista) é a obtenção de [[Mais-Valor]]. Portanto, o objetivo do capitalista é de assegurar que a cooperação aja de forma que "lhe é de direito de compra", cabendo-lhe a condução (a rédea curta) do processo, tanto da obediência quanto da eficiência do uso de meios de produção. Nesse ínterim, portanto, "a própria cooperação aparece como forma específica do processo de produção capitalista" (MARX, p. 410).
 

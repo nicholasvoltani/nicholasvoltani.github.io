@@ -14,7 +14,7 @@ Sendo $\xi$ o [[Equivalente Certo]] de algum tomador de risco com [[Utilidade de
 $$
 u(\xi) = \mathbb{E}[u(x)]
 $$
-(onde $\mathbb{E}[u(x)]$ é a [[Utilidade de von Neumann-Morgenstern]].)
+(onde $\mathbb{E}[u(x)]$ é a [[Utilidade Esperada]].)
 
 Então o prêmio de risco é a quantidade
 $$

@@ -64,4 +64,4 @@ Dados requerem processo todo de capital fixo e capital circulante. Mesmo que os 
 - Fressoz, *More and more and more: an all-consuming history of energy*. 
 	- [Sans transition: Une nouvelle histoire de l'énergie - Jean-Baptiste Fressoz - Google Livros](https://books.google.com.br/books?hl=pt-BR&lr=&id=gS7nEAAAQBAJ&oi=fnd&pg=PT7&dq=Jean-Baptiste+Fressoz+transition&ots=ko69RiqkrN&sig=3-GDZnwokrLKP4QQ1V6b5poUT-U&redir_esc=y#v=onepage&q=Jean-Baptiste%20Fressoz%20transition&f=false)
 	- Há uma plena [[Novas fontes de energia criam uma dependência simbiótica com formas prévias, sob o capitalismo|Adição Energética]], mesmo das fontes "primitivas" de energia, como *madeira*!!
-	- Novas fontes de energia viabiliza continuação do uso de anteriores, e também *expande-o* para demais fontes.
+	- Novas fontes de energia viabilizam continuação do uso de anteriores, e também *expande-o* para demais fontes.

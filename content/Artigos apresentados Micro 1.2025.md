@@ -138,7 +138,7 @@ Portanto, como indivíduos de renda menor possuem [[Elasticidade de Preço da De
 
 **Objetivo**: Expor teoria de John Rawls sobre escolhas éticas, e propor uma alternativa a este mecanismo de escolhas entre alternativas.
 
-**Conceitos abordados**: [[Função de Bem-Estar Social de Rawls]], [[Função de Bem-Estar Social de Bentham|Função de Bem-Estar Utilitarista]], [[Utilidade de von Neumann-Morgenstern]]
+**Conceitos abordados**: [[Função de Bem-Estar Social de Rawls]], [[Função de Bem-Estar Social de Bentham|Função de Bem-Estar Utilitarista]], [[Utilidade Esperada]]
 
 **Resultados**: 
 

@@ -11,7 +11,7 @@ up:: [[062d MOC Loterias]]
 ![[Pasted image 20250623171154.png|500]]
 Fonte: MAS-COLELL et al., p. 186.
 
-Para um agente que possua uma [[Utilidade de Bernoulli]] $u(\cdot)$ — portanto, [[Utilidade de von Neumann-Morgenstern]] associada $U$ sobre funções cumulativas de distribuição —, ele é **avesso ao risco** se, para qualquer "[[Loteria (Microeconomia)|Loteria]]"[^1] $F$, 
+Para um agente que possua uma [[Utilidade de Bernoulli]] $u(\cdot)$ — portanto, [[Utilidade Esperada]] associada $U$ sobre funções cumulativas de distribuição —, ele é **avesso ao risco** se, para qualquer "[[Loteria (Microeconomia)|Loteria]]"[^1] $F$, 
 $$
 \forall F \in \mathcal{L}: U(F) = \int u(x) \, dF(x) \leq u\left( \int x \,dF(x) \right) = u(\mathbb{E}_{F}[X])
 $$

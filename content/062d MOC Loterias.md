@@ -11,7 +11,7 @@ related:: [[062b MOC Teoria do Consumidor]]
 
 - [[Loteria (Microeconomia)]]
 - [[Independência de Alternativas Irrelevantes|Axioma da Independência]]
-- [[Utilidade de von Neumann-Morgenstern]]
+- [[Utilidade Esperada]]
 	- [[Teorema da Utilidade Esperada]]
 - [[Utilidade de Bernoulli]]
 - [[Aversão ao Risco]]

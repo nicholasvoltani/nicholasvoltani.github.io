@@ -12,7 +12,7 @@ up:: [[0x5 MOC Mestrado]] // [[Esquema Listas Microeconomia]]
 ::: definition
 O equivalente certo de um tomador de risco é a quantidade monetária não-aleatória com a qual ele obtém utilidade igual à sua *utilidade média*. 
 
-Dada uma [[Loteria (Microeconomia)|loteria]] $L$ e uma [[utilidade de Bernoulli]] $u(\cdot)$, o equivalente certo (ou equivalente de certeza) $C(L, u)$ é o valor (monetário) *com probabilidade $100\%$ de ser recebido* que faz com que a utilidade de Bernoulli se iguale à [[Utilidade de von Neumann-Morgenstern]] $U(\cdot)$ da loteria $L$, i.e. $U(L)$.[^1] 
+Dada uma [[Loteria (Microeconomia)|loteria]] $L$ e uma [[utilidade de Bernoulli]] $u(\cdot)$, o equivalente certo (ou equivalente de certeza) $C(L, u)$ é o valor (monetário) *com probabilidade $100\%$ de ser recebido* que faz com que a utilidade de Bernoulli se iguale à [[Utilidade Esperada]] $U(\cdot)$ da loteria $L$, i.e. $U(L)$.[^1] 
 
 Formalmente, temos que, para uma loteria $(p_{1}, \dots, p_{n})$ relacionada às utilidades (de Bernoulli) $(u_{1} \coloneqq u(x_{1}), \dots, u_{n}:= u(x_{n}))$, a definição do equivalente certo segue a forma
 $$
@@ -367,7 +367,7 @@ Portanto, caso $s < \frac{1-p}{p}$, teremos que a escolha ótima do indivíduo s
 
 
 ::: exercise
-Dada uma loteria $L = (p_{1},\dots,p_{n})$ de possíveis resultados $x=(x_{1},\dots,x_{n})$, o equivalente certo $C(L, u)$ é a quantidade monetária que garante a utilidade média (i.e. [[Utilidade de von Neumann-Morgenstern|utilidade de von Neumann-Morgenstern]]). Como a utilidade $u(x) = - e^{-ax}$ é definida pelo coeficiente $a$, podemos escrever $C(L, u) = C(L, a)$.
+Dada uma loteria $L = (p_{1},\dots,p_{n})$ de possíveis resultados $x=(x_{1},\dots,x_{n})$, o equivalente certo $C(L, u)$ é a quantidade monetária que garante a utilidade média (i.e. [[Utilidade Esperada|utilidade de von Neumann-Morgenstern]]). Como a utilidade $u(x) = - e^{-ax}$ é definida pelo coeficiente $a$, podemos escrever $C(L, u) = C(L, a)$.
 
 Portanto,
 

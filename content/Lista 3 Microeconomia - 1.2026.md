@@ -85,7 +85,7 @@ A \succ D
 $$
 
 ### a)
-*Ex hypothesi*, podemos criar uma [[Utilidade de von Neumann-Morgenstern]] $U(\cdot)$ de tal forma que satisfaça as preferências acima:
+*Ex hypothesi*, podemos criar uma [[Utilidade Esperada]] $U(\cdot)$ de tal forma que satisfaça as preferências acima:
 $$
 \begin{cases}
 U(B) = p U(A) + (1-p) U(D) \\

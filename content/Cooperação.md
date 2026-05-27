@@ -26,4 +26,4 @@ Neste regime de "cooperação", porém, o trabalhador ainda possui uma subjetivi
 - MARX, Karl. **O Capital. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
 - [Leituras d'O Capital (UFPR) - Livro I](https://www.youtube.com/@leiturasdocapital/videos)
 
-[^1]: Pós-Idade Média, essencialmente.
+[^1]: Pós-Idade Média, essencialmente. // **260519**: Cuidado com que a noção a que Marx alude neste capítulo **não** é uma categoria histórica.
