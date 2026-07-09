@@ -102,7 +102,7 @@ O primeiro emprego de uma máquina em algum setor da indústria[^8] permite que 
 $$
 v_{individual} < {\color{green} v_{vendido}} < v_{normal}\,
 $$
-Ou seja, obtém-se [[Mais-Valor]] não só do [[Processo de Valorização]] usual, mas também pelo "preço" de mercado, pela concorrência.
+Ou seja, obtém-se [[Mais-Valor]] não só do [[Processo de Valorização]] usual, mas também pelo "preço" de mercado, pela concorrência. ([[Mais-Valor Extra]].)
 
 Conforme se espalha pelo ramo em que opera, a maquinaria induz que "o valor *social* do produto da máquina decres[ça] até atingir seu valor *individual*" (MARX, p. 479). O mais-valor que obtém não é dos trabalhadores que substituiu, mas do mais-trabalho que extraiu de quem estava empregado ([[Capital Variável]]) e **que estavam operando a máquina no lugar dos trabalhadores "substituídos"** – ou seja, torna-se um trabalho não-remunerado, i.e. [[Mais-Valor]]. 
 

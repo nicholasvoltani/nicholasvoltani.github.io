@@ -5,6 +5,7 @@ tags:
   - marxism
 aliases:
   - Capital
+  - capital constante
 ---
 # Capital Constante
 > "a parte do capital que se converte em **meios de produção**, isto é, em **matérias-primas, matérias auxiliares e meios de trabalho**, não altera sua grandeza de valor no processo de produção. Por essa razão, denomino-a parte **constante** do capital, ou, mais sucintamente: **capital constante**." (p. 286)

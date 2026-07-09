@@ -51,4 +51,4 @@ Mas perceba-se que não é meramente por sua eficiência que eles são mais úte
 
 [^1]: Termo cunhado por (Georgescu-Roegen, 1971).
 [^2]: [[Sigma-algebra]].
-[^3]: Um exemplo tosco é a aproximação da [[Taxa Real de Juros]] $r$ como sendo $r \approx i - \pi$, sendo esta uma aproximação da verdadeira fórmula $(1+r) = \frac{1+i}{1+\pi}$, supondo $|\pi|\ll 1$. Quantos graduandos aprenderam somente a primeira fórmula e nunca viram a segunda? Quanta "matemática nas veias"!
+[^3]: Um exemplo tosco é a aproximação da [[Taxa Real de Juros]] $r$ como sendo $r \approx i - \pi$, sendo esta uma aproximação da verdadeira fórmula $(1+r) = \frac{1+i}{1+\pi}$, supondo $|\pi|\ll 1$. Quantos graduandos aprenderam somente a primeira fórmula e nunca viram a segunda? Quanta "macro nas veias"!

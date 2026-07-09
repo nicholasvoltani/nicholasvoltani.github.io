@@ -19,6 +19,7 @@ Ou seja, o salário de um trabalhador não necessariamente condiz exatamente com
 * Caso haja uma oferta baixa desse trabalho, seu salário poderá ser maior que seu preço; 
 * caso haja muita oferta[^1], pode ser menor que o preço de sua força de trabalho
 
+Marx descreve a forma do [[Salário por Tempo]] e [[Salário por peça]].
 
 
 ---

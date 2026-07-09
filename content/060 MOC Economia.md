@@ -34,3 +34,5 @@ related:: [[0x5 MOC Mestrado]]
 # [[067 MOC Ecological Economics]]
 
 # [[068 MOC Economia Política dos Ciclos]]
+
+# [[069 MOC Finanças]]

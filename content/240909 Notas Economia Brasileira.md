@@ -302,7 +302,7 @@ Política Cambial:
 - 1947-1948 (crise externa): contingenciamento de importações
 
 Política monetária:
-- 1946-1948: [[Política Monetária Contracionista]]
+- 1946-1948: [[Política Monetária|Política Monetária Contracionista]]
 - 1949-1951 (novo ministro da Fazenda): Mais flexível, menos contracionista
 
 ### Primeira fase

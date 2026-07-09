@@ -23,5 +23,5 @@ A crítica, no final do dia, "sempre"[^2] é no tocante ao modo de produção ca
 ### Referências
 - MARX, Karl. **O Capital. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
 
-[^1]: "*...aber keine Medaille ohne Kehrseite*".
+[^1]: "*...aber keine Medaille ohne Kehrseite*". **20260601**: Uma localização que pensei é "... que bônus existe sem algum ônus?".
 [^2]: Ao menos do que está ao alcance da esfera econômica da vida, o que acaba sendo quase tudo, tanto do estômago quanto do espírito. A espiritualidade *per se* é algo aquém dessa conversa.

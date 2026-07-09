@@ -31,7 +31,7 @@ A mudança da intensidade do trabalho faz com que, numa dada JT, produza-se uma 
 
 > "Se o número de horas se mantém constante, a jornada de trabalho mais intensiva se incorpora num produto de valor mais alto; se o valor do dinheiro se mantém constante, ela [a jornada de trabalho] se incorpora em mais dinheiro. Seu produto de valor varia com os desvios que sua intensidade apresenta em relação ao grau socialmente normal. A mesma jornada de trabalho não se representa, portanto, num produto de valor constante, como antes [caso prévio acima], mas num produto de valor variável [...]" (Marx, 2017, p. 592)
 
-Dessa forma, [[O aumento da intensidade do trabalho (ceteris paribus) condensa mais trabalho numa mesma jornada de trabalho]], gerando (como se fosse) [[Mais-Valor Absoluto]].
+Dessa forma, o aumento da intensidade do trabalho (ceteris paribus) condensa mais trabalho numa mesma jornada de trabalho, gerando (como se fosse) [[Mais-Valor Absoluto]].
 
 # III) Produtividade variável, *ceteris paribus*
 > "Com o ganho de produtividade, aumenta a quantidade de unidades produzidas, mas a magnitude do valor produzido em um período dado permanece constante. Cai o valor da força de trabalho, o que eleva o mais-valor. Ou seja, muda a distribuição do valor novo criado pelo trabalho. Um parcela menor é agora suﬁciente para remunerar o trabalhador, o que implica que a parcela que sobra como excedente é agora maior. Cai uma parcela do valor novo para que a outra possa aumentar." (Sá Barreto, 2022, p. 62)

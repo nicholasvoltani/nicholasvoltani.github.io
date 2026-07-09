@@ -2,6 +2,8 @@
 date: 2023-07-01
 tags:
   - mathematics
+aliases:
+  - Preimage
 ---
 up:: [[020 MOC Mathematics]]
 

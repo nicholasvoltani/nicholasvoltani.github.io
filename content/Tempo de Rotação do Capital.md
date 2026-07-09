@@ -26,6 +26,8 @@ O [[Ciclo do Capital-Mercadoria]], ao contrário, mistifica a rotação de um ca
 # Produção de mais-valor
 A cada rotação, um capital repõe seu capital **adiantado**. Suas componentes, porém, têm temporalidades diferentes em que são consumidas pelo capital. Aqueles que são totalmente consumidos em uma rotação são [[Capital Circulante]], e os que não o são, são [[Capital Fixo]]. Tais categorias, claro, são somente plausíveis no que tange ao [[Capital Produtivo]]. 
 
+Ademais, [[Uma maior composição circulante acelera a rotação de um capital]].
+
 
 
 ---

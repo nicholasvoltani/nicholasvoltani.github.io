@@ -33,6 +33,7 @@ views:
     order:
       - file.name
       - date
+      - tags
     sort:
       - property: date
         direction: DESC

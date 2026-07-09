@@ -3,6 +3,7 @@ date: 2024-11-12
 tags:
   - marxism
 aliases:
+  - mais-valor
 ---
 
 up:: [[011a MOC Capital I]]

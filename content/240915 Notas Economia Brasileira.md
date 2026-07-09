@@ -53,7 +53,7 @@ Há um excesso de importação de **bens de consumo** (não produtivo), e ainda 
 
 [[Regime Cambial de Bandas]]: a princípio uso de "minibandas" (*crawling*). Variação da [[Taxa de Câmbio]] acompanhava bem o IPA (Índice Preços Atacado) e IGP. Portanto, o [[Taxa Real de Juros]] está estável, embora a [[Taxa Nominal de Câmbio]] não esteja.
 
-[[Taxa de Juros|Taxas de Juros]] extremamente altas, [[Política Monetária Contracionista]] ao extremo. Causa [[Recessão]], retração da atividade econÔmica. Causa inadimplências e crise financeira, desemprego. 
+[[Taxa de Juros|Taxas de Juros]] extremamente altas, [[Política Monetária|Política Monetária Contracionista]] ao extremo. Causa [[Recessão]], retração da atividade econÔmica. Causa inadimplências e crise financeira, desemprego. 
 
 Crise bancária: 
 - Má operação dos bancos, análises setoriais e de crédito mal-feitas
@@ -254,7 +254,7 @@ Explicações para desempenho do Brasil:
 - Situação monetária / taxa de juros elevada
 
 Reação do governo:
-- Forte elevação de consumo do governo, política contracíclica (no caso, [[Política Fiscal Expansionista]]), isenções fiscais
+- Forte elevação de consumo do governo, política contracíclica (no caso, [[Política Fiscal]]), isenções fiscais
 - BACEN:
 	- Financiamento via reservas
 	- Liberação de [[Reservas Compulsórias|Compulsório]]; ajuda aos bancos

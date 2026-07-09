@@ -71,7 +71,7 @@ Conter o déficit público e a expansão de crédito (segurar investimentos).
 
 1951/1952: Superávits da União
 
-Meados 1952: Ricardo Jafet (BB) expande crédito, em contra [[Política Monetária Contracionista]] da Fazenda; [[Inflação]] estável em 14% em 51/52.
+Meados 1952: Ricardo Jafet (BB) expande crédito, em contra [[Política Monetária|Política Monetária Contracionista]] da Fazenda; [[Inflação]] estável em 14% em 51/52.
 
 ## Volta à política econômica interna (segunda '52/'53)
 Seca no Nordeste, financiamentos de grandes safras do café: auxílios aos bancos oficiais de estado/governos estaduais.

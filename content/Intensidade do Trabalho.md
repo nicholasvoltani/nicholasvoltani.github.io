@@ -3,7 +3,8 @@ date: 2025-11-23
 tags:
   - marxism
 aliases:
-  - Intensidade
+  - intensidade
+  - intensidade do trabalho
 ---
 
 up:: [[011a MOC Capital I]]
@@ -15,6 +16,8 @@ up:: [[011a MOC Capital I]]
 > "Já no ganho de intensidade, o trabalho em excesso comprimido na jornada equivale ao trabalho normal realizado em uma jornada mais longa. Por isso, ele cria valor *como se* a jornada tivesse sido, de fato, prolongada. Nesse caso, ao contrário do que vimos para o ganho de produtividade, o tempo de trabalho excedente pode aumentar mesmo *sem que haja reduções no tempo de trabalho necessário* [grifo meu]. O valor novo criado e o mais-valor crescem porque a quantidade de trabalho excedente cresceu." (Sá Barreto, 2022, p. 62) 
 
 A intensidade do [[Trabalho]], com que a [[Força de Trabalho]] é submetida em algum processo produtivo, dita qual é o **grau de condensação de trabalho em certo período de tempo** (e.g. [[Jornada de Trabalho]]).
+
+#to-be-elaborated : o abaixo é definição de produtividade do trabalho!!!!! A dúvida crucial é: por que esta condensação de trabalho se manifesta em maior valor? O trabalhador vai receber por esta maior condensação? Esta condensação não é um mero *as-if* então? Considera-se então o trabalho *despendido a mais* no valor da mercadoria? Mas ele não deveria dizer respeito ao tempo trabalhado, invés de sua menor "porosidade"? 
 
 Por exemplo, suponha-se que a média social em certo setor é de produzir $M$ mercadorias em certo período de tempo $\Delta t$, empregando $c$ de [[Capital Constante]] e $v$ de [[Capital Variável]]. A intensidade média, portanto, é de $\frac{M}{\Delta t}$ mercadorias por tempo, empregando $c$ e $v$ neste ínterim.
 

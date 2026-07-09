@@ -207,7 +207,7 @@ Melhora de [[Termos de Troca]], cenário internacional boa, liquidez financeira 
 	- Próximo de "pleno emprego"
 - Juros:
 	- Reverte segmentação financeira do PAEG: **conglomeração**: aproveitar sinergias de setores financeiros distintos (até mesmo em mesmo espaço físico/agências, mesmo que CNPJs diferentes), mais robusto
-	- [[Política Monetária Expansionista]]
+	- [[Política Monetária|Política Monetária Expansionista]]
 	- Expansão de [[Base Monetária]]/
 M1, M2, M3, M4
 	- **Compulsório seletivo**: barganhas de [[Reservas Compulsórias|Compulsório]] por diferenciação de juros/deduções/remunerações. *Regula compulsório baseado nas operações que o banco comporta*

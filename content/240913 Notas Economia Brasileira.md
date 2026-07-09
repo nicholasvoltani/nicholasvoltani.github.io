@@ -168,7 +168,7 @@ Fonte: [aula 12 ec brasileira pro anpec 2020 V 1 de 2 - YouTube](https://youtu.b
 
 [[Segunda Crise Mundial do Petróleo (1979)]] em abril, em face da deposição do xá Reza Pahlevi no Irã e crise política subsequente. No ano seguinte, [[Guerra Irã-Iraque (1980-1988)]].
 
-Agosto/1979: [[Política Monetária Contracionista]] do FED, para conter desvalorização do dólar. Depois, eleição de Reagan, aumento ainda maior das [[Taxa de Juros|Taxas de Juros]].
+Agosto/1979: [[Política Monetária|Política Monetária Contracionista]] do FED, para conter desvalorização do dólar. Depois, eleição de Reagan, aumento ainda maior das [[Taxa de Juros|Taxas de Juros]].
 
 ![[Pasted image 20240913151657.png]]
 Fonte: [aula 12 ec brasileira pro anpec 2020 V 1 de 2 - YouTube](https://youtu.be/V0CaPb41Edg?list=PLjS6FkCID3JVWybnF3Bo4Nq7ssZi54G8u&t=1940)

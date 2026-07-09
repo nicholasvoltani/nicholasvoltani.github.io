@@ -2,7 +2,8 @@
 date: 2023-07-31
 tags:
   - mathematics
-alias: 
+aliases:
+  - Dual
 ---
 up:: [[027 MOC Category Theory]]
 
@@ -12,8 +13,3 @@ Given a [[Category]] $C$, its opposite category $C^{op}$ is defined as $C$ but w
 
 # Properties
 - Any theorem proved for a category $C$ will also be valid for its opposite category $C^{op}$
-- 
-
----
-### References
-- 

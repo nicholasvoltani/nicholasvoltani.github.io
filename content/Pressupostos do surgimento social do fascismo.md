@@ -1,7 +1,6 @@
 ---
 date: 2023-03-03
 tags:
-  - to-be-elaborated
   - marxism
 ---
 

@@ -33,7 +33,7 @@ related:: [[010 MOC Marxism]] // [[066 MOC História do Pensamento Econômico]]
 	- [[Curva de Phillips Aceleracionista]] (Phillips-Phelps / com Expectativas)
 - Abordagem monetária da [[Balanço de Pagamentos|Balança de Pagamentos]]
 
-### [[Teoria Quantitativa da Moeda]]
+## [[Teoria Quantitativa da Moeda]]
 - [HET: Monetarists](https://www.hetwebsite.net/het/schools/monetarist.htm)
 	- [HET: Monetary Theory - Contents](https://www.hetwebsite.net/het/essays/money/moneycont.htm)
 
@@ -46,7 +46,7 @@ related:: [[010 MOC Marxism]] // [[066 MOC História do Pensamento Econômico]]
 - Mercados não conseguem se regular totalmente sozinhos (*podem falhar*); requer-se uma intervenção do Estado (mínima mas não-nula). Falhas de mercado podem surgir devido a:
 	- Tomadas de decisão por *informação imperfeita* / [[Assimetria de Informação]]
 
-# [[Financeirização]]
+# Financeirização
 - [[Hipótese de Instabilidade Financeira]] (Minsky)
 
 ---

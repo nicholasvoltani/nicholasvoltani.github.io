@@ -6,7 +6,7 @@ alias:
 ---
 up:: [[Epimorphism]]
 
-Let $f: X \to Y$ and $g_1, g_2: Y \to Z$ be functions in the [[Category]] $Set$, such that $g_1 \circ f = g_2 \circ f$. We seek to prove that $f$ is surjective $\implies$ $g_1 = g_2$ under these conditions.
+Let $f: X \to Y$ and $g_1, g_2: Y \to Z$ be functions in the category [[Set Category|Set]], such that $g_1 \circ f = g_2 \circ f$. We seek to prove that $f$ is surjective $\implies$ $g_1 = g_2$ under these conditions.
 
 # Surjective $\implies$ Epimorphism
 Assume $f$ is [[Surjective Function|Surjective]]. Then it'll follow that
@@ -17,7 +17,7 @@ Thus, for any $y \in Y$, we have that
 $$
 g_1(y) = g_1(f(x)) \overset{Hyp.}{=} g_2(f(x)) = g_2(y)
 $$
-And thus $f$ is an [[Epimorphism]].
+Therefore, $g_{1}=g_{2}$, *ergo* $f$ is an [[Epimorphism]].
 
 # Epimorphism $\implies$ Surjective
 Proof by contrapositive: Suppose $f$ is not surjective. Then there are points in $Y \setminus f(X)$ ─ let $\tilde{y} \in Y \setminus f(X)$.

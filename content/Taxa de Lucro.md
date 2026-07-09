@@ -1,8 +1,10 @@
 ---
-date: "2026-05-04"
+date: 2026-05-04
 tags:
   - marxism
 aliases:
+  - taxa de lucro
+  - taxas de lucro
 ---
 
 up:: [[Lucro (Marx)|lucro]]

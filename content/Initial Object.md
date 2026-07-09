@@ -8,10 +8,10 @@ up:: [[027 MOC Category Theory]]
 
 ![[Pasted image 20230820210901.png|200]]
 
-Given a [[Category]] $C$, we say an object $I \in Ob(C)$ is an **initial object** if all objects $x \in C$ have a morphism **from** $I$ to $x$. That is,
+Given a [[Category]] $C$, we say an object $I \in Ob(C)$ is an **initial object** if all objects $x \in C$ have **only one** morphism **from** $I$ to $x$. That is,
 
 $$
-\forall x \in C: \exists f \in Mor(I, x): I \overset{f}{\to}x
+\forall x \in C: \exists! f \in Mor(I, x): I \overset{f}{\to}x
 $$
 # Properties
 - An initial object is a [[Terminal Object]] in the [[Opposite Category]] $C^{op}$.

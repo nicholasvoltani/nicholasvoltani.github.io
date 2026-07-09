@@ -20,7 +20,7 @@ $$
 1_T &= \varphi ; f
 \end{cases}
 $$
-Therefore, we have that $\varphi$ is the inverse of $f$ ─ therefore, $f$ is an isomorphism.
+Therefore, we have that $\varphi$ is the inverse of $f$ ─ therefore, $f$ is an [[Isomorphism (Category)|isomorphism]].
 # Corollaries
 When there is a morphism from a terminal object to an initial object, we have that they are isomorphic. In this case, they will be isomorphic to a [[Zero Object]]. Thus, there can only be one zero object (up to isomorphism) in a category.
 

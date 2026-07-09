@@ -175,7 +175,7 @@ Consolidação da dívida externa com novas condições:
 Joaquim Murtinho: **metalista** e polêmico.
 - Equilíbrio fiscal/monetário
 	- Políticas ortodoxas
-	- **Queimas de papel-moeda**: [[Política Monetária Contracionista]]
+	- **Queimas de papel-moeda**: [[Política Monetária|Política Monetária Contracionista]]
 	- Elevação de impostos:
 		- Pressão externa pelos credores
 		- Pressão interna contra desvalorização cambial e inflação

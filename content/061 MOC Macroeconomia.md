@@ -12,22 +12,14 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 
 # [[061b MOC Contabilidade Nacional]]
 # [[061c MOC Teoria Monetária]]
+# [[069 MOC Finanças]]
 
-## Leis e Paradoxos
+## "Leis" e Paradoxos
 - [[Lei de Say]]
 - [[Paradoxo da Parcimônia]]
 - [[Armadilha da Liquidez]]
 - [[Princípio da Demanda Efetiva]]
 
-## Ativos Financeiros
-- [[Overnight]]
-- [[Swap]]
-- [[Depósito a Prazo]]
-- [[Debênture]]
-- [[Letra de Câmbio]]
-- [[Fundo de Renda Fixa]]
-- [[Hedging]]
-- [[Operações de Redesconto]]
 
 # Economia Internacional
 - [[Taxa de Câmbio]]
@@ -39,16 +31,12 @@ child:: [[061a MOC ANPEC Macroeconomia]]
 
 # Políticas Econômicas
 - [[Política Fiscal]]
-	- [[Política Fiscal Expansionista]]
-	- [[Política Fiscal Contracionista]]
 	- [[Equivalência Ricardiana]]
 	- [[Crowding Out]]
 - [[Política Monetária]]
 	- [[Operações de Redesconto]]
 	- [[Operações de Open Market]]
 	- [[Reservas Compulsórias]]
-	- [[Política Monetária Expansionista]]
-	- [[Política Monetária Contracionista]]
 	- Políticas não-convencionais (cf. [[Crise do Subprime (2007)]]):
 		- [[Quantitative Easing]]
 - [[Política Cambial]]

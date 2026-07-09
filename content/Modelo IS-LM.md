@@ -35,7 +35,7 @@ Fonte: BLANCHARD, JOHNSON, p. 95. Note que retrata uma política fiscal **contra
 
 A aplicação de [[Política Fiscal|Políticas Fiscais]] (*ceteris paribus*) afetam o **mercado de bens**, ou seja, há *deslocamento da curva IS* (i.e. há uma translação *ao longo da curva LM*).
 
-Sob o modelo IS-LM, [[Política Fiscal Expansionista]] induz um aumento do PIB, e [[Política Fiscal Contracionista]] induz uma redução, com respectivos aumento e diminuição da taxa de juros, a fim de inibir (incentivar) a produção no equilíbrio.
+Sob o modelo IS-LM, [[Política Fiscal|políticas fiscais expansionista]] induz um aumento do PIB, e [[Política Fiscal|Política Fiscal Contracionista]] induz uma redução, com respectivos aumento e diminuição da taxa de juros, a fim de inibir (incentivar) a produção no equilíbrio.
 
 Há também o [[Teorema do Orçamento Equilibrado]]: um aumento de [[Gastos Públicos]] equivalente a um aumento em [[Impostos]] induz um aumento equivalente no [[Produto Agregado]] (sem fator multiplicativo)[^4].
 
@@ -45,7 +45,7 @@ Fonte: BLANCHARD, JOHNSON, p. 97. Os termos $\frac{M}{P}$ são medidas da "rique
 
 A aplicação de [[Política Monetária|Políticas Monetárias]] (*ceteris paribus*) afetam o **mercado de ativos**, ou seja, há um *deslocamento da curva LM* (i.e.há uma translação *ao longo da curva IS*).
 
-Sob o modelo IS-LM, [[Política Monetária Expansionista]] diminui a taxa de juros, induzindo uma expansão do PIB (em particular, através da indução do aumento de investimentos por empréstimos); uma [[Política Monetária Contracionista]] aumenta a taxa de juros, induzindo contração do PIB (pelo desincentivo de empréstimos para investimentos).
+Sob o modelo IS-LM, [[Política Monetária|Política Monetária Expansionista]] diminui a taxa de juros, induzindo uma expansão do PIB (em particular, através da indução do aumento de investimentos por empréstimos); uma [[Política Monetária|Política Monetária Contracionista]] aumenta a taxa de juros, induzindo contração do PIB (pelo desincentivo de empréstimos para investimentos).
 
 ---
 ### References

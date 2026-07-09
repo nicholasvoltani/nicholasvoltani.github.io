@@ -47,7 +47,7 @@ Acordo com capital estrangeiro, com sucesso:
 - Redução do Serviço da Dívida (juros sobre a dívida)
 
 **Combate à inflação**, tratamento de choque[^1]:
-- [[Política Monetária Contracionista]]/**arrocho monetário**
+- [[Política Monetária|Política Monetária Contracionista]]/**arrocho monetário**
 - Combate ao déficit público/**arrocho fiscal**
 	- Diminuição de subsídios: trigo e petróleo – **Inflação Corretiva**: causa choque de preços dos derivados, mas corta [[Gastos Públicos]] lá na frente
 

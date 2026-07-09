@@ -31,7 +31,7 @@ Surgem impostos sobre [[Consumo Agregado|Consumo]] (para tentar compensar falta 
 ## Questão inflacionária
 Há problemas de [[Inflação]] devido à questão da [[Taxa de Câmbio]], mas não devido a problemas de produção: é justamente por problemas internacionais, em função da guerra. Crise de suprimentos como trigo.
 
-[[2º Plano de Valorização do Café (1917)]]: financiamento interno pelo Banco do Brasil, com certa [[Política Monetária Expansionista]]; a curto prazo dá certo (estocagem e financiamento), mas induz um descontrole da oferta – não há mais impostos sobre novos cultivos, além de que em 1918 há um *overshooting* nos preços devido ao fim da Guerra (a despeito da geada no mesmo ano).
+[[2º Plano de Valorização do Café (1917)]]: financiamento interno pelo Banco do Brasil, com certa [[Política Monetária|Política Monetária Expansionista]]; a curto prazo dá certo (estocagem e financiamento), mas induz um descontrole da oferta – não há mais impostos sobre novos cultivos, além de que em 1918 há um *overshooting* nos preços devido ao fim da Guerra (a despeito da geada no mesmo ano).
 
 # Década de 1920
 Aumento de commodities em geral pós-guerra (1918-1919) => exportações crescem como um todo. Importações crescem também, devido à demanda reprimida. 

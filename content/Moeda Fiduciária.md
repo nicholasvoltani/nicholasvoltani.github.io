@@ -14,7 +14,7 @@ Uma moeda fiduciária trata-se de um "signo de [[valor]]" **sem valor intrínsec
 
 No tocante à emissão de moeda, é o oposto do [[Padrão-Ouro]], onde emite-se somente o que se possui em reservas metálicas ([[Dinheiro|Mercadoria-dinheiro]]).
 
-Evidentemente que a emissão desenfreada de moeda fiduciária induz [[Inflação]][^2] (como no [[Encilhamento]]), agindo como uma [[Política Monetária Expansionista]].
+Evidentemente que a emissão desenfreada de moeda fiduciária induz [[Inflação]][^2] (como no [[Encilhamento]]), agindo como uma [[Política Monetária|Política Monetária Expansionista]].
 
 
 ---

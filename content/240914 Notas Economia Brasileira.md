@@ -160,7 +160,7 @@ Recomposição de alugieis pelo valor real médio.
 
 Deslocamento do índice de preços: antes era calculado entre metade do mês anterior e metade do mês corrente.
 
-Acaba agindo como [[Política Monetária Expansionista]], devido ao aumento da [[Despesa Agregada|Demanda Agregada]] (em particular o [[Consumo Agregado]]), explicações variam:
+Acaba agindo como [[Política Monetária|Política Monetária Expansionista]], devido ao aumento da [[Despesa Agregada|Demanda Agregada]] (em particular o [[Consumo Agregado]]), explicações variam:
 - Aumento da [[Renda Agregada]] real (poder de compra)
 - [[Taxa de Juros|Taxas de Juros]] estavam baixas, induziram aumento de [[Investimentos]], além de [[Consumo Agregado]] também (crédito)
 - Vetor de preço de congelamento não são vetor de preço de equilíbrio: alguns são congelados abaixo do equilíbrio (e aumentados no dia seguinte), portanto havendo recusa de venda dos vendedores ([[Perda de Peso Morto]])
@@ -210,7 +210,7 @@ Plano híbrido, de emergência: segurar inflação.
 - Tablitas (com mesma moeda)
 
 **Medidas ortodoxas**:
-- [[Política Monetária Contracionista]]: [[Taxa de Juros|Taxas de Juros]] mais altas (segura demanda e especulações com estoques)
+- [[Política Monetária|Política Monetária Contracionista]]: [[Taxa de Juros|Taxas de Juros]] mais altas (segura demanda e especulações com estoques)
 - Tentativa de controle fiscal
 	- Tarifas, eliminação de subsídios, corte gastos (em particular em investimentos públicos)
 
@@ -461,7 +461,7 @@ Início de [[Regime de Câmbio Fixo]].
 	- 31/12/1994: R$ 8.5 Bi
 	- 31/03/1995: R$ 9.5 Bi
 
-Não-cumprimento das metas => [[Política Monetária Contracionista]]: 
+Não-cumprimento das metas => [[Política Monetária|Política Monetária Contracionista]]: 
 - [[Reservas Compulsórias|Compulsório]] de 40% para **100%** (sobre novos depósitos?), redução paulatina
 
 **Lastro efetivo do Real: reservas internacionais (US$ 42 Bi).**

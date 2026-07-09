@@ -6,7 +6,7 @@ alias:
 ---
 up:: [[Monomorphism]]
 
-Let $f: X \to Y$ and $g_1, g_2: Z \to X$ be functions in the [[Category]] $Set$, such that $f \circ g_1 = f \circ g_2$. We seek to prove that $f$ is injective $\implies$ $g_1 = g_2$ under these conditions.
+Let $f: X \to Y$ and $g_1, g_2: Z \to X$ be functions in the category [[Set Category|Set]], such that $f \circ g_1 = f \circ g_2$. We seek to prove that $f$ is injective $\implies$ $g_1 = g_2$ under these conditions.
 
 # Injective $\implies$ Monomorphism
 Assume that $f$ is [[Injective Function|Injective]]. Then it'll follow that
