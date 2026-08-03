@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"f3b450c188f6e126","type":"file","file":"Attachments/Pasted image 20241022174250.png","x":-295,"y":-432,"width":500,"height":525},
+		{"id":"73c56fa04cb1f3a2","x":240,"y":0,"width":250,"height":60,"color":"6","type":"text","text":"# Ato III"},
+		{"id":"31170ea88b15ba78","x":240,"y":-140,"width":250,"height":60,"color":"2","type":"text","text":"# Ato II"},
+		{"id":"1bdc31f7626b9d6b","type":"text","text":"# Ato I","x":240,"y":-260,"width":250,"height":60,"color":"5"},
+		{"id":"c273588260e78573","x":240,"y":-432,"width":334,"height":60,"color":"4","type":"text","text":"# [[Ideias Livro Autismo]]"}
+	],
+	"edges":[]
+}

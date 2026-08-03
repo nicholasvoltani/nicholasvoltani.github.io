@@ -1,0 +1,293 @@
+---
+date: 2024-06-10
+tags:
+---
+
+up:: [[index]]
+
+> "Most websites have a link that says '**about**'. It goes to a page that tells you something about the background of this person or business. For short, people just call it an 'about page'.
+> 
+> Most websites have a link that says '**contact**'. It goes to a page that tells you how to contact this person or business. For short, people just call it a 'contact page'.
+> 
+> So a website with a link that says '**now**' goes to a page that tells you **what this person is focused on at this point in their life.** For short, we call it a 'now page'." (Derek Sivers, in [nownownow.com](https://nownownow.com/about))
+
+# 2025
+## November 2025
+Did some rehashing of old scribbles from my notebooks, trying to see whether they could turn into articles in the future. Aside from that, same old, same old.
+
+**Interesting content of the month**:
+- [49 Days ALONE at Sea: Solo Sailing the Pacific with No Engine \| EPISODE 1 \|@Sailing\_Songbird](https://www.youtube.com/watch?v=VgWXm6jtahY) and his other videos
+- Videos on Topological Data Analysis:
+	- [The Shape of Disaster - How Topological Data Analysis (TDA) Predicts Financial Crashes - Noah Bergam](https://www.youtube.com/watch?v=lTki5tP7Rqk&list=LL&index=5&pp=gAQBiAQB)
+		- Cites papers of Gidea, one of which was worth my reading: [GIDEA, Marian. Topological data analysis of critical transitions in financial networks. In: **International conference and school on network science**. Cham: Springer International Publishing, 2017. p. 47-59.](http://ndl.ethernet.edu.et/bitstream/123456789/15964/1/3rd%20International%20Winter%20School%20and%20Conference%20on%20Network%20Science.pdf#page=51)
+	- [Persistent Homology \| Introduction & Python Example Code - YouTube](https://www.youtube.com/watch?v=5ezFcy9CIWE&list=LL&index=3&pp=gAQBiAQB)
+	- [Foundations of Topological Data Analysis (Prof Ghrist Math)](https://www.youtube.com/playlist?list=PL8erL0pXF3JaR4no7ivppQ5zwhq2QnzzQ) — simple and clean explanations and animations!
+
+
+
+## October 2025
+I started learning about [[034 MOC Atmospheric Physics|atmospheric physics]], out of curiosity — very interesting!
+
+**Interesting content of the month**:
+- [3 Games / 3 Hours / 3 Cursed Computers (Jacob Geller)](https://www.youtube.com/watch?v=0zxQ9YAzy00&list=LL&index=17&pp=gAQBiAQB)
+- [Fantasies of Nuremberg (Jacob Geller)](https://www.youtube.com/watch?v=n9Ay5tzHIBU)
+- [A Sphere is a Loop of Loops (Visualizing Homotopy Groups) (Dennis Sweeney)](https://www.youtube.com/watch?v=CxGtAuJdjYI)
+- [What Do You Mean "Almost" Everywhere?! // \#SoME4 (A Little Bit Puzzled)](https://www.youtube.com/watch?v=aDPEItdo9wQ)
+- [The fascinating link between Topology and Politics: an introduction to TDA. (The Underlying Math)](https://www.youtube.com/watch?v=KhHDfbwALX8)
+## September 2025
+My Master's dissertation will be on a Marxist appraisal of the [[Postulado de Khazzoom-Brookes|Khazzoom-Brookes Postulate]]. So I'm focusing on that, and on my classes as well. 
+
+I also enrolled in a summer school on [Quantitative Ecology](https://serrapilheira.org/ano/formacao-em-ecologia-quantitativa-2026/), so we'll see how that goes. How far can interdisciplinarity go (as far as I'm concerned)? \[05/12/25: I actually got approved, but chose not to move forward with the application. I just want my peaceful holidays...\]
+
+**Interesting content of the month**:
+- [The Fascinating Map of Fungi (Domain of Science)](https://www.youtube.com/watch?v=5FqFg-rjzPo)
+- [Calm Traffic Needs More Than Calm Driving (braintruffle)](https://www.youtube.com/watch?v=m74zazYPwkY) — mathematical modeling of traffic jams!
+- [This MINECRAFT CIVILIZATIONS server has no rules (Joyfuul)](https://www.youtube.com/watch?v=bIykGd02XLU)
+- [A chaotic guide to making stuff instead of doomscrolling (struthless)](https://www.youtube.com/watch?v=2n8W6CBxc64)
+
+## August 2025
+Fumbling around on my Master's degree's theme. I settled on [[067 MOC Ecological Economics|Ecological Economics]], which is probably the main theme that I'll be dealing with for the foreseeable future (as far as my interest in Economics goes). 
+
+**Interesting content of the month**:
+- [How Plants Completely Transformed My Life (Reject Convenience)](https://www.youtube.com/watch?v=FwQpxZM66Xc) — on the fascinating evolution of corn and its properties!
+- [How a passive player changed Brawlhalla forever - YouTube](https://www.youtube.com/watch?v=KhCdAXc52wg)
+
+
+## July 2025
+Holidays are close by. Must. Keep. Going.
+
+Ok, I got through, finally! 
+...only to have barely a month of holidays.
+
+**Interesting content of the month**:
+- [The Most Important Concept in Physics. \#SoME4 (PolyaMath)](https://www.youtube.com/watch?v=3bH-3dINo7E) (it's *differentials*)
+- [How Bread Built Civilization: From the First Farmers to the Modern Factory (OTR Food & History)](https://www.youtube.com/watch?v=892yaBEwtbM)
+- ["One Day, Everyone Will Have Always Been Against This" (PhilosyNoir)](https://www.youtube.com/watch?v=wAJI0Jc-GEE) (amidst all the Contrapoints controversy about the Gaza genocide... now *that's* [disappointing](https://youtu.be/y6EDlD_fWn0?t=14))
+	- Not the only disappointment from the (putative) American left: [AOC [Alexandria Ocasio-Cortez] and Israel: The Myth of Progressive Politics in America (north star radio)](https://www.youtube.com/watch?v=ZFdrxSJfZYk)
+- [Behind China's Firm Stance AGAINST Israel (klaize)](https://www.youtube.com/watch?v=KUb5nthE6eI)
+- [What DeleteMe and Incogni aren't telling you (Reject Convenience)](https://www.youtube.com/watch?v=iX3JT6q3AxA)
+
+## June 2025
+Complete focus on my Master's, almost burnt out. But still standing.
+
+**Interesting content of the month**:
+- ["Don't mourn for us" (Jim Sinclair)](https://philosophy.ucsc.edu/SinclairDontMournForUs.pdf)
+	- [Toby: neuter, genderless person pt1](https://www.youtube.com/watch?v=_VeLOIxiG4c&ab_channel=BetamaxBooty) & other parts
+
+## May 2025
+Yep: a lot of reading. I'm also reading more on [[071a MOC Realismo Crítico|critical realism]], been really illuminating. Consumed by my Master's studies. Getting frequently close to burnout.
+
+I also created an [are.na channel](https://www.are.na/nicholas-voltani/thank-god-for-the-internet), which is like a Pinterest for links, PDFs and so on. Didn't get to fiddle around, but it's a nice idea. Adding stuff there from time to time.
+
+**Interesting content of the month**:
+- [Notes on Vanishing (Lily Alexandre)](https://www.youtube.com/watch?v=cqhiup5qSY8) — *amazingly creative* cinematography for a video-essay
+- [how billionaires made you addicted to your phone (and how to unrot your brain) - hazelisonline](https://www.youtube.com/watch?v=aH7Z2ORlkjI)
+- [Why I Joined a Cult: The Psychology of Cult Recruitment \| Video Essay (Kafryn D)](https://www.youtube.com/watch?v=VaSAesX3it4) — incredible for someone's first video-essay!
+- [I finally find least action principle satisfying (Mathemaniac)](https://www.youtube.com/watch?v=Ohrl3S2wcBU) — a geometric view of the least action principle. *Beautiful!* 
+	- This also got me in a rabbit hole: [Assumptions of Physics (Gabriele Carcassi, Christine Aidala)](https://assumptionsofphysics.org/)
+- [23 Hidden Language Devices That Shape The Way We Read (Robin Waldun)](https://www.youtube.com/watch?v=fPwQ4OBqLng)
+- [Tak Is About to Be Your New Favorite Game (The Modern Rogue)](https://www.youtube.com/watch?v=Te0Wm_GCCAQ)
+- [The Zen Browser Experience (Bog)](https://www.youtube.com/watch?v=9G5PtUwdFkY&list=LL&index=1&pp=gAQBiAQB). Let's hope it doesn't flounder like Arc...
+
+
+## April 2025
+Basically focused on my Master's. **A lot** of reading to do, and not enough time/energy for it. A lot of activity in [[060 MOC Economia]] and [[011b MOC Capital II]]. 
+
+Also got rejected from the Santa Fe Institute's 2025 Complexity Global School application. Oh joy!
+
+**Interesting content of the month**:
+- [How oyster beds can rebuild New York harbor \| WILD HOPE (Nature on PBS)](https://www.youtube.com/watch?v=YD7LlpKGEnY)
+- Fascinating stuff on the construction of the Great Green Wall between the Saharan Desert and the Sahel:
+	- [How the UN is Holding Back the Sahara Desert (Andrew Milligan)](https://www.youtube.com/watch?v=WCli0gyNwL0)
+	- [Inside Africa's Food Forest Mega-Project (Andrew Milligan)](https://www.youtube.com/watch?v=xbBdIG--b58)
+	- Also related: [How Trees Bring Water (Andrew Milligan)](https://www.youtube.com/watch?v=oY8ds4BiG1A) ([[Biotic Pump]])
+- [Talking with Contrapoints - Gender Identity, Judgement, & YouTube (Dr. K.)](https://www.youtube.com/watch?v=cKrxP44Gp_0)
+- [How philanthropists are destroying African farms (It's Complicated/The Guardian)](https://www.youtube.com/watch?v=KO3-xkVACgE) (color me surprised...)
+- [Serj Tankian Eats His Last Meal (Mythical Kitchen)](https://www.youtube.com/watch?v=Mo5JVuW4_qk)
+- [Existential Crisis in Class (WhatsItLike)](https://www.youtube.com/watch?v=NESBtODxNVA)
+- [How To Use Zotero In Obsidian To Simplify Research 📚 + Research Rabbit (Wanderloots)](https://www.youtube.com/watch?v=ScXGpZRZ7Ck) **GAMECHANGER!!!** Will try to implement it in my own workflow.
+- [The Manipulator's Sneaky Math to Beat Chaos (Braintruffle)](https://www.youtube.com/watch?v=-jF9gW2r_bk)
+
+## March 2025
+My Master's degree begins this month! I've moved to Niterói on March 20th, and my classes begin on March 24th.
+
+I also got back to Catalan, ever since I found a [Marxist magazine in Catalan](https://catarsimagazin.cat/) and have been having fun reading and *understanding* it — now I want to actually finish watching [Plats Bruts](https://www.3cat.cat/3cat/plats-bruts/)! It's a breath of fresh(er) air, since German isn't really being the most exciting progress I've had recently... especially since [some things happened in Germany](https://www.bbc.com/news/articles/cx29wlje6dno)...
+
+**Interesting content of the month**:
+- [Anne-Laure Le Cunff - How to Design Tiny Experiments Like a Scientist @neuranne - Nick Milo](https://www.youtube.com/watch?v=jJ48Z6cQHBM) — Very interesting take on a generalization of "30-day challenges"
+- [How I Changed My Life in 1 Year with Reverse Goal Setting - Justin Sung](https://www.youtube.com/watch?v=R6QQDy1OUhE) — Original way of goal setting. I still need to implement \[something like\] this effectively
+	- Also from Justin Sung: [44 Minutes of Brutally Honest Note-Taking Advice - YouTube](https://www.youtube.com/watch?v=rHzmiH7bSNA)
+- [A Reality Check on Our ‘Energy Transition’ - Andrew Nikiforuk/resilience](https://www.resilience.org/stories/2025-01-06/a-reality-check-on-our-energy-transition/?utm_source=pocket_shared) — Pretty eye-opening take on the whole '[[Transição Energética|energy transition]]' *spiel*, and how, under a capitalist society, it is *not possible*, since it remains in the [[Novas fontes de energia criam uma dependência simbiótica com formas prévias, sob o capitalismo|energy addition]] phase, not implementing enough of 'energy *substitution*'... and even if it did, it would still be prone to running out of rare earth metals necessary for photovoltaic batteries etc, so it's still not 100% "sustainable"... *well, shit*
+	- [Historian Jean-Baptiste Fressoz: ‘Forget the energy transition: there never was one and there never will be one’ - resilience](https://www.resilience.org/stories/2024-12-05/historian-jean-baptiste-fressoz-forget-the-energy-transition-there-never-was-one-and-there-never-will-be-one/) — An interesting interview cited by the above article, helps to contextualize this debate
+- [How we forgot about production—and why it’s back on the agenda - JS Tan (Value Added)](https://www.valueadded.tech/p/how-we-forgot-about-productionand?utm_source=share&utm_medium=android&r=24rai5&triedRedirect=true) — Good summary of the Labor Theory of Value, and another view on a fundamental problem in late stage capitalism when it comes to recessions. Interesting mention of how Adam Smith himself thought that [[O rentismo age como atrito de mercado|Rentier classes act as market friction]], inhibiting *true* free market behavior
+- [Is American democracy doomed? - by Brian Klaas](https://www.forkingpaths.co/p/is-american-democracy-doomed) — Great (harrowing) read, great references
+	- [The Path to American Authoritarianism: What Comes After Democratic Breakdown (Steven Levitsky & Lucan Way)](https://www.foreignaffairs.com/united-states/path-american-authoritarianism-trump) — a great (paywalled) read from the writer of *the* "How Democracies Die". Establishes the concept of [[Autoritarismo Competitivo|Competitive Authoritarianism]], which is the use of a "*weaponized State*" — leveraging the legal institucionality, be it through taxes, lawsuits, or bureaucracy — against its opposition
+	- [Why nonviolent resistance beats violent force in effecting social, political change — Harvard Gazette](https://news.harvard.edu/gazette/story/2019/02/why-nonviolent-resistance-beats-violent-force-in-effecting-social-political-change) — an interview with Erica Chenoweth about how *non-violent* resistance campaigns are "more effective" (when it comes to overthrowing authoritary regimes) than violent ones. Some reasons are simple: mobilizations act not only as a political resistance act, but also as a way to build rapport/comradery between individuals, instilling and nurturing subjective non-conformity to the current state of things. I'd say that it also has to do with what I'd call the "problem of de-escalation": violent upheavals hinge on a "state of exception" kind of action, which has to be stabilized afterwards, which usually creates tension between the new government and some part of the population — and since it's already wielding the stick... why not keep using it against its opposition? Thus the cycle keeps on going. I'd say *many* violent revolutions in Africa follow this pattern[^1] (Congo, Sudan...).  
+- [Monthly Review | Marx’s Vision of Sustainable Human Development (Paul Burkett)](https://monthlyreview.org/2005/10/01/marxs-vision-of-sustainable-human-development/?utm_source=pocket_shared) — **Terrific** analysis of how Communism would/*should* be, against critics' views of Marx's supposed anti-ecological thinking
+- ["Knowingness" and the Politics of Ignorance (Brian Klaas)](https://www.forkingpaths.co/p/knowingness-and-the-politics-of-ignorance-deb?r=24rai5&utm_source=pocket_shared&triedRedirect=true): Elaborates how "polarization" is a symptom from something else, called "knowingness": it's basically the opposite of "intellectual honesty", in that one assumes that one has all knowledge at hand (in their head or, at least, at their reach through the Internet) and, thus, doesn't feel obliged to understand others' criticisms
+	- [Our big problem is not misinformation; it’s knowingness \| Psyche Ideas (Jonathan Malesic)](https://psyche.co/ideas/our-big-problem-is-not-misinformation-its-knowingness) 
+
+## February 2025
+The anxiety of waiting for the Master's scholarship, while barely receiving any notifications, is killing me. Also dealing with the stress of finding a minimally-humane place to move into.
+
+I'll also be applying for Santa Fe Institute's [2025 Complexity Global School for Emerging Political Economies](https://www.santafe.edu/info/2025-complexity-global-school/overview?passKey=5e453325-48ec-415b-b96d-ff3c7ee42931), taking place in Bogotá, Colombia. Let's see how *that* goes... \[05/12/25: Guess *how* that went.\]
+
+**Interesting content of the month**:
+- [TF2: You Will (Not) Play (Zesty Jesus)](https://www.youtube.com/watch?v=JNxg5stxlhk) — To see one of my favorite games of all time be mangled to such a state, to see a 4-hour documentary on the process of its murder, in the name of profit and a hubris of recreating a game against its own will and soul... it's heartbreaking.
+- [SEAVER, Nick. Captivating algorithms: Recommender systems as traps. **Journal of material culture**, v. 24, n. 4, p. 421-436, 2019.](https://journals.sagepub.com/doi/abs/10.1177/1359183518820366) — Taking the analogy of algorithms as traps more "seriously", very interesting read (also interesting his take on *infrastructure as "slow" traps*)
+- [Robust Yet Fragile (Maxim Raginsky)](https://realizable.substack.com/p/robust-yet-fragile) — "*Because control acts to reduce externally perceived complexity, it may lead to a false impression that, just because things have been going reasonably well for so long, certain mechanisms or practices or policies are no longer necessary and can be done away with.*"
+- [The New Fascist International: Technocratic Oligarchy and the Threat to Democracy (The Structural Lens)](https://substack.com/home/post/p-154522269)
+- [The "Modern Day Slaves" Of The AI Tech World - Real Stories](https://www.youtube.com/watch?v=VPSZFUiElls): "*Before the internet, it would be really difficult to find someone, sit them down for ten minutes and get them to work for you, and then fire them after those ten minutes. But with technology, you can actually find them, pay them [a] tiny amount of money, and then get rid of them when you don't need them anymore.*" Couldn't sum up late-stage capitalism better myself. Yikes.
+- [Investigating a forgotten Edward Snowden Quote (Allie Meowy)](https://www.youtube.com/watch?v=fAf1Syz17JE): "*Some hentai games are very good*" (Edward Snowden)
+- [Against Optimization - by Brian Klaas](https://www.forkingpaths.co/p/against-optimization): interesting view on how excessive efficiency is detrimental, and how one should strive for *resilience* (robustness against unexpected problems) — just like ecosystems (natural complex systems) do!
+- [Brett Scott on why we should advocate for cash money](https://www.youtube.com/watch?v=pPyER72nFcw): because it brings back (some) agency back to consumers, instead of putting them at the sheer mercy of the banking system and their services
+	- Highly recommend Brett Scott's Substack as well, [Altered States of Monetary Consciousness](https://www.asomo.co/) 
+## January 2025
+I've begun studying German — again! Hope this time it works! I have a lot of content now to immerse myself in it though, so hope it helps. I also have a clearer goal in mind: I have to reach B2 until my PhD, if I want to do it in Germany (they require B2), but I want/feel like I can reach it in 2025, with enough immersion and perseverance. My progress will be somewhere linked to [[091 MOC Deutsch]].  
+
+I also plan on a Winterkurs in the beginning of 2026 (requires B1, which is more feasible). \[05/12/25: The lovelies at DAAD canceled it and some other programs of 2026 mere days after the German ballots were up — [**three days, to be exact**](https://www.daad.de/en/press-releases/konsolidierungsprogramm/). Oh well, wonder what happened!\]
+
+I also intend on writing 50 posts in Substack until the end of the year. Let's see how it goes... \[05/12/25: Obviously this didn't pan out.\]
+
+**Interesting content of the month**:
+- [Exposing the Honey Influencer Scam - MegaLag](https://youtu.be/vc4yL3YTwWk?si=TRLj0BwpBRyMn-NJ) — a **scandal**!!!
+- [When teenagers run virtual democracies - Trolligarch](https://www.youtube.com/watch?v=ZhFH8pi6Jdo) — fascinating view on virtual democracies and on power dynamics, even in these (seemingly) innocuous digital places
+	- [How one man faked a Discord "democracy" for over 3 years – Averra Dossier - Trolligarch](https://www.youtube.com/watch?v=RItD1vKUMWg) — this is so *absurd*, that someone would go to such lengths for an *artificial system of power*... but, then again, I've also seen stuff like this in Marxist militance youth circles[^2], so...
+- [Victor Wooten 2016 Commencement Speaker for the University of Vermont Rubenstein School - YouTube](https://youtu.be/o_3u41KI57E?si=3i4HQeFIKnre1Vdk) — **BEAUTIFUL** speech/bass performance!!!
+- [Fear of Dark - Jacob Geller](https://www.youtube.com/watch?v=BcQ-8R2fiZg) — another Jacob Geller banger
+- [5 Self-Care Micro-Habits to be Unrecognisable in 2025 - Dr. Izzy Sealey](https://www.youtube.com/watch?v=cMGwOEIkQRo) — I'm plenty aware that there's this annoying trend of "X whatevers to Y" on YouTube, especially on the self-help/entrepreneur side of it, but this video surprised me! The first tip, which is "somatic pauses" is *great*: every now and then, take a moment, breathe, and feel your body, see what it is "telling" you, if it's too stiff or contracted etc. It's different from the usual "take a break now and then", because it tells you to *feel your body*, to not dissociate from it, to hear what it has to say about your mood. 
+- [The Alt-Right Playbook: The South Bank of the Rubicon (Innuendo Studios)](https://www.youtube.com/watch?v=0YFdwfNh5vs) — What does it take for us to admit that something unadmissible happened? In the end, it depends on what we (socially, not just individually) take to be *acceptable* — which is *always* being coopted by the right, pushing the Overton Window all the way towards accepting/relativizing things as absurd as a [*fucking Nazi salute from the (current) richest man on Earth*](https://www.youtube.com/watch?v=-VfYjPzj1Xw). 
+	- To make this written for posterity, such as to not allow this to fall out of memory: some idiots just take Musk's words of "giving his heart" to the audience; some other dumbasses are saying that "it's a *stim*", since, you know, he's Autistic, so *obviously* he must've been stimming... just fuck off. No wonder [Netanyahu backed up this bozo](https://www.brasildefato.com.br/2025/01/24/netanyahu-defends-musk-in-the-controversy-of-nazi-salute-a-dear-friend-of-israel): takes one to know one. 
+- [We need to talk about the complicated past of Smogon (cecilily)](https://www.youtube.com/watch?v=lPG6vIN8Kx8): The most famous forum of competitive Pokémon started out as a """joke""" Nazi forum. Well shit. It's an interesting video, because its intent isn't to dismantle Smogon as it is today (which is a very diverse and engaged community), but rather to start this painful conversation, which *must* be had, not just silently put aside, as it has been
+
+---
+
+# 2024
+## December 2024
+Studying Economics to try bridging the gap of my knowledge when I begin my Master's. I know there'll be things that I will need to learn anyways, but it's good to have less things on my plate.
+
+Also, I finished reading *Das Kapital I* from cover to cover!! Great feeling! Doesn't mean I understand it completely — it's a book I'll read and reread until I die —, but it does give me a more hollistic view of the book, and will help me with reading the others. It already helped me a lot with understanding when authors mention things from it. 
+
+**Interesting content of the month**:
+- [AI is not Designed for You - No Boilerplate](https://www.youtube.com/watch?v=6Lxk9NMeWHg)
+	- I already wrote about this hype phenomenon, in Portuguese, in [[Uma visão etnográfica da Faria Lima ─ Sobre o hype de mercado e o mercado do hype]] 
+	- Also, in Substack, same text, but... well, the same audience reach (none): [Sobre o hype de mercado e o mercado do hype ─ Visão Etnográfica da Faria Lima](https://nicholasvoltani.substack.com/p/sobre-o-hype-de-mercado-e-o-mercado)
+- [On the Heights of Despair - Horses](https://www.youtube.com/watch?v=DNGXsbZHMMI&list=WL&index=5&pp=gAQBiAQB)
+- [You Don’t Understand How Language Works - Fractal Philosophy](https://www.youtube.com/watch?v=wE8GTZ6YaZ8&list=WL&index=8&pp=gAQBiAQB)
+- [how does an indie game get made? - Noodle](https://www.youtube.com/watch?v=69Ukg2BqIk0) – note that "getting made" did not mean *getting funded/being published*. It's a very bittersweet and entertaining story about a game that never was
+- [Realism is Bad, Actually - Zoe Bee](https://www.youtube.com/watch?v=QNDgOSPCVhQ&list=LL&index=4&pp=gAQBiAQB)
+- [Monthly Review | The Social Dialectics of AI](https://monthlyreview.org/2024/11/01/the-social-dialectics-of-ai/?utm_source=pocket_saves) by Pietro Daniel Omodeo. Fascinating marxist read on AI, I'll definitely keep the book "*The Eye of the Master: A Social History of Artificial Intelligence*" in mind to read in the future
+
+## November 2024
+I was essentially busy due to studying Economics for next year's entrance exam, until... **I was accepted**! I'll begin my Master's in Economics in 2025!!! At least *something* came out right this year.
+
+Not much else going on, aside from studying, and rushing to finish reading Capital I until the end of the year. I stopped writing in Substack for a while, since there was no one reading it anyways. Why bother? I do have around 10 drafts to publish someday, though. Eventually.
+
+**Interesting content of the month** (a month late):
+- [I Gave My Goldfish $50,000 to Trade Stocks - Michael Reeves](https://www.youtube.com/watch?v=USKD3vPD6ZA&list=FL4FadyyYjS5Uwh3RBqxjQlw) 
+- [I built an Ai Comedy Bot, but he kept getting depressed - DougDoug](https://www.youtube.com/watch?v=V_fcD2ewqk4&list=FL4FadyyYjS5Uwh3RBqxjQlw) – this is perfection. We all love you, JokeBot!
+- [The Work of Art in the Age of Surveillance Capitalism - Brendan Morris](https://www.youtube.com/watch?v=aNKiBJJFXZI&list=FL4FadyyYjS5Uwh3RBqxjQlw) and his other videos, extremely creative videomaking
+
+## October 2024
+**Interesting content of the month**:
+- [Why billionaires should be ILLEGAL - The Market Exit](https://www.youtube.com/watch?v=cu1kYmRIJ4U): Elucidating of the scale of how rich our billionaire overlords truly are, and nice to see some concrete ideas on how to think about limits to wealth. Of course it's not a definitive answer, but it's a neat start for this whole debate.
+- [The Amazing Digital Circus](https://www.youtube.com/watch?v=HwAPLk_sQ3w&list=PLHovnlOusNLgvAbnxluXCVB3KLj8e4QB-): **An instant classic**. AMAZING animation, story, characters, humor! The Portuguese dub is also amazing, they're really hitting the nail on these ones! You can really tell this series is made with passion and expertise on the craft (animation, sound design, modelling, storytelling, dialogue, etc).
+	- [KAUFMO | The Amazing Digital Circus Short FanFilm - YouTube](https://www.youtube.com/watch?v=MbehSkrghQw) – even a fanfilm from a side character is a MASTERPIECE, what the f***!!!
+
+## September 2024
+This entire month was dedicated towards the Master's Degree entrance exam. The only chance that I do get in is if Economics students in Brazil are big time stupid[^3]. Nevertheless, it was worth the effort anyways: it gave me clarity enough that I was on the right track, both on my career choice and on my studying methodology. There was *plenty* of things that I didn't know in the test, which I left blank (since wrong answers "cancel out" correct answers, so there's naturally a bit of Game Theory in this), but there were many things that I *did* answer, and some questions that I *know* I got right – things that, a month and a half ago, I had absolutely no clue about! 
+
+So throughout the rest of 2024 and the whole of 2025, I'll be studying for 2026's entrance exam for a Master's in Economics ~~unless I change my mind, as always~~, and I'll double down on this Zettelkasten/Maps of Content style that I've adopted in this digital garden. It's just fun, and it *forces me* to understand stuff more deeply, to connect things with each other, to create insights serendipitously.
+
+**Interesting content of the month**:
+- [Facts About Beavers (its two minutes long whatve you got to lose) - Sage the Bad Naturalist](https://www.youtube.com/watch?v=KkWSgpUTcFM). **God I love this woman!!!** She can talk all about [wet rocks](https://www.youtube.com/watch?v=TKr3uIjmgCY) and I'm ALL IN for it!!
+- [Flux Review, Ep. 161](https://read.fluxcollective.org/p/161)... well it wasn't the best one, **but** they mention *en passant* the very-interesting-idea of [thermoclines of truth](https://roblog.co.uk/2021/04/thermocline-of-truth/), which *goddamnit* if it isn't completely pertinent! Really has to do with all my writing on São Paulo's ~~phony~~ version of Wall Street (i.e. Faria Lima) – do check it out [[Uma visão etnográfica da Faria Lima|here]], but it's in Portuguese. Fazer o quê, né, gringo :/ –, in particular with the whole superficiality thing so prevalent in these spaces, and the sensation that "truth" is *way* too relative for a "Materialist"'s taste... ok, I just mean for people who prefer to stress hypotheses over the cold counter of truth (ok, I really mean Historical Materialism, but not only), over dabbling over non-falsifiable claims much too prevalent in a supposedly "rational" place such as the corporate/business workspace.
+- [A World Not Desperate to Explain Itself - Quest Marker](https://www.youtube.com/watch?v=DrqxZ0X9vqs): Holy shit, the ending of this video is *beautiful*.
+
+## August 2024
+I'm basically hyperfocusing on studying Economics. I loved learning more about [[061 MOC Macroeconomia|Macroeconomics]], it was super fun and elucidating. [[062 MOC Microeconomia|Microeconomics]] was, ironically, not so fun; it seemed like too much of a stretch. (It got better though!)
+
+**Interesting content of the month**:
+- [I no longer aspire to have a career. - Katherout](https://www.youtube.com/watch?v=nKFypHcnGu4). Great video summarizing reasons of discontentment over a lifetime's worth of toiling away at alienating jobs. 
+- [Letting Go Of God - Julia Sweeney](https://www.youtube.com/watch?v=C74-f4ZV-ss). Simply **amazing** monologue of Julia Sweeney on her history of reconciling herself with religion and God – or rather, of her, ahem, *letting go of God*. Incredibly funny, and incredibly profound. While I was watching it, I literally thought "God, *this* is why the Internet is such a blessing: so that I can experience *this* incredible piece of art!". I still have to write about some of my very own bouts with God and religiousness/spirituality. Someday.
+
+## July 2024
+I'm currently talking with my most-likely-soon-to-be Master's advisor on Complex Systems, and so I'm reading his thesis on [[Kuramoto Model]]s on Complex Systems. I have plenty of ideas for papers/research... although not that many seem to have something to do with his thesis, yet. I'm also updating the MOC [[040 MOC Complex Systems]]. 
+
+...Yeah, that didn't last long. In a dramatic, but not too unexpected, turn of events, I've finally decided to chase a Political Economy Master's Degree! If I'm to study Marx and Hegel for real, instead of taking a mathematical detour then getting back to it afterwards, it's best for me to just get going towards it. I also finally conceded to getting to learn Economics for real, and it's being fun! I just have to learn Macroeconomics, Microeconomics and Brazilian Economics (and review Statistics, and brush up on Calculus problems) to attempt the [ANPEC exam](https://exame.anpec.org.br/index.php?r=site/index), in one and a half month. Here we go... (Se quiser checar como estou indo, [[060 MOC Economia]].)
+
+I also presented [Black Sheep (from the Scott Pilgrim movie)](https://www.youtube.com/watch?v=1xcSDYy3Dl4), on the drums, at my music school's recital, on July 15th ([Exchangeagram post](https://www.instagram.com/p/C9hxNY1OBgt/?img_index=1)). Modesty aside, I've made an **insane** amount of progress in these last 2 months, that are basically all the time that I've played drums at all (disregarding the 2 months that I've had classes in January/February, since I didn't practice at home at all). I was super nervous of getting something wrong and getting stuck in front of everyone... but, at the end, my performance was the most lively – aside from the school's founder, who sang I Will Always Love You, from Whitney Houston... yeah, can't compete with that! On to the next one soon.
+
+**Interesting content of the month:**
+- [PMG Responds to the Games Industry Layoffs - YouTube](https://www.youtube.com/watch?v=ld2xvbPpqcw): starting off with a great radicalized speech in the Games industry. A terrific quote from Quintin Smith, the journalist from People Make Games who speaks in this video:
+  > "... if you're only ever one bad acquisition away from being laid off, one bad CEO away from having your life changed dramatically in a moment, then you're in a class struggle." [(timestamp)](https://youtu.be/ld2xvbPpqcw?t=762)
+
+	This is true even for people outside the Games industry: you can work as hard as you want in your job and have all the praise from your higher-ups; if all it takes is one arbitrary decision to throw you into economic jeopardy, unable to pay for your basic needs, then you ARE working class (or a very stupid bourgeois, but even they can overcome these things quickly). 
+- [Nomos of the Earth - Original Instructions (Woodbine)](https://static1.squarespace.com/static/5e1e50b0df4035726d4b02f7/t/5e2fa46cd4520c015ca4c7aa/1580180591111/nomos-original-instructions.pdf): simply beautiful writing on "practical behavior" to deal with creating a better future, in a revolutionary fashion. Maybe I'll translate it to Portuguese soon, it deserves to be read by more people.
+
+## June 2024
+My plan for this month was to refactor a lot of my notes in my Obsidian (and, ergo, Digital Garden), starting from my [[011 MOC Capital|Marxism notes]]. I'm (re)reading through "Das Kapital I" (in Portuguese, of course) and refining/changing old notes and creating new ones where necessary. In the end, more things took the forefront, and this was postponed (again). 
+
+I also had a course on Freelance Translation, which was great! I began subtitling videos from the [Complexity Explorer](https://www.complexityexplorer.org/), which is something VERY humbling for me!! Becoming a member of the Santa Fe Institute is an impossible dream for me, a mere lowly Third-World-Country peasant; how dare I dream such heretical [reasonless dreams](https://en.wikipedia.org/wiki/The_Sleep_of_Reason_Produces_Monsters)? Regardless, be they futile or foreshadowing, through dreams and illusions my days drudge on. If *someone* from SFI would allow me to participate in one of their programs, you know, that'd be super neat... as if doing voluntary work (especially as a lowly foreigner etc etc) amounts to being worthy of any pity in America, as if! Well, worth a shot.
+
+Anyways, here are the videos that I've subtitled this month through [Amara](https://amara.org/volunteer/)(my babies!):
+- All 12 videos (1h48min) from the [Maximum Entropy Methods by Simon DeDeo](https://www.youtube.com/playlist?list=PLF0b3ThojznT3olRuplp5x41wUp_LZxHL) from Complexity Explorer (Santa Fe Institute): 
+	- Even a correction to the English subtitle, from anyone who wrote "[*unaudible*]"... [pathetic.jpg](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcontent.imageresizer.com%2Fimages%2Fmemes%2FPathetic-meme-10.jpg&f=1&nofb=1&ipt=16dcf5837f02edc68ec82d3b3d6a5e6b1eb876ff6b7c5b9d1cac06961913a37c&ipo=images)
+
+**Interesting content of the month:**
+- [Home-Cooked Software and Barefoot Developers (Maggie Appleton)](https://maggieappleton.com/home-cooked-software): an interesting analogy between "[barefoot doctors](https://en.wikipedia.org/wiki/Barefoot_doctor)" and software developers, and how we need more developers apt to create solutions for less general, more specific problems
+- [When to Design for Emergence (Kasey Klimes)](https://newsletter.rhizomerd.com/p/when-to-design-for-emergence): a very interesting take on designing for things/products/systems which are, so to say, "free from its creators' clutches"
+	- I wrote a bit about it in [[Design for Emergence]] etc. There's **a lot** that revolutionaries MUST learn from this idea – hell, even the whole marxist idea that "we can't predict how revolutions will turn out" is predicated on this idea: if it were known from the start, then there'd be little free will in its doing; it must be done *in situ*, so to say, it must come from its own material terms and hands and conditions and culture, etc. And for changes to take root, the ground must be fertile for it to stay put, or else things will go back to how they were: comfortably uncomfortable.
+- [Art Won't Save Us from Capitalism - Lily Alexandre](https://www.youtube.com/watch?v=0oTzg2R3RcY): a TERRIFIC video essay on the role of art within capitalism, and how it does – and doesn't – "change the world" effectively. GREAT meta-analysis as well. Some great further references from the video:
+	- [The Case Against Art? - Mitch Speed](https://www.dropbox.com/scl/fi/ovok773l545gars7nvxkk/The_Case_Against_Art.pdf?rlkey=j4h1eu1l1t8ase5vnj5eum4hv&e=1&dl=0)
+	- Pedagogia do Oprimido, do Paulo Freire... **as should be**! It's becoming harrowing for me to be Brazilian and having never read (one of the) most worldly-recognized Brazilian writer(s), who's cited by so many foreigners who didn't even read it in Freire's mother tongue, which is my own...
+	- > "As a cultural worker who belongs to an oppressed people, **my job is to make revolution irresistible**." (Toni Cade Bambara, [apud Alexandre](https://youtu.be/0oTzg2R3RcY?t=1808)) 
+
+Oh, and I got hyperfocused in Mario Superstar Baseball videos [from Dinger City](https://www.youtube.com/@DingerCity) on YouTube, thanks to [this video](https://www.youtube.com/watch?v=kUZ1QDOFX-k). Didn't like Dinger City at first, but it grew on me overtime. I also got addicted to Blinkman's [Stardew Valley series](https://www.youtube.com/watch?v=zJ-_GuWEujc&list=PLINxCwzOUQhZXwlAoY2qP6JBg860VhQFn&pp=iAQB).
+
+Also also, it seems I've found my Master's degree advisor. Let's see how it goes!
+
+## May 2024
+I enrolled in the [ICTP – SAIFR » Workshop on Dynamical Processes on Complex Networks](https://www.ictp-saifr.org/wdpcn2024/) in São Paulo. It was *fascinating*, and illuminated that I truly want to pursue some research in Complex Systems – the more interdisciplinary, the merrier! Even if I end up not doing research on it (as seems to be the harsh truth...), I do believe it is a paradigm revolution just in its infancy still.
+
+Speaking of research, I'm searching (**again**) for an advisor for my Master's degree. It's like banging my head against the wall, thankfully metaphorically: all professors seem to be full to the brim with ill-paid, nowhere-else-to-go-anyways post-graduates, and so there's no room and/or no scholarships available for me. [Oh Joy of Joys!](https://www.youtube.com/watch?v=n-sXlwV5xL8)
+
+I'm also hyperfocusing on Drums at the moment: I'll be performing [Black Sheep (from the Scott Pilgrim movie)](https://www.youtube.com/watch?v=1xcSDYy3Dl4) at the school I'm having lessons in, in July. Kinda challenging and *fast*, but *doable*, and extremely fun to play – especially [this part](https://youtu.be/ArkDWrHmmXI?t=83)!
+
+**Interesting content of the month:**
+- [Meatball Wiki: MeatballWiki](http://meatballwiki.org/): Very interesting example of a collaborative wiki. It's based on what they call [Barn Raising](http://meatballwiki.org/wiki/BarnRaising), which is their way of turning the usually anonymous (and, thus, "detached") way of collaborating on the Internet into a more personal and *social* matter. They do it by allowing for users to attach their opinions on the Wiki's posts right at the post's end, and by only keeping users *that share their names explicitly*.
+- [Maggie Appleton's Digital Garden](https://maggieappleton.com/): the most beautiful website I've had the pleasure to witness, in my entire life probably.
+
+## April 2024
+On April 1st, I officially left my job in an Agro Insurance company which sucked out my soul with a metaphorical straw. 
+
+I went back to my parents' house in the "countryside" of São Paulo, to have a break from São Paulo's urban pandemonium. I essentially took time to decompress and focus on my particular interests, in particular writing and putting up my Digital Garden with Quartz.
+
+I also got my Autism diagnosis, which was already expected but, now, official; I posted an [essay/manifesto/rant about it](https://medium.com/@nicholasvoltani/mas-voc%C3%AA-nem-parece-autista-1f943cd234c2) on Medium. Speaking of Medium, I also posted some poems, *quasi-post-festum*, for this year's [Escapril](https://www.instagram.com/p/C3-qBQlsNvu/).
+\[**250306**: Just adding in that I've posted my [Autism essay/manifesto/rant](https://nicholasvoltani.substack.com/p/but-you-dont-even-look-autistic) on Substack, where I've been writing for almost a year already.\]
+
+I began (again) my drums lessons (I began in January 2024, but stopped due to moving).
+## March 2024
+Just running around to deliver everything that was within my responsabilities in my job before officially quitting.
+
+## February 2024
+HUGE meltdown, which made it crystal clear that I should quit my job. Not much else, just in a soul-crushing job, away from friends, etc.
+## January 2024
+Huge letdowns from my Marxist comrades! Let's all sit down and read [Comrade: An Essay on Political Belonging, by Jodi Dean](https://www.amazon.com/Comrade-Political-Belonging-Jodi-Dean/dp/1788735013), why don't we!? 😍😍
+
+---
+# 2023
+Essentially a dead year, suffocated by my job. I attempted a Social Sciences course in the beginning of the year, but working a job and enrolling a course designed for young, non-working individuals... it was short-lived, and not worth my burning-out.
+
+The one gasp for air that I had was in November, when I attended the [ICTP – SAIFR » School on Mathematical Modeling and Governance](https://www.ictp-saifr.org/mmg2023/) in São Paulo, which was *phenomenal*! The most interesting papers related to the speakers' research were:
+- [Professor Hernán Solari's Lecture Notes for this event](https://drive.google.com/file/d/1_IJTcNrUBk2rJvvmn4kQ9E2t7aLa1jXp/view?usp=sharing). In particular the philosophical/epistemological part is just outstandingly interesting! Professor Solari is just an OUTSTANDINGLY GENIUS guy, the smartest person I've met, from the few emails that we've exchanged. Other papers of his that have captivated me are:
+	- [Science, Dualities and the Phenomenological Map | Foundations of Science](https://link.springer.com/article/10.1007/s10699-022-09850-4), that elucidate the processes of abstraction and "reconstruction" of ideas. In particular, it's essentially the very same process that Marxists talk about when it comes to abstractions of reality and "concrete totalities"; it's essentially the process through which we do Science, in general!
+	- [¿Crisis de la ciencia o crisis civilizatoria?](https://www.researchgate.net/profile/Hernan-Solari/publication/362989302_Crisis_de_la_ciencia_o_crisis_civilizatoria/links/63099abd1ddd447021102967/Crisis-de-la-ciencia-o-crisis-civilizatoria.pdf), in which it falls JUST THIS short from explicitly saying "Capitalism is destroying Science"
+	- His papers on Philosophy of Physics: [On the relation of free bodies, inertial sets and arbitrariness](https://arxiv.org/pdf/2002.08885) and [On the persistence of the ether as absolute space (Solari & Natiello)](https://www.researchgate.net/profile/Hernan-Solari/publication/339398909_On_the_persistence_of_the_ether_as_absolute_space/links/5eaff7f045851592d6b86a8b/On-the-persistence-of-the-ether-as-absolute-space.pdf) (both of which I should (re)read again)
+- [Winged promises: Exploring the discourse on transgenic mosquitoes in Brazil (Luiza Reis-Castro)](https://d1wqtxts1xzle7.cloudfront.net/64587902/reis13-transgenic-oxitec-social-libre.pdf?1601733224=&response-content-disposition=inline%3B+filename%3DWinged_promises_Exploring_the_discourse.pdf&Expires=1718073050&Signature=JQQwVc~vUjqYIjoakobH-L~Eqwerybjex9ED4jmE9LiInHxeeUXIskXgHBvUbbrKgWkkN2ZxgssRkGeASRWSuQCnj4bpK-c0INh1-mrej18CtK2LFKAaGumO4Vm3QbnA~Md8yLGI7aVGtJjCc~~bmRJ8wEBvJ8nnjqNTCatX7Vuowamb3BsSsFLY~jkOu3pFXg8Ejeq5H-8nSIwlzvVxwKzwXNbMPFiPOBc9GrmGBzKm0ywbUm6Ir7BXvcrsbLkoFk5X3Aa8ZXWsTDyfUzZdfRWzL3DZdHMM1~W8C5dBeuye7nK-sik3KeK-6JVvWtZchD~rAF4o9CBTKClpYP1Uvw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) and [Becoming Without- Making Transgenic Mosquitoes and Disease Control in Brazil (Luiza Reis-Castro)](https://watermark.silverchair.com/323reiscastro.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA3kwggN1BgkqhkiG9w0BBwagggNmMIIDYgIBADCCA1sGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMUJSutsZVXPGlDh17AgEQgIIDLL6TbukgWuPoHRzc7fAOOZVTOuzm9NpaC4a3eTgN1HKImto80wtwsk7_l96Wliq9VC1YJbPXk0UZmjhpFdVbSc5FS1ZlU_sgO2mFeVWznIV8mfIP7ZwLu-9QIwuZQqhdht-DgzFYWd92GpwO_R_oT8XYK8y9YqWynQKwOhK0huChSQ7Jhz2U3h5nA5Uje_UJ-_wSO26-XHY-Xf2bf_cF_z3-GK3_R6GxaWWaTx-mCW6rIxOauRstavteA4zq_wOVdqCyphjDtM_trLyj-3CaYS9Tq8CDMkZZ-tWpfEmdnTri3bxAQTyu1YifZ-I0ZNgUUz9grRozYtjh38-h2fYxPait9bbVy-MzumdtlELjN4P-N_2I9-jIF1Z95ovk7gp8ysoAZjo0UgLWZYZNdgfx4wCiATN9OaHzLSajsJWyDCRI6g0AW-DHnGakBeMCpWg-amYNhYUdVd3Zk6ZKMIfnS0UjPbFgFY4f5MKHLzmiZe61YvvBJImT884RBxTZ_5hgJNfIoJg72a36WvGj8aML__47lIYHs-JJrQOZnVlEFhRitTXP803mH42mzT2qaXuAZzgvODPrNTwUn938g2vImiQ9xKpCrKlxji50zk3REy5JG-qQZ115vSrLhMhadtvUcRdlGfRqwcq4NgQZ_z5Bfd21awGKfOD7sc7OmD3T6oBbCce6AL0m2MJk8ouMkp7d8eb9s4o7EiQOqoqMuO3FIaqyOjN4jFuMZSQOrmBADleyT5cdlhXT7PJL64ukncgSYUCfemeXq34fui6UM045zVfTKrDn_Lg2oyVcJ4hUvQvMZx0PqaPQ_GNzzztFV--vcR9CY4melKz6vx-gJ3C82Cx8D-UAuCGs0oyipe9BppPa6Zx8-lsri9wgEUWEtcH012xkvh0Hzcuat7BMC_qoIzPH8ces8pAEU_2mqjhJUo7amBVk9ly4Qt86NMybgy0SiRjA92GriHEcvI_MX9W9rLQq4OXMoDZ_zQ44qvGS_klqp6zvIo99-m5aHRzDXO_6VMRETU1HEthTriZmfcyUXqxW4z8uox3FH-Nu-NNkIn4KieNG7ccpxpYFHCcY). Luiza Reis-Castro is an Anthropologist, and performed an ethnographic research on the scientific enterprise of breeding genetically modified *Aedes aegypti* mosquitoes in the Northeast region of Brazil – a region so poor that, ironically or not (when it comes to mosquito proliferation), the city in which she resided **didn't even have piped water**! Talk about a labcoat version of Environmental Racism, to perform scientific research in a place so poor that it has no choice but to conform... the paper(s) talk better about this conundrum.
+- [The rock-paper-scissors game and the evolution of alternative male strategies (Sinervo & Lively)](http://149.156.165.8/ekol-ewol/Sinervo%20&%20Lively%201996%20-%20rock-paper-scissors.pdf): a BIOLOGICAL (non-human) example of a Rock-Paper-Scissors game, i.e. a system in which there are 3 strategies that form a dominance cycle (Rock < Paper < Scissors < Rock < $\dots$). Short and interesting!
+- The one-page long "paper" from Alvin Weinberg, [Science and Trans-Science](https://www.science.org/doi/pdf/10.1126/science.177.4045.211), which puts the discussion of the "limits of science" on the table. The creation of the [concept handle](https://notes.andymatuschak.org/z3b7sidNrEkNaY9qfGwZjwz) "trans-science" validates and crystallizes the influence that non-scientific people have, not in the scientific endeavor *per se*, but on a lateral, not-scientific-but-not-unscientific knowledge creation and, perhaps most important, governance and sociopolitical decisions. 
+
+[^1]: Not without its fair share of [[Imperialismo|imperialism]]'s influence, of course.
+[^2]: [[011 MOC Capital]], [[011a MOC Capital I]]. Hope it tells you on what side of the spectrum I am. Speaking of spectrum, shameless plug: ["But I don't even look autistic!"](https://nicholasvoltani.substack.com/p/but-you-dont-even-look-autistic).
+[^3]: **250603**: Looking in retrospect: yes, they are, apparently.

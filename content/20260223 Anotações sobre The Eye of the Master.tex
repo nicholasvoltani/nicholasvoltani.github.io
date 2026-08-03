@@ -1,0 +1,145 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[
+]{article}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={20260223 Anotações sobre The Eye of the Master},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{20260223 Anotações sobre The Eye of the Master}
+\author{}
+\date{2026-02-23}
+
+\begin{document}
+\maketitle
+
+up:: 099 MOC Anotações
+
+7
+
+\section{A invenção de máquinas depende do conhecimento da
+função/trabalho que ela
+substitui}\label{a-invenuxe7uxe3o-de-muxe1quinas-depende-do-conhecimento-da-funuxe7uxe3otrabalho-que-ela-substitui}
+
+\begin{quote}
+"When industrial machines such as looms and lathes were invented, in
+fact, it was not thanks to the solitary genius of an engineer but
+through the imitation of the collective diagram of labour: \emph{by
+capturing the patterns of hand movements and tools, the subdued
+creativity of workers' know-how, and turning them into mechanical
+artefacts}. Following this theory of invention, which was already shared
+by Smith, Babbage, and Marx in the nineteenth century, this book {[}The
+Eye of the Master{]} argues that the most sophisticated `intelligent'
+machines have also emerged by imitating the outline of the collective
+division of labour." (Pasquinelli, 2023, p. 6; grifo meu)
+\end{quote}
+
+Alan Turing, falando sobre a \emph{Automatic Computing Engine} (ACE),
+divide seus operadores em "mestres" e "servos":
+
+\begin{quote}
+"Its masters will plan out instruction tables for it, thinking up deeper
+and deeper ways of using it. Its servants will feed it with cards as it
+calls for them. They will put right any parts that go wrong. They will
+assemble data that it requires. In fact the servants will take the place
+of limbs." (\emph{apud} Pasquinelli, p. 7)
+\end{quote}
+
+Contudo, enquanto o trabalho dos servos é passível de substituição,
+também o trabalho \emph{dos mestres} pode sê-lo:
+
+\begin{quote}
+"The masters are liable to get replaced because{[},{]} as soon as any
+technique becomes at all stereotyped{[},{]} it becomes possible to
+devise a system of instruction tables which will enable the electronic
+computer to do it for itself. It may happen however that the masters
+will refuse to do this. They may be unwilling to let their jobs be
+stolen from them in this way. In that case{[},{]} \emph{they would
+surround the whole of their work with mystery and make excuses, couched
+in well chosen gibberish}, whenever any dangerous suggestions were
+made." (Ibid.)
+\end{quote}
+
+É em sentido análogo que Marx fala que A maquinaria tem caráter
+revolucionário, pois
+
+\begin{quote}
+"A grande indústria rasgou o véu que ocultava aos homens seu próprio
+processo social de produção e que convertia os diversos ramos da
+produção, que se haviam particularizado de modo natural-espontâneo, em
+enigmas uns em relação aos outros, e inclusive para o iniciado em cada
+um desses ramos. O princípio da grande indústria, a saber, o de
+dissolver cada processo de produção propriamente dito em seus elementos
+constitutivos, e, antes de tudo, fazê-lo sem nenhuma consideração para
+com a mão humana, criou a mais moderna ciência da tecnologia." (Marx,
+2017, p. 556)"
+\end{quote}
+
+Ao que conclui que "A indústria moderna jamais considera nem trata como
+definitiva a forma existente de um processo de produção. Sua base
+técnica é, por isso, revolucionária, ao passo que a de todos os modos de
+produção anteriores era essencialmente conservadora." {[}@Marx2017 p.
+557{]}
+
+\section{Algoritmos como processos de
+trabalho}\label{algoritmos-como-processos-de-trabalho}
+
+\begin{quote}
+"{[}Donald{]} Knuth observed {[}in his article \emph{Ancient Babylonian
+Algorithms}, 1972{]} that mathematical formulas that today would be
+defined as algebraic or analytical were already described by the
+Babylonians through step-by-step procedures, namely algorithms. These
+procedures were, of course, formulated in the words of the common
+language and not yet in the symbolic metalanguage of mathematics.
+Knuth's research confirms the hypothesis that \emph{procedure-based
+methods} (what he called a `machine language') \emph{predated the
+consolidation of mathematics as a metalanguage of symbolic
+representations} {[}...{]}" {[}@Pasquinelli2022 p. 29; grifo meu{]}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{Referências}\label{referuxeancias}
+
+\end{document}

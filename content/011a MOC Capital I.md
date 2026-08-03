@@ -1,0 +1,112 @@
+---
+date: 2022-07-23
+tags:
+  - moc 
+---
+up:: [[011 MOC Capital]]
+
+related:: [[071a MOC Realismo Crítico]] // [[070 MOC Philosophy]]
+
+> "A economia política clássica chega muito próximo à verdadeira relação das coisas, porém sem formulá-la conscientemente. Ela não poderá fazê-lo enquanto estiver coberta com sua pele burguesa." (MARX, p. 612)
+
+---
+# Anotações
+- [[Fichamento Capital I Cap 11 - Cooperação]]
+- [[Fichamento Capital I Cap 12 - Manufatura]]
+- [[Fichamento Capital I Cap 13 - Maquinaria e Grande Indústria]]
+- [[20250908 Anotações EconPol Cap 1]]
+	- [A importância da categoria valor de uso na teoria de Marx (Marcelo Carcanholo)](https://revistas.pucsp.br/rpe/article/download/11757/8478)
+	- [A origem social do valor: valor-de-uso e valor-de-troca numa perspectiva dialética (Gutemberg Miranda)](https://seer.ufu.br/index.php/primordium/issue/download/2233/470#page=57)
+- [[20250915 Anotações EconPol]]
+- [[20251123 Anotações sobre taxa de mais-valor, intensidade etc]]
+- [[20251129 Anotações sobre trabalho em Marx e Lukács]]
+
+---
+
+## Tópicos
+- [[Mercadoria]]
+- [[Valor de Uso]]
+- [[valor]]
+	- [[Valor de Troca]]
+	- [[O valor de uma mercadoria é um fenômeno emergente]]
+- [[Valor Relativo]]
+- [[Valor Equivalente]]
+	- [[Dinheiro]]
+		- [[Medida de Valor]]
+		- [[Padrão de Preços]]
+- [[Fetichismo]]
+	- [[Fetichismo da Mercadoria]]
+	- [[Fetichismo do Dinheiro]]
+- [[Forças Produtivas]]
+	- [[Forças produtivas não se restringem a fatores de produção]]
+- [[Ciclo M─D─M]]
+- [[Ciclo D─M─D]]
+- [[Ciclo D─M─D']]
+- [[Forma-Mercadoria]]
+- [[Forma-Dinheiro]]
+- [[Força de Trabalho]]
+- ~~[[O Capital, I ─ Cap 5, O processo de trabalho e o processo de valorização]]~~
+	- [[processo de produção capitalista]]
+		- [[Processo de Trabalho]]
+			- [[Trabalho]]
+				- [[Trabalho Produtivo]]
+				- [[O trabalho em si não é uma mercadoria]]
+			- [[Metabolismo social]]
+			- [[meios de produção]]
+			- [[Matéria-Prima]]
+		- [[Processo de Valorização]]
+- ~~[[O Capital, I ─ Cap 6, Capital constante e capital variável]]~~
+	- [[capital]]
+		- [[Caráter duplo do trabalho]]
+		- [[Capital Constante]]
+		- [[Capital Variável]]
+	- [[Capital Circulante]]
+	- [[Capital Fixo]]
+	- [[Depreciação]]
+- ~~[[O Capital, I ─ Cap 8, A jornada de trabalho]]~~
+	- [[Jornada de Trabalho]]
+		- [[Tempo de Trabalho Socialmente Necessário]]
+			- [[Valor da Força de Trabalho]]
+		- [[Tempo Excedente de Trabalho]]
+			- [[Mais-Valor]]
+- [[O Capital, I ─ Cap 9, Taxa e massa de mais-valia]]
+	- [[Taxa de mais-valor]]
+	- [[Massa de mais-valor]]
+- ~~[[O Capital, I ─ Cap 10, O conceito de mais-valia relativa]]~~
+	- [[Mais-Valor Absoluto]]
+	- [[Mais-Valor Relativo]]
+	- [[Tempo de Trabalho Socialmente Necessário]]
+- ~~[[O Capital, I ─ Cap 11, Cooperação]]~~
+	- [[Cooperação]]
+- ~~[[O Capital, I ─ Cap 12, Divisão do Trabalho e Manufatura]]~~
+	- [[Manufatura]]
+	- [[Divisão Social do Trabalho]]
+	- [[Surgimento da alienação]]
+- ~~[[O Capital, I ─ Cap 13, Maquinaria e Grande Indústria]]~~
+	- [[Maquinaria]]
+- [[Preço da Força de Trabalho]]
+- [[trabalho assalariado]]
+- [[Salário]]
+	- [[O salário como forma mistificada do valor da força de trabalho]]
+- [[Salário por Tempo]]
+- [[Salário por peça]]
+	- [[Fichamento Capital I Cap 19 - Salário por peça]]	
+- [[A legalidade de horas extras não necessariamente é uma reivindicação proletária]]
+- [[O Capital, I ─ Cap 21, 22 ─ Sobre a reprodução do capital]]
+	- [[Reprodução Simples do Capital]]
+	- [[Reprodução Ampliada do Capital]]
+	- [[Conversão das 'leis de propriedade' em 'leis de apropriação' do Capital]]
+- [[O Capital, I ─ Cap 23 - A Lei Geral da Acumulação Capitalista]]
+	- [[Composição Técnica do Capital]] // [[Composição de Valor do Capital]]
+		- [[Composição Orgânica do Capital]]
+	- [[Lei Geral da Acumulação Capitalista]]
+		- [[A acumulação de capital afeta a demanda por força de trabalho e, portanto, induz a variação dos salários]]
+	- [[Concentração de Capital]]
+	- [[Centralização de Capital]]
+	- [[Concorrência (Marx)]]
+	- [[Exército Industrial de Reserva (Sobrepopulação Relativa)]]
+
+## Referências
+- MARX, Karl. **O Capital. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
+- [Leituras d'O Capital (UFPR) - Livro I](https://www.youtube.com/@leiturasdocapital/videos)
+- MEDEIROS, João Leonardo; BARRETO, Eduardo Sá (Org.). **Para que leiam O capital: interpretações sobre o Livro I**. São Paulo, Usina Editorial, 2021.

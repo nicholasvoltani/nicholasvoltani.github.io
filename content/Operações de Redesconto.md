@@ -1,0 +1,20 @@
+---
+date: "2024-08-05"
+tags:
+  - economics
+aliases:
+  - Taxa de Redesconto
+  - Taxas de Redesconto
+---
+
+up:: [[Política Monetária]]
+
+São operações de empréstimo feitos pelo [[Banco Central]] a [[Banco Comercial|Bancos Comerciais]]. A taxa de crédito pela qual o Bacen oferece tais empréstimos aos bancos comerciais são as *taxas de redesconto*.
+
+As taxas de redesconto acabam sendo um indicador das taxas interbancárias de empréstimo, posto que ditam quando as atividades de crédito podem se acentuar (taxa de redesconto mais baixa que [[Taxa de Juros|Taxas de Juros]] de mercado) ou quando é mais cabível reduzi-las (taxa de redesconto mais alta que taxas de juros de mercado).
+
+No Brasil, a taxa de redesconto é essencialmente a taxa SELIC.
+
+---
+### References
+- **LOPES**, Luiz Martins et al. Manual de macroeconomia: nível básico e nível intermediário. 1997.

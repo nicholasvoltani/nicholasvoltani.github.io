@@ -1,0 +1,111 @@
+\documentclass[12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+\usepackage{setspace}
+\onehalfspacing
+
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{mathtools}
+
+\numberwithin{equation}{section}
+
+\theoremstyle{plain}
+\newtheorem{theorem}{Teorema}[section]
+\newtheorem{proposition}[theorem]{Proposição}
+\newtheorem{lemma}[theorem]{Lema}
+\newtheorem{corollary}[theorem]{Corolário}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definição}
+\newtheorem{example}[theorem]{Exemplo}
+\newtheorem{exercise}{Exercício}[section]
+
+\theoremstyle{remark}
+\newtheorem*{remark}{Observação}
+
+\usepackage{hyperref}
+\usepackage{csquotes}
+
+\usepackage[
+    backend=biber,
+    style=authoryear,
+    maxcitenames=2
+]{biblatex}
+
+\addbibresource{/mnt/c/Users/nicho/Documents/nicholasvoltani.github.io/bibliography.bib}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\pref}{\succeq}
+\newcommand{\strictpref}{\succ}
+\newcommand{\indiff}{\sim}
+
+% ------------------------------------------------
+% Title (fill manually)
+% ------------------------------------------------
+\title{}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\hypertarget{cobb-douglas-para-l-bens}{%
+\section{\texorpdfstring{Cobb-Douglas para \(L\)
+bens}{Cobb-Douglas para L bens}}\label{cobb-douglas-para-l-bens}}
+
+A Função de Cobb-Douglas geral tem a forma \[
+U(x_{1},\dots,x_{L}) = \prod \limits_{k=1}^{L} x_{k}^{\alpha_{k}}
+\] Suponhamos que ela já seja normalizada, de tal forma que
+\(\sum_{k} \alpha_{k} = 1\) (com \(\alpha_{k} > 0\)).
+
+Tenha-se uma Restrição Orçamentária da forma
+\(\braket{ p | x } \leq w\).
+
+Busque-se uma \textit{solução interior}. Então o lagrangiano associado é
+\[
+\mathcal{L}(x, p, w) = \prod \limits_{k=1}^{L} x_{k}^{\alpha_{k}} + \lambda \left(\braket{ p | x } - w\right)
+\]
+
+As condições de primeira ordem dão \[
+\begin{cases}
+\forall k: \frac{\alpha_{k}}{x_{k}} \prod \limits_{k=1}^{L} x_{k}^{\alpha_{k}}  + \lambda p_{k} &= 0\\
+\sum \limits_{k} p_{k} x_{k} &= w
+\end{cases}
+\]
+
+Das primeiras equações, tem-se que, para quaisquer \(i, j\), vale \[
+\frac{\alpha_{i}}{p_{i} x_{i}} = \frac{\alpha_{j}}{p_{j} x_{j}}
+\]
+
+Da restrição, obtém-se que, para qualquer \(i\) \[
+\begin{align}
+w = \sum\limits_{k} \frac{p_{k} x_{k}}{\alpha_{k}} \alpha_{k} &= \frac{p_{i} x_{i}}{\alpha_{i}} \sum \limits_{k} \alpha_{k}  \\
+&= \frac{p_{i} x_{i}}{\alpha_{i}}
+\end{align}
+\] Portanto, para todo \(i\) vale \[
+x_{i} = \alpha_{i} \frac{w}{p_{i}}
+\] Equivalentemente, vale o resultado esperado para uma utilidade
+Cobb-Douglas: \[
+\alpha_{i} = \frac{p_{i} x_{i}}{w}
+\] Ou seja, os argumentos \(\alpha_{i}\) dão as \textit{proporções} de
+cada bem \(i\) no dispêndio da renda \(w\){[}\^{}1{]}.
+
+\hypertarget{matriz-de-slutsky-para-utilidades-e-demandas-conhecidas}{%
+\section{Matriz de Slutsky para utilidades (e demandas)
+conhecidas}\label{matriz-de-slutsky-para-utilidades-e-demandas-conhecidas}}
+
+\hypertarget{cobb-douglas}{%
+\subsection{Cobb-Douglas}\label{cobb-douglas}}
+
+\hypertarget{ces}{%
+\subsection{CES (?)}\label{ces}}
+
+\printbibliography
+
+\end{document}

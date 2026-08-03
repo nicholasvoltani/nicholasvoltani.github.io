@@ -1,0 +1,1 @@
+[@Marx2017, p. 446-7; grifo meu]

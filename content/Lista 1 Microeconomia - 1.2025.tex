@@ -1,0 +1,60 @@
+\documentclass[12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+\usepackage{setspace}
+\onehalfspacing
+
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{mathtools}
+
+\numberwithin{equation}{section}
+
+\theoremstyle{plain}
+\newtheorem{theorem}{Teorema}[section]
+\newtheorem{proposition}[theorem]{Proposição}
+\newtheorem{lemma}[theorem]{Lema}
+\newtheorem{corollary}[theorem]{Corolário}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definição}
+\newtheorem{example}[theorem]{Exemplo}
+\newtheorem{exercise}{Exercício}[section]
+
+\theoremstyle{remark}
+\newtheorem*{remark}{Observação}
+
+\usepackage{hyperref}
+\usepackage{csquotes}
+
+\usepackage[
+    backend=biber,
+    style=authoryear,
+    maxcitenames=2
+]{biblatex}
+
+\addbibresource{/mnt/c/Users/nicho/Documents/nicholasvoltani.github.io/bibliography.bib}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\pref}{\succeq}
+\newcommand{\strictpref}{\succ}
+\newcommand{\indiff}{\sim}
+
+% ------------------------------------------------
+% Title (fill manually)
+% ------------------------------------------------
+\title{}
+\author{}
+\date{}
+
+\begin{document}
+
+
+
+\printbibliography
+
+\end{document}

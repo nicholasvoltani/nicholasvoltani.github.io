@@ -1,0 +1,32 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.links.filter(!value.asFile().isTruthy())
+    - and:
+        - '!file.inFolder("Attachments")'
+        - '!file.inFolder("Bibliography")'
+        - '!file.inFolder("Excalidraw")'
+        - '!file.inFolder("Templates")'
+formulas:
+  Uncreated File: |
+    file.links.filter(!value.asFile().isTruthy())
+properties:
+  file.name:
+    displayName: "Appears in:"
+views:
+  - type: table
+    name: Table
+    order:
+      - formula.Uncreated File
+      - date
+      - file.name
+    sort:
+      - property: date
+        direction: DESC
+      - property: formula.Uncreated File
+        direction: DESC
+    columnSize:
+      formula.Uncreated File: 568
+      note.date: 129
+      file.name: 140
+    rowHeight: medium
