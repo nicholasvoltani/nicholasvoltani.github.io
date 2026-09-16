@@ -3,6 +3,7 @@ date: 2024-11-12
 tags:
   - marxism
 aliases:
+  - valor da força de trabalho
 ---
 
 up:: [[valor]]

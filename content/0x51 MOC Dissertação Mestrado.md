@@ -13,6 +13,25 @@ up:: [[0x5 MOC Mestrado]] // [[010 MOC Marxism]] // [[071a MOC Realismo Crítico
 > 
 > Dadas a intensidade e a força produtiva do trabalho, a parte da jornada social de trabalho necessária para a produção material será tanto mais curta e, portanto, tanto mais longa a parcela de tempo disponível para a livre atividade intelectual e social dos indivíduos[,] quanto mais equitativamente o trabalho for distribuído entre todos os membros capazes da sociedade e quanto menos uma camada social puder esquivar-se da necessidade natural do trabalho, lançando-a sobre os ombros de outra camada. O limite absoluto para a redução da jornada de trabalho é, nesse sentido, a generalização do trabalho. Na sociedade capitalista, produz-se tempo livre para uma classe transformando todo o tempo de vida das massas em tempo de trabalho." [@Marx2017a, p. 597, grifo meu]
 
+O tema da minha dissertação de mestrado se trata sobre o [[Postulado de Khazzoom-Brookes]]/[[Paradoxo de Jevons]] e uma crítica ontológica deste conceito.
+
+# [[0x51a MOC Revisão de Literatura Rebound-Backfire Effect]]
+
+# Textos menos mal-acabados/mais bem-acabados
+- [[Mercadoria-Energia]]
+	- [[Esboço de capital sobre mercadoria-energia como capital circulante]]
+		- [[20260527 Anotações sobre mercadoria-energia e aceleração de produção de capital]]
+		- [[20260607 Mercadoria-energia e seu papel no processo de produção do capital]]
+- Sobre [[Produtividade do Trabalho]], [[Intensidade do Trabalho]] e [[Eficiência (Marx)]]
+
+# Capítulos
+- [[Dissertação - Capítulo sobre efeito rebound]]
+	- [[20260831 Anotações capítulo 1]]
+	- [[20260902 Anotações consumo-produção energéticos]]
+- [[Dissertação - Capítulo-interlúdio sobre crítica ontológica]]
+- [[Dissertação - Capítulo sobre produção de capital]]
+
+---
 ## Anotações
 - [[20250928 Anotações Brookes 1990]]
 - [[20251001 Anotações Brookes 2000]]
@@ -21,22 +40,8 @@ up:: [[0x5 MOC Mestrado]] // [[010 MOC Marxism]] // [[071a MOC Realismo Crítico
 - [[20260513 Conversa Eduardo]]
 - [[20260709 Conversa Eduardo]]
 - [[20260715 Brainstorm sobre trabalho Carcanholo]]
+- [[20260811 Conversa Eduardo]]
 
----
-
-
-O tema da minha dissertação de mestrado se trata sobre o [[Postulado de Khazzoom-Brookes]]/[[Paradoxo de Jevons]] e uma crítica marxista deste conceito.
-
-# [[0x51a Revisão de Literatura Rebound-Backfire Effect]]
-
-# Textos menos mal-acabados/mais bem-acabados
-- [[Mercadoria-Energia]]
-	- [[Esboço de capital sobre mercadoria-energia como capital circulante]]
-		- [[20260527 Anotações sobre mercadoria-energia e aceleração de produção de capital]]
-		- [[20260607 Mercadoria-energia e seu papel no processo de produção do capital]]
-- Sobre [[Produtividade do Trabalho]], [[Intensidade do Trabalho]] e [[Eficiência (Marx)]]
-	- $(\star)$ [[Efeitos da produtividade do trabalho, intensidade do trabalho e eficiência dos meios de produção sobre a produção de valor]]
-		- [[Estudos sobre produtividade, intensidade e eficiência no processo de produção capitalista]]
 
 
 %%

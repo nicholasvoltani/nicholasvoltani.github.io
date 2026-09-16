@@ -1,9 +1,10 @@
 ---
-date: "2026-07-07"
+date: 2026-07-07
 tags:
   - daily
 draft: "false"
 aliases:
+  - Estudos sobre produtividade
 ---
 
 up:: [[011a MOC Capital I]]
@@ -23,12 +24,12 @@ Diferencia entre a *produção* da [[Força de Trabalho]] e a *reprodução* de 
 Analisamos aqui o fenômeno em sua "pureza", abstraindo de possíveis aumentos de tempo excedente mediante diminuições indevidas do tempo necessário, por meio das quais haveria "reprodução atrofiada de sua força de trabalho".[^1] 
 > "Partindo-se desse pressuposto, o tempo de trabalho necessário para a produção da força de trabalho ou para a reprodução de seu valor pode ser reduzido, não fazendo com que o salário do trabalhador caia abaixo do valor de sua força de trabalho, mas apenas na medida em que haja uma queda desse valor." [@Marx2017, p. 389]
 
-O valor da força de trabalho é definido pelo valor dos meios de subsistência necessários — i.e. [[Mercadoria|mercadorias]] — para a produção da força de trabalho.
+O valor da força de trabalho é definido pelo valor dos meios de subsistência necessários — i.e. [[Mercadoria|mercadorias]] — para a (re)produção da força de trabalho.
 >" ...a totalidade dos meios necessários de subsistência compõe-se de várias mercadorias, cada uma delas o produto de uma indústria distinta, e o valor de cada uma dessas mercadorias constitui uma alíquota do valor da força de trabalho. Tal valor diminui com o tempo de trabalho necessário para sua reprodução, cuja redução total é igual à soma de suas reduções em cada um dos ramos particulares da produção." [@Marx2017, p. 390]
 
 ## [Aumento das] Forças produtivas
 Tais quedas de valores produzidos requerem "uma elevação da [[Forças Produtivas|força produtiva]] do trabalho" [@Marx2017, p. 389]. 
-> "Por elevação da força produtiva do trabalho entendemos precisamente uma alteração no processo de trabalho por meio da qual o tempo de trabalho socialmente necessário para a produção de uma mercadoria é reduzido, de modo que uma quantidade menor de trabalho é dotada da força para produzir uma quantidade maior de valor de uso." [@Marx2017, p. 389]
+> "Por elevação da força produtiva do trabalho entendemos precisamente uma alteração no processo de trabalho por meio da qual o tempo de trabalho socialmente necessário para a produção de uma mercadoria é reduzido, de modo que *uma quantidade menor de trabalho é dotada da força para produzir uma quantidade maior de valor de uso*." [@Marx2017, p. 389, grifo meu]
 
 Dessa forma, a fixação da jornada de trabalho torna-se um obstáculo à produção crescente de [[Mais-Valor|mais-valor]], sendo necessário, portanto, *reduzir o tempo necessário da produção*. 
 > "...para a produção de mais-valor por meio da transformação do trabalho necessário em mais trabalho[,] é absolutamente insuficiente que o capital se apodere do processo de trabalho tal como ele foi historicamente herdado ou tal como ele já existe, limitando-se a prolongar a sua duração. Para aumentar a produtividade do trabalho, reduzir o valor da força de trabalho por meio da elevação da força produtiva do trabalho e, assim, encurtar parte da jornada de trabalho necessária para a reprodução desse valor, ele tem de revolucionar as condições técnicas e sociais do processo de trabalho[;] portanto, revolucionar o próprio modo de produção." [@Marx2017, p. 390]
@@ -41,12 +42,12 @@ Como o valor da força de trabalho depende do valor das mercadorias que a compõ
 
 ## Exemplo de Marx
 ### Abstraindo de tempo necessário/excedente
-Suponhamos que as condições médias na produção de alguma dada mercadoria sejam [@Marx2017, p. 391] :
+Suponhamos que as condições ***médias*** na produção de alguma dada mercadoria sejam [@Marx2017, p. 391] :
 - $1$h de [[Trabalho Abstrato|trabalho (abstrato)]] = $6$ *pence*/$\frac{1}{2}$ sh.[^2]
 - Jornada de trabalho $T=12$h 
 	- *Ergo*, $=6$ sh. (= $72$ *pence*)
 - Quantidade de mercadorias produzidas *nessas $T=12$ horas*: $N=12$
-- "valor dos meios de produção, matéria-prima etc. gastos em cada peça" $c=6$ *pence*
+- "valor dos meios de produção, matéria-prima etc. gastos em cada peça" $c=6$ *pence* por mercadoria produzida
 	- $12$ mercadorias = $6$ sh. ($72$ *pence*) em meios de produção
 
 Expliquemos as unidades das variáveis deste problema como um físico (minimamente competente) o faria. Falaremos dos **valores por peça**, denotados com "$-$" superscrito. Teremos então
@@ -58,40 +59,49 @@ $$
 \end{cases}
 $$
 
-Ou seja, originalmente temos que o valor de cada mercadoria seria
+Ou seja, originalmente temos que o "valor *de cada mercadoria*" — ou "valor individual", doravante chamado de **valor unitário** para evitar aquela expressão problemática — seria
 $$
-\bar{c} + \bar{v}_{0} = \frac{12\ \text{pence}}{12\ \text{peças}} = 1\ \frac{\text{sh.}}{\text{peça}}
+\bar{c} + \bar{v}_{0} = \frac{12\ \text{pence}}{\text{peça}} = 1\ \frac{\text{sh.}}{\text{peça}}
 $$
+Ou, melhor dito, o valor de $12$ sh. se divide em $12$ mercadorias, o que *aparece* como se cada mercadoria "valesse $1$ sh.".
 
-> "Agora, suponhamos que um capitalista consiga duplicar a força produtiva do trabalho e, desse modo, produzir, durante as mesmas $12$ horas de trabalho, $24$ peças dessa mercadoria, em vez de $12$. Permanecendo inalterado o valor dos meios de produção, o valor de cada mercadoria cai agora para $9$ *pence*, sendo $6$ *pence* pelo valor dos meios de produção e $3$ *pence* pelo valor novo agregado pelo último trabalho." [@Marx2017, p. 391]
+Pensemos agora num capital **excepcionalmente produtivo**:
+> "Agora, suponhamos que um capitalista consiga duplicar a força produtiva do trabalho e, desse modo, produzir, durante as mesmas $12$ horas de trabalho, $24$ peças dessa mercadoria, em vez de $12$. Permanecendo inalterado o valor dos meios de produção, o valor *de cada mercadoria* cai agora para $9$ *pence*, sendo $6$ *pence* pelo valor dos meios de produção e $3$ *pence* pelo valor novo agregado pelo último trabalho." [@Marx2017, p. 391, grifo meu]
 
 %%Lembrando que Marx chama "aumentar a força produtiva" de "uma alteração no processo de trabalho por meio da qual o tempo de trabalho socialmente necessário para a produção de uma mercadoria é reduzido" [@Marx2017, p. 389], então aqui estamos sempre falando de valores enquanto quantidades *sociais*, i.e. são os valores que os capitalistas, por assim dizer, "veem no mercado". Ele continua:%%
 
-Isso se dá porque, embora $\bar{c}$ se mantenha constante, agora o tanto que o trabalho vivo se repartirá em cada peça se alterará:
+Por notação: chame-se este fator multiplicativo das forças produtivas de $p$. Logo, este capital excepcionalmente produtivo produz $pN > N$ mercadorias.
+
+Isso se dá porque, embora $\bar{c}$ se mantenha constante, agora o tanto que o trabalho **vivo** se repartirá em cada peça se alterará:
 $$
 \begin{align*}
 \bar{v}_{f} &= \frac{6\ \frac{\text{pence}}{\text{hora}} \cdot 12\ \text{horas}}{24\ \text{peças}} =  \frac{6\ \text{sh.}}{24\ \text{peças}} = \frac{1}{4}\ \frac{\text{sh.}}{\text{peça}} \\
 &= 3\ \frac{\text{pence}}{peça}
 \end{align*}
 $$
-Portanto, o **valor por peça**, com esta força produtiva duplicada, será
+Portanto, o **valor unitário**, com esta força produtiva duplicada, será
 $$
 \bar{c} + \bar{v}_{f} = (6 + 3)\ \frac{\text{pence}}{peça} = 9\ \frac{\text{pence}}{peça}
 $$
 
 Estamos focando aqui sobre a *produção maior de produtos*; o trabalho vivo reparte-se em uma quantidade maior de [[Valor de Uso|valores de uso]]. 
 
-Aqui, porém, surge uma discrepância entre o valor que foi *despendido* pelo capitalista mais produtivo — seu "valor individual" — e o valor *pelo qual ele vende* — o "valor social". É por isso que Marx diz:
-> "O valor *individual* dessa mercadoria se encontra, agora, abaixo de seu valor [unitário] social, isto é, ela *custa menos tempo de trabalho* do que a grande quantidade do mesmo artigo produzida em *condições sociais médias*. *Cada peça* custa, *em média*, $1$ xelim ou representa $2$ horas de trabalho social; sob o modo alterado de produção, ela [uma mercadoria individual] custa apenas $9$ *pence*, ou contém apenas $1$ hora e meia de trabalho. Mas o valor *efetivo* de uma mercadoria não é seu valor individual, mas seu valor *social*, isto é, ele não é medido pelo tempo de trabalho que ela de fato custa ao produtor em cada caso singular, mas pelo tempo de trabalho socialmente requerido para sua produção." [@Marx2017, p. 391-2, grifo meu]
+Aqui, porém, surge uma discrepância entre o valor *unitário* deste capitalista mais produtivo — seu "valor individual" — e o valor *pelo qual ele vende* — o "valor social". É por isso que Marx diz:
+> "O valor *individual* dessa mercadoria se encontra, agora, abaixo de seu valor [unitário] social, isto é, ela *custa menos tempo de trabalho* do que a grande quantidade do mesmo artigo produzida em *condições sociais médias*. *Cada peça* custa, *em média*, $1$ xelim ou representa $2$ horas de trabalho social; sob o modo alterado de produção, ela [uma mercadoria individual] custa apenas $9$ *pence*, ou contém apenas $1$ hora e meia de trabalho. Mas o valor *efetivo* de uma mercadoria não é seu valor individual, mas seu valor *social*, isto é, ele *não* é medido pelo tempo de trabalho que ela *de fato custa ao produtor em cada caso singular*, mas pelo tempo de trabalho *socialmente requerido* para sua produção." [@Marx2017, p. 391-2, grifo meu]
 
 Dessa forma, como o valor de cada mercadoria *é seu valor social* — ao ponto que, em verdade, é redundante dizer "valor social" —, cada mercadoria vende por $9$ *pence*, embora custe a este capitalista somente $6$ *pence*. 
 
 Note-se que o produto total de valor médio, em uma jornada de trabalho de $T=12$h, é de $12$ sh., que reparte-se em $6$ sh. que foi transferido ao produto pelos [[meios de produção]] e $6$ sh. que foi produzido pelo trabalho. 
 
-O capital mais produtivo também despenderá/transferirá $6$ sh. no/ao produto final, e também despenderá $6$ sh. nas $12$h de trabalho, porém venderá o dobro de mercadorias que a média, portanto obtendo $12$ sh. em sua venda. Portanto, seu produto de valor se reparte como
+%%O capital mais produtivo também despenderá/transferirá $6$ sh. no/ao produto final, e também despenderá $6$ sh. nas $12$h de trabalho, porém venderá o dobro de mercadorias que a média, portanto obtendo $12$ sh. em sua venda. Portanto, seu produto de valor se reparte como
 - $6$ sh. em meios de produção
 - $6$ sh. por $12$h de trabalho
-- $12$ sh. obtido a mais
+- $12$ sh. obtido a mais%%
+
+Este capital excepcional, porém, tem produto de valor — de $24$ sh. — que se divide da seguinte forma:
+ - $\bar{c}pN = pc=12$ sh. em meios de produção
+  - $6$ sh. por $12$h de trabalho (idem)
+  - $6$ sh. obtidos "de excedente" (mais-valor adicional)
 
 Ou seja, ele obtém um excedente *como se* tivesse aumentado sua jornada de trabalho, i.e. como se tivesse adquirido valor gratuitamente produzido para si. Analisemos agora a repartição de uma jornada de trabalho entre tempo necessário e tempo excedente.
 
@@ -103,22 +113,31 @@ Suponha-se que $T = t_{N} + t_{E}$, onde $t_{N} = 10$h e $t_{E} = T - t_{N}= 2$h
 
 Ou seja, a [[Taxa de mais-valor]] média é
 $$
-m^{\prime}=\frac{t_{E}}{t_{N}} = \frac{2}{10} = 20\%
+m^{\prime}=\frac{t_{E}}{t_{N}} = \frac{2\text{ horas}}{10\text{ horas}} = 20\%
+$$
+Note-se que também pode ser medido pelo mais-valor sobre o valor da FT:
+$$
+m^{\prime}=\frac{m}{v} = \frac{1\text{ sh.}}{5\text{ sh.}} = 20\%
 $$
 
-Notemos que a média produz (nesta jornada de trabalho de $12$h) $12$ mercadorias que se efetivam em $12$ sh., dos quais $6$ sh. são a elas transferidos pelos meios de produção. Portanto, $6$ mercadorias = $6$ sh. de trabalho vivo despendido, dos quais $5$ mercadorias = $5$ sh. são cristalizações de trabalho necessário e $1$ mercadoria = $1$ sh. é cristalização de trabalho excedente.
+Notemos que a **média** produz (nesta jornada de trabalho de $12$h) $12$ mercadorias que se efetivam em $12$ sh., dos quais $6$ sh. são a elas transferidos pelos meios de produção. Portanto, $6$ mercadorias = $6$ sh. = valor do trabalho vivo despendido, dos quais $5$ mercadorias = $5$ sh. são cristalizações de trabalho necessário e $1$ mercadoria = $1$ sh. é cristalização de trabalho excedente.
 
-Para o capitalista mais produtivo, que tem o *dobro* da força produtiva média, sua taxa de mais-valor será diferente. Ele produz $24$ mercadorias, mas as vende ao "valor social" — obtém, portanto, $24$ sh. Como visto na seção anterior, estes $24$ xelins se repartem em $6\ \frac{\text{pence}}{\text{peça}} \cdot 24\ \text{pence} = 12\ \text{sh.}$ de meios de produção, e $12$ sh. produzidos pelo trabalho vivo empregado durante $12$h. Como o tempo necessário se reflete em $5$ sh., temos que resta $7$ sh. que foram obtidos como excedente. Portanto, sua taxa de mais-valor é
+Para o capitalista mais produtivo, que tem o *dobro* da força produtiva média, sua taxa de mais-valor será diferente. Ele produz $24$ mercadorias, mas as vende ao "valor social"[^4] — obtém, portanto, $1\text{ sh./peça} \cdot 24\text{ peças} =24\text{ sh.}$ Como visto na seção anterior, estes $24$ xelins se repartem em $6\ \frac{\text{pence}}{\text{peça}} \cdot 24\ \text{pence} = 12\ \text{sh.}$ de meios de produção — o dobro de mercadorias requerirá (*ceteris paribus*) o dobro de material para sua produção[^5] —, e $12$ sh. produzidos pelo trabalho vivo empregado durante $12$h. Como o tempo necessário se reflete em $5$ sh., temos que resta $7$ sh. que foram obtidos como excedente. Portanto, sua taxa de mais-valor é
 $$
-m^{\dagger} = \frac{7}{5}
+m^{\dagger} = \frac{7\text{ sh.}}{5\text{ sh.}} =140\%
 $$
-Portanto, seu tempo necessário *aparece-lhe* agora não como $10$ horas, mas sim como $5$ horas, e, portanto, seu tempo excedente aparece como $7$ horas! De fato, ele reduziu *pela metade* seu tempo necessário, ou seja, ele consegue reproduzir o valor da força de trabalho que despendeu — que, para a média, é equivalente a $10$ horas de trabalho — em somente $5$ horas.
+Portanto, seu tempo necessário *aparece-lhe* agora não como $10$ horas, mas sim como $5$ horas, e, portanto, seu tempo excedente aparece como $7$ horas!
+$$
+m^{\dagger}= \frac{7\text{ horas}}{5\text{ horas}} = 140\% 
+$$
+
+De fato, ele reduziu *pela metade* seu tempo necessário, ou seja, ele consegue reproduzir o valor da força de trabalho que despendeu — que, para a média, é equivalente a $10$ horas de trabalho — em somente $5$ horas.
 
 A título de esclarecimento: Marx supõe que o capitalista venda não por $12$ *pence* a peça, mas $10$ *pence*, para mostrar que ele poderia "tirar essa vantagem" e ainda assim estar ganhando um excedente de valor. Isso pode dar a intuição incorreta de que ele consegue tal excedente *somente ao vender mais barato*, o que não é o caso. *Regardless*, no caso em que ele venda por $10$ *pence* a peça = $20$ sh. total, restar-lhe-ia $3$ sh. de excedente, rendendo-lhe, portanto, uma taxa de mais-valor
 $$
-m^{\dagger}= \frac{3}{5}
+m^{\dagger}= \frac{3}{5} = 60\%
 $$
-como Marx o ilustra [@Marx2017, p. 392].
+como Marx o ilustra [@Marx2017, p. 392]. Neste caso, ele teria $\frac{60}{8}=7.5$ horas ($<10$ h) como seu tempo necessário e $12-7.5=4.5$ horas ($>2$ h) de tempo excedente. 
 
 ## Formalização preliminar
 Pressuponhamos que um aumento de forças produtivas permite uma produção maior de mercadorias em dado período de tempo. Sejam as seguintes condições propriedades da produção *média*:
@@ -130,21 +149,21 @@ Pressuponhamos que um aumento de forças produtivas permite uma produção maior
 	- $\tilde{m} \equiv m^{\prime}\tilde{v}$: (mais-)valor do tempo excedente *por hora* 
 	- $m\equiv m^{\prime}v = \tilde{m}T$: mais-valor produzido em uma jornada de trabalho (trabalho *excedente*)
 - $v+m=(1+m^{\prime})v$: valor total *produzido* (trabalho vivo efetivado) em uma jornada de trabalho
-- $N$: quantidade de mercadorias produzidas em um dado período de tempo $\Delta t$, que supomos, por simplicidade, como sendo igual à jornada de trabalho $T$
+- $N$: quantidade de mercadorias produzidas em um dado período de tempo $\Delta t$ (que supomos, por simplicidade, como sendo igual à jornada de trabalho $T$)
 
 Ou seja, o valor médio *por peça* é
 $$
-\bar{c} + \frac{v+m}{N} = \bar{c} + (1+m^{\prime}) \frac{v}{N}
+\frac{\bar{c}N + v+m}{N} = \bar{c} + (1+m^{\prime}) \frac{v}{N}
 $$
 O valor total produzido pela média, em um dado período de tempo, é igual a este valor unitário vezes a quantidade $N$ de mercadorias:
 $$
 \bar{c} N + (1+m^{\prime})v
 $$
 
-Um capital mais produtivo produz $pN > N$ mercadorias ($p>1$). Caso ele venda todas estas $pN$ mercadorias ao "valor social", ele obterá 
+Um capital mais produtivo produz $pN > N$ mercadorias, em que $p>1$ é o grau com que sua produtividade (do trabalho) é maior do que a da produção média. Caso ele venda todas estas $pN$ mercadorias ao "valor social", ele obterá 
 $$
 \begin{align*}
-pN (\bar{c} + \left( (1+m^{\prime}) \frac{v}{N} \right) = pN\bar{c} + (1+m^{\prime}) pv
+pN \left(\bar{c} + (1+m^{\prime}) \frac{v}{N} \right) = pN\bar{c} + (1+m^{\prime}) pv
 \end{align*}
 $$
 O tanto que ele despende em capital constante é $pN \bar{c}$, que é deduzido deste valor equivalentemente[^3]; o valor da força de trabalho $v$ — que representa o tempo necessário de trabalho despendido neste período de tempo da produção — também é deduzida disso. Resta a este capital, portanto, um excedente de
@@ -167,16 +186,17 @@ $$
 como esperado.
 
 
-# Formalização adequada
+# Formalização mais adequada
 Suponhamos condições médias tais que, para a produção de $N$ mercadorias em um período de tempo $\Delta t$ despenda-se:
 - $c$ em [[Capital Constante]]
 - Um certo valor $\bar{v}$ por hora, de tal forma que o valor despendido para o trabalho em $\Delta t$ seja de $\bar{v}\Delta t$ 
 - Uma divisão da jornada de trabalho $T$ em $t_{N}$ e $t_E$ de tal forma que
-	- $t_N = \nu T$ e
+	- $t_N = \nu T$ (em que $0\% < \nu < 100\%$) e
 	- $t_{N} + t_{E} = T$
-- Portanto, o valor da força de trabalho despendido em $\Delta t$ *para o capital com força produtiva média* (i.e. que produz $N$ mercadorias) é $v=\bar{v} \nu \Delta t$ e, portanto, que o mais-valor produzido seja $(1-\nu)\bar{v} \Delta t$ 
 
-Tenhamos agora um capital com força produtiva $p>1$, i.e. que produza $pN>N$ mercadorias. Ele despenderá, neste processo,
+Portanto, o valor da força de trabalho despendido em $\Delta t$ *para o capital com força produtiva média* (i.e. que produz $N$ mercadorias) é $v=\bar{v} \nu \Delta t$ e, portanto, que o mais-valor produzido seja $(1-\nu)\bar{v} \Delta t$.[^6]
+
+Tenhamos agora um capital com força produtiva $p>1$, i.e. que produza $pN>N$ mercadorias no mesmo período de tempo $\Delta t$. Ele despenderá, neste processo,
 - $\frac{pN}{N}c = pc$ em capital constante
 - Ele ainda despende valor $\bar{v} \nu \Delta t$ em [[Capital Variável]]
 
@@ -189,7 +209,7 @@ $$
 p (1-\nu) \bar{v} \Delta t
 $$
 
-Seu equivalente de tempo necessário de trabalho é mensurável pelo quanto ele despendeu em força de trabalho, dada uma quantidade total produzida pelo trabalho (em $\Delta t$). Portanto, seu tempo de trabalho necessário $\tilde{t}_{N}$ aparece-lhe como
+Seu equivalente de tempo necessário de trabalho é mensurável pelo quanto ele despendeu em força de trabalho, dada a quantidade total produzida pelo trabalho (em $\Delta t$). Portanto, seu tempo de trabalho necessário $\tilde{t}_{N}$ aparece-lhe como
 $$
 \tilde{t}_{N} = \frac{\nu \bar{v} \Delta t}{p\bar{v}\Delta t} T = \frac{\nu T}{p} = \frac{t_{N}}{p} 
 $$
@@ -207,7 +227,7 @@ $$
 \end{align*}
 $$
 
-Pelo exemplo acima, $p=2$, $T=12$h e $\nu=\frac{5}{6}$, com os quais se tem $t_{N} = \nu T=10$h e $t_{E}=T-\nu T=2$h. Pelas fórmulas acima, se obtém $\tilde{t}_{N} =\frac{t_{N}}{p} = 5$, portanto $\tilde{t}_{E} = 7$h e $\Delta t_{E}=\tilde{t}_{E}-t_{E} = \frac{p-1}{p}t_{N}=5$h. Ou seja, ao dobrar a produtividade do trabalho, ele obteve $5$ horas a mais em valor equivalente de tempo excedente!!! 
+Pelo exemplo acima, $p=2$, $T=12$h e $\nu=\frac{10}{12}$, com os quais se tem $t_{N} = \nu T=10$h e $t_{E}=T-\nu T=2$h. Pelas fórmulas acima, se obtém $\tilde{t}_{N} =\frac{t_{N}}{p} = 5$, portanto $\tilde{t}_{E} = 7$h e $\Delta t_{E}=\tilde{t}_{E}-t_{E} = \frac{p-1}{p}t_{N}=5$h. Ou seja, ao dobrar a produtividade do trabalho, ele obteve $5$ horas a mais em valor equivalente de tempo excedente!
 
 Ele possui uma taxa efetiva de mais-valor igual a
 $$
@@ -216,14 +236,21 @@ m^{\dagger} &\equiv \frac{\tilde{t}_{E}}{\tilde{t}_{N}} \\
 &= \frac{pT-t_{N}}{t_{N}} \\
 &= \frac{pt_{N} + pt_{E} - t_{N}}{t_{N}} \\
 &= \frac{(p-1)t_{N} + (p-1)t_{E} + t_{E}}{t_{N}}\\
-&= m^{\prime} + (p-1)(1+m^{\prime})
+&= m^{\prime}+ (p-1) \frac{T}{t_{N}} \\
+&= m^{\prime} + \underbrace{ (p-1)(1+m^{\prime}) }_{ >0 }
 \end{align*}
 $$
 (Inclusive, aqui fica claro que o fator $1+m^{\prime}$ é igual a $\frac{T}{t_{N}}$!) Ou seja, sua taxa de mais-valor aumentou por $(p-1)(1+m^{\prime})$! 
 
+
 ---
 ### Referências
+MARX, Karl. **O Capital: crítica da economia política - Livro I: o processo de produção do capital**. 2. ed. São Paulo: Boitempo, 2017.
+
 
 [^1]: [[Princípio da Troca de Equivalentes]].
 [^2]: Xelins (*shillings*). $1$ xelim = $12$ *pence* (centavos; plural de *penny*).
 [^3]: O mais adequado é dizer que este valor foi transferido ao produto e reobtido após sua venda.
+[^4]: Marx insiste em falar de vender "acima de seu valor individual, porém abaixo de seu valor social, digamos, por $10$ *pence* cada uma" [@Marx2017, p. 392], mas me parece indevido utilizar esse argumento como carro-chefe da exposição. O caso é que este capitalista mais produtivo consegue obter mais-valor adicional **mesmo vendendo ao "valor social"**. Ele conseguir que seu [[Preço de Mercado]] esteja entre o "valor individual" e o "valor social" é uma questão à parte, que lhe permite obter **mais** mais-valor adicional.
+[^5]: Aqui abstraímos de fatores mais concretos como e.g. custos marginais decrescentes.
+[^6]: Supondo que, assim como a jornada de trabalho $T$ se divide em uma parcela $\nu$ necessária e $1-\nu$ excedente, todo período de tempo $\Delta t$ também pode ser visto como se dividindo dessa forma.

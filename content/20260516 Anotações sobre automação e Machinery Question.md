@@ -17,7 +17,7 @@ Significado de "automação":
 
 > "By 'automation' we understand the use of certain methods of automatically producing and preparing goods; of producing information; and of making calculations (e.g. book-keeping) — methods which are characteristic of our present stage of technical development." [@Pollock1957, p. 5]
 
-## **($\star$) "Automação" se trata de produção & preparação automática, parcial ou total, de bens, informação e cálculos.:** 
+## Automação" se trata de produção & preparação automática, parcial ou total, de bens, informação e cálculos.:
 > "The aims and methods of automation may be **provisionally** defined as a *technique of production* the object of which is *to replace men by machines* in *operating and directing machines*[,] as well as in *controlling the output* of the products that are being manufactured. If this aspect of automation is complete[,] the product is *not touched* by human hands from the beginning to the end of its manufacture. Automation may be applied to *part* of the process of manufacture or to the *entire* process of turning raw materials into finished products."  [@Pollock1957, p. 5, grifo meu]
 
 ---
@@ -31,7 +31,7 @@ Significado de "automação":
 
 
 **"Math theory of comm." de Shannon é de 1948.:** 
-> "All this has been made possible by new machines and techniques — called 'feed-back', 'computers', 'servo-mechanism' and so forth — which have been evolved [sic.] in the last fifteen years [circa 1943 to 1958] largely by the practical application of the mathematical 'theory of communication' [Claude Shannon]." (p. 6)
+> "All this has been made possible by new machines and techniques — called 'feed-back', 'computers', 'servo-mechanism' and so forth — which have been evolved [sic.] in the last fifteen years [*circa* 1943 to 1958] largely by the practical application of the mathematical 'theory of communication' [Claude Shannon]." (p. 6)
 
 
 

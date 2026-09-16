@@ -10,6 +10,8 @@ up:: [[0x51 MOC Dissertação Mestrado]]
 
 # Anotações
 - [[20260411 Revisão de literatura Rebound-Backfire]]
+- [[20260805 Fichamento Berkhout 2000]]
+- [[20260813 Fichamento Greening et al 2000]]
 
 # Canvas
 [[Mapeamento Khazzoom-Brookes.canvas]]

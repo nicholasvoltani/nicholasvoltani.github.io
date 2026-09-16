@@ -1,7 +1,9 @@
 ---
-date: "2025-09-05"
+date: 2025-09-05
 tags:
   - moc
+aliases:
+  - 069a MOC SFN
 ---
 
 up:: [[069 MOC Finanças]]
@@ -12,7 +14,7 @@ up:: [[069 MOC Finanças]]
 - [[20250917 Anotações Orçamento Público]]
 ---
 
-O sistema financeiro separa-se em 3 *ramos*[^1], os quais subdividem-se nos seguintes *mercados*[^2]:
+O sistema financeiro se separa em 3 *ramos*[^1], os quais subdividem-se nos seguintes *mercados*[^2]:
 - Ramo **Financeiro**
 	- Mercado *Monetário*
 	- Mercado de *Crédito*
@@ -38,7 +40,9 @@ O sistema financeiro separa-se em 3 *ramos*[^1], os quais subdividem-se nos segu
 
 # [[Operadores do Sistema Financeiro Nacional]]
 - [[Banco Comercial]]
-
+# Informações básicas // [[Taxa de Juros|Taxas de Juros]]
+- [[Taxa Selic]]
+- [[Certificado de Depósito Interbancário]] (CDI)
 # Operações gerais
 - [[Consórcio]]
 - [[Previdência]]
@@ -48,6 +52,21 @@ O sistema financeiro separa-se em 3 *ramos*[^1], os quais subdividem-se nos segu
 - [[Depósito a Prazo]]
 - [[Depósitos Especiais Remunerados]]
 - [[Capitalização]]
+
+# Renda fixa
+## 1) Títulos emitidos pelo *governo*
+- [[Tesouro Direto]] // [[Letra do Tesouro Nacional]]
+- [[Certificado de Depósito Bancário]] (CDB)
+## 2) Títulos emitidos por *bancos*
+- Isentos de [[Imposto de Renda]]:
+	- [[Letra de Crédito Imobiliário]] (LCI)
+	- [[Letra de Crédito do Agronegócio]] (LCA)
+## 3) Títulos emitidos por *empresas*
+- [[Debênture]]
+- [[Certificado de Recebíveis Imobiliários]] (CRI)
+- [[Certificado de Recebíveis do Agronegócio]] (CRA)
+- [[Fundo de Investimento em Direito Creditório]] (FDIC)
+
 
 
 

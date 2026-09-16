@@ -72,11 +72,11 @@ $$
 que são as variáveis de equilíbrio *per capita*. Note-se que, como $L$ é exógeno, as variáveis base também alcançarão um equilíbrio (só multiplicar as respectivas variáveis per capita por $L$).
 
 Ou seja, note-se que
-- mudanças permanentes na *poupança* têm efeitos diretamente proporcionais em todas variáveis – *menos no consumo*
+- mudanças permanentes na *poupança* têm efeitos diretamente proporcionais em todas variáveis; no caso do consumo, requer um exame mais detido
 - mudanças permanentes no *nível tecnológico* têm efeitos diretamente proporcionais em todas variáveis
 - mudanças permanentes na *depreciação* têm efeitos *inversamente* proporcionais em todas variáveis
 
-O [[Consumo Agregado|Consumo]], em particular, é afetado inversamente pela poupança do que os investimentos são. Portanto, precisa ser considerado diferentemente. Busquemos então algum $\bar{s}$ que maximize o consumo de equilíbrio. Isso é equivalente a buscar o máximo consumo no tocante ao capital de equilíbrio:
+O [[Consumo Agregado|Consumo]], em particular, é afetado pela poupança de forma oposta do que os investimentos são. Portanto, precisa ser considerado diferentemente. Busquemos então algum $\bar{s}$ que maximize o consumo de equilíbrio. Isso é equivalente a buscar o máximo consumo no tocante ao capital de equilíbrio:
 $$
 \begin{align}
 c^{*} = y^{*}-i^{*} = f(k^{*})-\delta k^{*} \\

@@ -6,7 +6,7 @@ draft: "false"
 aliases:
 ---
 
-up:: [[0x51a Revisão de Literatura Rebound-Backfire Effect]]
+up:: [[0x51a MOC Revisão de Literatura Rebound-Backfire Effect]]
 
 # Brookes, dez. 2000
 > "If there are savings in the cost of direct energy services or of goods and services that call for the consumption of energy in their production, the income released **must** find an outlet. **In modern industrial societies it is likely to be on goods and services that require energy in their production if not also in their use.**" [@Brookes1990, p. 321, grifo meu]

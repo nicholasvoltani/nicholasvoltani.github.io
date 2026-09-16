@@ -9,23 +9,38 @@ up:: [[060 MOC Economia]]
 related:: [[069a MOC Sistema Financeiro Nacional]]
 
 # Operações financeiras
+- [[Operações de Redesconto]]
 - [[Overnight]]
-- [[Swap]]
 - [[Depósito a Prazo]]
-- [[Debênture]]
-- [[Letra do Tesouro Nacional]]
-- [[Fundo de Renda Fixa]]
 - [[Fundo de Renda Variável]]
 - [[Hedging]]
-- [[Operações de Redesconto]]
-- [[Opções (Finanças)]]
+
+# *Risk-free assets*
+- [[Letra do Tesouro Nacional]]
+- [[Fundo de Renda Fixa]]
+
+# Riscos
+- [[Risco de Crédito]] (*Credit risk*)
+- [[Risco de Mercado]] (*Market risk*)
+- [[Risco de Liquidez]] (*Liquidity risk*)
+
+# Inovações financeiras
 - [[Futuros (Finanças)]]
+- [[Opções (Finanças)]]
+- [[Swap]]
+
+# Crédito privado
+- [[Debênture]]
+
 
 # Estratégias financeiras
 - [[Carry-Trade]] (geralmente Yen *carry-trades*)
-- 
+
+# Outros conceitos
+- [[Duration de Macaulay]]
 
 
+---
 ### Referências
 BLYTH, Stephen. **An introduction to quantitative finance**. 1. ed. Oxford: Oxford University Press, 2014.
 
@@ -40,3 +55,5 @@ PRIVAULT, Nicolas. **Notes on Stochastic Finance**, mai. 2016. Disponível em [p
 ROSS, Sheldon M. **An elementary introduction to mathematical finance**. 3. ed. New York: Cambridge University Press, 2011.
 
 SHARPE, William F.; ALEXANDER, Gordon J.; BAILEY, Jeffery V. **Investments**. 6. ed ed. Upper Saddler River, New Jersey: Prentice Hall, 1999.
+
+[Curso de Renda Fixa - Canal *Carteira Perfeita*](https://www.youtube.com/playlist?list=PLXqsXwa2DFWErNnbSUYfCXFRQT8vwyMhY)

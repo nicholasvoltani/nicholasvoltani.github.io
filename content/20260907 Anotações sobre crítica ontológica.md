@@ -1,0 +1,103 @@
+---
+date: "2026-09-07"
+tags:
+  - daily
+draft: "false"
+aliases:
+---
+
+up:: [[0x51 MOC Dissertação Mestrado]]
+
+# 20260902
+(?) Não é cabível pensar na questão produção-circulação como "consumo produtivo" e "consumo improdutivo". O objetivo da minha discussão é de mostrar que a própria lógica interna do [[capital]] conduz a um aumento do consumo energético, mas **não** porque o consumo "*residencial*" aumenta; pelo contrário, o aumento deste consumo é *consequência*, e tem de sê-lo, justamente porque este, assim como todo consumo energético, é consumo *de [[Mercadoria|mercadorias]]*. Seja na forma de carvão, lenha ou eletricidade, o consumo de energia, residencial ou não, sempre tem uma etiqueta de [[Preço de Mercado|preços]], e, assim como nosso pão de cada dia não vem a nós puramente pela benevolência do padeiro, nossas fontes de energia útil não surgem espontaneamente no mercado: elas, como todos "bens e serviços", tem de ser *produzida* — e, nessa produção, *também* demanda energia.
+
+Em suma, a esfera do consumo — ou, em geral, da circulação — depende ontologicamente da esfera da produção, pois o que se pode consumir está determinado pelo que é produzido, e é somente pelo aumento da produção que pode haver um aumento do consumo. (==Vale a frase que escrevi previamente: que mesmo que não valha a [[Lei de Say]], i.e. oferta gerar sua demanda, então ao menos é sim verdade que a não-oferta gera uma não-demanda, ou uma frustração da demanda vigente.==)
+
+Ora, o caráter imanente do capital, de valorização do [[valor]], demanda que a produção de mercadorias aumente. Mediante a constatação de que o emprego da energia torna-se quintessencial à dinâmica do capital, segue como corolário o [[Postulado de Khazzoom-Brookes]] como uma [[Lei de Tendência]] do [[processo de produção capitalista|modo de produção capitalista]]. 
+
+# 20260903
+> Se, portanto, a constituição biológica constitui a prioridade ontológica, o pressuposto insuperável para a existência do ser social, [então] o desenvolvimento desta forma do ser possui como momento preponderante as categorias que lhes são peculiares, aquelas categorias que determinam a *diferença específica* com as formas do ser imediatamente anteriores. [@Fortes2016a, p. 58]
+
+Embora o [[Valor de Uso|valor de uso]] seja a [[Prioridade Ontológica|prioridade ontológica]] da esfera das mercadorias, é justamente o valor que se torna o [[Momento Predominante|momento predominante]] da sociedade capitalista. O valor, embora possua "esta base como seu pressuposto", 
+> se torna no interior das relações humanas a categoria decisiva, de onde se originam as diretrizes sobre as quais se encontram emaranhados os elementos que dinamizam o curso do processo social [@Fortes2013, p. 153-4]
+
+O especial sobre o valor é que ele é uma "objetividade social", "sensível-suprassensível", mas que, não obstante, "precisa necessariamente erguer-se sobre uma objetividade produzida mediante o trabalho" [@Fortes2016a, p. 59]. Contudo, o valor 
+> não se coloca como derivação direta das categorias próprias do complexo do trabalho, mas passa a existir no âmbito do trabalho *sobredeterminado*, no contexto de suas interações [das 'categorias próprias do complexo do trabalho'] com os outros complexos da totalidade social, neste caso, especificamente, a reprodução característica do modo de produção capitalista [@Fortes2016a, p. 60]
+
+# 20260904
+O processo de abstração busca abstrair "de maneira provisória toda 'influência secundária' 'estranha' a este momento específico" que está sendo analisado (ibid., p. 64). Em nosso caso, o objeto de estudo é o modo de produção capitalista *enquanto totalidade*, para cuja análise devemos analisar[^1] seus complexos constitutivos para, depois, 
+> descobrir e expor as formas concretas que brotam do processo de movimento do capital considerado como um todo [@Marx2017a, p. 53]
+
+Tal processo de abstração permite caracterizar um complexo específico, ao abstrair "nesse primeiro momento da análise o complexo de interações da categoria", para focar a atenção "nos atributos mais gerais de tal elemento" [@Fortes2013, p. 138]. Tal processo "leva do concreto imediato até a síntese abstrata e ainda 'rarefeita' de elementos da totalidade", com o que se faz necessário um "retorno" à descrição da totalidade — que é nosso objeto de estudo, em última instância. Dessa forma, deve-se empreender a consideração, agora explícita, de determinações até agora abstraídas, em particular as interações com outros complexos dentro desta totalidade em que estão inseridos, ou melhor, da qual são momentos.
+
+Para nossos propósitos, embora seja evidente, pode ser cabível explicitar que o objeto de estudo é o "modo de produção capitalista", ou melhor, o processo total com que o capital se produz e se reproduz. Pressupomos, portanto, o mundo no qual o capital é "sujeito automático", que põe seus próprios pressupostos e, neste agir, molda o mundo dos homens à sua imagem. Restrinjo-me neste presente trabalho, porém, à análise da assim chamada "esfera econômica", abstraindo de suas inter-relações com outros complexos da totalidade social, dentre os quais vale destacar a esfera do Estado.  (Afinal, há mais coisas entre o céu e a terra do que permite o escasso tempo de um programa de mestrado.) Tal escolha, porém, não é arbitrária.
+
+Justamente pelo "primeiro ato histórico" consistir na reprodução do ser humano enquanto gênero — que pressupõe, claro, sua reprodução enquanto indivíduo singular —, é a esfera da *produção* que possui prioridade ontológica na totalidade da vida humana. O ser humano devém algo além de um mero animal quando se apodera das legalidades naturais enquanto meios para seus fins próprios. Neste ínterim, chama-se de *[[Trabalho|trabalho]]* o ato de se valer de tais legalidades naturais para a satisfação de suas necessidades próprias.[^2] É neste sentido que Marx diz que o trabalho é
+> uma condição de existência do homem, independente de todas as formas sociais, eterna necessidade natural de mediação do metabolismo entre homem e natureza [@Marx2017, p. 120]
+
+Dessa forma, o trabalho *em geral* é uma característica anistórica do ser *humano*: 
+> o trabalho é antes de tudo, em termos genéticos, o ponto de partida para o tornar-se homem do homem, para a formação das suas faculdades, sendo que jamais se deve esquecer o domínio sobre si mesmo. Além do mais, o trabalho se apresenta, por um longo tempo, como o único âmbito desse desenvolvimento; todas as demais formas de atividade do homem, ligadas aos diversos valores, só se podem apresentar como autônomas depois que o trabalho atinge um nível relativamente elevado [@Lukacs2012, p. 348]
+
+Em nosso objeto de estudo, a sociedade capitalista, o trabalho devém um *momento predominante* da totalidade social, embora não o *trabalho em geral*: é o trabalho *abstrato* que passa a ditar a dinâmica da totalidade social. Marx chama de *trabalho abstrato* o mero "dispêndio de força humana de trabalho", "dispêndio produtivo de cérebro, músculos, nervos, mãos etc. humanos" [@Marx2017, p. 121], que é "o que resta" na comparação entre os diversos trabalhos particulares. Trabalho abstrato, aqui, deve ser entendido enquanto uma *abstração real*, empreendida efetivamente a todos os instantes através do metabolismo da sociedade capitalista, em particular através das trocas de produtos dos mais variegados tipos particulares de trabalho. 
+
+Neste ínterim, como Marx o coloca sinteticamente, 
+> Os homens não relacionam entre si seus produtos do trabalho como valores por considerarem essas coisas mero invólucros materiais de trabalho humano do mesmo tipo. Ao contrário. *Porque* equiparam entre si seus produtos de diferentes tipos na troca, como valores, [é que] eles equiparam entre si seus diferentes trabalhos como trabalho humano [abstrato]. [@Marx2017, p. 149, grifo e destaques meus]
+
+É por isso, no fim das contas, que a análise dos economistas da energia até agora abordados sempre tem de remeter à eficiência *econômica*: não (só) porque é a forma mais simples de abordar a questão da eficiência energética, mas principalmente porque a linguagem do mundo do capital tem como seus substantivos as mercadorias ("bens e serviços"), e como qualificativos os seus preços. O confrontamento do capital com problemas qualitativos necessariamente tem de remetê-los à sua quantificação em mercadorias e preços, justamente porque ele não pode subsumi-los senão enquanto *valor*, e é nestas formas que ele tem de [[Aparência|aparecer]]. Ademais, não pode ser capital conquanto não seja *in actu*, em expansão; ou seja, não pode subsumir tais problemáticas sociais conquanto elas sejam antitéticas ao seu conteúdo, ao seu ímpeto motriz, ao seu *éthos* de autoafirmação enquanto valor que se valoriza. Assim, a temática ecológica, ao confrontar a lei do valor, aparece como "inadequada" no mundo em que o capital impera como *dominus*. Não é casual que este mundo seja chamado de sociedade *capitalista*: ==seu poder e vontade dizem sempre respeito ao capital, ou melhor, *são* do capital==. É à *ética do capital* que o mundo social passa a remeter suas atividades e mensurar sua "adequabilidade", ou melhor, quão "inadequadas" elas são ou não são.[^3]
+
+> "Nós estamos no promontório extremo dos séculos!... Por que haveríamos de olhar para trás, se queremos arrombar as misteriosas portas do Impossível? O Tempo e o Espaço morreram ontem. Nós já estamos vivendo no absoluto, pois já criamos a eterna velocidade onipresente." (Marinetti, Manifesto do Futurismo, item 8)
+
+A consideração da relevância "da energia" no processo de produção de capital pode aparecer como uma trivialidade: "tudo é energia", poder-se-ia alegar, ou, mais comedidamente, "tudo *depende* de energia". Para misturar ainda mais as coisas, a capacidade física de "exercer energia" é chamada, na Física, de *trabalho* (*work*, ...). ==Puxar do texto já escrito ano passado.== É um pulo concluir, disso, que as máquinas "conseguem exercer trabalho" no lugar do ser humano, perfeitamente substituto de seu trabalho.
+
+A própria noção de energia é *abstrata* (==cit. Feynman, aproveitar texto vide acima==), sendo "agnóstica" se se trata de esforço humano ou não. É justamente por isso (?) que o desenvolvimento científico da Termodinâmica foi instrumental ao desenvolvimento histórico do capital — de fato, aquele foi tanto consequência quanto catalisador deste.
+
+[[20260516 Anotações sobre automação e Machinery Question]] // [[20260607 Mercadoria-energia e seu papel no processo de produção do capital]]
+- [[Babbage Principle]]: divisão do trabalho permite/demanda decomposição mais granular do valor
+- Permite/demanda especialização do trabalho e sua *automação*
+	- Como Marx (e Babbage etc.) mostram, é a partir dos meios de trabalho que surge a máquina-ferramenta
+
+A necessidade da expansão da produção para além das "barreiras humanas" impele o capital à racionalização da força-motriz de sua maquinaria.
+> "O sistema mecanizado ergueu-se, portanto, de modo natural-espontâneo sobre uma base material que lhe era inadequada. Ao atingir certo grau de desenvolvimento, ele teve de revolucionar essa base – encontrada já pronta e, depois, aperfeiçoada de acordo com sua antiga forma – e criar para si uma nova, apropriada a seu próprio modo de produção. Assim como a máquina isolada permaneceu limitada enquanto foi movida apenas por homens, e assim como o sistema da maquinaria não pôde se desenvolver livremente até que a máquina a vapor tomasse o lugar das forças motrizes preexistentes – animal, vento e até mesmo água –, também a grande indústria foi retardada em seu desenvolvimento enquanto seu meio característico de produção, a própria máquina, existiu graças à força e à habilidade pessoais, dependendo, assim, do desenvolvimento muscular, da acuidade visual e da virtuosidade da mão com que o trabalhador parcial na manufatura e o artesão fora dela operavam seu instrumento limitado. (...) A partir de certo grau de desenvolvimento, porém, a grande indústria também entrou tecnicamente em conflito com sua base artesanal e manufatureira. A ampliação do tamanho das máquinas motrizes, do mecanismo de transmissão e das máquinas-ferramentas; a maior complexidade, multiformidade e a regularidade mais precisa de seus componentes, à medida que a máquina-ferramenta se distanciava do modelo artesanal (que originalmente dominava sua construção) e assumia uma forma livre, determinada apenas por sua tarefa mecânica; o aperfeiçoamento do sistema automático e a aplicação, cada vez mais inevitável, de um material difícil de ser trabalhado, como o ferro em vez da madeira – a solução de todas essas tarefas surgidas espontaneamente chocou-se por toda parte com as limitações pessoais, que mesmo os trabalhadores combinados na manufatura só conseguiam superar até certo grau, mas não em sua essência. Máquinas como a impressora, o tear a vapor e a máquina de cardar modernos não podiam ser fornecidas pela manufatura." [@Marx2017, p. 456-7]
+
+(?) Os processos/momentos do [[Pôr Teleológico|pôr teleológico]] que caracteriza o trabalho tornam-se momentos *do capital*:
+- Os meios são seus *[[Fatores de Produção]]*
+- Os fins são agora *a produção de valor* e *valorização do capital* — reprodução *do próprio capital*
+- Seu produto torna-se seu pressuposto seguinte, é início e fim de si
+
+O conhecimento com que o trabalhador leva a cabo seu [[trabalho assalariado]] aparece como algo que se concentra *fora de si* — torna-se *informação*. A força com que movia o objeto de trabalho e o trabalhava com meios de trabalho, todos estes aparecem *fora de si*; os meios tornam-se capital, e eventualmente até mesmo seus portadores assim aparecem.
+
+# 20260905
+> "o trabalho enquanto categoria desdobrada do ser social só pode atingir sua verdadeira e adequada existência no âmbito de um complexo social processual e que se reproduz processualmente" (Lukács *apud* @Fortes2016a, p. 67)
+
+Destaque-se que a análise do complexo do trabalho (e da produção), que é prioridade ontológica (?) do ser social, não quer dizer que haja um "determinismo unívoco" desta esfera sobre os demais complexos da totalidade social. Embora
+> todas as outras formas da prática humano-societária não podem prescindir dessa base elementar, ou seja, assentam-se sobre ela, realizam-se apoiadas sobre esse “chão” de sustentabilidade, *porém não são meros derivativos do trabalho* [@Fortes2016a, p. 68, grifo meu]
+
+Mesmo sendo prioridade ontológica, o trabalho sofre ação do momento predominante da sociedade em que ocorre, se efetivando "sob uma configuração particular, refletindo o caráter decisivo das leis tendenciais da sociabilidade na qual se realiza" (ibid., p. 70). É a sociabilidade capitalista que 
+> determina sua conformação no interior dessa sociabilidade. Os fundamentos *sociais* das relações dos homens modificam a própria relação do homem *com a natureza* (ibid., grifo meu)
+
+# 20260906
+> "Havia somente um Deus, cujo nome era vapor e que falava com a voz de Malthus, McCulloch e de qualquer um que usasse máquinas." [@Hobsbawm2014, p. 294]
+
+
+---
+# 20260903 Anotações sobre primeira revolução industrial (Hobsbawm)
+> As exigências que se derivaram do algodão — mais construções e todas as atividades nas novas áreas industriais, máquinas, inovações químicas, eletrificação industrial, uma frota mercante e uma série de outras atividades — foram o suficiente para que se credite a elas uma grande proporção do crescimento econômico da Grã-Bretanha até a década de 1830. [@Hobsbawm2014, p. 73-4]
+
+> Os produtos de algodão constituíam entre 40\% e 50\% do valor anual declarado de *todas* as exportações britânicas entre 1816 e 1848. Se o algodão florescia, a economia florescia[;] se ele caía, também caía a economia. (ibid.)
+
+Com o crescimento estrondoso de entrada de capitais no setor têxtil, assim como com a proliferação de inovações e aumentos de [[Produtividade do Trabalho|produtividade]], as margens de lucro naturalmente caíam, por mais que os próprios custos também caíssem. Ou seja, era a própria [[Concorrência (Marx)|concorrência]], em sua busca por [[Mais-Valor Extra|mais-valor extra]] hoje, que chancelava seus próprios ganhos amanhã. Com os "preços unitários" caindo, a alternativa era *produzir mais*. Ou melhor: os ganhos de produtividade permitiam ganhos extraordinários *justamente* por obter excedentes *vis-à-vis* valor social; a compressão destas margens extraordinárias os impelia a buscar ganhos ulteriores de produtividade, produções mais volumosas etc.
+
+Excedentes monetários destes investimentos lucrativos buscavam mais e mais vias de investimento. Talvez a mais importante tenha sido o setor de *ferrovias*, nem tanto por sua lucratividade imediata, e sim por seu potencial *especulativo*: em meio à expansão da indústria têxtil — e de todo o desenvolvimento econômico adjacente que ela incitava —, a possibilidade não só de conectar grandes centros urbanos entre si, como também de possibilitar o surgimento e desenvolvimento de novos centros urbanos, que outrora seriam "distantes demais" dos centros já existentes, era uma possibilidade que o apetite de risco dos homens de negócios da época, com a abundância de liquidez que imperava no mercado, entusiasticamente abarcou. Tais centros não eram somente de produção têxtil, mas também, e talvez até mais importantemente às vésperas do século XIX, de produção de *carvão*, um virtual monopólio mundial da Grã-Bretanha; o impulso desta indústria naturalmente trazia outros setores industriais a reboque.
+
+> As indústrias existentes [entre o final do século XVIII e primeira metade do século XIX], por exemplo, tinham se tornado demasiadamente baratas para absorver mais que uma fração do excedente disponível para investimento: mesmo supondo que o tamanho da indústria algodoeira fosse duplicado, o custo do capital absorveria só uma parte dele. Era necessário uma esponja bastante grande para absorver tudo. [@Hobsbawm2014, p. 86-7]
+
+> O capital total — fixo e de giro — da indústria algodoeira foi estimado por McCulloch em 34 milhões de libras em 1835 e 47 milhões de libras em 1845. (Ibid., nota de rodapé)
+
+
+
+---
+### Referências
+
+[^1]: No sentido etimológico original do termo: o sufixo "lise" remete à ideia de "quebrar", "decompor", como é possível inferir e.g. nos termos *hidrólise* — reação química de "quebra" da molécula da água em hidrogênio e oxigênio —, *pirólise* — decomposição de moléculas através de reações químicas a altas temperaturas ("fogo") —, *hemólise* — decomposição de hemácias (células sanguíneas) —, etc.
+[^2]: Isso não é uma escolha arbitrária da tradição marxista, sendo algo já reconhecido por exemplares da Economia Política clássica, por exemplo *vide* John Stuart Mill: "Se examinarmos qualquer outro caso do que se chama ação do homem sobre a natureza, descobriremos, da mesma forma, que as forças da natureza — ou, em outras palavras, as propriedades da matéria — realizam todo o trabalho, uma vez que os objetos sejam colocados na posição correta. Essa única operação — a de colocar as coisas em locais adequados para sofrerem a ação de suas próprias forças internas e daquelas inerentes a outros objetos naturais — é tudo o que o homem faz, ou pode fazer, com a matéria. [...] O trabalho, portanto, no mundo físico, é sempre e exclusivamente empregado para colocar objetos em movimento; as propriedades da matéria e as leis da natureza encarregam-se do restante. [...]" [@Mill1909, p. 48]
+[^3]: "Podemos, finalmente, concluir que, para Marx, a sociedade do capital é, na verdade, a sociedade do trabalho estranhado (capital) e de sua moral. Como em toda moral, a moral do capital envolve um conjunto de deveres ser. Como sempre, o dever ser correspondente depende da condição particular em que se encontram os indivíduos concretamente existentes. No caso da sociedade capitalista, a condição de classe, por ser determinante direto da condição econômica particular dos indivíduos, torna-se o elemento fundamental na determinação do dever ser correspondente à realização do Valor. Para a classe trabalhadora, a realização do Valor exige o comportamento adequado ao aproveitamento pelo capital (ou seja, o enfrentamento da concorrência entre os trabalhadores no mercado de trabalho). Para a classe capitalista, exige-se o comportamento adequado para a reprodução ampliada (concorrência entre capitais)." [@Medeiros2013a, p. 330] Dessa forma, "a ninguém, nesta forma de sociedade, é dado o direito ou a liberdade de se opor ao movimento dinâmico do capital, sob a pena da perda da condição social e, no limite, física." (ibid.) 

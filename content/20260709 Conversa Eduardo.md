@@ -1,8 +1,8 @@
 ---
-date: "2026-07-09"
+date: 2026-07-09
 tags:
   - daily
-draft: "false"
+draft: "true"
 aliases:
 ---
 
