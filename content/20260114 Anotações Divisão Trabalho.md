@@ -3,6 +3,7 @@ date: 2026-01-14
 tags:
   - daily
   - to-be-elaborated
+  - masters-degree
 draft: "false"
 aliases:
 ---

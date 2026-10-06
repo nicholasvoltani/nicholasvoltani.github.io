@@ -2,6 +2,7 @@
 excalidraw-plugin: parsed
 tags:
   - economics
+  - masters-degree
 excalidraw-open-md: true
 ---
 up:: [[0x51 MOC Dissertação Mestrado]]

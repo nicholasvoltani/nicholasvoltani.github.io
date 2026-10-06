@@ -2,6 +2,7 @@
 date: 2026-02-24
 tags:
   - economics
+  - masters-degree
 ---
 
 up:: [[0x5 MOC Mestrado]] // [[062 MOC Microeconomia]]

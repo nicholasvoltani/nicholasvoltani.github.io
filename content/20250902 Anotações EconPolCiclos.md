@@ -2,6 +2,7 @@
 date: 2025-09-02
 tags:
   - daily
+  - masters-degree
 draft: "false"
 aliases:
 ---

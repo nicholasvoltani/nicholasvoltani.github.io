@@ -1,11 +1,13 @@
 ---
-date: "2025-02-14"
+date: 2025-02-14
 tags:
   - moc
+  - masters-degree
 ---
 
 up:: [[index]] // [[060 MOC Economia]] 
 
+> "Está sendo estressante estar em um 'mar de informações jogadas', num ambiente em que eu tenho de fazer sentido delas, mas é *rewarding*. As coisas estão se encaixando. Muito vai mudar em mim até o final do semestre. Quem dirá do mestrado." (04/04/2025)
 # [[0x51 MOC Dissertação Mestrado]]
 
 # Primeiro semestre (1/4)

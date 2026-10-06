@@ -1,7 +1,8 @@
 ---
-date: "2026-06-07"
+date: 2026-06-07
 tags:
   - daily
+  - masters-degree
 draft: "false"
 aliases:
 ---
@@ -36,7 +37,7 @@ Pasquinelli, portanto, resume que "se o carvão passou a ser utilizado em todo o
 O carvão tornou-se, contudo, mais do que apenas energia abstrata: tornou-se, de fato, uma [[Mercadoria|mercadoria]] com o [[Valor de Uso|valor de uso]] específico de *ser uma fonte de força-motriz* a máquinas-ferramentas[^6], pois, ao contrário da água, que era uma fonte de força-motriz que "vinha fluindo gratuitamente", o carvão tinha de ser "constantemente comprado no mercado" [@Malm2013, p. 29]; o carvão, ao contrário da água, não era dado gratuitamente pela Mãe Natureza, sendo fruto necessariamente do suor e do sofrimento.[^7]
 
 ---
-**Desconsiderar quase tudo abaixo. Desconsidero erroneamente que valor é uma quantidade "social", e analiso o "valor individual que um capitalista emprega/produz", o que é incorreto.**
+==**Desconsiderar quase tudo abaixo. Desconsidero erroneamente que valor é uma quantidade "social", e analiso o "valor individual que um capitalista emprega/produz", o que é incorreto.**==
 
 # Os impactos da maquinaria/mercadoria-energia sobre o processo de produção do capital
 ## [[Produtividade do Trabalho]]

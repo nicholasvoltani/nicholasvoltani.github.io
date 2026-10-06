@@ -2,6 +2,7 @@
 date: 2026-02-09
 tags:
   - economics
+  - masters-degree
 aliases:
 ---
 

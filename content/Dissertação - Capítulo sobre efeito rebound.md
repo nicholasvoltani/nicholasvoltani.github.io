@@ -4,6 +4,7 @@ tags:
   - economics
   - essay
   - marxism
+  - masters-degree
 aliases:
 ---
 

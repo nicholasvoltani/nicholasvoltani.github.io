@@ -2,6 +2,7 @@
 date: 2026-05-13
 tags:
   - daily
+  - masters-degree
 draft: "true"
 aliases:
 ---

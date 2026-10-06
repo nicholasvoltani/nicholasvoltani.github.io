@@ -61,3 +61,19 @@ views:
       note.date: 144
       file.backlinks: 137
       file.links: 285
+  - type: table
+    name: Mestrado
+    filters:
+      and:
+        - file.hasLink("0x5 MOC Mestrado.md")
+    order:
+      - file.name
+      - file.ctime
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.tags
+        direction: ASC
+    columnSize:
+      file.name: 424

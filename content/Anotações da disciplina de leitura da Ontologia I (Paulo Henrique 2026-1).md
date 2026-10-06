@@ -1,7 +1,8 @@
 ---
-date: "2026-07-25"
+date: 2026-07-25
 tags:
   - marxism
+  - masters-degree
 aliases:
 ---
 

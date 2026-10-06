@@ -1,7 +1,8 @@
 ---
-date: "2026-05-27"
+date: 2026-05-27
 tags:
   - daily
+  - masters-degree
 draft: "false"
 aliases:
 ---

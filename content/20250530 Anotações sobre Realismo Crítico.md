@@ -59,10 +59,12 @@ Crítica ao *actualism*: [[Dimensão Real da Realidade]]
 
 A categoria [[Dinheiro]] advém como o *Aufhebung* da contradição entre [[Valor de Uso]] e [[Valor de Troca]], no interior da [[Mercadoria]]: o caráter "mais fundamental" ("menos emergente") do valor de uso 'expulsa' o valor de troca para uma mercadoria em particular (dinheiro). Tudo isso se dá no contexto da **circulação** (mais aparente).
 
-Enquanto a produção possui uma "prioridade ontológica" no tocante ao consumo — num [[processo de produção capitalista|Modo de Produção Capitalista]] —, ambos mediam-se *bajo* **circulação**. Sob circulação, predomina a [[Aparência]] de *igualdade*.
+Enquanto a produção possui uma "prioridade ontológica" no tocante ao consumo — num [[processo de produção capitalista|Modo de Produção Capitalista]][^1] —, ambos mediam-se *bajo* **circulação**. Sob circulação, predomina a [[Aparência]] de *igualdade*.
 
 [[Classe Social|Classes Sociais]] também são categorias que não são empíricas, porém *efetivas* — **reais**. Há, ontologicamente, uma separação dos trabalhadores dos meios de produção; há, ontologicamente, **estranhamento**.
 
 ---
 ### References
 - COLLIER, Andrew. **Critical realism: an introduction to Roy Bhaskar’s philosophy**. Londres: Verso, 1994.
+
+[^1]: 260921: A produção considera *lato sensu* é sempre [[Prioridade Ontológica|ontologicamente prioritária]] com relação à circulação. O que muda no MPK é que **o valor** se torna [[Momento Predominante|momento predominante]] dessa sociedade, por mais que seja o valor de uso das coisas que possua prioridade ontológica sobre ele (e não o contrário).

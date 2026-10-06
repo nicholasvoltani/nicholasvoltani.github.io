@@ -1,0 +1,150 @@
+\documentclass[12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+\usepackage{setspace}
+\onehalfspacing
+
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{mathtools}
+\usepackage{graphicx}
+\usepackage{soul}
+
+\numberwithin{equation}{section}
+
+\theoremstyle{plain}
+\newtheorem{theorem}{Teorema}[section]
+\newtheorem{proposition}[theorem]{Proposição}
+\newtheorem{lemma}[theorem]{Lema}
+\newtheorem{corollary}[theorem]{Corolário}
+\newtheorem{exercise}{Exercício}[section]
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definição}
+\newtheorem{example}[theorem]{Exemplo}
+
+\theoremstyle{remark}
+\newtheorem*{remark}{Observação}
+
+\usepackage{hyperref}
+\usepackage{csquotes}
+
+\usepackage[
+    backend=biber,
+    style=authoryear,
+    maxcitenames=2
+]{biblatex}
+
+\addbibresource{/mnt/c/Users/nicho/Documents/nicholasvoltani.github.io/bibliography.bib}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\pref}{\succeq}
+\newcommand{\strictpref}{\succ}
+\newcommand{\indiff}{\sim}
+
+% Pandoc emits \tightlist for compact (no-blank-line) lists; it's only
+% defined automatically in Pandoc's own template, which we're not using.
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% ------------------------------------------------
+% Title (auto-filled from YAML frontmatter, if present)
+% ------------------------------------------------
+\title{}
+\author{}
+\date{2026-09-12}
+
+\begin{document}
+
+\maketitle
+
+\begin{quote}
+Havia somente um Deus, cujo nome era vapor e que falava com a voz de Malthus, McCulloch e de qualquer um que usasse máquinas. \parencite[p. 294]{Hobsbawm2014}
+\end{quote}
+
+\begin{quote}
+\ldots cantaremos o vibrante fervor noturno dos arsenais e dos estaleiros incendiados por violentas luas elétricas; as estações esganadas, devoradoras de serpentes que fumam; as oficinas penduradas às nuvens pelos fios contorcidos de suas fumaças; as pontes, semelhantes a ginastas gigantes que cavalgam os rios, faiscantes ao sol com um luzir de facas; os piróscafos aventurosos que farejam o horizonte, as locomotivas de largo peito, que pateiam sobre os trilhos, como enormes cavalos de aço enleados de carros; e o voo rasante dos aviões, cuja hélice freme ao vento, como uma bandeira, e parece aplaudir como uma multidão entusiasta. (Marinetti, 1909, \emph{Manifesto Futurista})
+\end{quote}
+
+O conceito moderno de ``energia'', com que se diz que o mundo moderno ``depende de energia para funcionar'', que países possuem ``pobreza energética''\footnote{Hoje em dia, este conceito é relacionado com o 7º objetivo de desenvolvimento sustentável da ONU: ``Assegurar acesso a energia acessível, confiável, sustentável e moderna para todos''.}, etc., tem suas raízes na Revolução Industrial a partir do século XVIII, em particular no século XIX, em que os motores a vapor se tornaram o coração da ``oficina do mundo'' da época: a Inglaterra.
+
+Embora os estudos científicos à época sobre eficiência desses motores tenham se cristalizado na área da Termodinâmica --- literalmente, o estudo do ``movimento do calor'' ---, seu objetivo último sempre foi a descrição da energia enquanto entidade \emph{abstrata}, capaz de descrever cientificamente não só os motores a vapor, como também as demais fontes de força-motriz da indústria.\footnote{Não é à toa, afinal, que dois dos maiores nomes da Termodinâmica são britânicos: James Prescott Joule e Lord Kelvin (William Thomson). Talvez também não seja à toa que seus sobrenomes figuram hoje como unidades do Sistema Internacional de unidades físicas: Joule é uma medida de energia, e Kelvin é uma medida de temperatura.}
+
+Entrementes, a área do Eletromagnetismo se desenvolveu, a princípio tateando através de experimentos, mas, por fim, desembocando na elegante e unificada obra de James Clerk Maxwell, cujas leis são, até hoje, a base fundamental da geração de energia elétrica. Todo gerador elétrico é baseado na chamada Lei de Faraday (ou Lei de Lenz), que representa, matematicamente, como é possível obter força eletromotriz através da variação de fluxo magnético passando por um circuito (de material condutor) fechado.\footnote{Isso é um exercício matemático canônico em todo manual de Física que aborde Eletromagnetismo, e.g. \parencite[pp. 312-321]{Griffiths2013}, \parencite[pp. 67-71]{TongElectromag}.} A grande invenção tecnológica desta área no final do século XIX, o gerador elétrico, ainda assim era subordinada à prevalência do uso de combustíveis para gerar sua força-motriz rotacional inicial,\footnote{Este é uma variação do exercício canônico abordado na nota de rodapé acima, também presente em manuais de Física como os supracitados: se uma espira condutora gira dentro de um campo magnético uniforme, a uma velocidade angular constante, então sua força eletromotriz --- ou seja, a tensão elétrica gerada --- terá a forma de uma função periódica. Esta é a base da geração de tensão elétrica alternada, e é o fundamento de toda geração de ``energia sustentável'', com a exceção da energia solar, que emprega o efeito fotovoltaico (análogo, mas não idêntico, ao efeito fotoelétrico, pelo qual Einstein ganhou o prêmio Nobel em 1921).} requerendo, portanto, mais tempo para figurar no centro do mundo moderno.
+
+Contudo, tais teorias científicas revolucionárias não nos dizem, por si sós, a história toda. Mesmo que a intrepidez humana tenha sido, tanto antes como sempre, indispensável à descoberta e descrição adequada da natureza e de suas legalidades, ela por si só não assegurou a subsistência material desses intrépidos cientistas. Dito de outra forma: por mais que as leis naturais por eles descobertas sejam universais e anistóricas,\footnote{As legalidades \emph{naturais}, destaque-se. Aqui não se alega, como os positivistas o fazem, que as legalidades \emph{sociais} também sejam universais e anhistóricas.} seus descobridores foram sujeitos singulares imersos em um contexto histórico particular: o desenvolvimento do capitalismo enquanto modo de produção mundialmente hegemônico.
+
+O propósito do presente trabalho não é de abordar a energia enquanto conceito meramente físico, e sim enquanto um \emph{momento subordinado do capital}. A exposição acima cumpre o papel de mostrar o contexto histórico em que isso veio a ser. Cabe, agora, analisar sua importância ``sob o ponto de vista'' do capital, isto é, compreender como esta sobredeterminação do conceito ``energia'' veio-a-ser enquanto consequência necessária da dinâmica imanente do capital.
+
+\hypertarget{a}{%
+\section{a}\label{a}}
+
+O presente trabalho, portanto, tem seus pés bem fincados sobre o mundo em que a produção material busca a satisfação de necessidades \emph{de outrem}, e em que todos os produtos do trabalho chegam a seus usuários finais por meio do mercado --- em suma, a presente análise diz respeito ao mundo erigido sobre o modo de produção capitalista. Dessa forma, pressupor-se-á a extensa análise que Karl Marx fez sobre este modo de produção, em sua \emph{magnus opus}, \emph{O Capital}. Tal ``escolha teórica'', porém, não é arbitrária.
+
+Justamente pelo ``primeiro ato histórico'' consistir na reprodução do ser humano enquanto gênero --- que pressupõe, claro, sua reprodução enquanto indivíduo singular\footnote{``\ldots{} devemos começar por constatar o primeiro pressuposto de toda a existência humana e também, portanto, de toda a história, a saber, o pressuposto de que os homens têm de estar em condições de viver para poder `fazer história'. Mas, para viver, precisa-se, antes de tudo, de comida, bebida, moradia, vestimenta e algumas coisas mais. O primeiro ato histórico é, pois, a produção dos meios para a satisfação dessas necessidades, a produção da própria vida material, e este é, sem dúvida, um ato histórico, uma condição fundamental de toda a história, que ainda hoje, assim como há milênios, tem de ser cumprida diariamente, a cada hora, simplesmente para manter os homens vivos.'' \parencite[p. 32-3]{Marx2007}} ---, é a esfera da \emph{produção} que possui prioridade ontológica na totalidade da vida humana. O ser humano devém algo além de um mero animal quando se apodera, \emph{deliberada e premeditadamente}, das legalidades naturais enquanto meios para seus fins próprios. Neste ínterim, chama-se de \emph{trabalho} o ato de se valer de tais legalidades naturais para a satisfação de suas necessidades próprias.\footnote{Isso não é uma escolha terminológica arbitrária da tradição marxista, sendo algo já reconhecido por exemplares da Economia Política clássica, por exemplo \emph{vide} John Stuart Mill: ``\ldots{} os objetos fornecidos pela natureza só servem às necessidades humanas após passarem por algum grau de transformação resultante do esforço humano. {[}\ldots{]} A extensão da transformação que as substâncias naturais sofrem antes de adquirirem a forma em que são diretamente utilizadas pelo ser humano varia desde esse grau, ou um nível ainda menor, de alteração na natureza e na aparência do objeto, até uma mudança tão completa que não resta qualquer vestígio perceptível de sua forma e estrutura originais.'' \parencite[p. 46]{Mill1909}; ``Se examinarmos qualquer outro caso do que se chama ação do homem sobre a natureza, descobriremos, da mesma forma, que as forças da natureza --- ou, em outras palavras, as propriedades da matéria --- realizam todo o trabalho, uma vez que os objetos sejam colocados na posição correta. Essa única operação --- a de colocar as coisas em locais adequados para sofrerem a ação de suas próprias forças internas e daquelas inerentes a outros objetos naturais --- é tudo o que o homem faz, ou pode fazer, com a matéria. {[}\ldots{]} O trabalho, portanto, no mundo físico, é sempre e exclusivamente empregado para colocar objetos em movimento; as propriedades da matéria e as leis da natureza encarregam-se do restante. {[}\ldots{]}'' \parencite[p. 48]{Mill1909}} É neste sentido, portanto, que Marx afirma que o trabalho é
+
+\begin{quote}
+uma condição de existência do homem, independente de todas as formas sociais, eterna necessidade natural de mediação do metabolismo entre homem e natureza \parencite[p. 120]{Marx2017}
+\end{quote}
+
+Dessa forma, o trabalho \emph{em geral} é uma característica anistórica do ser \emph{humano}:
+
+\begin{quote}
+o trabalho é antes de tudo, em termos genéticos, o ponto de partida para o tornar-se homem do homem, para a formação das suas faculdades, sendo que jamais se deve esquecer o domínio sobre si mesmo. Além do mais, o trabalho se apresenta, por um longo tempo, como o único âmbito desse desenvolvimento; todas as demais formas de atividade do homem, ligadas aos diversos valores, só se podem apresentar como autônomas depois que o trabalho atinge um nível relativamente elevado \parencite[p. 348]{Lukacs2012}
+\end{quote}
+
+A sociedade capitalista tem como particularidade o fato de o trabalho devir um \emph{momento predominante} da totalidade social, embora não o trabalho \emph{em geral}, e sim o trabalho \emph{abstrato}. Marx chama de trabalho abstrato o mero ``dispêndio de força humana de trabalho'', ``dispêndio produtivo de cérebro, músculos, nervos, mãos etc. humanos'' \parencite[p. 121]{Marx2017}, que é ``o que resta'' na comparação entre os diversos trabalhos particulares.\footnote{``Essas coisas representam apenas o fato de que em sua produção'' (das mercadorias) ``foi despendida força de trabalho humana, foi acumulado trabalho humano. Como cristais dessa substância social que lhes é comum, elas são valores -- valores de mercadorias.'' \parencite[p. 116]{Marx2017}.} Estes produtos, vistos enquanto portadores desta ``substância social comum'', possuem não somente valor de uso\footnote{``A utilidade de uma coisa faz dela um valor de uso'' \parencite[p. 114]{Marx2017}.}, como são também detentores de \emph{valor}. Quanto a isso, Marx o coloca sinteticamente:
+
+\begin{quote}
+Os homens não relacionam entre si seus produtos do trabalho como valores por considerarem essas coisas mero invólucros materiais de trabalho humano do mesmo tipo. Ao contrário. \emph{Porque} equiparam entre si seus produtos de diferentes tipos na troca, como valores, eles equiparam entre si seus diferentes trabalhos como trabalho humano. \parencite[p. 149, grifo meu]{Marx2017}
+\end{quote}
+
+Trabalho abstrato deve ser entendido, portanto, como uma \emph{abstração real}, empreendida efetivamente a todos os instantes através do metabolismo da sociedade capitalista, através das trocas de produtos dos mais variegados tipos particulares de trabalho. É na sociedade em que se \emph{produz para vender}, a ``sociedade mercantil'', que se pode entrever a substância comum da infinita variedade de trabalhos humanos, justamente porque (no limite ideal) todos estes produtos são levados ao mercado e são comparados entre si. Contudo, por mais que esta abstração seja \emph{real}, efetiva na realidade concreta, sua apreensão ainda tem de ser feita \emph{idealmente}; o realidade concreta tem de ser reproduzida enquanto ``concreto no pensamento'' para que seja devidamente apreendida em sua totalidade. Prado sintetiza bem a apreensão da mercadoria, a ``forma elementar'' do modo de produção capitalista, enquanto uma unidade inerentemente contraditória:
+
+\begin{quote}
+``O trabalho aparece de imediato como atividade específica, ou seja, como trabalho de marceneiro, pedreiro, cozinheiro etc., que produz valor{[}es{]} de uso distintos, móvel, casa, comida etc., mas não é como tal que ele comparece nos valores de troca. Como pensar o trabalho para além do trabalho concreto que produz de valor de uso? Ora, o entendimento também não pode pensar o trabalho como uma substância social{[},{]} já que para chegar a ela \emph{é preciso negar as formas aparentes para apresentar uma essência} {[}\ldots{]} Agora, a mercadoria não se apresenta mais como valor de uso e valor de troca, mas como valor de uso (aparência) e valor (essência), ou seja, ela se mostra como uma coisa inerentemente contraditória'' \parencite[p. 4, grifo meu]{Prado2026}.
+\end{quote}
+
+É por isso, no fim das contas, que a análise dos economistas da energia até agora abordados sempre tem de remeter à eficiência \emph{econômica} da energia: não (só) porque é a forma metodologicamente mais simples de abordar a questão da eficiência energética, mas (principalmente) porque a linguagem do mundo do capital tem como seus substantivos as mercadorias (``bens e serviços''), e como qualificativos os seus preços. O confrontamento do capital com problemas qualitativos necessariamente tem de remetê-los à sua quantificação em mercadorias e preços, justamente porque ele não pode subsumi-los senão enquanto \emph{valor}, enquanto ``massa amorfa de trabalho humano indiferenciado''.\footnote{\parencite[p. 116]{Marx2017}.}
+
+Mas o que é ``capital'', no fim das contas? No capítulo ``\emph{A transformação do dinheiro em capital}'' do livro I d'\emph{O Capital}, Marx elabora que, na circulação $D-M-D$, em que se compra ($D-M$) para vender posteriormente ($M-D$), ``mercadoria e dinheiro funcionam apenas como \emph{modos diversos de existência do próprio valor}: o dinheiro como seu modo de existência \emph{universal}, a mercadoria como seu modo de existência \emph{particular}, por assim dizer, disfarçado'' \parencite[p. 229, grifo meu]{Marx2017}; é por passar ``constantemente de uma forma a outra, sem se perder nesse movimento'' que o valor ``transforma-se em sujeito automático do processo'' (ibid., p.~229-30). Porém, quando, \emph{através deste próprio movimento}, o valor consegue devir \emph{mais-valor}, dizemos então que não é somente valor --- é, também, \emph{capital}. ``O valor se torna, assim, valor em processo, dinheiro em processo e, como tal, capital.'' \parencite[p. 231]{Marx2017}
+
+Marx conclui que, embora o valor consiga aparecer valorizado na esfera da circulação, ele \emph{não pode} fazê-lo exclusivamente neste âmbito, pois, por mais que ele transite entre sua forma-dinheiro e sua forma-mercadoria, não é através dessas metamorfoses que ele consegue aumentar em magnitude. Faz-se necessário considerar seu movimento \emph{fora desta esfera}, porém ainda dentro de seu movimento total; faz-se necessário encontrar o momento de sua dinâmica que precede sua circulação e que dela decorra como consequência: a esfera da produção. Assim, capital não é meramente dinheiro, mas sim \emph{dinheiro que busca ser mais-dinheiro}; não é meramente mercadorias, mas sim mercadorias \emph{que serão vendidas}.\footnote{``O capitalista sabe que toda mercadoria, por mais miserável que seja sua aparência ou por pior que seja seu cheiro, é dinheiro, não só em sua fé, mas também na realidade'' \parencite[p. 230]{Marx2017}.}; e, no que tange à esfera da produção, não é meramente meios de produção, mas sim meios de produção \emph{para produzir mercadorias para a venda}. O capital assume a forma-dinheiro para comprar seus meios de produção;\footnote{``Como a mercadoria desaparece ao se transformar em dinheiro, neste não se percebe como ele chegou às mãos de seu possuidor ou qual mercadoria foi nele transformada. O dinheiro \emph{non olet} {[}não fede{]}, seja qual for sua origem. Se{[},{]} por um lado{[},{]} ele representa mercadoria vendida, por outro representa mercadorias compráveis.'' \parencite[p. 184]{Marx2017}} assume a forma-produção para produzir mercadorias;\footnote{``Os elementos-mercadorias {[}$FT${]} e $Mp$, que constituem o capital produtivo $P$, não possuem, como modos de existência de $P$, a mesma forma que ostentam nos diferentes mercados de mercadorias nos quais são adquiridos. Eles estão agora \emph{reunidos} e, \emph{nessa conexão, podem funcionar como capital produtivo}.'' {[}\textcite{Marx2014}, p.~174; grifo meu{]}} assume a forma-mercadoria para ser vendido e retornar à forma-dinheiro, e assim sucessivamente, \emph{conquanto consiga valorizar-se mais e mais}.
+
+Marx chama de ``capital industrial'' o movimento do qual a circulação e a produção de mercadorias são momentos subordinados. Como Marx o coloca,
+
+\begin{quote}
+``As duas formas que o valor de capital assume no interior de seus estágios de circulação são a de \emph{capital {[}dinheiro{]}} e \emph{capital-mercadoria}; sua forma própria ao estágio da produção é a de \emph{capital produtivo}. O capital, que no percurso de seu ciclo total assume e abandona de novo essas formas, cumprindo em cada uma delas sua função correspondente, é o \emph{capital industrial} --- industrial, aqui, no sentido de que ele abrange todo ramo de produção explorado de modo capitalista.'' \parencite[p. 131]{Marx2014}
+\end{quote}
+
+Vale destacar que capital industrial, tanto aqui quanto em Marx, \emph{não} se trata do capital \emph{no setor industrial da economia}, contraposto, por exemplo, ao capital na ``esfera financeira'', comumente chamado de ``capital financeiro''. Trata-se da dinâmica total de produção e reprodução do capital, do processo do capital em sua totalidade, no qual as esferas da produção e da circulação dos produtos do trabalho humano tornam-se momentos subordinados de \emph{sua própria} produção e circulação.
+
+Dessa forma, não pode ser capital conquanto não esteja \emph{in motu}, em expansão. Ou seja, não pode subsumir quaisquer problemáticas sociais se elas forem antitéticas ao seu conteúdo imanente, ao seu ímpeto motriz, ao seu \emph{éthos} de autoafirmação enquanto valor que se valoriza. Assim, a temática ecológica, ao confrontar a lei do valor, aparece como ``inadequada'' no mundo em que o capital impera como \emph{dominus}. Enfim, não é casual que este mundo seja chamado de sociedade \emph{capitalista}: seu poder e vontade dizem sempre respeito ao capital, ou melhor, \emph{são} do capital. É à \emph{ética do capital} que o mundo social passa a remeter suas atividades e mensurar sua ``adequabilidade'', ou melhor, quão ``inadequadas'' essas atividades são ou não são.\footnote{``Podemos, finalmente, concluir que, para Marx, a sociedade do capital é, na verdade, a sociedade do trabalho estranhado (capital) e de sua moral. Como em toda moral, a moral do capital envolve um conjunto de deveres ser. Como sempre, o dever ser correspondente depende da condição particular em que se encontram os indivíduos concretamente existentes. No caso da sociedade capitalista, a condição de classe, por ser determinante direto da condição econômica particular dos indivíduos, torna-se o elemento fundamental na determinação do dever ser correspondente à realização do Valor. Para a classe trabalhadora, a realização do Valor exige o comportamento adequado ao aproveitamento pelo capital (ou seja, o enfrentamento da concorrência entre os trabalhadores no mercado de trabalho). Para a classe capitalista, exige-se o comportamento adequado para a reprodução ampliada (concorrência entre capitais).'' \parencite[p. 330]{Medeiros2013a} Dessa forma, ``a ninguém, nesta forma de sociedade, é dado o direito ou a liberdade de se opor ao movimento dinâmico do capital, sob a pena da perda da condição social e, no limite, física.'' (ibid.)}
+
+Porém, como asseverado no capítulo anterior, a análise do capital industrial requer que seus momentos parciais sejam estudados detidamente, a fim de que seu conteúdo possa ser apreendido em todas suas determinações e inter-relações entre seus momentos. Neste capítulo, focaremos, como Marx o fez no livro I, na esfera da produção de capital.
+
+\%\% Para que o valor possa devir capital, muitas circunstâncias socioeconômicas, políticas, estruturais etc. são necessárias. \emph{Vide} Grespan, ``{[}e{]}ssencialmente, ele {[}o capital{]} é a relação social que exclui a força de trabalho da propriedade dos meios de produção e a inclui no processo de valorização como um \emph{recurso subordinado}'' \parencite[p. 49, grifo meu]{Grespan2021}. E \emph{vide} Marx:
+
+\begin{quote}
+O capital, como valor que valoriza a si mesmo, não encerra apenas relações de classes, um caráter social determinado e que repousa sobre a existência do trabalho como trabalho assalariado. Ele é um movimento, um processo cíclico que percorre diferentes estágios e, por sua vez, encerra três formas distintas do processo cíclico {[}capital-dinheiro, capital produtivo e capital-mercadoria{]}. Por isso, ele só pode ser compreendido como movimento, e não como coisa imóvel. Aqueles que consideram a autonomização do valor uma mera abstração esquecem que o movimento do capital industrial é essa mesma abstração \emph{in actu}. \parencite[p. 184]{Marx2014}
+\end{quote}
+
+\%\% \# A produção de capital Para compreender o capital em seu processo de produção ``sem perturbações'', abstraímos de sua passagem pela esfera da circulação, com o que pressupomos, em particular, que tudo que ele produz seja efetivado, de tal forma que a produção não se veja impedida por ``fatores exógenos''. Pressupomos, ademais, que todos seus produtos sejam vendidos por seus valores, a fim de que as conclusões aqui obtidas digam respeito exclusivamente às consequências advindas \emph{deste} momento particular do capital industrial.
+
+Todo capitalista sabe que a produção de mercadorias, ou ``bens e serviços'' no linguajar atual, requer a aquisição de ``fatores de produção'': máquinas, matérias-primas, contratação de força de trabalho etc. No que diz respeito à produção de capital --- i.e.~do momento de sua dinâmica na qual ele produz mercadorias e, neste fazer, valoriza seu próprio valor pressuposto ---, estes fatores tornam-se suas ``formas de existência'' neste processo. Porém, tratam-se de fatores qualitativamente diferentes no que diz respeito à produção de valor: os meios de produção que emprega --- matérias-primas, matérias auxiliares e meios de trabalho --- meramente transferem seu valor próprio, enquanto somente a força de trabalho que ele contrata é capaz de \emph{produzir} valor. Conquanto tais fatores são parte componente do processo de produção do capital, eles também agem como capital, i.e.~são partes componentes do capital-produtivo, e Marx chama-os de \emph{capital constante} e \emph{capital variável}, respectivamente.\footnote{Vide \parencite[p. 286]{Marx2017}: ``\ldots{} a parte do capital que se converte em meios de produção, isto é, em matérias-primas, matérias auxiliares e meios de trabalho, não altera sua grandeza de valor no processo de produção. Por essa razão, denomino-a parte constante do capital, ou, mais sucintamente: capital constante.''; ``\ldots{} a parte do capital constituída de força de trabalho modifica seu valor no processo de produção. Ela não só reproduz o equivalente de seu próprio valor, como produz um excedente, um mais-valor, que pode variar, sendo maior ou menor de acordo com as circunstâncias''.}
+
+Como a medida do valor de uma mercadoria é o tempo de trabalho socialmente necessário para a sua produção,\footnote{``Tempo de trabalho socialmente necessário é aquele requerido para produzir um valor de uso sob as \emph{condições normais} para uma dada sociedade e com o grau \emph{médio} de destreza e intensidade do trabalho.'' \parencite[p. 117, grifo meu]{Marx2017}} e como o capital constante meramente \emph{transfere} seu valor ao produto final, então é o capital variável que dita a variabilidade de valor na produção das mercadorias.
+
+\%\% Capital não se restringe a trabalho e meios de produção.\footnote{``\ldots não é verdade que o entendimento científico em Economia trata o capital como coisa, como máquina, instalações, etc.? E que, ao fazê-lo, concebe aquilo que se desenvolve infinitamente como algo meramente posto, limitado e finito?'' \parencite[p. 10]{Prado2009a}.} \%\%
+
+\%\% ``Conhecemos, agora, a \emph{substância} do valor: ela é o \emph{trabalho}. Conhecemos sua \emph{medida de grandeza}: ela é o \emph{tempo de trabalho}. Resta analisar sua \emph{forma}, que fixa o \emph{valor} precisamente como \emph{valor de troca}.'' \parencite[p. 118, n. ***]{Marx2017}. \%\%
+
+O capitalista, por sorte, pode delegar a Física aos físicos e às conversas de bar, ocupando sua mente com o mais importante: ser um homem (ou mulher) eminentemente prático, ``que nem sempre sabe o que diz quando se encontra fora do seu negócio, mas {[}que{]} sabe muito bem o que faz dentro dele''.\footnote{\parencite[p. 269]{Marx2017}.} Os mistérios do universo não lhe importam senão como capricho; o que lhe importa, isso sim, é como tais forças naturais podem ser domadas e dobradas para dentro de seu bolso.
+
+\printbibliography
+
+\end{document}

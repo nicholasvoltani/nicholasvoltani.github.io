@@ -1,7 +1,8 @@
 ---
-date: "2025-05-16"
+date: 2025-05-16
 tags:
   - economics
+  - masters-degree
 aliases:
 ---
 

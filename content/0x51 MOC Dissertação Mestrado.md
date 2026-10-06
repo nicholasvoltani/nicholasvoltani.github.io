@@ -1,8 +1,9 @@
 ---
-date: "2025-09-03"
+date: 2025-09-03
 tags:
   - moc
   - excalidraw
+  - masters-degree
 excalidraw-plugin: parsed
 ---
 
@@ -17,17 +18,16 @@ O tema da minha dissertação de mestrado se trata sobre o [[Postulado de Khazzo
 
 # [[0x51a MOC Revisão de Literatura Rebound-Backfire Effect]]
 
-# Textos menos mal-acabados/mais bem-acabados
+# Conceitos importantes
 - [[Mercadoria-Energia]]
-	- [[Esboço de capital sobre mercadoria-energia como capital circulante]]
-		- [[20260527 Anotações sobre mercadoria-energia e aceleração de produção de capital]]
-		- [[20260607 Mercadoria-energia e seu papel no processo de produção do capital]]
-- Sobre [[Produtividade do Trabalho]], [[Intensidade do Trabalho]] e [[Eficiência (Marx)]]
+	- [[Esboço de capital sobre mercadoria-energia como capital circulante]] ==Revisar cálculos de produtividade==
+- [[Produtividade do Trabalho]]
+- [[Intensidade do Trabalho]]
+- [[Eficiência (Marx)]]
 
 # Capítulos
+- [[Dissertação - Introdução]]
 - [[Dissertação - Capítulo sobre efeito rebound]]
-	- [[20260831 Anotações capítulo 1]]
-	- [[20260902 Anotações consumo-produção energéticos]]
 - [[Dissertação - Capítulo-interlúdio sobre crítica ontológica]]
 - [[Dissertação - Capítulo sobre produção de capital]]
 
@@ -38,9 +38,16 @@ O tema da minha dissertação de mestrado se trata sobre o [[Postulado de Khazzo
 - [[20260223 Anotações sobre The Eye of the Master]]
 - [[20260304 Conversa Eduardo]]
 - [[20260513 Conversa Eduardo]]
+- [[20260527 Anotações sobre mercadoria-energia e aceleração de produção de capital]]
+- [[20260607 Mercadoria-energia e seu papel no processo de produção do capital]]
 - [[20260709 Conversa Eduardo]]
 - [[20260715 Brainstorm sobre trabalho Carcanholo]]
 - [[20260811 Conversa Eduardo]]
+- [[20260831 Anotações capítulo 1]]
+- [[20260902 Anotações consumo-produção energéticos]]
+- [[20260907 Anotações sobre crítica ontológica]]
+- [[20260916 Anotações sobre maquinaria]]
+
 
 
 

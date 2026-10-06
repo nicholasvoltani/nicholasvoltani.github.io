@@ -1,8 +1,8 @@
 ---
 date: 2024-07-27
 tags:
-  - economics
   - moc
+  - economics
 ---
 up:: [[060 MOC Economia]]
 

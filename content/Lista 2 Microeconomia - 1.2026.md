@@ -1,7 +1,8 @@
 ---
-date: "2026-02-24"
+date: 2026-02-24
 tags:
   - economics
+  - masters-degree
 aliases:
 ---
 
