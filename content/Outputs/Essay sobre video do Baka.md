@@ -5,7 +5,7 @@ tags:
   - to-be-elaborated
 draft: "true"
 ---
-up:: 
+up:: [[index]]
 
 # Brain dump
 [[A Ciência é uma representação da realidade através de categorias humanamente pertinentes]]

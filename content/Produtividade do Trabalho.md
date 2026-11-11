@@ -10,7 +10,7 @@ up:: [[011a MOC Capital I]]
 
 > "[A] produtividade sempre diz respeito ao trabalho. O nível de produtividade nos informa uma determinada relação entre o trabalho vivo executado e o produto."
 > 
-> "O ganho de produtividade refere-se à diminuição do trabalho vivo exigido para produzir-se uma mercadoria (ou qualquer quantidade determinada de mercadorias). Como estão abstraídas [a princípio] variações de eficiência, o conjunto de matérias-primas e matérias auxiliares consumidos continua sendo o mesmo para qualquer nível dado de produção." (Sá Barreto, 2021, p. 233)
+> "O ganho de produtividade refere-se à diminuição do trabalho vivo exigido para produzir-se uma mercadoria (ou qualquer quantidade determinada de mercadorias). Como estão abstraídas [a princípio] variações de eficiência, o conjunto de matérias-primas e matérias auxiliares consumidos continua sendo o mesmo para qualquer nível dado de produção." [@SaBarreto2021a, p. 233]
 
 > "Abstraindo das condições naturais, como fertilidade do solo etc. (...), o grau social de produtividade do trabalho se expressa no volume relativo dos meios de produção que um trabalhador transforma em produto **durante um tempo dado**, com a mesma tensão da força de trabalho. A massa dos meios de produção com que ele opera aumenta com a produtividade do trabalho. (...) ...o volume crescente dos meios de produção *em comparação com a força de trabalho neles incorporada* expressa a produtividade crescente do trabalho. O aumento desta última [produtividade do trabalho] aparece, portanto, na diminuição da massa de trabalho *proporcionalmente à massa de meios de produção* que ela movimenta[,] ou na diminuição do fator subjetivo do processo de trabalho em comparação com seus fatores objetivos." (Marx, 2017, p. 698-9; grifo meu)
 
@@ -20,12 +20,11 @@ No que tange a certo capital que empregue [[Capital Constante]] de valor $c$ e [
 
 Por exemplo, suponha-se que a média social em certo setor é de produzir $M$ mercadorias em certo período de tempo $\Delta t$, empregando $c$ de constante e $v$ de variável. A produtividade média, portanto, é de $\frac{M}{\Delta t}$ mercadorias por tempo, empregando $c$ e $v$ neste ínterim.
 
-Caso algum capital possua produtividade (do trabalho) maior que a média, então ele empregará $\lambda v$, com $\lambda \in (0,1)$, *ceteris paribus*: ele ainda produzirá $M$ mercadorias em $\Delta t$, ainda empregará $c$ de MP, mas requerirá *menos* força de trabalho para mobilizar $c$ e produzir $M$. 
 
 
 %%
 # Relação com COC
-#to-be-elaborated  Há uma relação intrínseca com a [[Composição Orgânica do Capital]] $\frac{c}{v}$: conforme $\frac{c}{v}$ aumenta, aumenta a produtividade do trabalho. Portanto, está diretamente relacionada com o aumento do [[Exército Industrial de Reserva (Sobrepopulação Relativa)]], porquanto "libera" trabalho.
+Há uma relação intrínseca com a [[Composição Orgânica do Capital]] $\frac{c}{v}$: conforme $\frac{c}{v}$ aumenta, aumenta a produtividade do trabalho. Portanto, está diretamente relacionada com o aumento do [[Exército Industrial de Reserva (Sobrepopulação Relativa)]], porquanto "libera" trabalho.
 %%
 
 %%

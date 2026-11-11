@@ -47,6 +47,10 @@ O tema da minha dissertação de mestrado se trata sobre o [[Postulado de Khazzo
 - [[20260902 Anotações consumo-produção energéticos]]
 - [[20260907 Anotações sobre crítica ontológica]]
 - [[20260916 Anotações sobre maquinaria]]
+- [[20261014 Anotações de cadernos e ideias para dissertação]]
+- [[20261017 Anotações sobre dados energia]]
+- [[20261029 Conversa Edu]]
+- [[20261106 Cap produção dissertação]]
 
 
 

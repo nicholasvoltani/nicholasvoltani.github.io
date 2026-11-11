@@ -5,6 +5,8 @@ tags:
   - marxism
 aliases:
   - Salários
+  - salário
+  - salários
 ---
 
 up:: [[011a MOC Capital I]]
