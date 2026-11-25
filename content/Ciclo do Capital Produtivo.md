@@ -10,7 +10,7 @@ up:: [[011b MOC Capital II]]
 
 <!-- https://q.uiver.app/#q=WzAsNCxbMSwwLCJQIl0sWzIsMSwiTSciXSxbMSwyLCJEIl0sWzAsMSwiTSJdLFswLDEsIiIsMyx7ImN1cnZlIjotMiwic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV0sWzEsMiwiIiwzLHsiY3VydmUiOi0yfV0sWzIsMywiIiwzLHsiY3VydmUiOi0yfV0sWzMsMCwiIiwzLHsiY3VydmUiOi0yLCJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifX19XV0= --> <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMSwwLCJQIl0sWzIsMSwiTSciXSxbMSwyLCJEIl0sWzAsMSwiTSJdLFswLDEsIiIsMyx7ImN1cnZlIjotMiwic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV0sWzEsMiwiIiwzLHsiY3VydmUiOi0yfV0sWzIsMywiIiwzLHsiY3VydmUiOi0yfV0sWzMsMCwiIiwzLHsiY3VydmUiOi0yLCJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifX19XV0=&embed" width="300" height="300" style="border-radius: 8px; border: none;"></iframe>
 
-Para que seja [[capital]], faz-se necessário que o [[Dinheiro]] vindo da venda da [[Mercadoria]] [[processo de produção capitalista|produzida]] re-transforme-se em mercadorias. Porém, não pode transformar-se em quaisquer mercadorias; tem de transformar-se em mercadorias *que gerem valor*: [[Força de Trabalho]] e [[meios de produção]]. Quando assume estas formas, o [[Capital-Dinheiro]] transforma-se em [[Capital Produtivo]]. Como [[O capital só pode efetivar-se através de seu constante mudar de formas]], ele o faz somente para retransformar-se novamente depois, em [[Capital-Mercadoria]] que será vendido etc.
+Para que seja [[capital]], faz-se necessário que o [[Dinheiro]] vindo da venda da [[Mercadoria]] [[processo de produção capitalista|produzida]] re-transforme-se em mercadorias. Porém, não pode transformar-se em quaisquer mercadorias; tem de transformar-se em mercadorias *que gerem valor*: [[Força de Trabalho]] e [[meios de produção]]. Quando assume estas formas, o [[Capital-Dinheiro]] transforma-se em [[Capital Produtivo]]. Como [[O capital só pode se efetivar através de seu constante mudar de formas]], ele o faz somente para retransformar-se novamente depois, em [[Capital-Mercadoria]] que será vendido etc.
 
 Neste ciclo, ao contrário do [[Ciclo do Capital-Dinheiro]], é a *circulação* que *aparece* como a mediadora da produção.[^1] Em símbolos, pode ser descrito como:
 $$
@@ -18,6 +18,7 @@ P \dots M' - D' - M \dots P
 $$
 
 Neste ciclo, ao contrário do ciclo do capital-dinheiro, se faz necessário indicar qual parte de $D' = D + d$ — pois veio de uma produção prévia — será reinvestido no (próximo) processo de produção. Logo, pode-se destrinchar este diagrama para que fiquem claros os consumos produtivos e improdutivos.[^2]
+
 $$
 P \dots M'
 \begin{pmatrix}
@@ -25,25 +26,27 @@ M \\
 + \\
 m
 \end{pmatrix}
-
-\begin{align*}
-& ———\\
-&-D'-\\
-&———
-\end{align*}
- 
+\quad
+\begin{array}{c}
+\rule{1.8cm}{0.4pt} \\
+-D'- \\
+\rule{1.8cm}{0.4pt}
+\end{array}
+\quad
 \begin{pmatrix}
-D \\ 
+D \\
 + \\
 d
 \end{pmatrix}
-
+\quad
 \begin{matrix}
-- M <^{FT}_{Mp} \dots P\\ 
- \\
+- M \mathrel{<^{FT}_{Mp}} \dots P \\
+\\
 - m \hspace{23mm}
 \end{matrix}
 $$
+
+
 Pressupondo uma [[Reprodução Simples do Capital]], o ciclo do capital produtivo *aparece* como os [[Ciclo M─D─M|Ciclos M—D—M e m—d—m]], ou seja, circulação simples de mercadorias! Dessa forma,
 > "torna-se fácil conceber o processo capitalista de produção, como o faz a economia vulgar, como simples produção de mercadorias, de valores de uso destinados a um tipo qualquer de consumo, *que o capitalista só produz para substitui-los ou trocá-los por mercadorias de outro valor de uso*, conforme erroneamente se afirma na economia vulgar" (MARX, p. 148; grifo meu)
 
@@ -62,22 +65,19 @@ M \\
 + \\
 m
 \end{pmatrix}
-
-\begin{align*}
-& ——\\
-&-D'\\
-&——
-\end{align*}
- 
+\begin{array}{c}
+\rule{1.2cm}{0.4pt} \\
+-D' \\
+\rule{1.2cm}{0.4pt}
+\end{array}
 \begin{pmatrix}
-D + \alpha d \\ 
+D + \alpha d \\
 + \\
 (1-\alpha) d
 \end{pmatrix}
-
 \begin{matrix}
-- M <^{FT}_{Mp} \dots P\\ 
- \\
+- M <^{FT}_{Mp} \dots P \\
+\\
 - m \hspace{23mm}
 \end{matrix}
 $$

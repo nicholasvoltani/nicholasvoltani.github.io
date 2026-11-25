@@ -12,7 +12,7 @@ related:: [[070 MOC Philosophy]]
 
 # Seção I: As metamorfoses do [[capital]] e seu ciclo
 - [[Capital Industrial]]
-	- [[O capital só pode efetivar-se através de seu constante mudar de formas]]
+	- [[O capital só pode se efetivar através de seu constante mudar de formas]]
 - [[Capital-Dinheiro]]
 	- [[Ciclo do Capital-Dinheiro]]
 	- [[O livre funcionamento do capital depende da criação da classe de assalariados]] // [[A forma-mercadoria avança conforme a força de trabalho consolida-se como mercadoria]]

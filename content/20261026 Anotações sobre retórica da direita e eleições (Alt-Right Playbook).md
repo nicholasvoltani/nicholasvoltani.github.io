@@ -11,7 +11,6 @@ up:: [[099 MOC Rascunhos|099 MOC Anotações]]
 > ...the rhetoric of the alt-right is designed to proliferate *beyond* them as a group. It is meant to convert conservatives into reactionaries, and it is meant to make reactionaries *palatable* to the Republican party. It's a mix of exploits to liberal tactics, conservative talking points co-opted and weaponized to their own purposes, and new techniques they hope will be unwittingly picked up by folks outside their sphere. ([Endnote 1: What I Mean When I Say "The Right" (01:06)](https://youtu.be/51a4N_qv-u0?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&t=66))
 
 
-
 # Falácias/estratégias comuns (Alt-Right Playbook)
 - *Control the conversation*
 - *Moving the goal posts*/*Raising the bar*
@@ -22,7 +21,7 @@ up:: [[099 MOC Rascunhos|099 MOC Anotações]]
 [The Alt-Right Playbook: Control the Conversation - YouTube](https://www.youtube.com/watch?v=CaPgDQkmqqM&list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&index=2)
 
 - Alcançar um acordo em um debate é igual à **derrota**
-		- Ou seja, **o objetivo de um debate não é mais sobre concordância — e sim sobre *discordância* e *vitória em números*** 
+	- Ou seja, **o objetivo de um debate não é mais sobre concordância — e sim sobre *discordância* e *vitória em números*** 
 - O objetivo não é alcançar a verdade, e sim ***se destacar***
 	- É por isso que é importante achar pontos em que ambas as partes (em um debate) **discordam fundamentalmente**
 	- É por isso que é importante achar pontos que **sejam imediatamente chamativos/certos** — "*moral certainty*" tem mais apelo, não precisa chegar ao "cérebro racional", afetos têm mais influência imediata etc
@@ -30,7 +29,7 @@ up:: [[099 MOC Rascunhos|099 MOC Anotações]]
 
 > Se, por cortesia, ele [o antissemita] consente em defender seu ponto de vista por um momento, é para se prestar, não para se entregar. [@Sartre1995, p. 13-4]
 
-O problema aqui é justamente que a (extrema-)direita busca transformar a discussão em uma mera questão **narrativa**: o objeto *em si* não importa mais, e sim a **discussão** sobre ele. É por isso que cair no seu jogo, buscando encontrar contradições em *seus* argumentos, não ajuda em nada: "desde o início, ele escolheu desvalorizar as palavras e as razões" [@Sartre1995, p. 13]
+O problema aqui é justamente que a (extrema-)direita busca transformar a discussão em uma mera questão **narrativa**: o objeto *em si* não importa mais, e sim a **discussão** sobre ele. É por isso que cair no seu jogo, buscando encontrar contradições em *seus* argumentos, não ajuda em nada: "desde o início, ele escolheu desvalorizar as palavras e as razões" [@Sartre1995, p. 13].
 
 # Never play defense
 [The Alt-Right Playbook: Never Play Defense - YouTube](https://www.youtube.com/watch?v=wmVkJvieaOA&list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&index=3)
@@ -91,6 +90,42 @@ Durante o governo Bolsonaro (2018-2022), muito foi feito no sentido de deslocar 
 
 > When one party can be relied on to do the exact opposite of your worst behavior, good strategy is to do to them, as destructively as possible, whatever you don't want them to do to you. ([The Alt-Right Playbook: You Go High, We Go Low (05:28)](https://youtu.be/MAbab8aP4_A?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&t=328))
 
+A ideia principal é de se aproveitar das condenações (até certo ponto moralistas) feitas à direita, para que, quando elas sejam feitas pela esquerda, *elas continuem a ser condenadas, mas agora pela própria direita*. Pode assumir discursos como "cadê a esquerda paz e amor?"[^2]. 
+
+Há um argumento feito no vídeo que, embora direcionado à política estadunidense, se aplica alhures ([06:32 *ab hinc*](https://youtu.be/MAbab8aP4_A?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&t=392)). A esquerda é, em si e *lato sensu*, um campo muito heterogêneo e com interesses distintos — e, em partes, conflitantes. Vide, e.g., anarquistas vs. comunistas, social-democratas, comunidades indígenas, ambientalistas... 
+
+A direita, por outro lado, por mais que tenha campos distintos, e até mesmo mais beligerantes do que na esquerda,[^3] há uma prioridade por "lealdade de coesão intragrupo" ([07:12](https://youtu.be/MAbab8aP4_A?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&t=432)) — além do completo *ódio pela esquerda*, e "**a maioria preferiria votar por um republicano que eles odeiam do que em qualquer tipo de democrata**" (07:33). 
+
+"Por sorte", os interesses dos conservadores — "*supply-side economics*, *deregulation*, *military spending*" (07:39) — se alinham bem mais com interesses corporativos. Isso faz com que a busca pela esquerda por uma coalizão política tenda[^4] a "se afastar de *políticas* [*policy*] e foque, em vez disso, em *processos*" (07:50), em coisas mais incontroversas, "como *bipartisanship* [no caso estadunidense], conciliação [*compromise*], decoro" (07:58). 
+
+Essas coisas, porém, **não acontecem por força própria**: não são *resultados*, e sim **meios**. Isso, porém, incentiva uma estratégia política em que se prioriza o **como**, e não o **quê**: **como conseguir uma aliança**, invés de **conseguir X e, *para isso*, obter uma aliança**. Esse foco excessivo, portanto, supervaloriza os meios, e subvaloriza os fins; pressupõe-se que "com os meios corretos, os fins se resolvem por si mesmos" (08:56). — Isso entra, por exemplo, nessa hipertrofia da palavra "**democracia**" no discurso da esquerda nos últimos anos no Brasil, em particular após o "atentado" no Planalto em 2022. Para além de ser um artifício ideológico, aqueles que realmente acreditam nesse discurso acreditam neste meio político como algo que, por sua própria força, somente é capaz de produzir justiça.[^5]
+
+O problema é que este sistema pressupõe que todos o aceitem! Quando há discordância e não-acatamento das leis democráticas, as opções são: ou buscar a aprovação de contingências para tais casos — o que requer o seguimento das leis, que já foram postas em questionamento *ex hypothesi* —, ou aprová-las *sem o consentimento dos discordantes* — o que quebra as regras! Por pressuposto, o seguimento das leis, i.e. a importância máxima destes *meios*, tem prioridade sobre o cumprimento de questões que lhe sejam alheias, i.e. de *fins* que não estejam abarcadas pelo sistema ([The Alt-Right Playbook: You Go High, We Go Low (10:31)](https://youtu.be/MAbab8aP4_A?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&t=631)). "*O sistema é a própria moralidade em si*. Não é possível sair dele e, ainda assim, se comportar eticamente." 
+
+> Se a *alt-right* *quebra as regras*, liberais só podem pedir que elas *sejam seguidas*; e se a *alt-right* *segue* as regras — veste uma gravata e fala como um acadêmico —, liberais só podem confiar que essas ideias sejam *votadas contra*. Em ambos os casos, eles não sabem como chamar um fascista de fascista, e não têm plano algum para combater o fascismo, além de simples nunca perder eleição alguma — e eles não são muito bons nisso... [(15:58)](https://youtu.be/MAbab8aP4_A?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&t=959)
+
+# The card says moops
+[The Alt-Right Playbook: The Card Says Moops - YouTube](https://www.youtube.com/watch?v=xMabpBvtXr4&list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&index=10)
+
+> Se eles pudessem ser tão abertamente honestos com você e eles mesmos para responder "em que você realmente acredita?", suspeitar-se-ia que sua resposta seria: "Que diferença isso faz? Estamos certos de qualquer maneira." ([05:38](https://youtu.be/xMabpBvtXr4?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&t=338))
+
+ARP chama isso de *conservadorismo pós-moderno* (05:50): trata-se de 
+> pensar que, para fins de argumento, a verdade sobre quem invadiu a Espanha [os mouros] é *imaterial*. Você tem seus fatos, e eu tenho fatos alternativos; o que é a verdade? Ora, quem sabe? [*Who's to say?*] Independentemente do que você acredita de verdade — e essa sua crença não tem propósito retórico algum —, você está debatendo partindo do ponto de vista de que *não existe uma verdade material*. A verdade é uma democracia. Quem vencer o debate vai decidir quem invadiu a Espanha. ([06:07](https://youtu.be/xMabpBvtXr4?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&t=367))
+
+Na internet, em particular em fóruns anônimos (4Chan etc.), não há como discernir entre crenças sérias e crenças fingidas: ambas aparecem da mesma forma, como comentários, posts, etc. — como *opiniões*. Assim, a única coisa que acaba tornando uma opinião relevante é *seu volume*, sua *onipresença*. Assim, preza-se por 
+> "indivíduos (para não dizer: bots) quem tenham opiniões fortes e que ache que opiniões são *bullshit*; que dêem prioridade por *consenso* e que sejam muito desconfiadas de *groupthink*" ([08:24](https://youtu.be/xMabpBvtXr4?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&t=504)). 
+
+É efetivamente tratar opiniões de forma **instrumental**: elas tornam-se *meios*, assumem *usos* e *propósitos*. E, em verdade, mesmo que alguém possua uma opinião real, você pode ser interpretado como "*trolling*" — em particular em fóruns anônimos. 
+
+Inverte-se a noção "usual" de racionalidade: se eu conheço *a verdade*, então eu vou *crer nela* e defendê-la com *argumentos*. A noção de racionalidade torna-se, então: eu *faço argumentos* e, pelo fato de estar fazendo-os *e por ser racional* (o que é presumido), eu tenho de acreditar neles — ou, ao menos, *apareço como acreditando neles* —; se eu acredito nisso, *por ser uma pessoa racional*, então deve ser verdade. ([11:53](https://youtu.be/xMabpBvtXr4?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&t=714)). É sempre essa base de argumentos o que se move, e é por isso que se pode inferir (com razão) que *há contradições no discurso* — mas isso sequer é do interesse de quem está discutindo sem pretensão de estar certo. 
+
+Há, porém, um direcionamento explícito destes argumentos: eles nunca (via de regra) se direcionam a eles próprios/outros de direita. Efetivamente, eles *acreditam em certas coisas* — e.g. racismo, supremacia branca, etc. —, mas *buscam mistificar suas crenças* através do desvio de seu foco nos meios do debate: não nas crenças em si, mas nas *palavras*. 
+
+Bom termo empregado: **ironia performática**. Dizer algo que, para quem não entende, parece *brincadeira*, e, para quem entende, é visto como *sério*. 
+
+Talvez o *upshot* do vídeo: 
+> Se você opera como se não houvessem verdades, somente opiniões; e como se opiniões não fossem sinceras, e sim meras ferramentas para serem usadas e largadas a depender de sua utilidade, então... você está operando na base de quê? **Interesse próprio. O desejo de vencer.** ([16:19](https://youtu.be/xMabpBvtXr4?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&t=979))
+
 
 
 ---
@@ -98,5 +133,13 @@ Durante o governo Bolsonaro (2018-2022), muito foi feito no sentido de deslocar 
 - [The Alt-Right Playbook - YouTube](https://www.youtube.com/playlist?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ)
 	- [The Alt-Right Playbook: Control the Conversation - YouTube](https://www.youtube.com/watch?v=CaPgDQkmqqM&list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&index=2)
 	- [The Alt-Right Playbook: Never Play Defense - YouTube](https://www.youtube.com/watch?v=wmVkJvieaOA&list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&index=3)
+	- [The Alt-Right Playbook: The Ship of Theseus - YouTube](https://www.youtube.com/watch?v=Ui-ArJRqEvU&list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&index=6)
+	- [The Alt-Right Playbook: The Death of a Euphemism - YouTube](https://www.youtube.com/watch?v=0dBJIkp7qIg&list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&index=7)
+	- [The Alt-Right Playbook: You Go High, We Go Low - YouTube](https://www.youtube.com/watch?v=MAbab8aP4_A&list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&index=8)
+	- [The Alt-Right Playbook: The Card Says Moops - YouTube](https://www.youtube.com/watch?v=xMabpBvtXr4&list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&index=10)
 
 [^1]: Os plebiscitos na Itália *de Mussolini* em 1934, *é claro*. Cf. [Palazzo Braschi: a sede do Partido Fascista de Mussolini em Roma - Aventuras na História](https://aventurasnahistoria.com.br/noticias/reportagem/palazzo-braschi-a-sede-do-partido-fascista-de-mussolini-em-roma.phtml).
+[^2]: "*So much for the tolerant left*" ([The Alt-Right Playbook: You Go High, We Go Low (06:14)](https://youtu.be/MAbab8aP4_A?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&t=375)).
+[^3]: E.g. ruralistas, *vide* [[Resumo da apresentação O País do Agro é o País da Fome]] e *Formação Política do Agronegócio* de Caio Pompeia.
+[^4]: "There's a *liberal tendency* [...]" (07:52).
+[^5]: O que é questionável. A democracia sob o capitalismo é puramente superficial, meramente formal.

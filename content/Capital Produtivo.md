@@ -14,7 +14,7 @@ up:: [[011b MOC Capital II]]
 
 O capital-produtivo é a [[Forma]] que o [[capital]] assume em seu processo de [[Processo de Valorização|autovalorização]]: toma essa forma quando [[Capital-Dinheiro]] converte-se em [[Força de Trabalho]] e [[meios de produção]], [[Mercadoria|Mercadorias]] necessárias para o [[processo de produção capitalista]]. 
 
-Assume esta forma, porém, somente para que se produza [[Mais-Valor]] — [[Capital-Mercadoria]] —, i.e., para que ele *se efetive* novamente (em [[Dinheiro]]) etc. [[O capital só pode efetivar-se através de seu constante mudar de formas]].
+Assume esta forma, porém, somente para que se produza [[Mais-Valor]] — [[Capital-Mercadoria]] —, i.e., para que ele *se efetive* novamente (em [[Dinheiro]]) etc. [[O capital só pode se efetivar através de seu constante mudar de formas]].
 
 > "Os elementos-mercadorias \[$FT$\] e $Mp$, que constituem o capital produtivo $P$, não possuem, como modos de existência de $P$, a mesma forma que ostentam nos diferentes mercados de mercadorias nos quais são adquiridos. Eles estão agora *reunidos* e, *nessa conexão, podem funcionar como capital produtivo*." (MARX, p. 174; grifo meu)
 
